@@ -1,0 +1,37 @@
+# music:xianjiemagic
+## 限界Magic
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 限界Magic |
+| P主 | creator:magens |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 基本信息补充（bilibili来源）
+
+| 字段 | 值 |
+|------|----|
+| UP主/创作者 | Magens（小绵羊magens） |
+| 演唱 | 洛天依 |
+
+### 创作团队
+
+| 角色 | 成员 |
+|------|------|
+| 词/曲/编 | Magens |
+| 演唱 | 洛天依 |
+
+### 歌曲背景
+
+《限界Magic》是由Magens创作、洛天依演唱的VOCALOID原创歌曲。Magens（小绵羊magens）是Bilibili知名音乐制作人，曾参与洛天依多首歌曲的作曲/编曲工作（如洛天依X Bilibili Dancing Festival主题曲《听见WO!》等）。
+
+### 来源
+
+- [Bilibili - Magens相关作品](https://space.bilibili.com/)
+- [微博 - 洛天依 X Bilibili Dancing Festival 主题曲（同作者参与）](https://weibo.com/5146173015/Pr9Lpz0lg)

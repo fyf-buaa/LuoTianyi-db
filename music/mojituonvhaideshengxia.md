@@ -1,0 +1,33 @@
+# music:mojituonvhaideshengxia
+## 莫吉托女孩的盛夏
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 莫吉托女孩的盛夏 |
+| P主 | creator:puke |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 | 2018-08-29 |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: puke（PoKeR/扑克） - 知名中文VOCALOID创作者，活跃于B站VOCALOID社区，代表作众多，擅长多种风格。
+- **作词**: 杏花包子
+- **作曲**: PoKeR
+- **编曲**: PoKeR
+- **调教**: PoKeR
+
+### 歌曲背景
+《莫吉托女孩的盛夏》是由PoKeR创作、洛天依演唱的VOCALOID中文原创曲，于2018年8月投稿至bilibili。歌曲以夏日莫吉托为灵感，旋律清新明快，充满夏日气息，是PoKeR的代表作之一。视频由Kein_千宸制作，曲绘由盐绘制。截至投稿后在bilibili累计播放量超过13.2万次。
+
+《莫吉托女孩的盛夏》是由PoKeR（扑克）作词作曲编曲调教、洛天依演唱的VOCALOID中文原创曲，收录于PoKeR个人作品集，作为2018年夏末的清新之作投稿至bilibili。歌曲以"莫吉托女孩"为意象，描绘了夏日中的青涩情感与青春气息，轻快的旋律与洛天依甜美的声线相得益彰。视频在B站VOCALOID社区获得了广泛好评，后于2022年由PoKeR推出了洛天依AI重调版（BV1534y1h75v），累计播放量超过13.8万次。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/video/BV1Ls411c7Ff/)

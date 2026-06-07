@@ -1,0 +1,34 @@
+# music:auvninji
+## AUV您吉
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | AUV您吉 |
+| P主 | creator:jiwuren |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): Chinese VOCALOID virtual singer developed by Shanghai Wangcheng, using VOCALOID 4 engine, known for her cute high-pitched voice and is one of the most popular Chinese virtual singers.
+
+### 创作团队
+- **P主/作者**: jiwuren - 暂无资料
+- **作词**: 暂无资料
+- **作曲**: 暂无资料
+- **编曲**: 暂无资料
+
+### 歌曲背景
+《AUV您吉》是一首由洛天依演唱的VOCALOID作品，"AUV"是中文口语感叹词，标题带有幽默调皮的风格。
+
+### 描述
+
+《AUV您吉》是由jiwuren创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

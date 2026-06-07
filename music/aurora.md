@@ -1,0 +1,34 @@
+# music:aurora
+## Aurora
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | Aurora |
+| P主 | creator:kunki114514 |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): Chinese VOCALOID virtual singer developed by Shanghai Wangcheng, using VOCALOID 4 engine, known for her cute high-pitched voice and is one of the most popular Chinese virtual singers.
+
+### 创作团队
+- **P主/作者**: kunki114514 - 暂无资料
+- **作词**: 暂无资料
+- **作曲**: 暂无资料
+- **编曲**: 暂无资料
+
+### 歌曲背景
+《Aurora》是一首以极光为主题的VOCALOID作品，"Aurora"即极光，歌曲可能表达了如极光般绚丽而神秘的音乐氛围。
+
+### 描述
+
+《Aurora》是由KunKi114514创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

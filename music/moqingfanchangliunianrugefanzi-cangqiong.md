@@ -1,0 +1,25 @@
+# music:moqingfanchangliunianrugefanzi-cangqiong
+## 【墨清翻唱】流年如歌（翻自 苍穹）
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 【墨清翻唱】流年如歌（翻自 苍穹） |
+| P主 | creator:ximenzhen |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 创作团队
+- **P主/作者**: ximenzhen（西门振） - 知名中文VOCALOID创作者，曾参与B站拜年纪歌曲《流年如歌》的原作曲创作。
+- **原曲**: 苍穹《流年如歌》（2020拜年纪单品）
+
+### 歌曲背景
+《【墨清翻唱】流年如歌（翻自 苍穹）》是由ximenzhen创作的翻唱作品，由墨清弦演唱。《流年如歌》原曲为2020年B站拜年纪单品，由苍穹演唱，西门振作曲、纳兰寻风作词。本作为墨清弦翻唱版本，投稿至bilibili。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

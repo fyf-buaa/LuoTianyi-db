@@ -1,0 +1,41 @@
+# music:xingheshiwan
+## 星河诗湾
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 星河诗湾 |
+| P主 | creator:zhihuixiebaledehuapianp |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 | 2020-04-07 |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 古风, 民谣 |
+| 标签 | 独唱, VOCALOID |
+| 视频ID | BV1EZ4y1x7e1 |
+| 播放量 | 14,348 |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个VOCALOID中文虚拟歌手，上海禾念与Yamaha合作开发，2012年7月12日正式出道，音色清澈甜美，是国内最具人气的虚拟歌手之一。
+
+### 创作团队
+- **P主/作者**: zhihuixiebaledehuapianp - 初灵社成员，B站VOCALOID创作者
+- **策划/母带**: 灵梦P
+- **作词**: 朔亦北（溯游从之水獭屋_）
+- **作曲/混音**: 迟渡KIDU
+- **调教**: 风继阳
+- **曲绘**: 落叶brs
+- **视频**: 酒底汤圆
+- **美工**: Minisons（迷你松）
+- **出品**: 初灵社
+
+### 歌曲背景
+《星河诗湾》是由初灵社出品的VOCALOID原创歌曲，由洛天依演唱。歌曲以星河与诗意的意象为主题，融合古风与民谣元素，营造出浪漫悠远的意境。2020年4月7日投稿至B站，由初灵社账号发布。
+
+### 描述
+
+《星河诗湾》是由zhihuixiebaledehuapianp创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/video/BV1EZ4y1x7e1/)

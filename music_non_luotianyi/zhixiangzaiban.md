@@ -1,0 +1,30 @@
+# music:zhixiangzaiban
+## 纸箱（再版）
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 纸箱（再版） |
+| P主 | Karasu乌鸦P |
+| 演唱 | 初音未来 |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | VOCALOID |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《纸箱（再版）》是Karasu乌鸦P创作的VOCALOID中文原创歌曲，由初音未来演唱。为《纸箱》的再版版本。
+
+### 创作团队
+
+- 策划/制作: Karasu乌鸦P
+
+### 歌曲背景
+
+《纸箱（再版）》是Karasu乌鸦P投稿至bilibili的VOCALOID中文原创歌曲，由初音未来演唱。本曲为《纸箱》的再版版本。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

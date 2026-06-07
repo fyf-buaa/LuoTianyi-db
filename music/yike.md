@@ -1,0 +1,27 @@
+# music:yike
+## 一颗
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 一颗 |
+| P主 | creator:wumingshe |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: wumingshe（无名社）- 中文VOCALOID创作者/团队。
+- **其他成员**: 暂无详细资料
+
+### 歌曲背景
+《一颗》是由wumingshe创作、洛天依演唱的VOCALOID中文原创歌曲。具体创作背景暂无详细资料。
+
+### 来源
+- [bilibili](https://www.bilibili.com/)

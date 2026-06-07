@@ -1,0 +1,29 @@
+# music:leishuikaiguan
+## なみだのスイッチ（泪水开关）
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | なみだのスイッチ（泪水开关） |
+| P主 | creator:pobakep |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 悲情 |
+| 标签 | 独唱, VOCALOID |
+| 视频ID |  |
+| 播放量 |  |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: pobakep - 中文VOCALOID创作者。
+
+### 歌曲背景
+《なみだのスイッチ（泪水开关）》是由pobakep创作、洛天依演唱的VOCALOID风格音乐作品。歌曲以泪水为切入点，旋律以悲情风格为主，表达了一种感伤的情绪。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

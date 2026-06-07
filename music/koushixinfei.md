@@ -1,0 +1,22 @@
+# music:koushixinfei
+## 口是心非
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 口是心非 |
+| P主 | creator:yujianliu |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《口是心非》是由裕剑流（yujianliu）创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

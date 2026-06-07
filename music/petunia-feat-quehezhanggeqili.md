@@ -1,0 +1,24 @@
+# music:petunia-feat-quehezhanggeqili
+## Petunia feat. 雀河&长歌&起礼
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | Petunia feat. 雀河&长歌&起礼 |
+| P主 | creator:zhihuixiebaledehuapianp |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | ACG |
+| 标签 | 独唱, VOCALOID |
+
+### 创作团队
+- **P主/作者**: zhihuixiebaledehuapianp - 中文VOCALOID创作者，活跃于B站虚拟歌手社区。
+
+### 歌曲背景
+《Petunia feat. 雀河&长歌&起礼》是由zhihuixiebaledehuapianp创作、由多位虚拟歌手共同演唱的VOCALOID中文原创曲。Petunia（矮牵牛花）系列作品之一，以雀河、长歌、起礼三位歌手参与featuring。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

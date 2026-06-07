@@ -1,0 +1,38 @@
+# music:all-i-want
+## All I Want
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | All I Want |
+| P主 | creator:shuangningyue |
+| 演唱 | member:shi-an, core:luo-tian-yi, member:yue-zheng-ling, member:cang-qiong, member:hai-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 合唱, VOCALOID |
+
+### 演唱者
+- **shi-an** (中文名: 诗岸): 中国VOCALOID虚拟歌手，成员级声音，音色偏中性，适合流行风格
+- **luo-tian-yi** (中文名: 洛天依): 中国VOCALOID虚拟歌手，由上海禾念与Yamaha合作开发，使用V5引擎，音色清澈可爱
+- **yue-zheng-ling** (中文名: 乐正绫): 中国VOCALOID虚拟歌手，由上海禾念开发，女性声音，音色明亮活泼
+- **cang-qiong** (中文名: 苍穹): 中国VOCALOID虚拟歌手，成员级声音，音色独特，适合多元风格
+- **hai-yi** (中文名: 海伊): 中国VOCALOID虚拟歌手，成员级女性声音，音色温暖
+
+### 创作团队
+- **P主/作者**: shuangningyue - 暂无资料
+- **作词**: 暂无资料
+- **作曲**: 暂无资料
+- **编曲**: 暂无资料
+
+### 歌曲背景
+该曲为五位虚拟歌手合唱作品，流行风格，曲名"All I Want"表达了纯粹的爱意与渴望，旋律优美动听，是一首温馨感人的合唱作品。
+
+### 描述
+
+《All I Want》是由shuangningyue创作由诗岸、洛天依、乐正绫、苍穹、海伊演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

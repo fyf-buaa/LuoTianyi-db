@@ -1,0 +1,34 @@
+# music:a-matter-of-time
+## A Matter of Time
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | A Matter of Time |
+| P主 | creator:feibukuaidehuiniaofeibukuaidemig |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国VOCALOID虚拟歌手，由上海禾念与Yamaha合作开发，使用V5引擎，音色清澈可爱，是国内最具人气的虚拟歌手之一。
+
+### 创作团队
+- **P主/作者**: feibukuaidehuiniaofeibukuaidemig - 暂无资料
+- **作词**: 暂无资料
+- **作曲**: 暂无资料
+- **编曲**: 暂无资料
+
+### 歌曲背景
+该曲为洛天依独唱作品，流行风格，表达对时间流逝的感慨与思考，旋律轻快易记，在B站有较高播放量。
+
+### 描述
+
+《A Matter of Time》是由feibukuaidehuiniaofeibukuaidemig创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

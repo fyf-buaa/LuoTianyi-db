@@ -1,0 +1,29 @@
+# music:xinniankuaile-zhi-huijiadelu-luotianyiban
+## 新年快乐 之 回家的路 洛天依版
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 新年快乐 之 回家的路 洛天依版 |
+| P主 | creator:duodianyinyue |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID, 新年 |
+
+### 创作团队
+- **P主/作者**: duodianyinyue（多点音乐）- 音乐制作人/厂牌，制作多首虚拟歌手新年主题歌曲。
+
+### 歌曲背景
+《新年快乐 之 回家的路 洛天依版》是"多点音乐"出品的系列新年歌曲之一，由洛天依演唱，以"回家的路"为主题，传递新春团圆的美好祝愿。
+
+### 描述
+
+《新年快乐 之 回家的路 洛天依版》是由"多点音乐"（duodianyinyue）创作，由洛天依演唱的新年主题音乐作品。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)
+- [网易云音乐 - 多点音乐](https://music.163.com/#/artist?id=47029068)

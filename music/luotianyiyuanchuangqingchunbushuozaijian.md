@@ -1,0 +1,22 @@
+# music:luotianyiyuanchuangqingchunbushuozaijian
+## 【洛天依原创】青春不说再见
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 【洛天依原创】青春不说再见 |
+| P主 | creator:wumingshe |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《【洛天依原创】青春不说再见》是由wumingshe创作由洛天依演唱的vocaloid风格音乐作品。在bilibili上未找到明确的无名社投稿记录。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

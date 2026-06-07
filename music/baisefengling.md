@@ -1,0 +1,35 @@
+# music:baisefengling
+## 白色风铃
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 白色风铃 |
+| P主 | creator:yinghuachuixue |
+| 演唱 | core:luo-tian-yi, member:yue-zheng-ling |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 合唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 上海望谷信息技术有限公司开发的国产虚拟歌手，Vocaloid5语音库，声线甜美活泼，是国内最具人气的中文Vocaloid之一。
+- **yue-zheng-ling** (中文名: 乐正绫): 上海望谷信息技术有限公司开发的国产虚拟歌手，Vocaloid5女性语音库，声线活泼清亮，擅长流行与合唱曲目。
+
+### 创作团队
+- **P主/作者**: yinghuachuixue - 暂无资料
+- **作词**: 暂无资料
+- **作曲**: 暂无资料
+- **编曲**: 暂无资料
+
+### 歌曲背景
+《白色风铃》为一首合唱作品，洛天依与乐正绫双声部交织，旋律清新流畅，以"白色风铃"为意象，营造出轻盈温柔的聆听感受。
+
+### 描述
+
+《白色风铃》是由yinghuachuixue创作由洛天依、乐正绫演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

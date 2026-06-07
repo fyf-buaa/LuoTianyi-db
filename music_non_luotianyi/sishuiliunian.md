@@ -1,0 +1,40 @@
+# music:sishuiliunian
+## 似水流年
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 似水流年 |
+| P主 | creator:zhelan |
+| 演唱 | member:xing-chen |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《似水流年》是由zhelan创作由星尘演唱的vocaloid风格音乐作品。
+
+### 演唱者
+
+- 主唱：星尘
+
+### 创作团队
+
+（待bilibili来源验证）
+
+### 歌曲背景
+
+（待bilibili来源验证）
+
+### 来源
+
+- [bilibili搜索 - 似水流年 星尘](https://search.bilibili.com/all?keyword=%E4%BC%BC%E6%B0%B4%E6%B5%81%E5%B9%B4%20%E6%98%9F%E5%B0%98)

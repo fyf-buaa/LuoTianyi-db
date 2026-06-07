@@ -1,0 +1,22 @@
+# music:huaxiajinguozhi
+## 华夏巾帼志
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 华夏巾帼志 |
+| P主 | creator:yulidelap |
+| 演唱 | core:luo-tian-yi, member:yue-zheng-ling, member:yan-he, member:mo-qing-xian |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 国风 |
+| 标签 | 合唱, VOCALOID |
+
+### 描述
+
+《华夏巾帼志》是由yulidelap创作由洛天依、乐正绫、言和、墨清弦演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

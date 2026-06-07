@@ -1,0 +1,28 @@
+# music:yilanyueming
+## 一揽月明
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 一揽月明 |
+| P主 | creator:kelejun |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 | 2019-01-27 |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 国风 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: kelejun - 初灵社成员。
+- **所属社团**: 初灵社（音乐创作团体，成立于2018年11月18日）
+
+### 歌曲背景
+《一揽月明》是初灵社于2019年1月27日投稿至bilibili的VOCALOID中文原创歌曲，由洛天依演唱。歌曲以"揽月"为主题，展现了唯美国风意境，是初灵社早期作品之一。
+
+### 来源
+- [bilibili](https://www.bilibili.com/)
+- [VCPedia](https://vcpedia.cn/初灵社)

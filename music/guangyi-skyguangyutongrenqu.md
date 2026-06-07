@@ -1,0 +1,22 @@
+# music:guangyi-skyguangyutongrenqu
+## 光裔 (Sky光遇同人曲)
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 光裔 (Sky光遇同人曲) |
+| P主 | creator:stzhushuang |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 治愈 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《光裔 (Sky光遇同人曲)》是由stzhushuang创作由洛天依演唱的vocaloid风格音乐作品。
+
+### 来源
+
+- [other](https://www.bilibili.com/)

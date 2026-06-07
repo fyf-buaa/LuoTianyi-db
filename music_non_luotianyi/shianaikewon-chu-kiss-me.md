@@ -1,0 +1,42 @@
+# music:shianaikewon-chu-kiss-me
+## 【诗岸·艾可】won chu kiss me
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 【诗岸·艾可】won chu kiss me |
+| P主 | creator:taoli |
+| 演唱 | 诗岸、艾可 |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 古风, 民谣 |
+| 标签 | 独唱, VOCALOID |
+
+### 描述
+
+《【诗岸·艾可】won chu kiss me》是由taoli创作由诗岸和艾可演唱的vocaloid风格音乐作品。
+
+### 演唱者
+
+- 诗岸 (Shi'an)
+- 艾可 (AiKO)
+
+### 创作团队
+
+| 角色 | 人员 |
+|------|------|
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+
+### 歌曲背景
+
+该作品为使用诗岸与艾可声库演唱的翻唱/原创作品，由taoli进行创作和调校。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

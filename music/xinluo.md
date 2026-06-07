@@ -1,0 +1,30 @@
+# music:xinluo
+## 心洛
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 心洛 |
+| P主 | creator:crchunran |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 | 2020-07-12 |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID, 生贺曲 |
+
+### 创作团队
+- **P主/作者**: crchunran（纯然）- Bilibili UP主，VOCALOID创作者。
+- **封面**: 汤湿湿 - 负责本曲封面绘制。
+
+### 歌曲背景
+《心洛》是纯然于2020年7月12日投稿至Bilibili的VOCALOID中文原创歌曲，由洛天依演唱。本曲为2020年洛天依生贺曲（生日贺曲），歌词中提及到了其他经典曲目及系列，是送给洛天依的生日礼物。
+
+### 描述
+
+《心洛》是由crchunran（纯然）创作，由洛天依演唱的VOCALOID风格音乐作品，于2020年7月12日洛天依生日之际投稿至哔哩哔哩。
+
+### 来源
+
+- [萌娘百科 - 心洛](https://zh.moegirl.org.cn/%E5%BF%83%E6%B4%9B)
+- [bilibili](https://www.bilibili.com/)

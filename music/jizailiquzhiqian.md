@@ -1,0 +1,26 @@
+# music:jizailiquzhiqian
+## 记在离去之前
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 记在离去之前 |
+| P主 | creator:xiliangruoruo |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: xiliangruoruo - 中文VOCALOID创作者。
+
+### 歌曲背景
+《记在离去之前》是由xiliangruoruo创作、洛天依演唱的VOCALOID中文原创曲，投稿至bilibili平台。歌曲以离别之前的情感为主题，旋律以流行风格为主。
+
+### 来源
+- [bilibili](https://www.bilibili.com/)
