@@ -1,0 +1,1441 @@
+{
+  "batch_id": "batch-099",
+  "batch_number": 99,
+  "job_count": 30,
+  "priority_classes": [
+    2
+  ],
+  "jobs": [
+    {
+      "job_id": "verify-somnia",
+      "file": "music\\somnia.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "SOMNIA",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wugui",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID SOMNIA wugui",
+        "bilibili SOMNIA VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-song-for-youcover-yanhe-2",
+      "file": "music\\song-for-youcover-yanhe-2.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Song for You（Cover 言和）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yishuiuryan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Song for You（Cover 言和） yishuiuryan",
+        "bilibili Song for You（Cover 言和） VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-songnian",
+      "file": "music\\songnian.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "颂念",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:luojie",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yan-he",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-04-07",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 颂念 luojie",
+        "bilibili 颂念 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-songniyibeirekafei",
+      "file": "music\\songniyibeirekafei.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "送你一杯热咖啡",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:nashishengxia",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 送你一杯热咖啡 nashishengxia",
+        "bilibili 送你一杯热咖啡 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-songqinglang",
+      "file": "music\\songqinglang.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "送情郎",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:jindawanggold",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-02-14",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 送情郎 jindawanggold",
+        "bilibili 送情郎 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-songshumofajiluotianyiban",
+      "file": "music\\songshumofajiluotianyiban.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "松鼠魔法祭（洛天依版）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiaoxupro",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-07-25",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 松鼠魔法祭（洛天依版） xiaoxupro",
+        "bilibili 松鼠魔法祭（洛天依版） VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-sorry-sorry",
+      "file": "music\\sorry-sorry.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "sorry sorry",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:taoli",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID sorry sorry taoli",
+        "bilibili sorry sorry VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-star-ocean-xiaoou-remix",
+      "file": "music\\star-ocean-xiaoou-remix.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Star Ocean (小欧Ω Remix)",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiaoou",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Star Ocean (小欧Ω Remix) xiaoou",
+        "bilibili Star Ocean (小欧Ω Remix) VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-starry-night-xingyefeat-luotianyichenziyu",
+      "file": "music\\starry-night-xingyefeat-luotianyichenziyu.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Starry Night 星夜(feat. 洛天依&陈子渝)",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:terminal-p",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Starry Night 星夜(feat. 洛天依&陈子渝) terminal-p",
+        "bilibili Starry Night 星夜(feat. 洛天依&陈子渝) VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-step-on-your-heart-xinyin-vsingerquanyuanbanfanzi-luotianyi",
+      "file": "music\\step-on-your-heart-xinyin-vsingerquanyuanbanfanzi-luotianyi.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Step on your heart -心印-『Vsinger全员版』（翻自 洛天依）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yishuiuryan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yan-he",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Step on your heart -心印-『Vsinger全员版』（翻自 洛天依） yishuiuryan",
+        "bilibili Step on your heart -心印-『Vsinger全员版』（翻自 洛天依） VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-strings-with-you-2",
+      "file": "music\\strings-with-you-2.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Strings with You",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yishuiuryan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Strings with You yishuiuryan",
+        "bilibili Strings with You VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-strum",
+      "file": "music\\strum.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Strum",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ludengshigelaodeng",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Strum ludengshigelaodeng",
+        "bilibili Strum VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-sucre-et-soiree",
+      "file": "music\\sucre-et-soiree.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Sucre et Soiree",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiongqinglan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Sucre et Soiree xiongqinglan",
+        "bilibili Sucre et Soiree VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suibiansuibianla",
+      "file": "music\\suibiansuibianla.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随便随便啦",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:tengyuanchengzi",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随便随便啦 tengyuanchengzi",
+        "bilibili 随便随便啦 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suibiansuibianla-2",
+      "file": "music\\suibiansuibianla-2.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随便随便啦",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:tengyuanchengzi",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随便随便啦 tengyuanchengzi",
+        "bilibili 随便随便啦 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suidanshishulikoup",
+      "file": "music\\suidanshishulikoup.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "6岁，但是术力口P",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xinzangniudan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 6岁，但是术力口P xinzangniudan",
+        "bilibili 6岁，但是术力口P VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suifengershi-volingnuo",
+      "file": "music\\suifengershi-volingnuo.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随风而逝 Vo.铃诺",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xinxian",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随风而逝 Vo.铃诺 xinxian",
+        "bilibili 随风而逝 Vo.铃诺 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suimeng",
+      "file": "music\\suimeng.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "碎梦",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:chuangwaiyoutiaojinyuzaitingyu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-02-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 碎梦 chuangwaiyoutiaojinyuzaitingyu",
+        "bilibili 碎梦 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suimengwutuobang",
+      "file": "music\\suimengwutuobang.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "碎梦乌托邦",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yizhihuobengluantiaodekafeivckafei",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-11-02",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "16.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 碎梦乌托邦 yizhihuobengluantiaodekafeivckafei",
+        "bilibili 碎梦乌托邦 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suiqingkong",
+      "file": "music\\suiqingkong.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "碎青空",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:sea-snow",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-02-03",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "30.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 碎青空 sea-snow",
+        "bilibili 碎青空 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suishiji",
+      "file": "music\\suishiji.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "岁时记",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yugulubaijiyu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-04-03",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 岁时记 yugulubaijiyu",
+        "bilibili 岁时记 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suixing",
+      "file": "music\\suixing.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随行",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xinxian",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随行 xinxian",
+        "bilibili 随行 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suixinqinghua",
+      "file": "music\\suixinqinghua.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随心情话",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wovop",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-01-14",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随心情话 wovop",
+        "bilibili 随心情话 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suiyezhuliu",
+      "file": "music\\suiyezhuliu.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "随夜逐流",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:molanjiangyou",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2018-12-30",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 随夜逐流 molanjiangyou",
+        "bilibili 随夜逐流 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suiyuechengbei",
+      "file": "music\\suiyuechengbei.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "燧月成碑",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wovop",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 燧月成碑 wovop",
+        "bilibili 燧月成碑 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-suiyuetonghua",
+      "file": "music\\suiyuetonghua.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "岁月童话",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:moshanglanyuan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-06-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.0万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 岁月童话 moshanglanyuan",
+        "bilibili 岁月童话 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-summer-diary",
+      "file": "music\\summer-diary.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Summer Diary",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kevinz",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Summer Diary kevinz",
+        "bilibili Summer Diary VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-summer-love-story",
+      "file": "music\\summer-love-story.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "summer love story",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:akor",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2015-05-29",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.1万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID summer love story akor",
+        "bilibili summer love story VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-summering",
+      "file": "music\\summering.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "Summering",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:atonyp",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID Summering atonyp",
+        "bilibili Summering VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-sunfurenyanheban",
+      "file": "music\\sunfurenyanheban.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "孙夫人（言和版）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiaoxupro",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 孙夫人（言和版） xiaoxupro",
+        "bilibili 孙夫人（言和版） VOCALOID 洛天依"
+      ]
+    }
+  ],
+  "primary_priority": 2
+}

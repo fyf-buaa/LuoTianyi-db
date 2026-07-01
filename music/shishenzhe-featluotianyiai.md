@@ -19,7 +19,7 @@
 | 视频ID | BV1394y1Q7PJ |
 | 播放量 | 24.8万 |
 
-### 描述
+### 歌曲背景
 
 《弑神者 feat.洛天依AI》是由qiguaileizi（奇怪雷子QGRay）创作由洛天依演唱的vocaloid风格音乐作品。
 

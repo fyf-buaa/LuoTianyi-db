@@ -19,7 +19,7 @@
 | 风格 | 燃系 |
 | 标签 | 合唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 
 《神降救赎》是由zhihuixiebaledehuapianp（极乐歌official）创作由初音未来、洛天依、乐正绫、言和演唱的vocaloid风格音乐作品。
 

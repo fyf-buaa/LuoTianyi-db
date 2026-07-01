@@ -1,0 +1,37 @@
+# music:miti
+## 谜题
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 谜题 |
+| P主 | creator:zhuanyubanchep |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
+
+### 演唱者
+歌曲演唱者信息待确认。
+
+### 创作团队
+- **P主/作者**: zhuanyubanchep（颛宇（半彻P））- 中文VOCALOID创作者。
+
+### 歌曲背景
+《谜题》是由zhuanyubanchep创作的中文VOCALOID原创曲。歌曲以谜题为主题，旋律以流行风格为主。
+
+《谜题》是一首由专业搬车P（zhuanyubanchep）创作的VOCALOID原创歌曲。歌曲围绕谜题与解谜的意象展开，风格偏向流行。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

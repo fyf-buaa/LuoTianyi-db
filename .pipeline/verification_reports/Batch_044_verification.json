@@ -1,0 +1,1887 @@
+{
+    "report_metadata": {
+        "generated_at": "2026-06-07T22:30:00+08:00",
+        "total_files": 50,
+        "batch": "Batch_044",
+        "method": "bilibili API (x/web-interface/view) for BV ID verification; file system scan for existence; metadata extraction from markdown frontmatter tables",
+        "summary": {
+            "confirmed": 19,
+            "partial": 2,
+            "conflict": 1,
+            "unverifiable": 28,
+            "suspicious": 0,
+            "file_not_found": 0
+        },
+        "title": "Batch_044 Verification Report"
+    },
+    "results": [
+        {
+            "file": "mingyuetianya-2.md",
+            "slug": "music:mingyuetianya-2",
+            "title": "明月天涯",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Mb411K7tL matches title containing '明月天涯' and 洛天依. Date 2019-04-12 matches API pubdate.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "明月天涯",
+                    "original": "明月天涯",
+                    "verified": "【乐正绫&洛天依】明月天涯（原创PV付）（乐正绫0412生日快乐）",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Mb411K7tL", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2019-04-12",
+                    "original": "2019-04-12",
+                    "verified": "2019-04-12 (1555010564)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Mb411K7tL", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Mb411K7tL",
+                    "original": "BV1Mb411K7tL",
+                    "verified": "BV1Mb411K7tL",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Mb411K7tL", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yishuiuryan",
+                    "original": "creator:yishuiuryan",
+                    "verified": "伊水_Uryan",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Mb411K7tL", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mingyundemitifanzi-wangsulongbahejiuyue.md",
+            "slug": "music:mingyundemitifanzi-wangsulongbahejiuyue",
+            "title": "命运的谜题（翻自 汪苏泷《巴赫旧约》）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File marked as suspicious_music. No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "命运的谜题（翻自 汪苏泷《巴赫旧约》）",
+                    "original": "命运的谜题（翻自 汪苏泷《巴赫旧约》）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mingyunzhanbuyouxi.md",
+            "slug": "music:mingyunzhanbuyouxi",
+            "title": "命运占卜游戏",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "命运占卜游戏",
+                    "original": "命运占卜游戏",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "minusyuanchuangqimingxingvenusnwuyinchang.md",
+            "slug": "music:minusyuanchuangqimingxingvenusnwuyinchang",
+            "title": "【Minus原创】启明星Venusn（无吟唱）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Non-Luo Tianyi track (Minus/Synthesizer V). Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "【Minus原创】启明星Venusn（无吟唱）",
+                    "original": "【Minus原创】启明星Venusn（无吟唱）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "minusyuanchuangqimingxingvenusnxingchenyinchang.md",
+            "slug": "music:minusyuanchuangqimingxingvenusnxingchenyinchang",
+            "title": "【Minus原创】启明星Venusn（星尘吟唱）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Non-Luo Tianyi track (Minus/Synthesizer V). Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "【Minus原创】启明星Venusn（星尘吟唱）",
+                    "original": "【Minus原创】启明星Venusn（星尘吟唱）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "misa-no-uta-haishazhigesynthesizer-v-cover.md",
+            "slug": "music:misa-no-uta-haishazhigesynthesizer-v-cover",
+            "title": "Misa no uta-海砂之歌（Synthesizer V Cover）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Synthesizer V track, not VOCALOID/Luo Tianyi. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Misa no uta-海砂之歌（Synthesizer V Cover）",
+                    "original": "Misa no uta-海砂之歌（Synthesizer V Cover）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "miti.md",
+            "slug": "music:miti",
+            "title": "谜题",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "谜题",
+                    "original": "谜题",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mixiang.md",
+            "slug": "music:mixiang",
+            "title": "觅香",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "觅香",
+                    "original": "觅香",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mizong.md",
+            "slug": "music:mizong",
+            "title": "迷踪",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Different from mizong-vocaloid-vercover-nomico.md. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "迷踪",
+                    "original": "迷踪",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mizong-vocaloid-vercover-nomico.md",
+            "slug": "music:mizong-vocaloid-vercover-nomico",
+            "title": "迷踪 - Vocaloid ver.（Cover nomico）",
+            "overall_verdict": "conflict",
+            "suspicious": true,
+            "notes": "BV1Jx411x7Zt verified via API but points to unrelated content '[Swim录播9-20]昆特牌 短播' - BV has been recycled/reused. Original video likely deleted.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "迷踪 - Vocaloid ver.（Cover nomico）",
+                    "original": "迷踪 - Vocaloid ver.（Cover nomico）",
+                    "verified": "[Swim录播9-20]昆特牌 短播 （1080P）",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Jx411x7Zt", "match": false}],
+                    "confidence": "HIGH",
+                    "verdict": "conflict"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2016-02-12",
+                    "original": "2016-02-12",
+                    "verified": "2017-09-20 (1505889800)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Jx411x7Zt", "match": false}],
+                    "confidence": "HIGH",
+                    "verdict": "conflict"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Jx411x7Zt",
+                    "original": "BV1Jx411x7Zt",
+                    "verified": "BV1Jx411x7Zt (recycled - points to different video)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Jx411x7Zt", "match": false}],
+                    "confidence": "HIGH",
+                    "verdict": "conflict"
+                }
+            ]
+        },
+        {
+            "file": "mobanditiemeiyoukaiwangjiadefangxiang.md",
+            "slug": "music:mobanditiemeiyoukaiwangjiadefangxiang",
+            "title": "末班地铁没有开往家的方向",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1rRDmYuErw matches title '末班地铁没有开往家的方向' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "末班地铁没有开往家的方向",
+                    "original": "末班地铁没有开往家的方向",
+                    "verified": "「洛天依原创」末班地铁没有开往家的方向 Ver. A",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1rRDmYuErw", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2024-11-09",
+                    "original": "2024-11-09",
+                    "verified": "2024-11-09 (1731132000)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1rRDmYuErw", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1rRDmYuErw",
+                    "original": "BV1rRDmYuErw",
+                    "verified": "BV1rRDmYuErw",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1rRDmYuErw", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:zhelan",
+                    "original": "creator:zhelan",
+                    "verified": "蔗蓝",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1rRDmYuErw", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "modedabiaoke.md",
+            "slug": "music:modedabiaoke",
+            "title": "摩的大飚客",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Lx411c7cT matches title '摩的大飚客' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "摩的大飚客",
+                    "original": "摩的大飚客",
+                    "verified": "【洛天依打吊针】摩的大飚客(公婆版歌词)【跳蝻P】【FlashPV】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Lx411c7cT", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2013-03-31",
+                    "original": "2013-03-31",
+                    "verified": "2013-03-31 (1364745461)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Lx411c7cT", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Lx411c7cT",
+                    "original": "BV1Lx411c7cT",
+                    "verified": "BV1Lx411c7cT",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Lx411c7cT", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moezero-shaonvxin-edm-remix.md",
+            "slug": "music:moezero-shaonvxin-edm-remix",
+            "title": "Moezero - 少女心-EDM REMIX",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1gx411Q7Tm matches title '少女心（EDM REMIX）' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Moezero - 少女心-EDM REMIX",
+                    "original": "Moezero - 少女心-EDM REMIX",
+                    "verified": "【洛天依】少女心（EDM REMIX）",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1gx411Q7Tm", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2017-04-01",
+                    "original": "2017-04-01",
+                    "verified": "2017-04-01 (1491008404)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1gx411Q7Tm", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1gx411Q7Tm",
+                    "original": "BV1gx411Q7Tm",
+                    "verified": "BV1gx411Q7Tm",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1gx411Q7Tm", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofa.md",
+            "slug": "music:mofa",
+            "title": "魔法のコトバ",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Title is Japanese. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法のコトバ",
+                    "original": "魔法のコトバ",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mofachuniang.md",
+            "slug": "music:mofachuniang",
+            "title": "魔法厨娘",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1ts411S7k9 matches title '魔法厨娘' and 洛天依/言和/乐正绫.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法厨娘",
+                    "original": "魔法厨娘",
+                    "verified": "【洛天依.言和.乐正绫原创】魔法厨娘【PV付】【8bit】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ts411S7k9", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2015-07-23",
+                    "original": "2015-07-23",
+                    "verified": "2015-07-23 (1437633352)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ts411S7k9", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1ts411S7k9",
+                    "original": "BV1ts411S7k9",
+                    "verified": "BV1ts411S7k9",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ts411S7k9", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofahuayuan.md",
+            "slug": "music:mofahuayuan",
+            "title": "魔法花园",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1b14y1s7y7 matches title '魔法花园' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法花园",
+                    "original": "魔法花园",
+                    "verified": "【洛天依原创】魔法花园【凌忍】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1b14y1s7y7", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2022-09-02",
+                    "original": "2022-09-02",
+                    "verified": "2022-09-02 (1662109200)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1b14y1s7y7", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1b14y1s7y7",
+                    "original": "BV1b14y1s7y7",
+                    "verified": "BV1b14y1s7y7",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1b14y1s7y7", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofamaomi.md",
+            "slug": "music:mofamaomi",
+            "title": "魔法猫咪",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法猫咪",
+                    "original": "魔法猫咪",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mofapati.md",
+            "slug": "music:mofapati",
+            "title": "魔法趴体",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Eb411s78d matches title '魔法趴体' and 洛天依/心华/星尘.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法趴体",
+                    "original": "魔法趴体",
+                    "verified": "【洛天依心华星尘原创】魔法趴体【豆腐P】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Eb411s78d", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2019-04-01",
+                    "original": "2019-04-01",
+                    "verified": "2019-04-01 (1554048019)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Eb411s78d", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Eb411s78d",
+                    "original": "BV1Eb411s78d",
+                    "verified": "BV1Eb411s78d",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Eb411s78d", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofasenlin.md",
+            "slug": "music:mofasenlin",
+            "title": "魔法森林",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法森林",
+                    "original": "魔法森林",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mofashaonvdejuewang.md",
+            "slug": "music:mofashaonvdejuewang",
+            "title": "魔法少女的绝望",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1ob411t7qX matches title '魔法少女的绝望' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法少女的绝望",
+                    "original": "魔法少女的绝望",
+                    "verified": "【洛天依原创】魔法少女的绝望【咏吟轩】【GhostFinal】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ob411t7qX", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2019-02-28",
+                    "original": "2019-02-28",
+                    "verified": "2019-02-28 (1551326425)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ob411t7qX", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1ob411t7qX",
+                    "original": "BV1ob411t7qX",
+                    "verified": "BV1ob411t7qX",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ob411t7qX", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofashaonvxiaoyuanopzhongwentianci-jiban.md",
+            "slug": "music:mofashaonvxiaoyuanopzhongwentianci-jiban",
+            "title": "魔法少女小圆op中文填词 羁绊",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法少女小圆op中文填词 羁绊",
+                    "original": "魔法少女小圆op中文填词 羁绊",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mofashaonvyuqiaokelizhongwentianci.md",
+            "slug": "music:mofashaonvyuqiaokelizhongwentianci",
+            "title": "魔法少女与巧克力【中文填词】",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法少女与巧克力【中文填词】",
+                    "original": "魔法少女与巧克力【中文填词】",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mofashibudongmofasuoyixiangzuojinzhanfashishoujiaoyouchidunzhine.md",
+            "slug": "music:mofashibudongmofasuoyixiangzuojinzhanfashishoujiaoyouchidunzhine",
+            "title": "魔法师不懂魔法所以想做近战法师手脚又迟钝只能把闪避技能点满",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1u94y1k7pv matches title and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法师不懂魔法所以想做近战法师手脚又迟钝只能把闪避技能点满",
+                    "original": "魔法师不懂魔法所以想做近战法师手脚又迟钝只能把闪避技能点满",
+                    "verified": "【洛天依原创】魔法师不懂魔法所以想做近战法师手脚又迟钝只能把闪避技能点满【裕剑流】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1u94y1k7pv", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-08-14",
+                    "original": "2023-08-14",
+                    "verified": "2023-08-14 (1692008775)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1u94y1k7pv", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1u94y1k7pv",
+                    "original": "BV1u94y1k7pv",
+                    "verified": "BV1u94y1k7pv",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1u94y1k7pv", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mofashu.md",
+            "slug": "music:mofashu",
+            "title": "魔法书",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔法书",
+                    "original": "魔法书",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moguidisike.md",
+            "slug": "music:moguidisike",
+            "title": "魔鬼迪斯科",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔鬼迪斯科",
+                    "original": "魔鬼迪斯科",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mojituonvhaideshengxia.md",
+            "slug": "music:mojituonvhaideshengxia",
+            "title": "莫吉托女孩的盛夏",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "Date 2018-08-29 matches API. BV discovered from text body (BV1Ls411c7Ff). API confirms title '莫吉托女孩的盛夏' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "莫吉托女孩的盛夏",
+                    "original": "莫吉托女孩的盛夏",
+                    "verified": "【洛天依原创曲】莫吉托女孩的盛夏【PoKeR】【PV付】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ls411c7Ff", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2018-08-29",
+                    "original": "2018-08-29",
+                    "verified": "2018-08-29 (1535539624)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ls411c7Ff", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Ls411c7Ff (discovered from text body)",
+                    "original": "",
+                    "verified": "BV1Ls411c7Ff",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ls411c7Ff", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mojituonvhaideshengxia-luotianyiaiver.md",
+            "slug": "music:mojituonvhaideshengxia-luotianyiaiver",
+            "title": "莫吉托女孩的盛夏 洛天依AI.ver",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "Source URL BV1534y1h75v verified via API. Title '莫吉托女孩的盛夏【PoKeR】' and date 2022-05-11 match.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "莫吉托女孩的盛夏 洛天依AI.ver",
+                    "original": "莫吉托女孩的盛夏 洛天依AI.ver",
+                    "verified": "【洛天依AI】莫吉托女孩的盛夏【PoKeR】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1534y1h75v", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2022-05-11",
+                    "original": "2022-05-11",
+                    "verified": "2022-05-11 (1652202951)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1534y1h75v", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1534y1h75v (from source URL)",
+                    "original": "",
+                    "verified": "BV1534y1h75v",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1534y1h75v", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moletiaooumeidaxianyu.md",
+            "slug": "music:moletiaooumeidaxianyu",
+            "title": "摸了条欧美大咸鱼",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "摸了条欧美大咸鱼",
+                    "original": "摸了条欧美大咸鱼",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moli.md",
+            "slug": "music:moli",
+            "title": "茉莉",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "茉莉",
+                    "original": "茉莉",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "molihuachuyin.md",
+            "slug": "music:molihuachuyin",
+            "title": "茉莉花（初音ミク）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Hatsune Miku track, not Luo Tianyi. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "茉莉花（初音ミク）",
+                    "original": "茉莉花（初音ミク）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "molihualuotianyi.md",
+            "slug": "music:molihualuotianyi",
+            "title": "茉莉花（洛天依）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "茉莉花（洛天依）",
+                    "original": "茉莉花（洛天依）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moment.md",
+            "slug": "music:moment",
+            "title": "#Moment#",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "#Moment#",
+                    "original": "#Moment#",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moments-shunjian.md",
+            "slug": "music:moments-shunjian",
+            "title": "Moments (瞬间)",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Moments (瞬间)",
+                    "original": "Moments (瞬间)",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "monstermonster.md",
+            "slug": "music:monstermonster",
+            "title": "Monster！Monster！",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date 2022-10-22 but no BV ID to verify. Cannot confirm via API without BV.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Monster！Monster！",
+                    "original": "Monster！Monster！",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "LOW",
+                    "verdict": "partial"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2022-10-22",
+                    "original": "2022-10-22",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "LOW",
+                    "verdict": "partial"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moonlit-forest.md",
+            "slug": "music:moonlit-forest",
+            "title": "Moonlit Forest",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Moonlit Forest",
+                    "original": "Moonlit Forest",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moqingfanchangliunianrugefanzi-cangqiong.md",
+            "slug": "music:moqingfanchangliunianrugefanzi-cangqiong",
+            "title": "【墨清翻唱】流年如歌（翻自 苍穹）",
+            "overall_verdict": "unverifiable",
+            "suspicious": true,
+            "notes": "File in suspicious_music/. No BV, no date. Track is by 墨清弦, not Luo Tianyi. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "【墨清翻唱】流年如歌（翻自 苍穹）",
+                    "original": "【墨清翻唱】流年如歌（翻自 苍穹）",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "morantu.md",
+            "slug": "music:morantu",
+            "title": "墨染荼",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. File itself notes '未在bilibili获取到该曲目的明确视频信息'.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "墨染荼",
+                    "original": "墨染荼",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "morenzhuti.md",
+            "slug": "music:morenzhuti",
+            "title": "默认主题",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. File itself notes '未在bilibili获取到该曲目的明确视频信息'.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "默认主题",
+                    "original": "默认主题",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moridisco.md",
+            "slug": "music:moridisco",
+            "title": "末日DISCO",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1kx411F7FN matches title '末日DISCO' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "末日DISCO",
+                    "original": "末日DISCO",
+                    "verified": "【洛天依原创曲】末日DISCO【PV付】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1kx411F7FN", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2012-12-14",
+                    "original": "2012-12-14",
+                    "verified": "2012-12-14 (1355500766)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1kx411F7FN", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1kx411F7FN",
+                    "original": "BV1kx411F7FN",
+                    "verified": "BV1kx411F7FN",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1kx411F7FN", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moriguchenggaibianzilongzhanqishi.md",
+            "slug": "music:moriguchenggaibianzilongzhanqishi",
+            "title": "末日孤城（改编自《龙战骑士》）",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Ds411N7nF matches title '末日孤城' and 洛天依/乐正绫.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "末日孤城（改编自《龙战骑士》）",
+                    "original": "末日孤城（改编自《龙战骑士》）",
+                    "verified": "【妖、洛、绫、言原创】末日孤城（改编自《龙战骑士》）",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ds411N7nF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2018-07-20",
+                    "original": "2018-07-20",
+                    "verified": "2018-07-20 (1532094601)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ds411N7nF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Ds411N7nF",
+                    "original": "BV1Ds411N7nF",
+                    "verified": "BV1Ds411N7nF",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ds411N7nF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moripairewu.md",
+            "slug": "music:moripairewu",
+            "title": "末日派热舞",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1ys41197Ve matches title '末日派热舞' and 洛天依&乐正绫.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "末日派热舞",
+                    "original": "末日派热舞",
+                    "verified": "【洛天依&乐正绫原创】末日派热舞【时之歌Project】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ys41197Ve", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2015-12-19",
+                    "original": "2015-12-19",
+                    "verified": "2015-12-19 (1450524248)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ys41197Ve", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1ys41197Ve",
+                    "original": "BV1ys41197Ve",
+                    "verified": "BV1ys41197Ve",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ys41197Ve", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moriyouxirelive.md",
+            "slug": "music:moriyouxirelive",
+            "title": "末日游戏Relive",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1yx41167h4 matches title '末日游戏Relive' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "末日游戏Relive",
+                    "original": "末日游戏Relive",
+                    "verified": "【洛天依原创】末日游戏Relive【代投】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1yx41167h4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2017-06-27",
+                    "original": "2017-06-27",
+                    "verified": "2017-06-27 (1498559251)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1yx41167h4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1yx41167h4",
+                    "original": "BV1yx41167h4",
+                    "verified": "BV1yx41167h4",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1yx41167h4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "moshou.md",
+            "slug": "music:moshou",
+            "title": "默守",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. File itself notes '未在bilibili获取到该曲目的明确视频信息'.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "默守",
+                    "original": "默守",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "mosi.md",
+            "slug": "music:mosi",
+            "title": "莫思",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV19Y411k78E matches title containing '莫思' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "莫思",
+                    "original": "莫思",
+                    "verified": "我放弃了开歼20炸月球，写了一首超燃流浪地球原创群像曲 《莫思》洛天依【不是AI是V4凝】",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV19Y411k78E", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-02-24",
+                    "original": "2023-02-24",
+                    "verified": "2023-02-24 (1677211308)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV19Y411k78E", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV19Y411k78E",
+                    "original": "BV19Y411k78E",
+                    "verified": "BV19Y411k78E",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV19Y411k78E", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mounianmouyuedexin.md",
+            "slug": "music:mounianmouyuedexin",
+            "title": "某年某月的信",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date 2021-03-30 and play count (1.1万) but no BV ID to verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "某年某月的信",
+                    "original": "某年某月的信",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "LOW",
+                    "verdict": "partial"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2021-03-30",
+                    "original": "2021-03-30",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "LOW",
+                    "verdict": "partial"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moutianwoyehuisiquba-featluotianyi.md",
+            "slug": "music:moutianwoyehuisiquba-featluotianyi",
+            "title": "某天我也会死去吧 (feat.洛天依)",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV16h4y1v7UF matches title '某天我也会死去吧' and 洛天依.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "某天我也会死去吧 (feat.洛天依)",
+                    "original": "某天我也会死去吧 (feat.洛天依)",
+                    "verified": "【洛天依原创】某天我也会死去吧 - QGRay",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV16h4y1v7UF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-09-09",
+                    "original": "2023-09-09",
+                    "verified": "2023-09-09 (1694262600)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV16h4y1v7UF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV16h4y1v7UF",
+                    "original": "BV16h4y1v7UF",
+                    "verified": "BV16h4y1v7UF",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV16h4y1v7UF", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mouzhentanderichang.md",
+            "slug": "music:mouzhentanderichang",
+            "title": "某侦探的日常",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "某侦探的日常",
+                    "original": "某侦探的日常",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moxingzhiwang.md",
+            "slug": "music:moxingzhiwang",
+            "title": "魔性之王",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No BV, no date, no source URL beyond generic bilibili.com link. Cannot verify via API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "魔性之王",
+                    "original": "魔性之王",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "original": "",
+                    "verified": "",
+                    "source": [],
+                    "confidence": "NONE",
+                    "verdict": "unverifiable"
+                }
+            ]
+        },
+        {
+            "file": "moyuqingnianzijiuzhinan.md",
+            "slug": "music:moyuqingnianzijiuzhinan",
+            "title": "摸鱼青年自救指南",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1bc411W7j4 matches title '摸鱼青年自救指南' and 洛天依/乐正绫/星尘.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "摸鱼青年自救指南",
+                    "original": "摸鱼青年自救指南",
+                    "verified": "【洛天依/乐正绫/星尘原创曲】摸鱼青年自救指南",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1bc411W7j4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-04-05",
+                    "original": "2023-04-05",
+                    "verified": "2023-04-05 (1680696000)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1bc411W7j4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1bc411W7j4",
+                    "original": "BV1bc411W7j4",
+                    "verified": "BV1bc411W7j4",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1bc411W7j4", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        },
+        {
+            "file": "mozhiyuanvsingerquanyuannantingque-disijuan.md",
+            "slug": "music:mozhiyuanvsingerquanyuannantingque-disijuan",
+            "title": "墨纸鸢（Vsinger全员）南亭阙 第四卷",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1W54y1W7Pb matches title '墨纸鸢' and Vsinger全员.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "墨纸鸢（Vsinger全员）南亭阙 第四卷",
+                    "original": "墨纸鸢（Vsinger全员）南亭阙 第四卷",
+                    "verified": "【Vsinger全员原创曲】墨纸鸢【洛天依/乐正绫/言和/乐正龙牙/墨清弦/徵羽摩柯】南亭阙 第四卷",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1W54y1W7Pb", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2021-02-10",
+                    "original": "2021-02-10",
+                    "verified": "2021-02-10 (1612954817)",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1W54y1W7Pb", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1W54y1W7Pb",
+                    "original": "BV1W54y1W7Pb",
+                    "verified": "BV1W54y1W7Pb",
+                    "source": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1W54y1W7Pb", "match": true}],
+                    "confidence": "HIGH",
+                    "verdict": "confirmed"
+                }
+            ]
+        }
+    ]
+}

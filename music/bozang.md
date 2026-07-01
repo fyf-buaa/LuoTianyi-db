@@ -11,7 +11,11 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 悲情 |
-| 标签 | 独唱, VOCALOID |
+| 标签 | 独唱, vocaloid |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
 | 视频ID | BV1Nm4y1o7AE |
 | 播放量 | 5.4万 |
 

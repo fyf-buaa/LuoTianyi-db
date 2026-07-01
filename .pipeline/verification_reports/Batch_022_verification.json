@@ -1,0 +1,730 @@
+{
+  "report_metadata": {
+    "title": "Batch_022 Verification Report",
+    "generated_at": "2026-06-07T17:00:00+08:00",
+    "batch": "Batch_022",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 15,
+      "partial": 1,
+      "conflict": 1,
+      "unverifiable": 31,
+      "file_not_found": 2
+    },
+    "methodology": "Direct bilibili API (api.bilibili.com/x/web-interface/view) verification for all provided BV IDs. Web search via MiniMax Search and moegirl wiki for cross-referencing song title, P主, release date. Files with no BV and no date marked unverifiable."
+  },
+  "results": [
+    {
+      "file": "heibaihe.md",
+      "slug": "",
+      "title": "",
+      "facts": [
+        {"field": "状态", "original": "", "verified": "文件不存在 (File not found)", "sources": [], "verdict": "file_not_found", "confidence": "NONE"}
+      ],
+      "overall_verdict": "file_not_found",
+      "suspicious": true,
+      "notes": "File heibaihe.md does not exist in music/ directory. No other variant found (heibaigediao.md exists but is a different file)."
+    },
+    {
+      "file": "heibaishijie.md",
+      "slug": "music:heibaishijie",
+      "title": "黑白世界",
+      "facts": [
+        {"field": "曲名", "original": "黑白世界", "verified": "未验证 (No authoritative source found)", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kelejun (可乐菌)", "verified": "可乐菌（kelejun） is known VOCALOID P主", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "来源", "original": "https://www.bilibili.com/", "verified": "仅有基础URL", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无发行日期，无法验证。P主kelejun是已知VOCALOID创作者，但无法确认此具体曲目。"
+    },
+    {
+      "file": "heibaiyicun.md",
+      "slug": "music:heibaiyicun",
+      "title": "黑白依存",
+      "facts": [
+        {"field": "曲名", "original": "黑白依存", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:jiwuren (记无仁)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无发行日期，无法验证。"
+    },
+    {
+      "file": "heifengli-2.md",
+      "slug": "music:heifengli-2",
+      "title": "黑凤梨",
+      "facts": [
+        {"field": "曲名", "original": "黑凤梨", "verified": "《黑凤梨》是Z新豪知名原创曲，但此具体版本（heifengli-2）无法确认", "sources": [], "verdict": "partial", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "creator:zxinhao", "verified": "Z新豪是《黑凤梨》原曲作者，已知活跃P主", "sources": [{"label": "bilibili Z新豪空间", "url": "https://space.bilibili.com/24808080", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "", "verified": "未提供具体版本日期；原曲约2013年", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Z新豪的《黑凤梨》是知名VOCALOID名曲，但此文件无BV和日期，无法确认具体指哪个版本。"
+    },
+    {
+      "file": "heifengliluotianyiai.md",
+      "slug": "music:heifengliluotianyiai",
+      "title": "黑凤梨（洛天依AI）",
+      "facts": [
+        {"field": "曲名", "original": "黑凤梨（洛天依AI）", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:xingkui (星葵)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。原曲为Z新豪《黑凤梨》，星葵的AI翻唱版本。"
+    },
+    {
+      "file": "heifengliremixcover-zxinhao-luotianyi.md",
+      "slug": "music:heifengliremixcover-zxinhao-luotianyi",
+      "title": "黑凤梨remix（cover Z新豪-洛天依）",
+      "facts": [
+        {"field": "曲名", "original": "黑凤梨remix（cover Z新豪-洛天依）", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:naonao (闹闹)", "verified": "闹闹（naonao）是已知VOCALOID创作者", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。闹闹制作的remix版本。"
+    },
+    {
+      "file": "heihuazhige.md",
+      "slug": "music:heihuazhige",
+      "title": "黑化之歌",
+      "facts": [
+        {"field": "曲名", "original": "黑化之歌", "verified": "【洛天依言和原创曲】黑化之歌", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f3411V7EZ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:kelejun (可乐君)", "verified": "沙雕少年可乐君 (mid:526568)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f3411V7EZ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2022-03-01", "verified": "2022-03-01 (pubdate:1646118566)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f3411V7EZ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1f3411V7EZ", "verified": "BV1f3411V7EZ - 存在，播放量4309", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f3411V7EZ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1f3411V7EZ/", "verified": "有效bilibili链接，内容匹配", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f3411V7EZ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段均通过bilibili API验证。标题、日期、UP主完全匹配。"
+    },
+    {
+      "file": "heiniao.md",
+      "slug": "music:heiniao",
+      "title": "黑鸟",
+      "facts": [
+        {"field": "曲名", "original": "黑鸟", "verified": "【洛天依·乐正绫原创曲】黑鸟【动画PV付】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ju411S7ed", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:aliangliangmujian (阿良良木健)", "verified": "阿良良木健 (mid:112428)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ju411S7ed", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2021-12-25", "verified": "2021-12-25 (pubdate:1640404809)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ju411S7ed", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Ju411S7ed", "verified": "BV1Ju411S7ed - 存在，播放量35.7万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ju411S7ed", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Ju411S7ed/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ju411S7ed", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段均通过bilibili API验证。阿良良木健的代表作品之一。"
+    },
+    {
+      "file": "heisedemeng.md",
+      "slug": "music:heisedemeng",
+      "title": "黑色的梦",
+      "facts": [
+        {"field": "曲名", "original": "黑色的梦", "verified": "【洛天依原创】黑色的梦【歌姬新春纪单品】【手书PV付】新星社", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xy4y1Y797", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:banzhijinlan (半只金蓝)", "verified": "半只金蓝 (mid:10282294) - 作曲/编曲", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xy4y1Y797", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2021-02-15", "verified": "2021-02-15 (pubdate:1613397316)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xy4y1Y797", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1xy4y1Y797", "verified": "BV1xy4y1Y797 - 存在，播放量2.6万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xy4y1Y797", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1xy4y1Y797/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xy4y1Y797", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段均通过bilibili API验证。新星社投稿。"
+    },
+    {
+      "file": "heisemoju.md",
+      "slug": "",
+      "title": "",
+      "facts": [
+        {"field": "状态", "original": "", "verified": "文件不存在 (File not found)", "sources": [], "verdict": "file_not_found", "confidence": "NONE"}
+      ],
+      "overall_verdict": "file_not_found",
+      "suspicious": true,
+      "notes": "文件 heisemoju.md 在 music/ 目录中不存在。"
+    },
+    {
+      "file": "heishoufm.md",
+      "slug": "music:heishoufm",
+      "title": "黑手(FM)",
+      "facts": [
+        {"field": "曲名", "original": "黑手(FM)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qiyeyueqiye (七夜月七夜)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "heiyangshaonvvocaloidcover.md",
+      "slug": "music:heiyangshaonvvocaloidcover",
+      "title": "黑羊少女【VOCALOIDCOVER】",
+      "facts": [
+        {"field": "曲名", "original": "黑羊少女【VOCALOIDCOVER】", "verified": "原曲为霾AXIS系列《黑羊少女》，但此翻唱版未验证", "sources": [], "verdict": "partial", "confidence": "LOW"},
+        {"field": "P主", "original": "creator:huaqilinnaihanasaki-rinna (花绮凛奈)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "原曲《黑羊少女》是已知作品（雨狸/依溪禾），但此翻唱版本无BV无日期。"
+    },
+    {
+      "file": "heiye.md",
+      "slug": "music:heiye",
+      "title": "黑夜",
+      "facts": [
+        {"field": "曲名", "original": "黑夜", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhuanyubanchep (颛宇/半彻P)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "heiyimuhou.md",
+      "slug": "music:heiyimuhou",
+      "title": "黑翼母后",
+      "facts": [
+        {"field": "曲名", "original": "黑翼母后", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tianerzhongvziyingshezhetianer (映射者天儿)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hejie.md",
+      "slug": "music:hejie",
+      "title": "和解",
+      "facts": [
+        {"field": "曲名", "original": "和解", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yugulubaijiyu (魚咕噜/摆寄魚)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hellobyedayspianover-luotianyi-lezhengling.md",
+      "slug": "music:hellobyedayspianover-luotianyi-lezhengling",
+      "title": "hello&bye，days（piano.ver）-洛天依-乐正绫",
+      "facts": [
+        {"field": "曲名", "original": "hello&bye，days（piano.ver）-洛天依-乐正绫", "verified": "【洛天依原创/钢琴ver.】hello&bye,days【PV付/COP】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ks411Q7Sp", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:cop (COP)", "verified": "COP - bilibili知名P主", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ks411Q7Sp", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2016-02-29", "verified": "2016-02-29 (pubdate:1456722322)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ks411Q7Sp", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Ks411Q7Sp", "verified": "BV1Ks411Q7Sp - 存在，播放量1.3万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ks411Q7Sp", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Ks411Q7Sp/", "verified": "有效bilibili链接，UP主saiqomo投稿", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ks411Q7Sp", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。注意投稿者为saiqomo，COP为词曲作者。"
+    },
+    {
+      "file": "hello-how-are-you.md",
+      "slug": "music:hello-how-are-you",
+      "title": "Hello How are you",
+      "facts": [
+        {"field": "曲名", "original": "Hello How are you", "verified": "【洛天依·中文翻唱】Hello / How are you", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hs411D7V2", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:weilianghaohao (微凉浩浩)", "verified": "微凉浩浩 (mid:1484350)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hs411D7V2", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2015-04-17", "verified": "2015-04-17 (pubdate:1429286425)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hs411D7V2", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Hs411D7V2", "verified": "BV1Hs411D7V2 - 存在，播放量2.3万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hs411D7V2", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Hs411D7V2/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hs411D7V2", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。原曲为日本P主ほえほえP的《ハロ/ハワユ》。"
+    },
+    {
+      "file": "hengshupiedianzheluotianyifanzi-mibai.md",
+      "slug": "music:hengshupiedianzheluotianyifanzi-mibai",
+      "title": "横竖撇点折（洛天依）（翻自 米白）",
+      "facts": [
+        {"field": "曲名", "original": "横竖撇点折（洛天依）（翻自 米白）", "verified": "原曲为2020年Bilibili拜年祭同名单品，但此翻唱版本未验证", "sources": [], "verdict": "partial", "confidence": "LOW"},
+        {"field": "P主", "original": "creator:regretful-love", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "原曲横竖撇点折为2020拜年祭作品，但此洛天依翻唱版无BV无日期。"
+    },
+    {
+      "file": "hengshupiedianzheluotianyivyanhev.md",
+      "slug": "music:hengshupiedianzheluotianyivyanhev",
+      "title": "横竖撇点折（洛天依V5、言和V5）",
+      "facts": [
+        {"field": "曲名", "original": "横竖撇点折（洛天依V5、言和V5）", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:regretful-love", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hengshupiedianzheluotianyiyanhefanzi-mibai.md",
+      "slug": "music:hengshupiedianzheluotianyiyanhefanzi-mibai",
+      "title": "横竖撇点折（洛天依、言和）（翻自 米白）",
+      "facts": [
+        {"field": "曲名", "original": "横竖撇点折（洛天依、言和）（翻自 米白）", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:regretful-love", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。与hengshupiedianzheluotianyivyanhev类似，可能为同一作品的不同记录。"
+    },
+    {
+      "file": "henichuanxingweilai.md",
+      "slug": "music:henichuanxingweilai",
+      "title": "和你穿行未来",
+      "facts": [
+        {"field": "曲名", "original": "和你穿行未来", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:10zzzzzz", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "henjiuyiqian.md",
+      "slug": "music:henjiuyiqian",
+      "title": "很久以前",
+      "facts": [
+        {"field": "曲名", "original": "很久以前", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yanye (言爷)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "herizhongdaosulanqiao.md",
+      "slug": "music:herizhongdaosulanqiao",
+      "title": "何日重到苏澜桥",
+      "facts": [
+        {"field": "曲名", "original": "何日重到苏澜桥", "verified": "【洛天依_whisper（不） ft.言和】何日重到苏澜桥（Uryan）", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:yishuiuryan (伊水_Uryan)", "verified": "伊水_Uryan (mid:1645171)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2018-09-06", "verified": "2018-09-06 (pubdate:1536181663)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1QW411Z7Hb", "verified": "BV1QW411Z7Hb - 存在，播放量5406", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1QW411Z7Hb/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。翻唱自泠鸢yousa。"
+    },
+    {
+      "file": "herizhongdaosulanqiao-2.md",
+      "slug": "music:herizhongdaosulanqiao-2",
+      "title": "何日重到苏澜桥",
+      "facts": [
+        {"field": "曲名", "original": "何日重到苏澜桥", "verified": "【洛天依_whisper（不） ft.言和】何日重到苏澜桥（Uryan）", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:yingshihinanozhanghaozhuxiao (萤失Hinano)", "verified": "bilibili UP主为伊水_Uryan (mid:1645171)，非萤失Hinano", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "conflict", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2018-09-06", "verified": "2018-09-06 (pubdate:1536181663)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1QW411Z7Hb", "verified": "BV1QW411Z7Hb - 存在，与herizhongdaosulanqiao.md同视频", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1QW411Z7Hb/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QW411Z7Hb", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true,
+      "notes": "BV/日期与herizhongdaosulanqiao.md完全相同，但P主归因不同。bilibili API显示UP主为伊水_Uryan，而非萤失Hinano。文件标注P主为yingshihinano（萤失Hinano）与实际投稿人不符。"
+    },
+    {
+      "file": "hexiang-qingyouli-senlinyoudi-coveryingshihinano.md",
+      "slug": "music:hexiang-qingyouli-senlinyoudi-coveryingshihinano",
+      "title": "荷香 青幽梨-森林邮递-Cover萤失Hinano",
+      "facts": [
+        {"field": "曲名", "original": "荷香 青幽梨-森林邮递-Cover萤失Hinano", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:mollihuacha (1mol梨花茶)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hexiang-qingyouli-wohuizijishangcesuo-cover-baobaobashi.md",
+      "slug": "music:hexiang-qingyouli-wohuizijishangcesuo-cover-baobaobashi",
+      "title": "荷香 青幽梨-我会自己上厕所-Cover 宝宝巴士",
+      "facts": [
+        {"field": "曲名", "original": "荷香 青幽梨-我会自己上厕所-Cover 宝宝巴士", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:mollihuacha (1mol梨花茶)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。标题带幽默性质的翻唱作品。"
+    },
+    {
+      "file": "heyijiedongweiyoubaofu.md",
+      "slug": "music:heyijiedongweiyoubaofu",
+      "title": "何以解冻唯有暴富",
+      "facts": [
+        {"field": "曲名", "original": "何以解冻唯有暴富", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:totoozhanghaoyizhuxiao (ToToo)", "verified": "账号已注销(11604)", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。P主账号已注销。"
+    },
+    {
+      "file": "heyijiedongweiyoubaofu-extended-mix.md",
+      "slug": "music:heyijiedongweiyoubaofu-extended-mix",
+      "title": "何以解冻唯有暴富 (Extended Mix)",
+      "facts": [
+        {"field": "曲名", "original": "何以解冻唯有暴富 (Extended Mix)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:totoozhanghaoyizhuxiao (ToToo)", "verified": "账号已注销(11604)", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。为heyijiedongweiyoubaofu的加长版。"
+    },
+    {
+      "file": "hezhongren.md",
+      "slug": "music:hezhongren",
+      "title": "盒中人",
+      "facts": [
+        {"field": "曲名", "original": "盒中人", "verified": "盒中人 (DeRos刘师宇原创曲)", "sources": [{"label": "萌娘百科", "url": "https://mzh.moegirl.org.cn/盒中人", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:derosliushiyu (DeRos刘师宇)", "verified": "DeRos刘师宇 (mid:19164128)", "sources": [{"label": "萌娘百科", "url": "https://mzh.moegirl.org.cn/盒中人", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2022-03-11", "verified": "2022-03-11 (萌娘百科)", "sources": [{"label": "萌娘百科", "url": "https://mzh.moegirl.org.cn/盒中人", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "", "verified": "未提供BV，萌娘百科链接为通用bilibili页面", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "来源", "original": "https://www.bilibili.com/", "verified": "仅有基础URL", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "曲名、P主、日期通过萌娘百科验证。但无BV ID，播放量在萌娘百科显示为'--'（不足1000）。"
+    },
+    {
+      "file": "himawari.md",
+      "slug": "music:himawari",
+      "title": "Himawari",
+      "facts": [
+        {"field": "曲名", "original": "Himawari", "verified": "【洛天依原创】Himawari【Kevinz/坐标/海纳/流绪】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M4411B7fG", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:kevinz (Kevinz)", "verified": "-Kevinz- (mid:3334365)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M4411B7fG", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2019-08-30", "verified": "2019-08-30 (pubdate:1567159231)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M4411B7fG", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1M4411B7fG", "verified": "BV1M4411B7fG - 存在，播放量15.7万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M4411B7fG", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1M4411B7fG/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M4411B7fG", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。Kevinz代表作品。"
+    },
+    {
+      "file": "holy-night.md",
+      "slug": "music:holy-night",
+      "title": "Holy Night",
+      "facts": [
+        {"field": "曲名", "original": "Holy Night", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yishuiuryan (伊水_Uryan)", "verified": "未验证具体曲目", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。P主伊水_Uryan为已知创作者。"
+    },
+    {
+      "file": "hong-2.md",
+      "slug": "music:hong-2",
+      "title": "红",
+      "facts": [
+        {"field": "曲名", "original": "红", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:beishanwei (北山薇)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hongdenglong.md",
+      "slug": "music:hongdenglong",
+      "title": "红灯笼",
+      "facts": [
+        {"field": "曲名", "original": "红灯笼", "verified": "【洛天依AI原创曲】红灯笼【无名社&小桦啊小桦】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gg411y7bu", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:wumingshe (无名社)", "verified": "无名社 (mid:545629)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gg411y7bu", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2022-08-06", "verified": "2022-08-06 (pubdate:1659781800)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gg411y7bu", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1gg411y7bu", "verified": "BV1gg411y7bu - 存在，播放量17.1万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gg411y7bu", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1gg411y7bu/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gg411y7bu", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。无名社知名中国风作品。"
+    },
+    {
+      "file": "hongdenglongluotianyilezhenglongyaver.md",
+      "slug": "music:hongdenglongluotianyilezhenglongyaver",
+      "title": "红灯笼（洛天依＆乐正龙牙ver.）",
+      "facts": [
+        {"field": "曲名", "original": "红灯笼（洛天依＆乐正龙牙ver.）", "verified": "未验证（翻唱版）", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yugulubaijiyu (魚咕噜/摆寄魚)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "原曲红灯笼已验证，但此乐正龙牙合唱翻唱版无BV无日期。"
+    },
+    {
+      "file": "honghushui.md",
+      "slug": "music:honghushui",
+      "title": "洪湖水",
+      "facts": [
+        {"field": "曲名", "original": "洪湖水", "verified": "【乐正绫/星尘/洛天依】洪湖水（乔洋版）", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ns411t7R4", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:canyangruxue (残杨如血)", "verified": "残杨如血 (mid:496530)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ns411t7R4", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2016-09-18", "verified": "2016-09-18 (pubdate:1474140075)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ns411t7R4", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1ns411t7R4", "verified": "BV1ns411t7R4 - 存在，播放量1633", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ns411t7R4", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1ns411t7R4/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ns411t7R4", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。星尘/洛天依/乐正绫三人合唱。"
+    },
+    {
+      "file": "hongyewu.md",
+      "slug": "music:hongyewu",
+      "title": "红叶舞",
+      "facts": [
+        {"field": "曲名", "original": "红叶舞", "verified": "【乐正绫洛天依原创】红叶舞【PV付】【VC本家】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sb41177KH", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:fenghongyemaple (枫红叶Maple)", "verified": "枫红叶Maple (mid:9569029)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sb41177KH", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2019-03-23", "verified": "2019-03-23 (pubdate:1553299249)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sb41177KH", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1sb41177KH", "verified": "BV1sb41177KH - 存在，播放量0.7万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sb41177KH", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1sb41177KH/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sb41177KH", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。广陵徵兮音乐团队作品。"
+    },
+    {
+      "file": "hongyin.md",
+      "slug": "music:hongyin",
+      "title": "鸿音",
+      "facts": [
+        {"field": "曲名", "original": "鸿音", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:dannyp (DannyP)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hongyuheidexixue.md",
+      "slug": "music:hongyuheidexixue",
+      "title": "红与黑的戏谑",
+      "facts": [
+        {"field": "曲名", "original": "红与黑的戏谑", "verified": "【洛天依】红与黑的戏谑【原创曲PV附❀】", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ux411c7f9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:huazhiji (花之祭P)", "verified": "花之祭P (mid:16758)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ux411c7f9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2013-02-13", "verified": "2013-02-13 (pubdate:1360771526)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ux411c7f9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1ux411c7f9", "verified": "BV1ux411c7f9 - 存在，播放量4.4万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ux411c7f9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1ux411c7f9/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ux411c7f9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。花之祭P早期作品，2013年投稿，洛天依早期原创曲。"
+    },
+    {
+      "file": "hongyuhua.md",
+      "slug": "music:hongyuhua",
+      "title": "红与花",
+      "facts": [
+        {"field": "曲名", "original": "红与花", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:wangxilin (王曦临)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "hongzhaoyuan.md",
+      "slug": "music:hongzhaoyuan",
+      "title": "红昭愿",
+      "facts": [
+        {"field": "曲名", "original": "红昭愿", "verified": "【洛天依原创曲】红昭愿", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1px411C7Me", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:yinqueshiting (音阙诗听)", "verified": "音阙诗听 (mid:55775966)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1px411C7Me", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2017-03-10", "verified": "2017-03-10 (pubdate:1489116780)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1px411C7Me", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1px411C7Me", "verified": "BV1px411C7Me - 存在，播放量131.5万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1px411C7Me", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1px411C7Me/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1px411C7Me", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。洛天依殿堂级名曲，播放量131.5万。"
+    },
+    {
+      "file": "hongzhuang.md",
+      "slug": "music:hongzhuang",
+      "title": "红妆",
+      "facts": [
+        {"field": "曲名", "original": "红妆", "verified": "【洛天依&乐正绫】红妆", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ux411s7wQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:tmzhusangsang (TM丶桑桑)", "verified": "TM丶桑桑 (mid:8398788)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ux411s7wQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2017-09-16", "verified": "2017-09-16 (pubdate:1505564750)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ux411s7wQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Ux411s7wQ", "verified": "BV1Ux411s7wQ - 存在，播放量0.3万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ux411s7wQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Ux411s7wQ/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ux411s7wQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。南北组翻唱作品。"
+    },
+    {
+      "file": "hongzhulei.md",
+      "slug": "music:hongzhulei",
+      "title": "红烛泪",
+      "facts": [
+        {"field": "曲名", "original": "红烛泪", "verified": "【洛天依】《红烛泪》|\"一曲红烛，泪染相思\"", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MSWLzBEDS", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:kunki114514 (KunKi114514)", "verified": "KunKi114514 (mid:163104011)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MSWLzBEDS", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2024-09-20", "verified": "2024-09-20", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MSWLzBEDS", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1MSWLzBEDS", "verified": "BV1MSWLzBEDS - 存在", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MSWLzBEDS", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1MSWLzBEDS/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MSWLzBEDS", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。原唱兰音Reine的翻唱曲。"
+    },
+    {
+      "file": "hongzhulei-2.md",
+      "slug": "music:hongzhulei-2",
+      "title": "红烛泪",
+      "facts": [
+        {"field": "曲名", "original": "红烛泪", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qiyeyueqiye (七夜月七夜)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。与hongzhulei.md同名但不同P主，为另一版本。"
+    },
+    {
+      "file": "houchuang.md",
+      "slug": "music:houchuang",
+      "title": "后窗",
+      "facts": [
+        {"field": "曲名", "original": "后窗", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:stzhushuang (4st丶霜)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "houchuang-2.md",
+      "slug": "music:houchuang-2",
+      "title": "后窗",
+      "facts": [
+        {"field": "曲名", "original": "后窗", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:henbaoazhi (很薄のA4纸)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。与houchuang.md同名但不同P主。"
+    },
+    {
+      "file": "hougumixigugugugu.md",
+      "slug": "music:hougumixigugugugu",
+      "title": "猴咕米戏【咕咕咕咕】",
+      "facts": [
+        {"field": "曲名", "original": "猴咕米戏【咕咕咕咕】", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:puke (扑克)", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。"
+    },
+    {
+      "file": "houji.md",
+      "slug": "music:houji",
+      "title": "后记",
+      "facts": [
+        {"field": "曲名", "original": "后记", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kelejun (可乐君)", "verified": "未验证具体曲目", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。P主可乐君为已知VOCALOID创作者。"
+    },
+    {
+      "file": "houniaonanfei.md",
+      "slug": "music:houniaonanfei",
+      "title": "候鸟南飞",
+      "facts": [
+        {"field": "曲名", "original": "候鸟南飞", "verified": "【洛天依/诗岸原创】候鸟南飞", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ku4y1c7xk", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:jiwuren (吉武仁)", "verified": "吉武仁 (mid:44027915)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ku4y1c7xk", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2023-12-01", "verified": "2023-12-01 (pubdate:1701423900)", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ku4y1c7xk", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Ku4y1c7xk", "verified": "BV1Ku4y1c7xk - 存在，播放量0.2万", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ku4y1c7xk", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Ku4y1c7xk/", "verified": "有效bilibili链接", "sources": [{"label": "bilibili API", "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ku4y1c7xk", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "所有核心字段通过bilibili API验证。吉武仁包揽词曲编调的全创作作品。"
+    },
+    {
+      "file": "houzuo.md",
+      "slug": "music:houzuo",
+      "title": "后座",
+      "facts": [
+        {"field": "曲名", "original": "后座", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yujianliu (裕剑流)", "verified": "裕剑流为已知VOCALOID P主", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。P主裕剑流为已知VOCALOID创作者。"
+    },
+    {
+      "file": "huabei.md",
+      "slug": "music:huabei",
+      "title": "花碑",
+      "facts": [
+        {"field": "曲名", "original": "花碑", "verified": "未验证", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:liuxu (流绪)", "verified": "流绪（liuxu）为已知VOCALOID创作者", "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "未提供", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无BV无日期，无法验证。P主流绪为已知VOCALOID创作者。"
+    }
+  ]
+}

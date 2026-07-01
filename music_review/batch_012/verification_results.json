@@ -1,0 +1,372 @@
+{
+  "batch_id": "batch_012",
+  "verified_at": "2026-06-11",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 1,
+    "partially_verified": 3,
+    "unverified": 16
+  },
+  "results": [
+    {
+      "file": "buyaoaishangyigewenren.md",
+      "song_title": "不要爱上一个文人",
+      "claim_creator": "creator:pulin",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://moegirl.icu/index.php?title=不要爱上一个文人", "https://vcpedia.cn/不要爱上一个文人"],
+      "finding": "Moegirl/VCPedia确认曲名和P主(譜凛/pulin)。但演唱者为青溯(非洛天依)，引擎为Synthesizer V AI(非VOCALOID)。BV: BV1HT4y1S7cw，投稿日期2022-03-01。文件中演唱者和引擎信息错误。",
+      "verified_data": {
+        "bv_number": "BV1HT4y1S7cw",
+        "moegirl_url": "https://moegirl.icu/index.php?title=不要爱上一个文人",
+        "bilibili_url": "https://www.bilibili.com/video/BV1HT4y1S7cw/",
+        "confirmed_creator": "譜凛(pulin)",
+        "confirmed_singer": "青溯(非洛天依)",
+        "confirmed_date": "2022-03-01"
+      }
+    },
+    {
+      "file": "buyaowenwoxiaoshenmewozhishixiangqilekaixindewangshi.md",
+      "song_title": "不要问我笑什么，我只是想起了开心的往事",
+      "claim_creator": "creator:qianmengli",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主qianmengli(迁梦狸)为已知中文VOCALOID创作者，但该歌曲无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buzhenshideni.md",
+      "song_title": "不真实的你",
+      "claim_creator": "creator:yijiujiujiuqi",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主yijiujiujiuqi(依玖玖玖柒)无法通过可靠来源确认。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buzhizhe.md",
+      "song_title": "不知者",
+      "claim_creator": "creator:cop",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "FULLY_VERIFIED",
+      "sources": ["https://vcpedia.cn/不知者"],
+      "finding": "VCPedia确认：COP(COPY)，洛天依演唱，2018年3月12日投稿至网易云音乐。标签含'世末系列'。词曲调均为COP完成。所有核心信息匹配。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "COP(COPY)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2018-03-12"
+      }
+    },
+    {
+      "file": "caihongcoverzhoujielun.md",
+      "song_title": "彩虹【cover.周杰伦】",
+      "claim_creator": "creator:kamiyadawangzhanghaozhuxiao",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该翻唱条目。P主slug'kamiyadawangzhanghaozhuxiao'(卡米亚大王/账号注销10065388)无法验证。该曲声称是周杰伦《彩虹》的洛天依翻唱版，但无独立可证来源。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "caihongtang.md",
+      "song_title": "彩虹糖",
+      "claim_creator": "creator:yishuiuryan",
+      "claim_singer": "core:luo-tian-yi, member:yan-he, member:yue-zheng-ling, member:yue-zheng-long-ya, member:mo-qing-xian, member:zhi-yu-mo-ke",
+      "claim_videoid": "BV1mY411j7zo",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://moegirl.icu/index.php?title=彩虹糖", "https://vcpedia.cn/伊水_Uryan"],
+      "finding": "Moegirl确认：伊水_Uryan，2022-01-29，洛天依/言和/乐正绫/乐正龙牙/墨清弦/徵羽摩柯合唱，2022VC贺岁纪单品。作词纪远，作曲/编曲乱心。但Moegirl记录的BV号为BV1iL411F7iH，与文件中BV1mY411j7zo不一致。文件BV号可能错误或为补档视频。",
+      "verified_data": {
+        "bv_number": "BV1iL411F7iH(Moegirl记录)",
+        "moegirl_url": "https://moegirl.icu/index.php?title=彩虹糖",
+        "bilibili_url": "https://www.bilibili.com/video/BV1iL411F7iH/",
+        "confirmed_creator": "伊水_Uryan(yishuiuryan)",
+        "confirmed_singer": "洛天依, 言和, 乐正绫, 乐正龙牙, 墨清弦, 徵羽摩柯",
+        "confirmed_date": "2022-01-29"
+      }
+    },
+    {
+      "file": "caihongzhige.md",
+      "song_title": "彩虹之歌",
+      "claim_creator": "creator:kelejun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主kelejun(可乐君/teac)为已知VOCALOID创作者，但该歌曲无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "caiseguiji.md",
+      "song_title": "彩色轨迹",
+      "claim_creator": "creator:qiguaileizi",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主qiguaileizi(奇怪雷子/QGRay)为已知VOCALOID创作者，但该歌曲无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "caiwei.md",
+      "song_title": "采薇",
+      "claim_creator": "creator:wangxilin",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到对应VOCALOID歌曲条目。P主wangxilin(王曦临/Xlin)为已知VOCALOID创作者，但该歌曲无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "caiwenji.md",
+      "song_title": "蔡文姬",
+      "claim_creator": "creator:lyrikp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该VOCALOID歌曲条目(萌百的'蔡文姬'页面为历史人物条目)。P主lyrikp(Lyrik_p)无法通过可靠来源确认。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cajian.md",
+      "song_title": "擦肩",
+      "claim_creator": "creator:qianmengli",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主qianmengli(迁梦狸)为已知中文VOCALOID创作者，但该歌曲无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "can.md",
+      "song_title": "喰",
+      "claim_creator": "creator:beiaisama",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl有'喰'条目，但为海底囚人作品的角色，非VOCALOID歌曲。该歌曲由北艾sama(beiaisama)创作、洛天依演唱的说法无法通过可靠来源独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "canban.md",
+      "song_title": "参半",
+      "claim_creator": "creator:lindongwinterp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主lindongwinterp(凛冬Winter_p)无法通过可靠来源确认。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cang-2.md",
+      "song_title": "藏",
+      "claim_creator": "creator:tmzhusangsang",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主tmzhusangsang(TM丶桑桑)无法通过可靠来源确认。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cangjindipingxian.md",
+      "song_title": "藏进地平线",
+      "claim_creator": "creator:asaaza",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主asaaza(阿萨Aza)无法通过可靠来源确认为VOCALOID创作者。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cangle.md",
+      "song_title": "苍乐",
+      "claim_creator": "creator:jiwuren",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主jiwuren(吉武仁)无法通过可靠来源确认为VOCALOID创作者。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cangshengji.md",
+      "song_title": "苍生寂",
+      "claim_creator": "creator:luanyinhexin",
+      "claim_singer": "core:luo-tian-yi, member:yue-zheng-ling",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主luanyinhexin(鸾音鹤信)无法通过可靠来源确认为VOCALOID创作者。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "cankutianshi.md",
+      "song_title": "残酷な天使のテーゼ",
+      "claim_creator": "creator:dannyp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该翻调歌曲条目。原曲为《新世纪福音战士》主题曲。P主DannyP(dannyp)为已知VOCALOID调教师，但该具体翻调作品无法独立验证。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "carlo.md",
+      "song_title": "Carlo",
+      "claim_creator": "creator:zhoucun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://vcpedia.cn/Carlo", "https://moegirl.icu/index.php?title=JUSF周存"],
+      "finding": "VCPedia确认：Carlo由JUSF周存(zhoucun)创作，2015-10-27投稿。但演唱者为乐正绫和言和，并非洛天依。文件P主(zhoucun/周存)正确，但演唱者信息错误。该曲是殿堂曲，星见列曲第二作。",
+      "verified_data": {
+        "bv_number": "av3125102",
+        "moegirl_url": "https://moegirl.icu/index.php?title=JUSF周存",
+        "bilibili_url": "https://www.bilibili.com/video/av3125102/",
+        "confirmed_creator": "JUSF周存(zhoucun)",
+        "confirmed_singer": "乐正绫, 言和(非洛天依)",
+        "confirmed_date": "2015-10-27"
+      }
+    },
+    {
+      "file": "cdadiao.md",
+      "song_title": "C大调",
+      "claim_creator": "creator:weilianghaohao",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl/VCPedia均未找到该歌曲条目。P主weilianghaohao(微凉浩浩)无法通过可靠来源确认为VOCALOID创作者。",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    }
+  ]
+}

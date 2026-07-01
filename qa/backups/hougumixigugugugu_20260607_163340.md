@@ -1,0 +1,35 @@
+# music:hougumixigugugugu
+## 猴咕米戏【咕咕咕咕】
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 猴咕米戏【咕咕咕咕】 |
+| P主 | creator:puke |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出。
+
+### 创作团队
+- **P主/作者**: puke - 中文VOCALOID创作者。
+
+### 歌曲背景
+《猴咕米戏【咕咕咕咕】》是由puke创作、洛天依演唱的VOCALOID中文原创曲，投稿至bilibili。歌曲以轻松幽默的"咕咕"主题为特色。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

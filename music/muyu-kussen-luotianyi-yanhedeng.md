@@ -24,7 +24,7 @@
 - **yanhe (言和)**: 2013年推出的中文VOCALOID虚拟歌手，性别为男性声线女性形象设定，名字取自"言出必行，和而不同"，声线偏向中性的青年音。
 
 ### 创作团队
-- **P主/作者**: Kussen - 中文VOCALOID/ACE Studio创作者，活跃于B站虚拟歌手社区。
+- **P主/作者**: _Kussen_ - 中文VOCALOID/ACE Studio创作者，活跃于B站虚拟歌手社区。
 - **作词**: Kussen
 - **作曲**: Kussen
 - **编曲**: Kussen

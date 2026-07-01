@@ -1,0 +1,35 @@
+# music:laizitiantangdemogui
+## 来自天堂的魔鬼
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 来自天堂的魔鬼 |
+| P主 | creator:bizhijingzhanghaozhuxiao |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 | 2020-04-23 |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 | 1.7万 |
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
+
+### 创作团队
+- **P主/作者**: bizhijingzhanghaozhuxiao - 中文VOCALOID创作者。
+
+### 歌曲背景
+《来自天堂的魔鬼》是由bizhijingzhanghaozhuxiao创作、洛天依演唱的VOCALOID中文翻唱作品，原曲为邓紫棋同名歌曲，于2020年4月23日在bilibili投稿。
+
+该作品以洛天依的声线重新演绎了这首流行歌曲，视频在bilibili累计播放量超过1.7万次。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

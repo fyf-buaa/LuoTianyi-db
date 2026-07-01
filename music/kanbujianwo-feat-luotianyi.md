@@ -23,7 +23,7 @@
 - **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
 
 ### 创作团队
-- **P主/作者**: ChiliChill - 由成员Yu H.和CuSummer组成的二人独立音乐团体，以高质量的音乐制作和独特的创作风格闻名，创作了多首热门VOCALOID原创曲目。
+- **P主/作者**: YuH ChiliChill - 由成员Yu H.和CuSummer组成的二人独立音乐团体，以高质量的音乐制作和独特的创作风格闻名，创作了多首热门VOCALOID原创曲目。
 - **作词**: ChiliChill
 - **作曲**: ChiliChill
 - **编曲**: ChiliChill

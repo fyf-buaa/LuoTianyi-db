@@ -1,0 +1,1065 @@
+﻿{
+    "summary":  {
+                    "partial":  "Files with BV but some discrepancies (shared BV, no 视频ID but BV in source, P name mismatch, etc.)",
+                    "file_not_found":  "Files listed in batch but not found on disk",
+                    "unverifiable":  "Files with no BV/视频ID, cannot be API verified",
+                    "conflict":  "Files with clear data conflicts",
+                    "confirmed":  "Files where BV exists, title contains song name, pubdate matches, view counts consistent"
+                },
+    "entries":  [
+                    {
+                        "filename":  "xianrenwuyu.md",
+                        "slug":  "music:xianrenwuyu",
+                        "song_name":  "闲人物语",
+                        "pzhu":  "creator:jiwuren",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianshimeng.md",
+                        "slug":  "music:xianshimeng",
+                        "song_name":  "闲时梦",
+                        "pzhu":  "creator:huaxiyanxue",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2024-02-11",
+                        "engine":  "ACE Studio",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://zh.moegirl.org.cn/闲时梦",
+                                           "https://www.bilibili.com/video/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianshitaobixuanyanfeatluotianyi.md",
+                        "slug":  "music:xianshitaobixuanyanfeatluotianyi",
+                        "song_name":  "现实逃避宣言（feat.洛天依）",
+                        "pzhu":  "creator:wuli",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili版本未确认，AcFun: ac41306009）",
+                        "play_count":  "（Bilibili数据未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=现实逃避宣言+洛天依",
+                                           "http://www.aixifan.com/v/ac41306009"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（Bilibili版本未确认，AcFun: ac41306009）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xianxiande.md",
+                        "slug":  "music:xianxiande",
+                        "song_name":  "咸咸的",
+                        "pzhu":  "creator:chunbai",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2017-06-16",
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili未直接确认，UP主: 纯白）",
+                        "play_count":  "殿堂曲（超过10万次播放）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://baike.baidu.com/item/咸咸的/21136865",
+                                           "https://search.bilibili.com/all?keyword=咸咸的+洛天依+纯白",
+                                           "https://mzh.moegirl.org.cn/咸咸的"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（Bilibili未直接确认，UP主: 纯白）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xianxianghuahuoyanhua.md",
+                        "slug":  "music:xianxianghuahuoyanhua",
+                        "song_name":  "線香花火（烟花）",
+                        "pzhu":  "creator:pobakep",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2021-08-15",
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili具体BV未确认，OBAKE_P空间: space.bilibili.com/513288122）",
+                        "play_count":  "（未获取到具体数据）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=線香花火+洛天依",
+                                           "https://weibo.com/7500241241/KtzM9eM51",
+                                           "https://space.bilibili.com/513288122/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（Bilibili具体BV未确认，OBAKE_P空间: space.bilibili.com/513288122）\u0027 Source: https://search.bilibili.com/all?keyword=線香花火+洛天依"
+                    },
+                    {
+                        "filename":  "xianxuexunhuan.md",
+                        "slug":  "music:xianxuexunhuan",
+                        "song_name":  "鲜血循环",
+                        "pzhu":  "creator:heibaijun",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  "2016-01-01",
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili具体BV未确认，UP主: 黑白P）",
+                        "play_count":  "殿堂曲（超过10万次播放）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=鲜血循环+洛天依+乐正绫",
+                                           "https://mzh.moegirl.org.cn/鲜血循环"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（Bilibili具体BV未确认，UP主: 黑白P）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xianyuzhihu.md",
+                        "slug":  "music:xianyuzhihu",
+                        "song_name":  "咸鱼之湖",
+                        "pzhu":  "creator:stzhushuang",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=咸鱼之湖+洛天依"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xianzaibodarexiansuding.md",
+                        "slug":  "music:xianzaibodarexiansuding",
+                        "song_name":  "现在拨打热线速订",
+                        "pzhu":  "creator:haixianmian",
+                        "yanchang":  "core:luo-tian-yi, member:yan-he",
+                        "release_date":  "2021-09-04",
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili原视频可能因内容敏感已下架/隐藏）",
+                        "play_count":  "约1,580（网易云音乐MV数据）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/mv?id=14314773",
+                                           "https://search.bilibili.com/all?keyword=现在拨打热线速订+洛天依",
+                                           "https://music.163.com/song?id=1875480558"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（Bilibili原视频可能因内容敏感已下架/隐藏）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaobaitu.md",
+                        "slug":  "music:xiaobaitu",
+                        "song_name":  "小白兔",
+                        "pzhu":  "creator:conglaimeiyouzhongguojiangdesheep",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=小白兔+洛天依"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaobieli.md",
+                        "slug":  "music:xiaobieli",
+                        "song_name":  "小别离",
+                        "pzhu":  "creator:stzhushuang",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到Bilibili具体BV）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=小别离+洛天依+4st",
+                                           "https://music.163.com/song?id=1478462267"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到Bilibili具体BV）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaochengqiu.md",
+                        "slug":  "music:xiaochengqiu",
+                        "song_name":  "小城秋",
+                        "pzhu":  "creator:maerfutazhanghaozhuxiao",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到）",
+                        "play_count":  "536（截至2022年3月28日当周，来源：周刊VOCALOID中文排行榜第503期）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=小城秋+洛天依",
+                                           "https://vcpedia.cn/index.php?title=周刊VOCALOID中文排行榜503"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaochou.md",
+                        "slug":  "music:xiaochou",
+                        "song_name":  "小丑",
+                        "pzhu":  "creator:linchew",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=Linchew+洛天依",
+                                           "https://search.bilibili.com/all?keyword=小丑+洛天依+Linchew"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到）\u0027 Source: https://search.bilibili.com/all?keyword=Linchew+洛天依"
+                    },
+                    {
+                        "filename":  "xiaochou-2.md",
+                        "slug":  "music:xiaochou-2",
+                        "song_name":  "小丑",
+                        "pzhu":  "creator:bushanyancidelin",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "（未获取到）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=小丑+洛天依+不善良的词"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027（未获取到）\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaochoujingranxihuanni.md",
+                        "slug":  "music:xiaochoujingranxihuanni",
+                        "song_name":  "小丑竟然喜欢你",
+                        "pzhu":  "creator:dongdian",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-long-ya",
+                        "release_date":  "2021-01-01",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV19A411p7Vx",
+                        "play_count":  "503,514",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV19A411p7Vx",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV19A411p7Vx",
+                                           "https://search.bilibili.com/all?keyword=小丑竟然喜欢你+洛天依",
+                                           "https://music.163.com/song?id=1834949862"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV19A411p7Vx",
+                                           "title":  "【洛天依原创曲】小丑竟然喜欢你（feat. 乐正龙牙）【手书PV付】",
+                                           "owner":  "动次打次的动点p",
+                                           "pubdate":  "2021-01-01",
+                                           "views":  503521
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:dongdian\u0027, API owner=\u0027动次打次的动点p\u0027"
+                    },
+                    {
+                        "filename":  "xiaochoushidai.md",
+                        "slug":  "music:xiaochoushidai",
+                        "song_name":  "小丑时代",
+                        "pzhu":  "creator:derosliushiyu",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2021年",
+                        "engine":  "vocaloid",
+                        "video_id":  "（Bilibili BV未确认，UP主空间: space.bilibili.com/19164128）",
+                        "play_count":  "（未获取到）",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1Ma411C7Xp",
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1869299565",
+                                           "https://search.bilibili.com/all?keyword=小丑时代+洛天依+DeRos",
+                                           "https://space.bilibili.com/19164128",
+                                           "https://mzh.moegirl.org.cn/盒中人"
+                                       ],
+                        "classification":  "conflict",
+                        "api_result":  {
+                                           "bvid":  "BV1Ma411C7Xp",
+                                           "title":  "【洛天依原创】逃避眼神 ⚠️ 【Live2D PV付】",
+                                           "owner":  "DeRos刘师宇",
+                                           "pubdate":  "2022-02-22",
+                                           "views":  50211
+                                       },
+                        "notes":  "BV points to a completely different song. API title=\u0027【洛天依原创】逃避眼神 ⚠️ 【Live2D PV付】\u0027, song=\u0027小丑时代\u0027. BV may be incorrect."
+                    },
+                    {
+                        "filename":  "xiaochudemonv.md",
+                        "slug":  "music:xiaochudemonv",
+                        "song_name":  "消除的魔女",
+                        "pzhu":  "伊野奏(Ino Kanade)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2023-06-22",
+                        "engine":  "ACE Studio",
+                        "video_id":  "BV1pj411Q7PF",
+                        "play_count":  "ACE殿堂曲(10万+)",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1pj411Q7PF",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1pj411Q7PF",
+                                           "https://music.163.com/program?id=2524787171",
+                                           "https://vcpedia.cn/wiki/消除的魔女"
+                                       ],
+                        "classification":  "confirmed",
+                        "api_result":  {
+                                           "bvid":  "BV1pj411Q7PF",
+                                           "title":  "社畜加班导致文明毁灭！？原创音乐动画《消除的魔女》Feat.洛天依AI",
+                                           "owner":  "伊野奏",
+                                           "pubdate":  "2023-06-22",
+                                           "views":  173932
+                                       },
+                        "notes":  "Title/BV match confirmed. API: \u0027社畜加班导致文明毁灭！？原创音乐动画《消除的魔女》Feat.洛天依AI\u0027 by 伊野奏"
+                    },
+                    {
+                        "filename":  "xiaofengcanyue.md",
+                        "slug":  "music:xiaofengcanyue",
+                        "song_name":  "晓风残月",
+                        "pzhu":  "creator:distantal",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaohaidege.md",
+                        "slug":  "music:xiaohaidege",
+                        "song_name":  "小孩的歌",
+                        "pzhu":  "creator:qingfengjixingmeiyouq(清风疾行)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2024-08-18",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV15NpZeKEAb",
+                        "play_count":  "443,196",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV15NpZeKEAb",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV15NpZeKEAb/",
+                                           "https://www.bilibili.com/video/BV1oxegevE4m/",
+                                           "https://music.163.com/program?id=3061137062"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV15NpZeKEAb",
+                                           "title":  "【洛天依原创曲】小孩的歌【ilem十周年投稿庆典单品】",
+                                           "owner":  "发发owo",
+                                           "pubdate":  "2024-08-18",
+                                           "views":  443451
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:qingfengjixingmeiyouq(清风疾行)\u0027, API owner=\u0027发发owo\u0027"
+                    },
+                    {
+                        "filename":  "xiaohanluotianyi.md",
+                        "slug":  "music:xiaohanluotianyi",
+                        "song_name":  "小寒（洛天依）",
+                        "pzhu":  "creator:regretful-love",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://m.9ku.com/geci/3540612.htm",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaohongzhisi.md",
+                        "slug":  "music:xiaohongzhisi",
+                        "song_name":  "小红之死",
+                        "pzhu":  "creator:kelejun(可乐君/沙雕少年可乐君)",
+                        "yanchang":  "core:luo-tian-yi, member:yan-he",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=2052933392",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaohuachenmodeniao.md",
+                        "slug":  "music:xiaohuachenmodeniao",
+                        "song_name":  "笑话、沉默的鸟",
+                        "pzhu":  "creator:chenlinchuanxianlanghusky(贤狼Husky/沉林川)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2020-04-24",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/",
+                                           "https://music.163.com/song?id=1812600517",
+                                           "https://zh.moegirl.org.cn/%E7%AC%91%E8%AF%9D%E3%80%81%E6%B2%89%E9%BB%98%E7%9A%84%E9%B8%9F"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaojixiaoji-luotianyi-ver.md",
+                        "slug":  "music:xiaojixiaoji-luotianyi-ver",
+                        "song_name":  "小鸡小鸡 (洛天依 ver.)",
+                        "pzhu":  "creator:ludengshigelaodeng",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1fC4y1a7ER(推测)",
+                        "play_count":  "约7,350",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1fC4y1a7ER",
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "conflict",
+                        "api_result":  {
+                                           "bvid":  "BV1fC4y1a7ER",
+                                           "title":  "003s跑大阪 ilil",
+                                           "owner":  "CodE33p",
+                                           "pubdate":  "2020-06-21",
+                                           "views":  162
+                                       },
+                        "notes":  "BV points to a completely different song. API title=\u0027003s跑大阪 ilil\u0027, song=\u0027小鸡小鸡 (洛天依 ver.)\u0027. BV may be incorrect."
+                    },
+                    {
+                        "filename":  "xiaoliyulixianji-luotianyi-ver.md",
+                        "slug":  "music:xiaoliyulixianji-luotianyi-ver",
+                        "song_name":  "小鲤鱼历险记 (洛天依 ver.)",
+                        "pzhu":  "creator:ludengshigelaodeng",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1Ef4y1o78f(推测)",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1Ef4y1o78f",
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "conflict",
+                        "api_result":  {
+                                           "bvid":  "BV1Ef4y1o78f",
+                                           "title":  "DOUYU_6872229_2022_07_01_13_59_10_bilibili",
+                                           "owner":  "bili_8290691",
+                                           "pubdate":  "2022-07-13",
+                                           "views":  7
+                                       },
+                        "notes":  "BV points to a completely different song. API title=\u0027DOUYU_6872229_2022_07_01_13_59_10_bilibili\u0027, song=\u0027小鲤鱼历险记 (洛天依 ver.)\u0027. BV may be incorrect."
+                    },
+                    {
+                        "filename":  "xiao-long-ver.md",
+                        "slug":  "music:xiao-long-ver",
+                        "song_name":  "笑わないでね (Long ver.)",
+                        "pzhu":  "creator:pobakep(PoKeR/扑克)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://weibo.com/1631194973/",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoluobirenherendouxiwangnikaixin.md",
+                        "slug":  "music:xiaoluobirenherendouxiwangnikaixin",
+                        "song_name":  "小洛比任何人都希望你开心",
+                        "pzhu":  "creator:yidengluoeden-ro-swift",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoluolalaver.md",
+                        "slug":  "music:xiaoluolalaver",
+                        "song_name":  "小洛啦啦（2012.ver）",
+                        "pzhu":  "creator:yulidelap",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "待查",
+                        "engine":  "vocaloid",
+                        "video_id":  "待查",
+                        "play_count":  "待查",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=453352621",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027待查\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaomoxianquanshenbian.md",
+                        "slug":  "music:xiaomoxianquanshenbian",
+                        "song_name":  "小魔仙全身变",
+                        "pzhu":  "creator:shentuxiaop",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaomujishaopidan.md",
+                        "slug":  "music:xiaomujishaopidan",
+                        "song_name":  "小母鸡烧皮蛋",
+                        "pzhu":  "creator:yugulubaijiyu",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=2096387906",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoqingge.md",
+                        "slug":  "music:xiaoqingge",
+                        "song_name":  "小情歌",
+                        "pzhu":  "creator:kamiyadawangzhanghaozhuxiao",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoshange.md",
+                        "slug":  "music:xiaoshange",
+                        "song_name":  "小山歌",
+                        "pzhu":  "creator:yongyuanhuanying",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoshayuyouayou.md",
+                        "slug":  "music:xiaoshayuyouayou",
+                        "song_name":  "小鲨鱼游啊游",
+                        "pzhu":  "creator:dizzytc3",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoshideailiuzhedeleiyingwenban.md",
+                        "slug":  "music:xiaoshideailiuzhedeleiyingwenban",
+                        "song_name":  "消逝的爱流着的泪（英文版）",
+                        "pzhu":  "creator:yidengluoeden-ro-swift",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaoshideailiuzhedeleizhongwenban.md",
+                        "slug":  "music:xiaoshideailiuzhedeleizhongwenban",
+                        "song_name":  "消逝的爱流着的泪（中文版）",
+                        "pzhu":  "creator:yidengluoeden-ro-swift",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaotiaowafanzi-qingwayuedui.md",
+                        "slug":  "music:xiaotiaowafanzi-qingwayuedui",
+                        "song_name":  "小跳蛙（翻自 青蛙乐队）",
+                        "pzhu":  "creator:yugulubaijiyu",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "未找到",
+                        "play_count":  "未找到",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027未找到\u0027 Source: h"
+                    },
+                    {
+                        "filename":  "xiaotou.md",
+                        "slug":  "music:xiaotou",
+                        "song_name":  "小偷",
+                        "pzhu":  "creator:henbaoazhi (很薄のA4纸)",
+                        "yanchang":  "member:xing-chen, core:luo-tian-yi",
+                        "release_date":  "2023-04-15",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%81%B7%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E6%98%9F%E5%B0%98",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%81%B7%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E6%98%9F%E5%B0%98"
+                    },
+                    {
+                        "filename":  "xiaotuzidexingqitian.md",
+                        "slug":  "music:xiaotuzidexingqitian",
+                        "song_name":  "小兔子的星期天",
+                        "pzhu":  "creator:huajianyoululai (花间有鹿来)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.kugou.com/mixsong/468eq588.html",
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%85%94%E5%AD%90%E7%9A%84%E6%98%9F%E6%9C%9F%E5%A4%A9%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiangqiushen.md",
+                        "slug":  "music:xiaoxiangqiushen",
+                        "song_name":  "潇湘秋深",
+                        "pzhu":  "creator:lvyegesongzhe (绿叶歌颂者)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E6%BD%87%E6%B9%98%E7%A7%8B%E6%B7%B1%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://music.163.com/song?id=2128154021"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiangqiusheng.md",
+                        "slug":  "music:xiaoxiangqiusheng",
+                        "song_name":  "潇湘秋生",
+                        "pzhu":  "creator:lvyegesongzhe (绿叶歌颂者)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E6%BD%87%E6%B9%98%E7%A7%8B%E7%94%9F%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiangyueguang.md",
+                        "slug":  "music:xiaoxiangyueguang",
+                        "song_name":  "小巷月光",
+                        "pzhu":  "creator:moshanglanyuan (陌上蓝鸢)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2023-03-17",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1BL411k7GZ",
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B7%B7%E6%9C%88%E5%85%89%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://www.bilibili.com/video/BV1BL411k7GZ"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1BL411k7GZ",
+                                           "title":  "【洛天依AI原创】小巷月光（你的回忆里是否也有一条洒满月光的小巷）",
+                                           "owner":  "陌上蓝鸢",
+                                           "pubdate":  "2023-03-17",
+                                           "views":  11294
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:moshanglanyuan (陌上蓝鸢)\u0027, API owner=\u0027陌上蓝鸢\u0027"
+                    },
+                    {
+                        "filename":  "xiaoxiaodemengxiang.md",
+                        "slug":  "music:xiaoxiaodemengxiang",
+                        "song_name":  "小小的梦想",
+                        "pzhu":  "creator:lvyegesongzhe (绿叶歌颂者)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B0%8F%E7%9A%84%E6%A2%A6%E6%83%B3%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiaodexiaomimi.md",
+                        "slug":  "music:xiaoxiaodexiaomimi",
+                        "song_name":  "小小的小秘密",
+                        "pzhu":  "creator:lizzz",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2022-09-24",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B0%8F%E7%9A%84%E5%B0%8F%E7%A7%98%E5%AF%86%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiaorenjianfeat-luotianyilezhengling.md",
+                        "slug":  "music:xiaoxiaorenjianfeat-luotianyilezhengling",
+                        "song_name":  "小小人间（Feat. 洛天依\u0026乐正绫）",
+                        "pzhu":  "creator:xinxian (丶信弦)",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  "2021-03-29",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B0%8F%E4%BA%BA%E9%97%B4%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E4%B9%90%E6%AD%A3%E7%BB%AB"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiaoshenyihongmaolantuqixiachuan.md",
+                        "slug":  "music:xiaoxiaoshenyihongmaolantuqixiachuan",
+                        "song_name":  "小小神医【虹猫蓝兔七侠传】",
+                        "pzhu":  "creator:yishuiuryan (一水uryan)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B0%8F%E7%A5%9E%E5%8C%BB%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiaosinian.md",
+                        "slug":  "music:xiaoxiaosinian",
+                        "song_name":  "小小思念",
+                        "pzhu":  "creator:chunbai (纯白)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2013-12-21",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%B0%8F%E6%80%9D%E5%BF%B5%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://music.163.com/mv?id=5327548"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxingqiure-featluotianyi.md",
+                        "slug":  "music:xiaoxingqiure-featluotianyi",
+                        "song_name":  "小星球RE (feat.洛天依)",
+                        "pzhu":  "creator:qiguaileizi (奇怪雷子)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2023-11-17",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E6%98%9F%E7%90%83RE%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxingxing.md",
+                        "slug":  "music:xiaoxingxing",
+                        "song_name":  "123小星星",
+                        "pzhu":  "creator:shishang (_时尚_)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2024-01-06",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1Ct4y1d728",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1Ct4y1d728",
+                                           "https://search.bilibili.com/all?keyword=123%E5%B0%8F%E6%98%9F%E6%98%9F%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1Ct4y1d728",
+                                           "title":  "【洛天依】《123小星星》——“发射我的小心心 一起去旅行~”【原创PV付】",
+                                           "owner":  "_时尚",
+                                           "pubdate":  "2024-01-06",
+                                           "views":  4211
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:shishang (_时尚_)\u0027, API owner=\u0027_时尚\u0027"
+                    },
+                    {
+                        "filename":  "xiaoxinyuan.md",
+                        "slug":  "music:xiaoxinyuan",
+                        "song_name":  "小心愿",
+                        "pzhu":  "creator:lvyegesongzhe (绿叶歌颂者)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%BF%83%E6%84%BF%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoxiongmaomolemomolemomolemoxiaoxiongmaodeerduodexiaoxiongmaod.md",
+                        "slug":  "music:xiaoxiongmaomolemomolemomolemoxiaoxiongmaodeerduodexiaoxiongmaod",
+                        "song_name":  "小熊猫摸了摸摸了摸摸了摸小熊猫的耳朵的小熊猫的耳朵的小熊猫的耳朵",
+                        "pzhu":  "creator:gexila (鸽稀拉/公兔)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1E14y1o7Eq",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1E14y1o7Eq",
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%86%8A%E7%8C%AB%E6%91%B8%E4%BA%86%E6%91%B8%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1E14y1o7Eq",
+                                           "title":  "小熊猫摸了摸摸了摸摸了摸小熊猫的耳朵的小熊猫的耳朵的小熊猫的耳朵【cover.洛天依】",
+                                           "owner":  "洺知-故犯",
+                                           "pubdate":  "2023-07-05",
+                                           "views":  1915
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:gexila (鸽稀拉/公兔)\u0027, API owner=\u0027洺知-故犯\u0027"
+                    },
+                    {
+                        "filename":  "xiaoyao.md",
+                        "slug":  "music:xiaoyao",
+                        "song_name":  "小遥",
+                        "pzhu":  "creator:yunjiablackberryp (运佳BlackberryP)",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2021-02-13",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%81%A5%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E5%8E%9F%E5%88%9B"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiaoyifanzi-lezhengling.md",
+                        "slug":  "music:xiaoyifanzi-lezhengling",
+                        "song_name":  "笑意（翻自 乐正绫）",
+                        "pzhu":  "creator:shentuxiaop",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2018-08-19",
+                        "engine":  "vocaloid",
+                        "video_id":  "--",
+                        "play_count":  "--",
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1302690314"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "视频ID field has reference text (not a direct BV): \u0027--\u0027"
+                    }
+                ],
+    "report_metadata":  {
+                            "generated_at":  "2026-06-08T00:03:53Z",
+                            "batch_id":  "Batch_076",
+                            "total_files":  50,
+                            "api_endpoint":  "https://api.bilibili.com/x/web-interface/view?bvid={BV}",
+                            "files_checked":  50,
+                            "range":  "xianrenwuyu.md ~ xiaoyifanzi-lezhengling.md"
+                        },
+    "classification_counts":  {
+                                  "partial":  5,
+                                  "file_not_found":  0,
+                                  "unverifiable":  41,
+                                  "conflict":  3,
+                                  "confirmed":  1
+                              }
+}

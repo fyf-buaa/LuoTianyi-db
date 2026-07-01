@@ -23,7 +23,7 @@
 | 视频ID | BV1Je4y1B7u7 |
 | 播放量 | 约9.5万 |
 
-### 描述
+### 歌曲背景
 
 《深蓝（2022版）》是由xiaoyibushixiaoyixiaoyiivac创作由洛天依演唱的vocaloid风格音乐作品。
 

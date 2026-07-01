@@ -1,0 +1,883 @@
+{
+  "report_metadata": {
+    "batch": "Batch_016",
+    "total_files": 50,
+    "generated_at": "2026-06-07",
+    "summary": {
+      "confirmed": 9,
+      "partial": 11,
+      "conflict": 0,
+      "unverifiable": 30,
+      "suspicious": 32
+    },
+    "notes": "2 files (feat-boyin.md, featzhongyin.md) do not exist on disk — marked unverifiable. 1 file name mismatch: user specified 'fanwaipian-wosuoyouyoude.md' but actual file is 'fanwaipian-wosuoyongyoude.md' (用 vs 拥). fanchu.md BV1QY411s7tR returns bilibili API code 62002 (稿件不可见). 9 confirmed via bilibili API. 11 partial (has date and/or BV but incomplete verification). 30 unverifiable (no BV, no date, or file not found). suspicious=true for all unverifiable + partial missing BV."
+  },
+  "results": [
+    {
+      "file": "fake-or-fate.md",
+      "slug": "music:fake-or-fate",
+      "title": "Fake or Fate",
+      "facts": [
+        {"key": "曲名", "value": "Fake or Fate", "source": "file"},
+        {"key": "P主", "value": "邪叫教主 (xiejiaojiaozhu)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接，无法定位具体视频"]
+    },
+    {
+      "file": "fanchu.md",
+      "slug": "music:fanchu",
+      "title": "反刍",
+      "facts": [
+        {"key": "曲名", "value": "反刍", "source": "file"},
+        {"key": "P主", "value": "不善言辞的磷", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2023-02-27", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1QY411s7tR", "source": "file"},
+        {"key": "播放量", "value": "7371", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1QY411s7tR", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CODE 62002: 稿件不可见 — BV ID存在但视频当前不可见/被隐藏"
+      },
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["BV ID存在但bilibili API返回'稿件不可见'(62002)，无法确认视频内容是否匹配"]
+    },
+    {
+      "file": "fanchuzhongzhi.md",
+      "slug": "music:fanchuzhongzhi",
+      "title": "反刍（重置）",
+      "facts": [
+        {"key": "曲名", "value": "反刍（重置）", "source": "file"},
+        {"key": "P主", "value": "不善言辞的磷", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接"]
+    },
+    {
+      "file": "fanfangxiangdezhong.md",
+      "slug": "music:fanfangxiangdezhong",
+      "title": "反方向的钟",
+      "facts": [
+        {"key": "曲名", "value": "反方向的钟", "source": "file"},
+        {"key": "P主", "value": "卡米亚大王（账号注销10065388）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接", "P主账号已注销"]
+    },
+    {
+      "file": "fanfanzhiyin.md",
+      "slug": "music:fanfanzhiyin",
+      "title": "泛泛之音",
+      "facts": [
+        {"key": "曲名", "value": "泛泛之音", "source": "file"},
+        {"key": "P主", "value": "UtaeP", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接"]
+    },
+    {
+      "file": "fangfalun.md",
+      "slug": "music:fangfalun",
+      "title": "方法论",
+      "facts": [
+        {"key": "曲名", "value": "方法论", "source": "file"},
+        {"key": "P主", "value": "A01in", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接"]
+    },
+    {
+      "file": "fangjiale.md",
+      "slug": "music:fangjiale",
+      "title": "放假了",
+      "facts": [
+        {"key": "曲名", "value": "放假了", "source": "file"},
+        {"key": "P主", "value": "彼之境（账号注销8212166）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接", "P主账号已注销"]
+    },
+    {
+      "file": "fangjin.md",
+      "slug": "music:fangjin",
+      "title": "芳尽",
+      "facts": [
+        {"key": "曲名", "value": "芳尽", "source": "file"},
+        {"key": "P主", "value": "4st丶霜 (stzhushuang)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "暂无资料", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源无有效链接"]
+    },
+    {
+      "file": "fangshou.md",
+      "slug": "music:fangshou",
+      "title": "放手",
+      "facts": [
+        {"key": "曲名", "value": "放手", "source": "file"},
+        {"key": "P主", "value": "KunKi114514", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "2023-11-19", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1zC4y1m7ny", "source": "file"},
+        {"key": "播放量", "value": "1.0万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1zC4y1m7ny", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依/乐正绫】《放手》（ACE Cover）, up主KunKi114514, pubdate=1700380800 (2023-11-19 16:00:00 CST), 1.0万播放, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "fangu.md",
+      "slug": "music:fangu",
+      "title": "反骨100%",
+      "facts": [
+        {"key": "曲名", "value": "反骨100%", "source": "file"},
+        {"key": "P主", "value": "伤口P (shangkoup)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供（背景提及2022-04-27补档）", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "5423", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=反骨100%25%20洛天依%20伤口P", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["表格中缺少发行日期（背景文本提及2022-04-27补档发布）", "缺少视频ID/BV", "来源仅为搜索链接，无法定位具体视频"]
+    },
+    {
+      "file": "fanhuachangbianfanzi-lezhengling-2.md",
+      "slug": "music:fanhuachangbianfanzi-lezhengling-2",
+      "title": "繁华唱遍（翻自 乐正绫）",
+      "facts": [
+        {"key": "曲名", "value": "繁华唱遍（翻自 乐正绫）", "source": "file"},
+        {"key": "P主", "value": "TM丶桑桑 (tmzhusangsang)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2019-02-19", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "2742", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=繁华唱遍+TM桑桑+洛天依", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频", "搜索关键词未能找到对应bilibili视频"]
+    },
+    {
+      "file": "fanhuachangbianfanzi-lezhengling-3.md",
+      "slug": "music:fanhuachangbianfanzi-lezhengling-3",
+      "title": "繁华唱遍（翻自 乐正绫）",
+      "facts": [
+        {"key": "曲名", "value": "繁华唱遍（翻自 乐正绫）", "source": "file"},
+        {"key": "P主", "value": "URUUT", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2019-04-30", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1m441147oj", "source": "file"},
+        {"key": "播放量", "value": "2.3万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1m441147oj", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依】繁华唱遍【VOCALOID COVER】, up主URUUT(uid=4750295), pubdate=1556614902 (2019-04-30 17:01:42 CST), 2.3万播放, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "fanjinzhongju.md",
+      "slug": "music:fanjinzhongju",
+      "title": "范进中举",
+      "facts": [
+        {"key": "曲名", "value": "范进中举", "source": "file"},
+        {"key": "P主", "value": "离真_lizhen (lizhenlizhen)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanpaisiyuhuaduo-featluotianyi-yanhe.md",
+      "slug": "music:fanpaisiyuhuaduo-featluotianyi-yanhe",
+      "title": "反派死于话多 feat.洛天依 & 言和",
+      "facts": [
+        {"key": "曲名", "value": "反派死于话多 feat.洛天依 & 言和", "source": "file"},
+        {"key": "P主", "value": "茶壶（iKz_茶壶）", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和", "source": "file"},
+        {"key": "发行日期", "value": "2018-05-31", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1CW411P75z", "source": "file"},
+        {"key": "播放量", "value": "299.6万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1CW411P75z", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依、言和原创曲/PV付】反派死于话多【iKz】(真实童话 Act.3), up主iKz_茶壶(uid=25681), pubdate=1527760833 (2018-05-31 22:00:33 CST), 299.6万播放, 全站排行榜最高第1名, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "fanqie.md",
+      "slug": "music:fanqie",
+      "title": "番茄",
+      "facts": [
+        {"key": "曲名", "value": "番茄", "source": "file"},
+        {"key": "P主", "value": "清风疾行没有q", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanshizhizifanshiduxinglvzhever.md",
+      "slug": "music:fanshizhizifanshiduxinglvzhever",
+      "title": "凡世之子（凡世·独行旅者.ver）",
+      "facts": [
+        {"key": "曲名", "value": "凡世之子（凡世·独行旅者.ver）", "source": "file"},
+        {"key": "P主", "value": "信弦 (xinxian)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanwaipian.md",
+      "slug": "music:fanwaipian",
+      "title": "#番外篇 23:59",
+      "facts": [
+        {"key": "曲名", "value": "#番外篇 23:59", "source": "file"},
+        {"key": "P主", "value": "信弦", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanwaipian-wosuoyongyoude.md",
+      "slug": "music:fanwaipian-wosuoyongyoude",
+      "title": "#番外篇 我所拥有的",
+      "facts": [
+        {"key": "曲名", "value": "#番外篇 我所拥有的", "source": "file"},
+        {"key": "P主", "value": "信弦", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2022-06-15", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1L94y1U7nx", "source": "file"},
+        {"key": "播放量", "value": "6.9万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1L94y1U7nx/", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依原创】我所拥有的（将会有人为你踏过荒丘）, up主丶信弦(uid=74122268), pubdate=1655287200 (2022-06-15 18:00:00 CST), 6.9万播放, 匹配",
+        "notes": "用户列表文件名'fanwaipian-wosuoyouyoude.md'与实际文件'fanwaipian-wosuoyongyoude.md'存在一字偏差(拥→用)"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": ["用户列表文件名与实际存在偏差: 列表写wosuoyouyoude(拥), 实际文件为wosuoyongyoude(用)"]
+    },
+    {
+      "file": "fanwaipian-yunyashangdeguiniaozaigechang.md",
+      "slug": "music:fanwaipian-yunyashangdeguiniaozaigechang",
+      "title": "#番外篇 云崖上的归鸟在歌唱",
+      "facts": [
+        {"key": "曲名", "value": "#番外篇 云崖上的归鸟在歌唱", "source": "file"},
+        {"key": "P主", "value": "信弦", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanxia.md",
+      "slug": "music:fanxia",
+      "title": "返夏",
+      "facts": [
+        {"key": "曲名", "value": "返夏", "source": "file"},
+        {"key": "P主", "value": "COP", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2020-08-16", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1jC4y1t7ac", "source": "file"},
+        {"key": "播放量", "value": "35.7万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1jC4y1t7ac/", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依原创】返夏【手书pv】, up主COPY(uid=396194), pubdate=1597536959 (2020-08-16 10:55:59 CST), 35.7万播放, 词曲调COP, 曲绘唯Tu, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "fanxingmeng.md",
+      "slug": "music:fanxingmeng",
+      "title": "繁星梦",
+      "facts": [
+        {"key": "曲名", "value": "繁星梦", "source": "file"},
+        {"key": "P主", "value": "10_zzzzzz", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fanxingzhixiadeyueding.md",
+      "slug": "music:fanxingzhixiadeyueding",
+      "title": "繁星之下的约定",
+      "facts": [
+        {"key": "曲名", "value": "繁星之下的约定", "source": "file"},
+        {"key": "P主", "value": "只会写芭乐的滑片P", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "2019-06-15", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1r4411V7eq", "source": "file"},
+        {"key": "播放量", "value": "2.9万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1r4411V7eq/", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题★洛天依、乐正绫原创曲—繁星之下的约定【初灵社】, pubdate=1560596448 (2019-06-15 14:00:48 CST), 2.9万播放, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "fanzhuanxianshi-reality.md",
+      "slug": "music:fanzhuanxianshi-reality",
+      "title": "翻转现实 RE_ALITY",
+      "facts": [
+        {"key": "曲名", "value": "翻转现实 RE_ALITY", "source": "file"},
+        {"key": "P主", "value": "盆子君 (penzijun)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "faruxue.md",
+      "slug": "music:faruxue",
+      "title": "发如雪",
+      "facts": [
+        {"key": "曲名", "value": "发如雪", "source": "file"},
+        {"key": "P主", "value": "卡米亚大王（账号注销10065388）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接", "P主账号已注销"]
+    },
+    {
+      "file": "fayixieguoqicpdefeng.md",
+      "slug": "music:fayixieguoqicpdefeng",
+      "title": "发一些过期cp的疯",
+      "facts": [
+        {"key": "曲名", "value": "发一些过期cp的疯", "source": "file"},
+        {"key": "P主", "value": "风绕落花愁", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feat-boyin.md",
+      "slug": "music:feat-boyin",
+      "title": "feat.伯音（推定）",
+      "facts": [
+        {"key": "曲名", "value": "未知（文件不存在）", "source": "file"},
+        {"key": "P主", "value": "未知", "source": "file"},
+        {"key": "演唱", "value": "未知", "source": "file"},
+        {"key": "发行日期", "value": "未知", "source": "file"},
+        {"key": "视频ID/BV", "value": "未知", "source": "file"},
+        {"key": "来源", "value": "文件不存在", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["文件不存在于music/目录中", "无法提取任何事实"]
+    },
+    {
+      "file": "featzhongyin.md",
+      "slug": "music:featzhongyin",
+      "title": "feat.重音（推定）",
+      "facts": [
+        {"key": "曲名", "value": "未知（文件不存在）", "source": "file"},
+        {"key": "P主", "value": "未知", "source": "file"},
+        {"key": "演唱", "value": "未知", "source": "file"},
+        {"key": "发行日期", "value": "未知", "source": "file"},
+        {"key": "视频ID/BV", "value": "未知", "source": "file"},
+        {"key": "来源", "value": "文件不存在", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["文件不存在于music/目录中", "无法提取任何事实"]
+    },
+    {
+      "file": "feichangfeiyi.md",
+      "slug": "music:feichangfeiyi",
+      "title": "非常非议",
+      "facts": [
+        {"key": "曲名", "value": "非常非议", "source": "file"},
+        {"key": "P主", "value": "阿良良木健", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2022-12-25", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供（文件）→ 验证发现BV1Ze4y1L7K4", "source": "external"},
+        {"key": "播放量", "value": "118.0万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=非常非议%20洛天依", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依AI原创曲】非常非议, up主洛天依官方(uid=36081646), 作曲阿良良木健, pubdate=1671937200 (2022-12-25 11:00:00 CST), 118万播放, 匹配",
+        "notes": "文件未记录BV ID但通过搜索发现BV1Ze4y1L7K4"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": ["文件表格中视频ID字段为空，BV ID通过外部验证补充"]
+    },
+    {
+      "file": "feicuisexuanlv.md",
+      "slug": "music:feicuisexuanlv",
+      "title": "翡翠色旋律",
+      "facts": [
+        {"key": "曲名", "value": "翡翠色旋律", "source": "file"},
+        {"key": "P主", "value": "某FFF的V家粉（FFF君）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2016-10-15", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "6.2万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=翡翠色旋律%20洛天依", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频"]
+    },
+    {
+      "file": "feie.md",
+      "slug": "music:feie",
+      "title": "飞蛾",
+      "facts": [
+        {"key": "曲名", "value": "飞蛾", "source": "file"},
+        {"key": "P主", "value": "的确如此如确的", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2025-10-31", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "2.2万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=飞蛾%20洛天依%20的确如此如确的", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频", "发行日期(2025-10-31)为未来日期，存疑"]
+    },
+    {
+      "file": "feiguangque.md",
+      "slug": "music:feiguangque",
+      "title": "飞光阙",
+      "facts": [
+        {"key": "曲名", "value": "飞光阙", "source": "file"},
+        {"key": "P主", "value": "TeddyAster", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 心华", "source": "file"},
+        {"key": "发行日期", "value": "2022-10-07", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "7653", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=飞光阙%20洛天依%20心华", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频"]
+    },
+    {
+      "file": "feihuazhige.md",
+      "slug": "music:feihuazhige",
+      "title": "废话之歌",
+      "facts": [
+        {"key": "曲名", "value": "废话之歌", "source": "file"},
+        {"key": "P主", "value": "WOVOP", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2023-02-24", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "3.7万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=废话之歌%20洛天依%20WOVOP", "source": "file"}
+      ],
+      "external_verification": {
+        "网易云音乐": "存在歌曲《废话之歌》WOVOP/洛天依，但无法确认发行日期"
+      },
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接", "有网易云音乐条目但无bilibili BV确认"]
+    },
+    {
+      "file": "feijichangdeshidianban.md",
+      "slug": "music:feijichangdeshidianban",
+      "title": "飞机场的十点半",
+      "facts": [
+        {"key": "曲名", "value": "飞机场的十点半", "source": "file"},
+        {"key": "P主", "value": "卡米亚大王（账号注销10065388）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2023-11-07", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "2.6万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=飞机场的十点半%20洛天依%20AI", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频", "P主账号已注销", "此为陶喆原曲翻唱，原曲搜索干扰大"]
+    },
+    {
+      "file": "feiniao-2.md",
+      "slug": "music:feiniao-2",
+      "title": "飞鸟",
+      "facts": [
+        {"key": "曲名", "value": "飞鸟", "source": "file"},
+        {"key": "P主", "value": "魚咕噜（摆寄魚）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feirenzibai.md",
+      "slug": "music:feirenzibai",
+      "title": "FEI人自白",
+      "facts": [
+        {"key": "曲名", "value": "FEI人自白", "source": "file"},
+        {"key": "P主", "value": "Kevinz", "source": "file"},
+        {"key": "演唱", "value": "星尘, 洛天依, 乐正绫, 言和", "source": "file"},
+        {"key": "发行日期", "value": "2020-06-28", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供（文件）→ 验证发现BV1oz411e7Ud", "source": "external"},
+        {"key": "播放量", "value": "4.1万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=FEI人自白%20洛天依%20星尘", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api_search": "CONFIRMED: 标题【言和 Ft.乐正绫 洛天依 星尘 原创】FEI人自白【踏云社】, up主Creuzer(uid=3241451), pubdate=1593273959 (2020-06-28 01:25:59 CST), BV1oz411e7Ud",
+        "萌娘百科": "CONFIRMED: FEI人自白条目记载于2020年6月28日投稿，Kevinz作编曲，Creuzer调校"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": ["文件表格中视频ID字段为空，BV ID通过外部验证补充"]
+    },
+    {
+      "file": "feiseyuezhang.md",
+      "slug": "music:feiseyuezhang",
+      "title": "绯色乐章",
+      "facts": [
+        {"key": "曲名", "value": "绯色乐章", "source": "file"},
+        {"key": "P主", "value": "只会写芭乐的滑片P", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feitushijiedenaichaxiaxiang.md",
+      "slug": "music:feitushijiedenaichaxiaxiang",
+      "title": "废土世界的奶茶遐想",
+      "facts": [
+        {"key": "曲名", "value": "废土世界的奶茶遐想", "source": "file"},
+        {"key": "P主", "value": "裕剑流", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-01-19", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "1.6万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=废土世界的奶茶遐想%20裕剑流%20洛天依", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但缺少视频ID/BV", "来源仅为搜索链接，无法直接定位视频"]
+    },
+    {
+      "file": "feiwanjiajuese.md",
+      "slug": "music:feiwanjiajuese",
+      "title": "非玩家角色",
+      "facts": [
+        {"key": "曲名", "value": "非玩家角色", "source": "file"},
+        {"key": "P主", "value": "Grid格子", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2021-02-13", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供（文件）→ 验证发现BV1hX4y1577h", "source": "external"},
+        {"key": "播放量", "value": "62.4万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=非玩家角色%20洛天依%20Grid格子", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_api": "CONFIRMED: 标题【洛天依原创】非玩家角色【pv付】, up主Grid格子(uid=13059937), pubdate=1613214017 (2021-02-13 19:00:17 CST), 62.4万播放, 匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": ["文件表格中视频ID字段为空，BV ID通过外部验证补充"]
+    },
+    {
+      "file": "feixiangdexiaomengdong.md",
+      "slug": "music:feixiangdexiaomengdong",
+      "title": "飞翔的小懵懂",
+      "facts": [
+        {"key": "曲名", "value": "飞翔的小懵懂", "source": "file"},
+        {"key": "P主", "value": "绿叶歌颂者", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feixiangtiantang.md",
+      "slug": "music:feixiangtiantang",
+      "title": "飞向天堂",
+      "facts": [
+        {"key": "曲名", "value": "飞向天堂", "source": "file"},
+        {"key": "P主", "value": "ZvT", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feixuezhuxiangsi.md",
+      "slug": "music:feixuezhuxiangsi",
+      "title": "沸雪煮相思",
+      "facts": [
+        {"key": "曲名", "value": "沸雪煮相思", "source": "file"},
+        {"key": "P主", "value": "Newbiao好梦一场", "source": "file"},
+        {"key": "演唱", "value": "星尘, 洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-11-22", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "26.2万", "source": "file"},
+        {"key": "来源", "value": "https://search.bilibili.com/all?keyword=沸雪煮相思%20星尘%20洛天依", "source": "file"}
+      ],
+      "external_verification": {
+        "网易云音乐": "CONFIRMED: 歌曲'沸雪煮相思'存在, Newbiao好梦一场/洛天依/星尘, 发行日期2024-11-22匹配"
+      },
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期和播放量但缺少视频ID/BV", "来源仅为搜索链接", "网易云音乐确认歌曲存在但无bilibili BV"]
+    },
+    {
+      "file": "feixuspawn.md",
+      "slug": "music:feixuspawn",
+      "title": "废墟Spawn",
+      "facts": [
+        {"key": "曲名", "value": "废墟Spawn", "source": "file"},
+        {"key": "P主", "value": "A01in", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫, 言和", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feizhouqiuzhangvsouhuangyinyangshitongrenge.md",
+      "slug": "music:feizhouqiuzhangvsouhuangyinyangshitongrenge",
+      "title": "非洲酋长VS欧皇（阴阳师同人歌）",
+      "facts": [
+        {"key": "曲名", "value": "非洲酋长VS欧皇（阴阳师同人歌）", "source": "file"},
+        {"key": "P主", "value": "小旭PRO", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fenfanliaoluan.md",
+      "slug": "music:fenfanliaoluan",
+      "title": "纷繁缭乱",
+      "facts": [
+        {"key": "曲名", "value": "纷繁缭乱", "source": "file"},
+        {"key": "P主", "value": "黒白君", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2015-12-03", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "9.9万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但有缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feng-2.md",
+      "slug": "music:feng-2",
+      "title": "楓",
+      "facts": [
+        {"key": "曲名", "value": "楓", "source": "file"},
+        {"key": "P主", "value": "4st丶霜", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feng-3.md",
+      "slug": "music:feng-3",
+      "title": "風",
+      "facts": [
+        {"key": "曲名", "value": "風", "source": "file"},
+        {"key": "P主", "value": "4st丶霜", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "feng-4.md",
+      "slug": "music:feng-4",
+      "title": "枫",
+      "facts": [
+        {"key": "曲名", "value": "枫", "source": "file"},
+        {"key": "P主", "value": "卡米亚大王（账号注销10065388）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接", "P主账号已注销"]
+    },
+    {
+      "file": "fengchengzhezhongwenban.md",
+      "slug": "music:fengchengzhezhongwenban",
+      "title": "おべか（奉承者中文版）",
+      "facts": [
+        {"key": "曲名", "value": "おべか（奉承者中文版）", "source": "file"},
+        {"key": "P主", "value": "没有花香的HANA", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fengchuinawoyeyaochifana.md",
+      "slug": "music:fengchuinawoyeyaochifana",
+      "title": "风吹哪我也要吃饭啊",
+      "facts": [
+        {"key": "曲名", "value": "风吹哪我也要吃饭啊", "source": "file"},
+        {"key": "P主", "value": "魚咕噜（摆寄魚）", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "fengchun.md",
+      "slug": "music:fengchun",
+      "title": "逢春",
+      "facts": [
+        {"key": "曲名", "value": "逢春", "source": "file"},
+        {"key": "P主", "value": "信弦", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    }
+  ]
+}

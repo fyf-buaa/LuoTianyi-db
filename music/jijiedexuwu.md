@@ -23,7 +23,7 @@
 - **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
 
 ### 创作团队
-- **P主/作者**: totoozhanghaoyizhuxiao - 中文VOCALOID创作者，擅长Uplifting Trance风格。
+- **P主/作者**: ToToo（账号已注销11604） - 中文VOCALOID创作者，擅长Uplifting Trance风格。
 - **作词**: 离光
 - **作曲**: ToToo
 - **编曲**: ToToo

@@ -40,6 +40,6 @@
 
 - [bilibili - 【洛天依古风原创曲】【天地入杯】](https://www.bilibili.com/video/BV1Zx411W7eQ)
 
-### 描述
+### 歌曲背景
 
 《天地入杯（天依版）》是由nalanxunfeng创作由洛天依演唱的vocaloid风格音乐作品。

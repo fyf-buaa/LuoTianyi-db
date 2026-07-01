@@ -1,0 +1,392 @@
+{
+  "batch_id": "batch_002",
+  "verified_at": "2026-06-11",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 0,
+    "partially_verified": 8,
+    "unverified": 12
+  },
+  "results": [
+    {
+      "file": "ai-hendanbo.md",
+      "song_title": "爱 很单薄",
+      "claim_creator": "lvyegesongzhe",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Bilibili video ID provided. Web searches for '爱很单薄 洛天依' returned no specific song results. 萌娘百科/VCPedia searches found no entry. The file has no usable source links beyond generic bilibili.com. Unable to confirm existence of this song.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aijiangshangengaimeiren.md",
+      "song_title": "爱江山更爱美人",
+      "claim_creator": "yinghuachuixue",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV16AQiYMEPp, BV13u4y1Y7Qo",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV16AQiYMEPp/",
+        "https://www.bilibili.com/video/BV13u4y1Y7Qo/"
+      ],
+      "finding": "Original song confirmed (小虫作词作曲, 李丽芬原唱 1994). Bilibili links BV16AQiYMEPp and BV13u4y1Y7Qo are listed in file but their content could not be retrieved to confirm they are the specific洛天依 VOCALOID cover by yinghuachuixue. The洛天依翻唱 version itself is unverified externally.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://www.bilibili.com/video/BV16AQiYMEPp/",
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikebukenisuohun.md",
+      "song_title": "【艾可】不可逆_缩混",
+      "claim_creator": "taoli",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Singer discrepancy: claims 演唱=洛天依 but description states this is an 艾可 (Synthesizer V) 翻唱. No Bilibili video ID. Original 不可逆 by 言和 (流绪) exists but this specific 缩混 version by taoli using 艾可 cannot be verified. Web search rate-limited for this query.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikebuwentiansuohun.md",
+      "song_title": "【艾可】不问天_缩混",
+      "claim_creator": "taoli",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV1bf4y1z7Zp",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1bf4y1z7Zp/"
+      ],
+      "finding": "Bilibili link BV1bf4y1z7Zp is provided in the file for the original 八歌姬合唱版. The file claims 洛天依 but the song is described as 艾可缩混翻唱. Singer attribution inconsistent. The original 不问天 multi-singer version exists but the specific 艾可缩混 version by taoli is unverified.",
+      "verified_data": {
+        "bv_number": "BV1bf4y1z7Zp",
+        "moegirl_url": null,
+        "bilibili_url": "https://www.bilibili.com/video/BV1bf4y1z7Zp/",
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikeercisiwang.md",
+      "song_title": "【艾可】二次死亡",
+      "claim_creator": "baitangzhengyilingmofaxizhengyiling",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/zh-hans/%E4%BA%8C%E6%AC%A1%E6%AD%BB%E4%BA%A1"
+      ],
+      "finding": "Original song 二次死亡 by 著小生zoki for 镜音双子 is confirmed on 萌娘百科 (2018-12-26). 白糖の正义铃 is confirmed as a VOCALOID 调教师 on 萌娘百科. However, the specific 艾可 cover version by 白糖の正义铃 cannot be verified through Bilibili or search results. No video ID provided.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/zh-hans/%E4%BA%8C%E6%AC%A1%E6%AD%BB%E4%BA%A1",
+        "bilibili_url": null,
+        "confirmed_creator": "著小生zoki (original)",
+        "confirmed_singer": "镜音双子 (original)",
+        "confirmed_date": "2018-12-26 (original)"
+      }
+    },
+    {
+      "file": "aikejianxingliedengsheng.md",
+      "song_title": "【艾可】碱性劣等生",
+      "claim_creator": "taoli",
+      "claim_singer": "洛天依, 诗岸, 艾可",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [],
+      "finding": "Original song アルカリレットウセイ by かいりきベア for #COMPASS game is well-documented. No Bilibili video ID for this specific Chinese cover. The file claims 洛天依/诗岸/艾可 as singers. The 网易云音乐 link is provided but could not be fully verified through web search.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikekill-my-eyes.md",
+      "song_title": "【艾可】kill my eyes",
+      "claim_creator": "taoli",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Bilibili video ID. Original KILL MY EYES by syapgxm (Sya) for 洛天依 exists but this specific 艾可 cover by taoli cannot be verified. The file has no usable source links beyond generic bilibili.com.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikeliuguangji.md",
+      "song_title": "【艾可】流光记",
+      "claim_creator": "baitangzhengyilingmofaxizhengyiling",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV1vK4y1K7Rw",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1vK4y1K7Rw/",
+        "https://baike.baidu.com/item/流光记/22905374"
+      ],
+      "finding": "Original song 流光记 by 银临 confirmed on 百度百科. Bilibili link BV1vK4y1K7Rw is for 洛天依/海伊多人合唱版, not the specific 艾可 cover. The file claims 洛天依 but the song is described as 艾可 (Synthesizer V) 翻调. Singer attribution inconsistent.",
+      "verified_data": {
+        "bv_number": "BV1vK4y1K7Rw",
+        "moegirl_url": null,
+        "bilibili_url": "https://www.bilibili.com/video/BV1vK4y1K7Rw/",
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aikepaon.md",
+      "song_title": "【艾可】PAON",
+      "claim_creator": "taoli",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV1qs411U7y3",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1qs411U7y3/",
+        "https://zh.moegirl.org.cn/PAON",
+        "https://baike.baidu.com/item/PAON/17929159"
+      ],
+      "finding": "Original song PAON by JUSF周存 is well-documented: BV1qs411U7y3 confirmed, 萌娘百科 PAON entry exists, 百度百科 entry exists. Original is by JUSF周存 (洛天依演唱, 2015-06-18, 殿堂曲). However, the file's claim of P主=taoli (the 艾可 cover artist) vs the original creator=JUSF周存 is a distinction. The specific 艾可 cover version cannot be independently verified.",
+      "verified_data": {
+        "bv_number": "BV1qs411U7y3",
+        "moegirl_url": "https://zh.moegirl.org.cn/PAON",
+        "bilibili_url": "https://www.bilibili.com/video/BV1qs411U7y3/",
+        "confirmed_creator": "JUSF周存 (original)",
+        "confirmed_singer": "洛天依 (original)",
+        "confirmed_date": "2015-06-18 (original)"
+      }
+    },
+    {
+      "file": "aiknow.md",
+      "song_title": "爱Know",
+      "claim_creator": "zhihuixiebaledehuapianp",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E7%88%B1Know"
+      ],
+      "finding": "CRITICAL: 萌娘百科 confirms 爱Know is by **豆腐P** (ToufuP), NOT 'zhihuixiebaledehuapianp' (只会写芭乐的滑片P). P主 attribution in file is INCORRECT. Correct info: 豆腐P, uploaded 2015-10-24, 洛天依演唱, 殿堂曲 (10万+ plays). The song exists and is verified, but with wrong creator claim.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E7%88%B1Know",
+        "bilibili_url": null,
+        "confirmed_creator": "豆腐P",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2015-10-24"
+      }
+    },
+    {
+      "file": "aiqingdancha.md",
+      "song_title": "爱情·淡茶",
+      "claim_creator": "yaoshucqc",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Bilibili video ID. Web searches for '爱情·淡茶 洛天依' returned no results. No entry found in 萌娘百科, VCPedia, or other databases. File has no usable source links beyond generic bilibili.com.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aiqingzuiming.md",
+      "song_title": "爱情罪名",
+      "claim_creator": "yongyuanhuanying",
+      "claim_singer": "洛天依, 言和",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Bilibili video ID. Web searches for '爱情罪名 洛天依 言和' returned no results. No entry found in 萌娘百科, VCPedia, or other databases. File has no usable source links beyond generic bilibili.com.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "airuyangguang.md",
+      "song_title": "爱如阳光",
+      "claim_creator": "kunki114514",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "File itself admits this song '未收录于VCPedia、萌娘百科等中文VOCALOID主流通用数据库'. Web searches for '爱如阳光 洛天依' returned no matching results. P主 KunKi114514 exists (bilibili UID 163104011) but no specific song '爱如阳光' can be attributed to them.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aishishenme.md",
+      "song_title": "爱是什么",
+      "claim_creator": "lvyegesongzhe",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "File itself admits '未收录于萌娘百科、VCPedia等'. Web searches returned no results for this specific song by lvyegesongzhe. The file mentions BV13B14B3EWg but states it is by a different UP主, not lvyegesongzhe.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aiweishengkai.md",
+      "song_title": "爱未盛开",
+      "claim_creator": "yongyuanhuanying",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "File claims release date 2022-05-28 but admits '未收录于萌娘百科或VCPedia'. Web searches for '爱未盛开 洛天依 永远幻影' returned no matching results. Cannot be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aiwuyujingdairichu.md",
+      "song_title": "爱物语：静待日出",
+      "claim_creator": "nashishengxia",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "File itself admits '未收录于萌娘百科、VCPedia等中文VOCALOID主流通用数据库'. Web searches for '爱物语：静待日出 洛天依' returned no results. P主 nashishengxia cannot be located.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aiyanye.md",
+      "song_title": "爱言叶",
+      "claim_creator": "shentuxiaop",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "爱言叶 is a well-known DECO*27 series (初音未来 original on niconico, 2009). File itself questions P主 attribution (shentuxiaop/神兔小P is a known 调教师 but no record of an '爱言叶' song in their catalog). No Bilibili video ID provided. The洛天依 version of this song cannot be verified; P主 attribution likely incorrect.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aiyouduojiandan.md",
+      "song_title": "爱有多简单",
+      "claim_creator": "kelejun",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/Teac"
+      ],
+      "finding": "萌娘百科 Teac page confirms 爱有多简单 is by teac (七彩虹系列 OVA), 洛天依演唱, 投稿日期2016-01-12, 王伊贝作词. CRITICAL: The file's P主 claim of 'kelejun' is INCORRECT - the correct P主 is teac. The file itself notes this discrepancy. Original Bilibili video may have been deleted.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/Teac",
+        "bilibili_url": null,
+        "confirmed_creator": "teac",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2016-01-12"
+      }
+    },
+    {
+      "file": "aizhiguang.md",
+      "song_title": "爱之光",
+      "claim_creator": "xingren",
+      "claim_singer": "洛天依",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://music.163.com/m/song?id=505733972"
+      ],
+      "finding": "网易云音乐 confirms song '爱之光' by 杏仁 (xingren) / 洛天依 (song ID 505733972). P主 杏仁 is confirmed as a VOCALOID 调教师. However, no Bilibili video found, and not listed in 萌娘百科/VCPedia per file's own admission.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "xingren (杏仁)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aizhixiangting.md",
+      "song_title": "爱之箱庭",
+      "claim_creator": "yugulubaijiyu",
+      "claim_singer": "洛天依, 心华",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "File itself admits '未收录于VCPedia、萌娘百科等'. Web searches for '爱之箱庭 洛天依 心华' returned no specific results. P主 yugulubaijiyu cannot be located on Bilibili.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    }
+  ]
+}

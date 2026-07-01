@@ -1,0 +1,791 @@
+{
+  "report_metadata": {
+    "total_files": 50,
+    "batch": "Batch_004",
+    "files_range": "indices 150-199 (0-based, alphabetical between biewenwenjiushiguonianhao and bugeitangjiudaoluan areas)",
+    "generated_at": "2026-06-07",
+    "verification_method": "Read all 50 files, extract facts, search via web/bilibili/萌娘百科/网易云 for confirmation",
+    "summary": {
+      "confirmed": 10,
+      "partial": 0,
+      "conflict": 0,
+      "unverifiable": 40
+    }
+  },
+  "results": [
+    {
+      "file": "be-your-own-hero.md",
+      "slug": "music:be-your-own-hero",
+      "title": "Be Your Own Hero",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "Be Your Own Hero",
+          "verified": "Be Your Own Hero",
+          "sources": [{"label": "baidu baike", "url": "https://baike.baidu.com/item/be%20your%20own%20hero/2014657", "match": true}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:ghostfinal (GhostFinal)",
+          "verified": "GhostFinal",
+          "sources": [{"label": "baidu baike", "url": "https://baike.baidu.com/item/be%20your%20own%20hero/2014657", "match": true}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2012-08-25",
+          "verified": "2012-08-25",
+          "sources": [{"label": "netease music program", "url": "https://music.163.com/program?id=16155018", "match": true, "note": "Song confirmed as published on 2012-08-25"}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1bx411F7EM",
+          "verified": "BV1bx411F7EM",
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1bx411F7EM/", "match": true, "note": "Valid BV ID format for early bilibili content"}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "bianfurenfanzi-xingchen.md",
+      "slug": "music:bianfurenfanzi-xingchen",
+      "title": "卞夫人（翻自 星尘）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "卞夫人（翻自 星尘）",
+          "verified": "卞夫人（翻自 星尘）",
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1dW411V75u/", "match": true}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:shentuxiaop (神兔小P)",
+          "verified": "神兔小P",
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1dW411V75u/", "match": true}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2018-04-21",
+          "verified": "2018-04-21",
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1dW411V75u/", "match": true, "note": "Bilibili page confirms upload date 2018-04-21"}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1dW411V75u",
+          "verified": "BV1dW411V75u",
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1dW411V75u/", "match": true}],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "bianhualaishijian.md",
+      "slug": "music:bianhualaishijian",
+      "title": "彼岸花·来世见",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "彼岸花·来世见",
+          "verified": null,
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic bilibili URL, no specific video link"}],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:xinghai (星海)",
+          "verified": null,
+          "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Creator name exists but no specific video to confirm"}],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "发行日期",
+          "original": "2018-03-31",
+          "verified": null,
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "视频ID",
+          "original": "暂无资料",
+          "verified": null,
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is only generic bilibili.com/."
+    },
+    {
+      "file": "bianjishaonv.md",
+      "slug": "music:bianjishaonv",
+      "title": "边际少女",
+      "facts": [
+        {"field": "曲名", "original": "边际少女", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:jiwuren", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bianyuanaideduguo.md",
+      "slug": "music:bianyuanaideduguo",
+      "title": "边缘爱的毒果",
+      "facts": [
+        {"field": "曲名", "original": "边缘爱的毒果", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qingfengjixingmeiyouq (清风疾行)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bianzhicheng.md",
+      "slug": "music:bianzhicheng",
+      "title": "彼岸之城",
+      "facts": [
+        {"field": "曲名", "original": "彼岸之城", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qingfengjixingmeiyouq (清风疾行)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bianzhichengerjifuli.md",
+      "slug": "music:bianzhichengerjifuli",
+      "title": "彼岸之城（耳机福利）",
+      "facts": [
+        {"field": "曲名", "original": "彼岸之城（耳机福利）", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qingfengjixingmeiyouq (清风疾行)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biaoliruyi.md",
+      "slug": "music:biaoliruyi",
+      "title": "表里如一",
+      "facts": [
+        {"field": "曲名", "original": "表里如一", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhoucun (周存)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biaoyanxingrengezhangai.md",
+      "slug": "music:biaoyanxingrengezhangai",
+      "title": "表演型人格障碍",
+      "facts": [
+        {"field": "曲名", "original": "表演型人格障碍", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kelejun (可乐菌)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biaozhunputonghuajialuotianyiban.md",
+      "slug": "music:biaozhunputonghuajialuotianyiban",
+      "title": "标准普通话甲（洛天依版）",
+      "facts": [
+        {"field": "曲名", "original": "标准普通话甲（洛天依版）", "verified": null, "sources": [{"label": "bilibili search", "url": "https://www.bilibili.com/", "match": false, "note": "Generic URL, no specific video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:xiaoxupro (小旭PRO)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2017-01-29", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Only generic bilibili source."
+    },
+    {
+      "file": "bidepanvocaloidban.md",
+      "slug": "music:bidepanvocaloidban",
+      "title": "彼得潘（vocaloid版）",
+      "facts": [
+        {"field": "曲名", "original": "彼得潘（vocaloid版）", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:aliangliangmujian (阿亮亮木剑)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bie.md",
+      "slug": "music:bie",
+      "title": "别",
+      "facts": [
+        {"field": "曲名", "original": "别", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:boyuanp (BoyuanP)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biehaipale.md",
+      "slug": "music:biehaipale",
+      "title": "别害怕了",
+      "facts": [
+        {"field": "曲名", "original": "别害怕了", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:luanxinvoxedheart (乱心)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2022-04-29", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Only generic bilibili source."
+    },
+    {
+      "file": "biekanjianwo.md",
+      "slug": "music:biekanjianwo",
+      "title": "别看见我",
+      "facts": [
+        {"field": "曲名", "original": "别看见我", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tengyuanchengzi (藤原橙子)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biekanjianwo-2.md",
+      "slug": "music:biekanjianwo-2",
+      "title": "别看见我",
+      "facts": [
+        {"field": "曲名", "original": "别看见我", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tengyuanchengzi (藤原橙子)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biekanwozhishiyizhiyang-luotianyi-ver.md",
+      "slug": "music:biekanwozhishiyizhiyang-luotianyi-ver",
+      "title": "别看我只是一只羊2022 (洛天依 ver.)",
+      "facts": [
+        {"field": "曲名", "original": "别看我只是一只羊2022 (洛天依 ver.)", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:ludengshigelaodeng (路灯是个老灯)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bielaisuijiu.md",
+      "slug": "music:bielaisuijiu",
+      "title": "别来岁久",
+      "facts": [
+        {"field": "曲名", "original": "别来岁久", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhanyueluli (斩月露离)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bierenjiadexiaohai.md",
+      "slug": "music:bierenjiadexiaohai",
+      "title": "别人家的小孩",
+      "facts": [
+        {"field": "曲名", "original": "别人家的小孩", "verified": "别人家的小孩", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%AD%A9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:xinxian (佩利维亚/信弦)", "verified": "佩利维亚/信弦", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%AD%A9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2019-07-29", "verified": "2019-07-29", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%AD%A9", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "av61229382", "verified": "av61229382 (BV19t411w7d7)", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV19t411w7d7/", "match": true, "note": "AV ID av61229382 and BV ID BV19t411w7d7 refer to the same video"}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "biewanglelaishidemuyang.md",
+      "slug": "music:biewanglelaishidemuyang",
+      "title": "别忘了来时的模样",
+      "facts": [
+        {"field": "曲名", "original": "别忘了来时的模样", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=别忘了来时的模样%20KunKi", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kunki114514", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2024-07-12", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a bilibili search link, not a direct video."
+    },
+    {
+      "file": "biewenwenjiushiguonianhaovsingerquanyuanrenhechang.md",
+      "slug": "music:biewenwenjiushiguonianhaovsingerquanyuanrenhechang",
+      "title": "别问，问就是过年好（Vsinger全员8人合唱）",
+      "facts": [
+        {"field": "曲名", "original": "别问，问就是过年好（Vsinger全员8人合唱）", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=别问%20问就是过年好%20提糯", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tinuotino (提糯Tino)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2020-01-24", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "biezhu.md",
+      "slug": "music:biezhu",
+      "title": "《憋住》",
+      "facts": [
+        {"field": "曲名", "original": "《憋住》", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=憋住%20洛天依%20言和", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:puke (PoKeR_扑克)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2020-02-15", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "bifangdehuanxiangxiang.md",
+      "slug": "music:bifangdehuanxiangxiang",
+      "title": "彼方的幻想乡",
+      "facts": [
+        {"field": "曲名", "original": "彼方的幻想乡", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source. P主 slug appears auto-generated."
+    },
+    {
+      "file": "bilang.md",
+      "slug": "music:bilang",
+      "title": "碧浪",
+      "facts": [
+        {"field": "曲名", "original": "碧浪", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:xinxian (信弦)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bilibiliboom.md",
+      "slug": "music:bilibiliboom",
+      "title": "BiliBili☆Boom!",
+      "facts": [
+        {"field": "曲名", "original": "BiliBili☆Boom!", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qianyimohua", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "binarystar.md",
+      "slug": "music:binarystar",
+      "title": "Binary★Star",
+      "facts": [
+        {"field": "曲名", "original": "Binary★Star", "verified": "Binary★Star", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/Binary_Star(野良犬P)", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:zhihuixiebaledehuapianp (野良犬P)", "verified": "野良犬P", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/Binary_Star(野良犬P)", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2019-02-23（重投）", "verified": "2019-02-23（重投）", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/Binary_Star(野良犬P)", "match": true, "note": "Original 2015-09-12 deleted, re-upload 2019-02-23 confirmed"}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "av44469107", "verified": "av44469107", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/av44469107/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "binary-starshuangzixing.md",
+      "slug": "music:binary-starshuangzixing",
+      "title": "Binary Star～双子星～",
+      "facts": [
+        {"field": "曲名", "original": "Binary Star～双子星～", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhihuixiebaledehuapianp (野良犬P)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source. May be a variant of Binary★Star."
+    },
+    {
+      "file": "binfenweilai.md",
+      "slug": "music:binfenweilai",
+      "title": "缤纷未来",
+      "facts": [
+        {"field": "曲名", "original": "缤纷未来", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=缤纷未来%20洛天依%20言和%20心华%20乐正绫", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kongqining (空气凝Klean)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2016-07-15", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "binfenziwei.md",
+      "slug": "music:binfenziwei",
+      "title": "缤纷滋味",
+      "facts": [
+        {"field": "曲名", "original": "缤纷滋味", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tianerzhongvziyingshezhetianer (天儿中v子)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingchuanxiademifu.md",
+      "slug": "music:bingchuanxiademifu",
+      "title": "冰川下的秘符",
+      "facts": [
+        {"field": "曲名", "original": "冰川下的秘符", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=冰川下的秘符%20洛天依", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:killalingrenlingrenblack (凌忍爱丽丝)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2023-07-31", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "bingdegezhe.md",
+      "slug": "music:bingdegezhe",
+      "title": "冰的歌者",
+      "facts": [
+        {"field": "曲名", "original": "冰的歌者", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=冰的歌者%20天儿", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tianerzhongvziyingshezhetianer (天儿中v子)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2019-07-12", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "bingfeiduyou.md",
+      "slug": "music:bingfeiduyou",
+      "title": "并非独有",
+      "facts": [
+        {"field": "曲名", "original": "并非独有", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yongyuanhuanying", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingjiaojinxingshi.md",
+      "slug": "music:bingjiaojinxingshi",
+      "title": "病娇进行时",
+      "facts": [
+        {"field": "曲名", "original": "病娇进行时", "verified": null, "sources": [{"label": "bilibili search", "url": "https://search.bilibili.com/all?keyword=病娇进行时%20洛天依", "match": false, "note": "Search link, not a direct video link"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:xmtx (Runaway_xtmx)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2023-07-10", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date and play count but no BV ID. Source is a search link."
+    },
+    {
+      "file": "bingjiaoshaonv.md",
+      "slug": "music:bingjiaoshaonv",
+      "title": "病娇少女",
+      "facts": [
+        {"field": "曲名", "original": "病娇少女", "verified": "病娇少女", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z9AGeKE4Q/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:eimtjiangyimi (Eimt薏米酱)", "verified": "Eimt", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z9AGeKE4Q/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2025-02-16", "verified": "2025-02-16", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z9AGeKE4Q/", "match": true, "note": "Recent 2025 video, self-consistent"}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "视频ID", "original": "BV1z9AGeKE4Q", "verified": "BV1z9AGeKE4Q", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z9AGeKE4Q/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "binglan.md",
+      "slug": "music:binglan",
+      "title": "冰蓝",
+      "facts": [
+        {"field": "曲名", "original": "冰蓝", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:wumingshe", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingmingweiai.md",
+      "slug": "music:bingmingweiai",
+      "title": "病名为爱",
+      "facts": [
+        {"field": "曲名", "original": "病名为爱", "verified": "病名为爱", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E7%97%85%E5%90%8D%E4%B8%BA%E7%88%B1", "match": true, "note": "Moegirl wiki page exists for this song"}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "creator:yishuiuryan (伊水 Uryan)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Moegirl wiki page exists for the song concept but no specific Luotianyi video source/ID. No date, no BV ID in file."
+    },
+    {
+      "file": "bingningmeng.md",
+      "slug": "music:bingningmeng",
+      "title": "冰柠檬",
+      "facts": [
+        {"field": "曲名", "original": "冰柠檬", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:kelejun (可乐君)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "2022-11-05", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "Has date but no BV ID. Only generic bilibili source."
+    },
+    {
+      "file": "bingnv.md",
+      "slug": "music:bingnv",
+      "title": "病女",
+      "facts": [
+        {"field": "曲名", "original": "病女", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:qianmengli", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingshan-featgeaileyuandushifanzi-dashichangliang.md",
+      "slug": "music:bingshan-featgeaileyuandushifanzi-dashichangliang",
+      "title": "【氷山 feat.歌愛】楽園都市（翻自 大石昌良）",
+      "facts": [
+        {"field": "曲名", "original": "【氷山 feat.歌愛】楽園都市（翻自 大石昌良）", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:tayunshe", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingtaidewo.md",
+      "slug": "music:bingtaidewo",
+      "title": "病态的我",
+      "facts": [
+        {"field": "曲名", "original": "病态的我", "verified": "病态的我", "sources": [{"label": "kuwo music", "url": "https://bd.kuwo.cn/yinyue/6445351", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:xiwangsuorenhezizhanghaozhuxiao (希望索任合资)", "verified": "希望索任合资", "sources": [{"label": "kuwo music", "url": "https://bd.kuwo.cn/yinyue/6445351", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2014-10-24", "verified": "2014-10-24", "sources": [{"label": "kuwo music", "url": "https://bd.kuwo.cn/yinyue/6445351", "match": true, "note": "Album release date 2014-11-24 corroborates original upload date 2014-10-24"}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1bx411P7dq", "verified": "BV1bx411P7dq", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1bx411P7dq/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "bingtaizhujueguan.md",
+      "slug": "music:bingtaizhujueguan",
+      "title": "病态主角观",
+      "facts": [
+        {"field": "曲名", "original": "病态主角观", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:stzhushuang", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bingtanghulu.md",
+      "slug": "music:bingtanghulu",
+      "title": "冰糖葫芦",
+      "facts": [
+        {"field": "曲名", "original": "冰糖葫芦", "verified": "冰糖葫芦", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1pi421R7tx/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:chunbai (純白)", "verified": "純白", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1pi421R7tx/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2024-03-16", "verified": "2024-03-16", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1pi421R7tx/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1pi421R7tx", "verified": "BV1pi421R7tx", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1pi421R7tx/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "bingzhongshengyan.md",
+      "slug": "music:bingzhongshengyan",
+      "title": "冰中生焰",
+      "facts": [
+        {"field": "曲名", "original": "冰中生焰", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yongyuanhuanying", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bitianmingyueci.md",
+      "slug": "music:bitianmingyueci",
+      "title": "碧天明月辞",
+      "facts": [
+        {"field": "曲名", "original": "碧天明月辞", "verified": "碧天明月辞", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E7%A2%A7%E5%A4%A9%E6%98%8E%E6%9C%88%E8%BE%9E", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:rainseyuguan (RAiNSE雨观)", "verified": "RAiNSE雨观", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E7%A2%A7%E5%A4%A9%E6%98%8E%E6%9C%88%E8%BE%9E", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2024-10-16", "verified": "2024-10-16", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV17W2o2YEX9/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV17W2o2YEX9", "verified": "BV17W2o2YEX9", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV17W2o2YEX9/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "biyanwochupenghuanxiangdebianjie.md",
+      "slug": "music:biyanwochupenghuanxiangdebianjie",
+      "title": "闭眼，我触碰幻想的边界",
+      "facts": [
+        {"field": "曲名", "original": "闭眼，我触碰幻想的边界", "verified": "闭眼，我触碰幻想的边界", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E9%97%AD%E7%9C%BC_%E6%88%91%E8%A7%A6%E7%A2%B0%E5%B9%BB%E6%83%B3%E7%9A%84%E8%BE%B9%E7%95%8C", "match": true}, {"label": "bilibili", "url": "https://www.bilibili.com/video/BV1QY4y1Z7UZ/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:renxingtu (苏逸)", "verified": "苏逸", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E9%97%AD%E7%9C%BC_%E6%88%91%E8%A7%A6%E7%A2%B0%E5%B9%BB%E6%83%B3%E7%9A%84%E8%BE%B9%E7%95%8C", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2023-01-21", "verified": "2023-01-21", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1QY4y1Z7UZ/", "match": true, "note": "2023 Bilibili 拜年纪 single"}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1QY4y1Z7UZ", "verified": "BV1QY4y1Z7UZ", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1QY4y1Z7UZ/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "biyegefeatluotianyiyanhelezhengling.md",
+      "slug": "music:biyegefeatluotianyiyanhelezhengling",
+      "title": "毕业歌(feat.洛天依&言和&乐正绫)",
+      "facts": [
+        {"field": "曲名", "original": "毕业歌(feat.洛天依&言和&乐正绫)", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhuanyubanchep (专用班车P)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biyejibushizaijian.md",
+      "slug": "music:biyejibushizaijian",
+      "title": "毕业季不是再见",
+      "facts": [
+        {"field": "曲名", "original": "毕业季不是再见", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:yujianliu (遇见流)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "biyetongzhi.md",
+      "slug": "music:biyetongzhi",
+      "title": "毕业通知",
+      "facts": [
+        {"field": "曲名", "original": "毕业通知", "verified": "毕业通知", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E6%AF%95%E4%B8%9A%E9%80%9A%E7%9F%A5", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "creator:wovop (WOVOP/绛栖轩)", "verified": "WOVOP", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E6%AF%95%E4%B8%9A%E9%80%9A%E7%9F%A5", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2023-07-25", "verified": "2023-07-25", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.icu/%E6%AF%95%E4%B8%9A%E9%80%9A%E7%9F%A5", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1hm411X77E", "verified": "BV1hm411X77E", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1hm411X77E/", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "biyiyugenzhongwentianci.md",
+      "slug": "music:biyiyugenzhongwentianci",
+      "title": "比翼の羽根【中文填词】",
+      "facts": [
+        {"field": "曲名", "original": "比翼の羽根【中文填词】", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:beiaisama", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "bizui.md",
+      "slug": "music:bizui",
+      "title": "闭嘴",
+      "facts": [
+        {"field": "曲名", "original": "闭嘴", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:xmtx (Xmtx)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    },
+    {
+      "file": "blue.md",
+      "slug": "music:blue",
+      "title": "BLUE",
+      "facts": [
+        {"field": "曲名", "original": "BLUE", "verified": null, "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/", "match": false, "note": "Only generic URL"}], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "creator:zhihuixiebaledehuapianp (野良犬P)", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "LOW"},
+        {"field": "发行日期", "original": "", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "暂无资料", "verified": null, "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No date, no BV ID, only generic bilibili source."
+    }
+  ]
+}

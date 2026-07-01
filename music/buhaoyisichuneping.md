@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 流行 |
-| 标签 | 独唱, VOCALOID |
+| 标签 | 独唱, vocaloid |
 | 作词 | 花惜颜雪 |
 | 作曲 | 花惜颜雪 |
 | 编曲 | MORROW |

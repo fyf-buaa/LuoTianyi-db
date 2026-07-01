@@ -1,0 +1,390 @@
+{
+  "batch_id": "batch_010",
+  "verified_at": "2026-06-11",
+  "verification_method": "Bilibili page fetch + Bilibili API search + Moegirl wiki fetch",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 6,
+    "partially_verified": 2,
+    "unverified": 12
+  },
+  "results": [
+    {
+      "file": "bucengtingzhi.md",
+      "song_title": "不曾停止",
+      "claim_creator": "xinxian (信弦)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV1DJ41127UH",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1DJ41127UH",
+        "https://mzh.moegirl.org.cn/index.php?search=不曾停止+洛天依"
+      ],
+      "finding": "Bilibili page confirmed: 信弦 as 策划/词作/曲作/编曲, 洛天依演唱, 2019-11-17, 1.1万播放. All claims match.",
+      "verified_data": {
+        "bv_number": "BV1DJ41127UH",
+        "moegirl_url": null,
+        "bilibili_url": "https://www.bilibili.com/video/BV1DJ41127UH",
+        "confirmed_creator": "信弦 (xinxian)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2019-11-17"
+      }
+    },
+    {
+      "file": "budufanhua.md",
+      "song_title": "不渡繁华",
+      "claim_creator": "xinxian (信弦)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://mzh.moegirl.org.cn/不渡繁华"
+      ],
+      "finding": "Moegirl wiki confirmed: 《不渡繁华》是信弦于2019年7月9日投稿至bilibili的VOCALOID中文原创歌曲, 由洛天依演唱, 望天树系列第一作. File missing date and BV.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://mzh.moegirl.org.cn/不渡繁华",
+        "bilibili_url": null,
+        "confirmed_creator": "信弦 (xinxian)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2019-07-09"
+      }
+    },
+    {
+      "file": "bufu-2.md",
+      "song_title": "不赴",
+      "claim_creator": "linyuansu (林渊素)",
+      "claim_singer": "洛天依, 言和",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for linyuansu's '不赴' with 洛天依 and 言和. Bilibili search yielded no results matching this producer and title combination.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bufu.md",
+      "song_title": "不负",
+      "claim_creator": "zhihuixiebaledehuapianp (智慧写了吧的话篇P)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this specific song by zhihuixiebaledehuapianp.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bufushaoguang.md",
+      "song_title": "不负韶光",
+      "claim_creator": "naonao (闹闹)",
+      "claim_singer": "洛天依, 乐正绫",
+      "claim_videoid": "BV1g54y1V7Ag",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1g54y1V7Ag"
+      ],
+      "finding": "BV confirmed. Bilibili page shows this is a VOCALOID COVER (翻唱), not original. The original human version by hanser & Q酱 was created by 乌龟Sui. naonao is credited as arranger (编曲). File labels it as P主 and original. Date, BV, and singers match but nature is misrepresented.",
+      "verified_data": {
+        "bv_number": "BV1g54y1V7Ag",
+        "moegirl_url": "https://mzh.moegirl.org.cn/index.php?search=不负韶光",
+        "bilibili_url": "https://www.bilibili.com/video/BV1g54y1V7Ag",
+        "confirmed_creator": "闹闹丶 (编曲)",
+        "confirmed_singer": "洛天依, 乐正绫",
+        "confirmed_date": "2021-05-22"
+      }
+    },
+    {
+      "file": "buganlaxiadehua.md",
+      "song_title": "不敢落下的花",
+      "claim_creator": "yeying (夜桜ねん)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "BV14b4y1P7Ha",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV14b4y1P7Ha"
+      ],
+      "finding": "Bilibili page confirmed: 夜桜ねん as 编/曲/混, 洛天依演唱, 2024-01-19, ~0.5万播放. All claims including 作词(由依小鱿鱼), 作曲(夜桜ねん), 编曲(夜桜ねん) confirmed.",
+      "verified_data": {
+        "bv_number": "BV14b4y1P7Ha",
+        "moegirl_url": null,
+        "bilibili_url": "https://www.bilibili.com/video/BV14b4y1P7Ha",
+        "confirmed_creator": "夜桜ねん (yeying)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2024-01-19"
+      }
+    },
+    {
+      "file": "buguanzenmexiangdoushinidecuo.md",
+      "song_title": "不管怎么想...都是你的错！",
+      "claim_creator": "shemilu (涉米麓)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki. Bilibili search for song title + creator did not return matching results.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bugufu.md",
+      "song_title": "不辜负",
+      "claim_creator": "lvyegesongzhe (绿叶歌颂者)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buhuo.md",
+      "song_title": "捕获",
+      "claim_creator": "zhetengdelouloupu (折腾的髅髅噗)",
+      "claim_singer": "洛天依, 言和",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Bilibili search did not find a video matching '捕获' by 折腾的髅髅噗 with 洛天依/言和. Creator exists on Bilibili with other songs (e.g. 零六零五) but this specific song was not located.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bujingzhiyedisibang.md",
+      "song_title": "不静之夜第四棒",
+      "claim_creator": "jingyeshe (静夜社)",
+      "claim_singer": "洛天依, 乐正绫, 言和, 墨清弦",
+      "claim_videoid": null,
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1kJ411Q7ud",
+        "https://mzh.moegirl.org.cn/不静之夜"
+      ],
+      "finding": "Bilibili API confirmed: BV1kJ411Q7ud, 静夜社, 洛天依/乐正绫/言和/心华/星尘/墨清弦, 3.4万播放, 2019-11-30. Moegirl wiki also confirmed. File lists fewer singers (4 vs 6) as Moegirl also includes 心华 and 星尘.",
+      "verified_data": {
+        "bv_number": "BV1kJ411Q7ud",
+        "moegirl_url": "https://mzh.moegirl.org.cn/不静之夜",
+        "bilibili_url": "https://www.bilibili.com/video/BV1kJ411Q7ud",
+        "confirmed_creator": "静夜社 (jingyeshe)",
+        "confirmed_singer": "洛天依, 乐正绫, 言和, 心华, 星尘, 墨清弦",
+        "confirmed_date": "2019-11-30"
+      }
+    },
+    {
+      "file": "bukejiedekongxu.md",
+      "song_title": "不可解的空虚",
+      "claim_creator": "zhihuixiebaledehuapianp (只会写芭乐的滑片P)",
+      "claim_singer": "洛天依, 乐正绫",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bukesiyideshisiyifenzhiyi.md",
+      "song_title": "不可思议的十四亿分之一",
+      "claim_creator": "baiguangraphaelwalty (白光Raphaelwalty)",
+      "claim_singer": "洛天依, 乐正绫",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buli.md",
+      "song_title": "不离",
+      "claim_creator": "yuexingzhitu (月星之兔)",
+      "claim_singer": "洛天依, 乐正绫",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song by yuexingzhitu.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buliehecai-huangmiudehecai.md",
+      "song_title": "不埒な喝采-荒谬的喝彩",
+      "claim_creator": "luoyibugaoxing (珞一总是不高兴)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this specific VOCALOID cover version. The original song by Police Piccadilly exists, but the 洛天依 cover by luoyibugaoxing was not located.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bumiandeng.md",
+      "song_title": "不眠灯",
+      "claim_creator": "zhuxiaoshengzoki (著小生zoki)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1e4411d7pV",
+        "https://mzh.moegirl.org.cn/不眠灯"
+      ],
+      "finding": "Moegirl wiki confirmed: 《不眠灯》是著小生zoki于2021年7月30日投稿至bilibili的VOCALOID中文原创歌曲, 洛天依演唱, 琳琅馆系列第四作. Bilibili search also confirmed with 5.5万播放.",
+      "verified_data": {
+        "bv_number": "BV1e4411d7pV",
+        "moegirl_url": "https://mzh.moegirl.org.cn/不眠灯",
+        "bilibili_url": "https://www.bilibili.com/video/BV1e4411d7pV",
+        "confirmed_creator": "著小生zoki (zhuxiaoshengzoki)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2021-07-30"
+      }
+    },
+    {
+      "file": "bumie.md",
+      "song_title": "不灭",
+      "claim_creator": "xinxian (信弦)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song by xinxian titled '不灭'.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bunny-lullaby.md",
+      "song_title": "bunny lullaby",
+      "claim_creator": "COP",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "COP is a well-known VOCALOID creator, but this specific song 'bunny lullaby' was not found on Bilibili or Moegirl wiki.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buounvhai.md",
+      "song_title": "布偶女孩",
+      "claim_creator": "derosliushiyu (DeRos刘师宇)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No sources found on Bilibili or Moegirl wiki for this song. Creator 刘师宇 exists on Bilibili (食肉世界) but '布偶女孩' not found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buqiyuzhengjiuzhiai.md",
+      "song_title": "不弃与拯救之爱",
+      "claim_creator": "zhoucun (JUSF周存)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "JUSF周存 is a highly prolific and well-known VOCALOID creator, but this specific song '不弃与拯救之爱' was not found on Bilibili or Moegirl wiki.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "buqufanjizhishi.md",
+      "song_title": "不屈.反击之时",
+      "claim_creator": "zhihuixiebaledehuapianp (只会写芭乐的滑片P)",
+      "claim_singer": "洛天依",
+      "claim_videoid": null,
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://mzh.moegirl.org.cn/index.php?search=不屈·反击之时+洛天依"
+      ],
+      "finding": "Moegirl wiki confirmed: '不屈·反击之时' exists as a VOCALOID song by 洛天依, but the creator is 老坛酸菜知了面 (NOT zhihuixiebaledehuapianp as claimed). The file's P主 claim is INCORRECT. Date: 2021-08-06.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://mzh.moegirl.org.cn/index.php?search=不屈·反击之时+洛天依",
+        "bilibili_url": null,
+        "confirmed_creator": "老坛酸菜知了面",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2021-08-06"
+      }
+    }
+  ]
+}

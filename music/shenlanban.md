@@ -23,7 +23,7 @@
 | 视频ID | BV1rL4y1a7ss |
 | 播放量 | 约4.7万 |
 
-### 描述
+### 歌曲背景
 
 《深蓝（2021版）》是由xiaoyibushixiaoyixiaoyiivac创作由洛天依演唱的vocaloid风格音乐作品。
 

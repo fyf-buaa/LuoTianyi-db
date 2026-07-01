@@ -12,14 +12,20 @@
 | 引擎 | vocaloid |
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
 | 视频ID | BV1LT4y1t7Qx |
 | 播放量 | 5.3万 |
+| 字段 | 值 |
+|------|----|
 
 ### 演唱者
 - **luo-tian-yi (洛天依)**: 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
 
 ### 创作团队
-- **P主/作者**: feibukuaidehuiniaofeibukuaidemig（飞不快的灰鸟飞不快的米格） - 中文VOCALOID创作者，活跃于B站。
+- **P主/作者**: feibukuaidehuiniaofeibukuaidemig（飞不快的灰鸟（飞不快的MIG25）） - 中文VOCALOID创作者，活跃于B站。
 
 ### 歌曲背景
 《奈何花落》是由feibukuaidehuiniaofeibukuaidemig创作、洛天依演唱的VOCALOID中文原创歌曲，于2024年1月29日投稿至bilibili。歌曲以花落为意象，旋律带有古风色彩与感伤情绪。截至投稿后在bilibili累计播放量超过5.3万次。

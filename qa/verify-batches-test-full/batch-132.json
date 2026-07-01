@@ -1,0 +1,117 @@
+{
+  "batch_id": "batch-132",
+  "batch_number": 132,
+  "job_count": 2,
+  "priority_classes": [
+    3
+  ],
+  "jobs": [
+    {
+      "job_id": "verify-xintiaotongbudeshiguang-memory-ver",
+      "file": "music\\xintiaotongbudeshiguang-memory-ver.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "心跳同步的时光-Memory Ver.",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-07-19",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "40.9万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 心跳同步的时光-Memory Ver. 洛天依",
+        "bilibili 心跳同步的时光-Memory Ver. VOCALOID"
+      ],
+      "priority": "missing_critical_fields"
+    },
+    {
+      "job_id": "verify-xinyin",
+      "file": "music\\xinyin.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "心音",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.3万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 心音 洛天依",
+        "bilibili 心音 VOCALOID"
+      ],
+      "priority": "missing_critical_fields"
+    }
+  ],
+  "primary_priority": 3
+}

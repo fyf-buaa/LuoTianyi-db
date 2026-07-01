@@ -6,7 +6,7 @@
 |------|----|
 | 曲名 | 洛天依AI-同归世界线（feat.乐正绫V3 - ACE Studio Cover 有参无参试验） |
 | P主 | creator:qingtianxianyun |
-| 演唱 | core:luo-tian-yi, yuezhengling |
+| 演唱 | core:luo-tian-yi, core:yuezhengling |
 | 发行日期 | 2022-06-11 |
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |

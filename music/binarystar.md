@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 流行 |
-| 标签 | 独唱, VOCALOID |
+| 标签 | 独唱, vocaloid |
 | 作词 | 野良犬P |
 | 作曲 | 野良犬P |
 | 编曲 | 野良犬P |
@@ -56,4 +56,4 @@
 
 ### 来源
 - [bilibili](https://www.bilibili.com/video/av44469107/)
-- [moegirl](https://zh.moegirl.icu/Binary_Star(野良犬P))
+- [萌娘百科](https://zh.moegirl.icu/Binary_Star(野良犬P))

@@ -12,13 +12,19 @@
 | 引擎 | vocaloid |
 | 风格 | 燃系 |
 | 标签 | 独唱, VOCALOID |
+| 作词 | 蓝菓Nexus |
+| 作曲 | DOS:Error# (dosmusic / 绷带系DOS) |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
 
 ### 基本信息补充（bilibili来源）
 | 字段 | 值 |
 |------|----|
 | 视频ID（原版） | BV1oW41167xD (av32102084) |
-| 作曲 | DOS:Error# (dosmusic / 绷带系DOS) |
-| 作词 | 蓝菓Nexus |
 | 出品 | bilibili音乐 |
 
 ### 创作团队

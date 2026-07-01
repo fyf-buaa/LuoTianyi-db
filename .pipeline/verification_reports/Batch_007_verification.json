@@ -1,0 +1,765 @@
+{
+  "report_metadata": {
+    "batch": "Batch_007",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 21,
+      "partial": 1,
+      "conflict": 0,
+      "unverifiable": 28
+    },
+    "generated_at": "2026-06-07",
+    "verification_method": "bilibili API (x/web-interface/view) + web search cross-reference"
+  },
+  "results": [
+    {
+      "file": "buzhenshideni.md",
+      "slug": "music:buzhenshideni",
+      "title": "不真实的你",
+      "facts": [
+        {"key": "曲名", "value": "不真实的你", "source": "file"},
+        {"key": "P主", "value": "creator:yijiujiujiuqi", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. No verifiable source found.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "buzhisuoyun.md",
+      "slug": "music:buzhisuoyun",
+      "title": "不知所云",
+      "facts": [
+        {"key": "曲名", "value": "不知所云", "source": "file"},
+        {"key": "P主", "value": "creator:tayunshe", "source": "file"},
+        {"key": "发行日期", "value": "2018-02-23", "source": "file"},
+        {"key": "视频ID", "value": "BV1wW411474z", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1wW411474z/", "source": "file"},
+        {"key": "萌娘百科", "value": "https://zh.moegirl.icu/不知所云", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【乐正绫 洛天依 言和 心华 星尘原创曲】不知所云【pv付】【踏云社】', pubdate=1519373259 (2018-02-23). BV ID and date match. Also linked from 萌娘百科.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "buzhizhe.md",
+      "slug": "music:buzhizhe",
+      "title": "不知者",
+      "facts": [
+        {"key": "曲名", "value": "不知者", "source": "file"},
+        {"key": "P主", "value": "creator:cop", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Author COP is a well-known P主 but song specifics unverifiable without BV ID.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caihongcoverzhoujielun.md",
+      "slug": "music:caihongcoverzhoujielun",
+      "title": "彩虹【cover.周杰伦】",
+      "facts": [
+        {"key": "曲名", "value": "彩虹【cover.周杰伦】", "source": "file"},
+        {"key": "P主", "value": "creator:kamiyadawangzhanghaozhuxiao", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cover song by account with '账号注销' status.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caihongtang.md",
+      "slug": "music:caihongtang",
+      "title": "彩虹糖",
+      "facts": [
+        {"key": "曲名", "value": "彩虹糖", "source": "file"},
+        {"key": "P主", "value": "creator:yishuiuryan", "source": "file"},
+        {"key": "发行日期", "value": "2022-01-29", "source": "file"},
+        {"key": "视频ID", "value": "BV1mY411j7zo", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1mY411j7zo/", "source": "file"},
+        {"key": "萌娘百科", "value": "https://moegirl.icu/index.php?title=彩虹糖", "source": "file"}
+      ],
+      "verification_notes": "bilibili API returned -404 (video not found/deleted). However, 萌娘百科 confirms the song exists with matching details (uploaded 2022-01-29 by 伊水_Uryan for 2022VC贺岁纪). Song is documented but bilibili source is no longer accessible.",
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "caihongzhige.md",
+      "slug": "music:caihongzhige",
+      "title": "彩虹之歌",
+      "facts": [
+        {"key": "曲名", "value": "彩虹之歌", "source": "file"},
+        {"key": "P主", "value": "creator:kelejun", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caiseguiji.md",
+      "slug": "music:caiseguiji",
+      "title": "彩色轨迹",
+      "facts": [
+        {"key": "曲名", "value": "彩色轨迹", "source": "file"},
+        {"key": "P主", "value": "creator:qiguaileizi", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caiwei.md",
+      "slug": "music:caiwei",
+      "title": "采薇",
+      "facts": [
+        {"key": "曲名", "value": "采薇", "source": "file"},
+        {"key": "P主", "value": "creator:wangxilin", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caiwenji.md",
+      "slug": "music:caiwenji",
+      "title": "蔡文姬",
+      "facts": [
+        {"key": "曲名", "value": "蔡文姬", "source": "file"},
+        {"key": "P主", "value": "creator:lyrikp", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caixiuyujunmian.md",
+      "slug": "music:caixiuyujunmian",
+      "title": "彩袖与君眠",
+      "facts": [
+        {"key": "曲名", "value": "彩袖与君眠", "source": "file"},
+        {"key": "P主", "value": "creator:yongyuanhuanying", "source": "file"},
+        {"key": "发行日期", "value": "2017-05-18", "source": "file"},
+        {"key": "视频ID", "value": "BV1Jx411v71z", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Jx411v71z", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创曲】彩袖与君眠【古风】【PV付】', pubdate=1495098048 (2017-05-18). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "caiyunduozhuiriluo.md",
+      "slug": "music:caiyunduozhuiriluo",
+      "title": "踩云朵追日落",
+      "facts": [
+        {"key": "曲名", "value": "踩云朵追日落", "source": "file"},
+        {"key": "P主", "value": "creator:kunki114514", "source": "file"},
+        {"key": "发行日期", "value": "2024-04-16", "source": "file"},
+        {"key": "视频ID", "value": "BV1Fp421X76C", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Fp421X76C", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed (code: 0). Video by KunKi114514. BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "cajian.md",
+      "slug": "music:cajian",
+      "title": "擦肩",
+      "facts": [
+        {"key": "曲名", "value": "擦肩", "source": "file"},
+        {"key": "P主", "value": "creator:qianmengli", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "can.md",
+      "slug": "music:can",
+      "title": "喰",
+      "facts": [
+        {"key": "曲名", "value": "喰", "source": "file"},
+        {"key": "P主", "value": "creator:beiaisama", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "canban.md",
+      "slug": "music:canban",
+      "title": "参半",
+      "facts": [
+        {"key": "曲名", "value": "参半", "source": "file"},
+        {"key": "P主", "value": "creator:lindongwinterp", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. File itself notes '公开渠道尚未找到该歌曲的具体视频链接'. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cang-2.md",
+      "slug": "music:cang-2",
+      "title": "藏",
+      "facts": [
+        {"key": "曲名", "value": "藏", "source": "file"},
+        {"key": "P主", "value": "creator:tmzhusangsang", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "canghaifeichen.md",
+      "slug": "music:canghaifeichen",
+      "title": "沧海飞尘",
+      "facts": [
+        {"key": "曲名", "value": "沧海飞尘", "source": "file"},
+        {"key": "状态", "value": "文件不存在", "source": "filesystem"}
+      ],
+      "verification_notes": "File does not exist in the music directory. Listed filename 'canghaifeichen.md' not found. Only 'canghaifeichen-2.md' exists.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "canghaifeichen-2.md",
+      "slug": "music:canghaifeichen-2",
+      "title": "沧海飞尘",
+      "facts": [
+        {"key": "曲名", "value": "沧海飞尘", "source": "file"},
+        {"key": "P主", "value": "creator:atonyp", "source": "file"},
+        {"key": "发行日期", "value": "2023-12-14", "source": "file"},
+        {"key": "视频ID", "value": "BV1EG411a7id", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1EG411a7id", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依V5Nature】沧海飞尘【VOCALOID COVER】', pubdate=1702556402 (2023-12-14). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "cangjindipingxian.md",
+      "slug": "music:cangjindipingxian",
+      "title": "藏进地平线",
+      "facts": [
+        {"key": "曲名", "value": "藏进地平线", "source": "file"},
+        {"key": "P主", "value": "creator:asaaza", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cangle.md",
+      "slug": "music:cangle",
+      "title": "苍乐",
+      "facts": [
+        {"key": "曲名", "value": "苍乐", "source": "file"},
+        {"key": "P主", "value": "creator:jiwuren", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cangshengji.md",
+      "slug": "music:cangshengji",
+      "title": "苍生寂",
+      "facts": [
+        {"key": "曲名", "value": "苍生寂", "source": "file"},
+        {"key": "P主", "value": "creator:luanyinhexin", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cangzhilizan.md",
+      "slug": "music:cangzhilizan",
+      "title": "苍之礼赞",
+      "facts": [
+        {"key": "曲名", "value": "苍之礼赞", "source": "file"},
+        {"key": "P主", "value": "creator:huazhiji", "source": "file"},
+        {"key": "发行日期", "value": "2012-12-07", "source": "file"},
+        {"key": "视频ID", "value": "BV1rx411F7TW", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1rx411F7TW", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依】苍之礼赞【原创曲PV附✿】', pubdate=1354877746 (2012-12-07). One of the earliest Luo Tianyi original songs. BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "cankutianshi.md",
+      "slug": "music:cankutianshi",
+      "title": "残酷な天使のテーゼ",
+      "facts": [
+        {"key": "曲名", "value": "残酷な天使のテーゼ", "source": "file"},
+        {"key": "P主", "value": "creator:dannyp", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Evangelion cover by DannyP, but cannot verify specific upload.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "caomeibandeni.md",
+      "slug": "music:caomeibandeni",
+      "title": "草莓般的你",
+      "facts": [
+        {"key": "曲名", "value": "草莓般的你", "source": "file"},
+        {"key": "P主", "value": "creator:stzhushuang", "source": "file"},
+        {"key": "发行日期", "value": "2023-10-14", "source": "file"},
+        {"key": "视频ID", "value": "BV1Su411K7WP", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Su411K7WP", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依AI原创】草莓般的你【4st】', pubdate=1697248800 (2023-10-14). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "caomeinaitang.md",
+      "slug": "music:caomeinaitang",
+      "title": "草莓奶糖",
+      "facts": [
+        {"key": "曲名", "value": "草莓奶糖", "source": "file"},
+        {"key": "P主", "value": "creator:wumingshe", "source": "file"},
+        {"key": "发行日期", "value": "2014-07-31", "source": "file"},
+        {"key": "视频ID", "value": "BV1Bx411N7rV", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Bx411N7rV", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】草莓奶糖【无名社也要小清新】', pubdate=1406740718 (2014-07-31). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "carlo.md",
+      "slug": "music:carlo",
+      "title": "Carlo",
+      "facts": [
+        {"key": "曲名", "value": "Carlo", "source": "file"},
+        {"key": "P主", "value": "creator:zhoucun", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Author 周存 is a well-known P主 but song specifics unverifiable without BV ID.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cccp.md",
+      "slug": "music:cccp",
+      "title": "cccp",
+      "facts": [
+        {"key": "曲名", "value": "cccp", "source": "file"},
+        {"key": "P主", "value": "creator:yaoshucqc", "source": "file"},
+        {"key": "发行日期", "value": "2024-05-04", "source": "file"},
+        {"key": "视频ID", "value": "BV1Ns421T7zm", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Ns421T7zm", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创曲】CCCP', pubdate=1714830198 (2024-05-04). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "cdadiao.md",
+      "slug": "music:cdadiao",
+      "title": "C大调",
+      "facts": [
+        {"key": "曲名", "value": "C大调", "source": "file"},
+        {"key": "P主", "value": "creator:weilianghaohao", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cengjingdewoyouwushudemeng.md",
+      "slug": "music:cengjingdewoyouwushudemeng",
+      "title": "曾经的我有无数的梦",
+      "facts": [
+        {"key": "曲名", "value": "曾经的我有无数的梦", "source": "file"},
+        {"key": "P主", "value": "creator:xmtx", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cengweijiushiyou.md",
+      "slug": "music:cengweijiushiyou",
+      "title": "曾为旧事有2.0",
+      "facts": [
+        {"key": "曲名", "value": "曾为旧事有2.0", "source": "file"},
+        {"key": "P主", "value": "creator:moniimone", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chabuduoshitiaoxianyule.md",
+      "slug": "music:chabuduoshitiaoxianyule",
+      "title": "差不多是条咸鱼了",
+      "facts": [
+        {"key": "曲名", "value": "差不多是条咸鱼了", "source": "file"},
+        {"key": "P主", "value": "creator:heibaijun", "source": "file"},
+        {"key": "发行日期", "value": "2016-08-28", "source": "file"},
+        {"key": "视频ID", "value": "BV13s411676b", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV13s411676b", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】差不多是条咸鱼了（PV付）', pubdate=1472349480 (2016-08-28). BV ID and date match. 30.7万 views.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changanlaixin.md",
+      "slug": "music:changanlaixin",
+      "title": "长安来信",
+      "facts": [
+        {"key": "曲名", "value": "长安来信", "source": "file"},
+        {"key": "P主", "value": "creator:zhihuixiebaledehuapianp", "source": "file"},
+        {"key": "发行日期", "value": "2022-10-28", "source": "file"},
+        {"key": "视频ID", "value": "BV1mP4y1S7iv", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1mP4y1S7iv", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【乐正绫/洛天依V5原创】长安来信', pubdate=1666951200 (2022-10-28). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changansiyunchuyinluotianyi.md",
+      "slug": "music:changansiyunchuyinluotianyi",
+      "title": "长安四韵（初音ミク、洛天依）",
+      "facts": [
+        {"key": "曲名", "value": "长安四韵（初音ミク、洛天依）", "source": "file"},
+        {"key": "P主", "value": "creator:regretful-love", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "change.md",
+      "slug": "music:change",
+      "title": "嫦娥",
+      "facts": [
+        {"key": "曲名", "value": "嫦娥", "source": "file"},
+        {"key": "P主", "value": "creator:yinghuachuixue", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "changgeijinyiwei.md",
+      "slug": "music:changgeijinyiwei",
+      "title": "唱给锦依卫",
+      "facts": [
+        {"key": "曲名", "value": "唱给锦依卫", "source": "file"},
+        {"key": "P主", "value": "creator:wovop", "source": "file"},
+        {"key": "发行日期", "value": "2024-07-12", "source": "file"},
+        {"key": "视频ID", "value": "BV1pE421A7mM", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1pE421A7mM", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed code:0 for BV1pE421A7mM. Video published 2024-07-12 (pubdate matches July 12, 2024 - Luo Tianyi's birthday). Cross-checked with bilibili article listing '唱给锦依卫BV1pE421A7mM'. Confirmed as 洛天依十二周年创作 by WOVOP.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changgeishijiedege-featluotianyi.md",
+      "slug": "music:changgeishijiedege-featluotianyi",
+      "title": "唱给世界的歌 feat.洛天依",
+      "facts": [
+        {"key": "曲名", "value": "唱给世界的歌 feat.洛天依", "source": "file"},
+        {"key": "P主", "value": "creator:chahu", "source": "file"},
+        {"key": "发行日期", "value": "2020-10-30", "source": "file"},
+        {"key": "视频ID", "value": "BV1BV411y7We", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1BV411y7We", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】唱给世界的歌', pubdate=1604052001 (2020-10-30). BV ID and date match. 25.8万 views.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changgeiyayingongyuzhong.md",
+      "slug": "music:changgeiyayingongyuzhong",
+      "title": "唱给雅音宫羽·终",
+      "facts": [
+        {"key": "曲名", "value": "唱给雅音宫羽·终", "source": "file"},
+        {"key": "P主", "value": "creator:chunbai", "source": "file"},
+        {"key": "发行日期", "value": "2017-07-12", "source": "file"},
+        {"key": "视频ID", "value": "BV1ix411q7WP", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1ix411q7WP", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依】唱给雅音宫羽·终【原创曲PV付】【洛天依诞生祭】', pubdate=1499817637 (2017-07-12). BV ID and date match. 13.9万 views.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changheyao.md",
+      "slug": "music:changheyao",
+      "title": "长河谣",
+      "facts": [
+        {"key": "曲名", "value": "长河谣", "source": "file"},
+        {"key": "P主", "value": "creator:bingpan", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "changhongxiazhehongmaolantuqixiachuanyuanchuangqihuaxialufeng.md",
+      "slug": "music:changhongxiazhehongmaolantuqixiachuanyuanchuangqihuaxialufeng",
+      "title": "长虹侠者——虹猫蓝兔七侠传原创企划《侠路逢》",
+      "facts": [
+        {"key": "曲名", "value": "长虹侠者——虹猫蓝兔七侠传原创企划《侠路逢》", "source": "file"},
+        {"key": "P主", "value": "creator:yishuiuryan", "source": "file"},
+        {"key": "发行日期", "value": "2020-05-15", "source": "file"},
+        {"key": "视频ID", "value": "BV19C4y1H7Br", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV19C4y1H7Br", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】长虹侠者【虹猫蓝兔七侠传/侠路逢】', pubdate=1589538610 (2020-05-15). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changqingfu.md",
+      "slug": "music:changqingfu",
+      "title": "长青赋",
+      "facts": [
+        {"key": "曲名", "value": "长青赋", "source": "file"},
+        {"key": "P主", "value": "creator:anlingyingqin", "source": "file"},
+        {"key": "发行日期", "value": "2015-07-04", "source": "file"},
+        {"key": "视频ID", "value": "BV1gs411S7Z5", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1gs411S7Z5", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】长青赋【古风PV付】', pubdate=1436009117 (2015-07-04). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changsheng.md",
+      "slug": "music:changsheng",
+      "title": "长生",
+      "facts": [
+        {"key": "曲名", "value": "长生", "source": "file"},
+        {"key": "P主", "value": "creator:linyuansu", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "changtangshi-chunyexiyu.md",
+      "slug": "music:changtangshi-chunyexiyu",
+      "title": "唱唐诗 - 春夜喜雨",
+      "facts": [
+        {"key": "曲名", "value": "唱唐诗 - 春夜喜雨", "source": "file"},
+        {"key": "P主", "value": "creator:duodianyinyue", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "changtangshi-chunyexiyu-zhibinban.md",
+      "slug": "music:changtangshi-chunyexiyu-zhibinban",
+      "title": "唱唐诗 - 春夜喜雨 挚彬版",
+      "facts": [
+        {"key": "曲名", "value": "唱唐诗 - 春夜喜雨 挚彬版", "source": "file"},
+        {"key": "P主", "value": "creator:duodianyinyue", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "changtingbie.md",
+      "slug": "music:changtingbie",
+      "title": "长亭别",
+      "facts": [
+        {"key": "曲名", "value": "长亭别", "source": "file"},
+        {"key": "P主", "value": "creator:qincaizhuroudahuntun", "source": "file"},
+        {"key": "发行日期", "value": "2016-01-01", "source": "file"},
+        {"key": "视频ID", "value": "BV1cs411R7Gv", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1cs411R7Gv", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【原创】《长亭别》——洛天依X乐正绫', pubdate=1451687982 (2016-01-02, one day off from file's 2016-01-01 - timezone diff). BV ID matches.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changyeqiannianfuliulangdiqiu.md",
+      "slug": "music:changyeqiannianfuliulangdiqiu",
+      "title": "长夜千年·赋流浪地球",
+      "facts": [
+        {"key": "曲名", "value": "长夜千年·赋流浪地球", "source": "file"},
+        {"key": "P主", "value": "creator:shiliangzhongzidan", "source": "file"},
+        {"key": "发行日期", "value": "2019-02-04", "source": "file"},
+        {"key": "视频ID", "value": "BV14b411r75V", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV14b411r75V", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【依&尘】长夜千年.赋流浪地球【原曲：风萤月】（赫辛社诞生祭）', pubdate=1549259683 (2019-02-04). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "changyeqingge-2.md",
+      "slug": "music:changyeqingge-2",
+      "title": "长夜情歌",
+      "facts": [
+        {"key": "曲名", "value": "长夜情歌", "source": "file"},
+        {"key": "P主", "value": "creator:yiyezou", "source": "file"},
+        {"key": "发行日期", "value": "2022-05-27", "source": "file"},
+        {"key": "视频ID", "value": "BV1Cg411o7FD", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1Cg411o7FD", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='长夜情歌。洛天依AI原创。送给竭尽全力的你。', pubdate=1653645642 (2022-05-27). BV ID and date match.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chanshiyu.md",
+      "slug": "music:chanshiyu",
+      "title": "蝉时雨",
+      "facts": [
+        {"key": "曲名", "value": "蝉时雨", "source": "file"},
+        {"key": "P主", "value": "creator:zhihuixiebaledehuapianp", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chaochaochaojisuanjishiji.md",
+      "slug": "music:chaochaochaojisuanjishiji",
+      "title": "超超超计算机世纪",
+      "facts": [
+        {"key": "曲名", "value": "超超超计算机世纪", "source": "file"},
+        {"key": "P主", "value": "creator:chordfenjiehexianp", "source": "file"},
+        {"key": "发行日期", "value": "2025", "source": "file"},
+        {"key": "视频ID", "value": "BV1bfg5zvEbB", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1bfg5zvEbB", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】超超超计算机世纪', pubdate=1753110394 (2025-07-21). BV ID matches. File only lists year '2025' as date which is consistent.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chaodaotishaonv.md",
+      "slug": "music:chaodaotishaonv",
+      "title": "超导体少女",
+      "facts": [
+        {"key": "曲名", "value": "超导体少女", "source": "file"},
+        {"key": "P主", "value": "creator:tianerzhongvziyingshezhetianer", "source": "file"},
+        {"key": "发行日期", "value": "", "source": "file"},
+        {"key": "视频ID", "value": "", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/", "source": "file"}
+      ],
+      "verification_notes": "No BV ID or date provided. Only generic bilibili.com URL. Cannot verify.",
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chaofangzhidaotianliang.md",
+      "slug": "music:chaofangzhidaotianliang",
+      "title": "朝が訪れるまで（直到天亮）",
+      "facts": [
+        {"key": "曲名", "value": "朝が訪れるまで（直到天亮）", "source": "file"},
+        {"key": "P主", "value": "creator:pobakep", "source": "file"},
+        {"key": "发行日期", "value": "2021-03-27", "source": "file"},
+        {"key": "视频ID", "value": "BV1b5411P7Pr", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1b5411P7Pr", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='【洛天依原创】朝が訪れるまで【OBAKE_P】', pubdate=1616842805 (2021-03-27). BV ID and date match. Japanese version.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chaofang-zhidaotianliang-zhongwen.md",
+      "slug": "music:chaofang-zhidaotianliang-zhongwen",
+      "title": "朝が訪れるまで（直到天亮）（中文）",
+      "facts": [
+        {"key": "曲名", "value": "朝が訪れるまで（直到天亮）（中文）", "source": "file"},
+        {"key": "P主", "value": "creator:pobakep", "source": "file"},
+        {"key": "发行日期", "value": "2021-03-27", "source": "file"},
+        {"key": "视频ID", "value": "BV1wU4y1Y7TZ", "source": "file"},
+        {"key": "source_url", "value": "https://www.bilibili.com/video/BV1wU4y1Y7TZ", "source": "file"}
+      ],
+      "verification_notes": "bilibili API confirmed: title='中文版【洛天依原创】朝が訪れるまで【OBAKE_P】', pubdate=1616847208 (2021-03-27). BV ID and date match. Chinese version.",
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# music:zhipianren
+## 纸片人
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 纸片人 |
+| P主 | Padi（倔强的苦力怕） |
+| 演唱 | core:洛天依 |
+| 发行日期 | 2023-08-18 |
+| 首发平台 | bilibili |
+| 引擎 | VOCALOID, ACE Studio |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID, ACE Studio, 殿堂曲 |
+| 作词 | Cilcn |
+| 作曲 | 倔强的苦力怕 |
+| 编曲 | 倔强的苦力怕 |
+| 调教 | 亚小琨 |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
+
+### 歌曲背景
+
+《纸片人》是由Padi（倔强的苦力怕）创作由洛天依演唱的VOCALOID&ACE中文原创歌曲，为ilem九周年投稿祭单品。本曲已达成殿堂曲称号（超过10万播放）。
+
+### 创作团队
+
+- 策划/作曲/编曲/混音: 倔强的苦力怕
+- 作词: Cilcn
+- 调教: 亚小琨
+- 曲绘: 音想
+- PV: 和田玉JADE
+
+### 歌曲背景
+
+本曲为倔强的苦力怕于2023年8月18日投稿至bilibili的VOCALOID&ACE中文原创歌曲，作为ilem九周年投稿祭单品。歌曲借ilem的一系列名言展开，着力展现出创作者与虚拟歌手之间的感人羁绊。本曲为VOCALOID中文殿堂曲及ACE中文殿堂曲。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)
+- [VCPedia](https://vcpedia.cn/index.php?title=纸片人)
+- [网易云音乐](https://music.163.com/)

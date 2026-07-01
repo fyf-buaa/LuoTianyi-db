@@ -7,18 +7,21 @@
 | 曲名 | 寻南 |
 | P主 | creator:zhuanyubanchep |
 | 演唱 | core:luo-tian-yi, member:yue-zheng-long-ya |
-| 作词 | 千央央 |
-| 作曲 | 半彻P |
-| 编曲 | Orange Soda |
-| 调教 | 半彻P |
 | 发行日期 |  |
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 国风流行 |
 | 标签 | 合唱, VOCALOID |
+| 作词 | 千央央 |
+| 作曲 | 半彻P |
+| 编曲 | Orange Soda |
+| 调教 | 半彻P |
 | 视频ID | BV1cF41197mf |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
 
-### 描述
+### 歌曲背景
 
 《寻南》是由zhuanyubanchep（半彻P）创作由洛天依演唱、乐正龙牙和声的VOCALOID国风原创音乐作品。
 

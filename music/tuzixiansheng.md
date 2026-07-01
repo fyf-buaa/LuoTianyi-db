@@ -1,4 +1,4 @@
-# music:tuzixiansheng
+﻿# music:tuzixiansheng
 ## 兔子先生
 
 ### 基本信息
@@ -9,7 +9,7 @@
 | 作曲 | 小桦 |
 | 编曲 | 小桦 |
 | 调教 | 科林 |
-| 演唱 | 洛天依 |
+| 演唱 | core:luo-tian-yi |
 | P主 | wumingshe |
 | 视频ID | av2877056 |
 | 播放量 | 殿堂曲 |
@@ -19,7 +19,7 @@
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 《兔子先生》是无名社出品并于2015年9月7日投稿至bilibili的VOCALOID中文原创歌曲，由洛天依演唱，为童年系列第二作及专辑《殿堂III》收录曲。殿堂曲。
 
 ### 演唱者
@@ -37,3 +37,4 @@
 ### 来源
 - [bilibili - av2877056](https://www.bilibili.com/video/av2877056)
 - [萌娘百科](https://zh.moegirl.org.cn/%E5%85%94%E5%AD%90%E5%85%88%E7%94%9F)
+

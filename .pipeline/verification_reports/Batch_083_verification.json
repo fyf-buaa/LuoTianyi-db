@@ -1,0 +1,757 @@
+﻿{
+    "today":  "2026-06-07",
+    "generated_at":  "2026-06-08 00:23:47",
+    "total_files":  50,
+    "batch":  "Batch_083",
+    "summary":  {
+                    "file_not_found":  7,
+                    "confirmed":  4,
+                    "conflict":  1,
+                    "partial":  0,
+                    "unverifiable":  38
+                },
+    "results":  [
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found. File references general bilibili URL without specific video.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "【言洛】归一（Cover 喵☆酱 - 吾恩 - 小坠）",
+                                          "P主":  "creator:yishuiuryan",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanluoguiyicover-miaojiang-wuen-xiaozhui.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "【言洛】山脉（Cover 小爱的妈 - 河图）",
+                                          "P主":  "creator:yishuiuryan",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanluoshanmaicover-xiaoaidema-hetu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "【言洛】问尘（Cover 初音ミク - 洛天依）",
+                                          "P主":  "creator:yishuiuryan",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanluowenchencover-chuyin-luotianyi.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "焰幕",
+                                          "P主":  "creator:tongyetongye",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanmu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "雁丘词",
+                                          "P主":  "creator:qianmengli",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanqiuci.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "confirmed",
+                        "notes":  "All available facts verified against bilibili API. Title, date, view count, and P主 all match.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  "BV1gw411d7Br",
+                                          "播放量":  "殿堂曲（10万+）",
+                                          "曲名":  "演算机",
+                                          "P主":  "creator:dongtang",
+                                          "发行日期":  "2021-07-08"
+                                      },
+                        "file":  "yansuanji.md",
+                        "api_verification":  {
+                                                 "view_match":  "yes - 114115 views confirms 殿堂曲 (10万+)",
+                                                 "api_pubdate":  "2021-07-08",
+                                                 "owner_match":  "yes - 董糖_ matches dongtang/董糖",
+                                                 "date_match":  "yes - pubdate 2021-07-08 matches",
+                                                 "api_owner":  "董糖_",
+                                                 "api_views":  114115,
+                                                 "title_match":  "yes - title contains \u0027演算机\u0027",
+                                                 "api_bvid":  "BV1gw411d7Br",
+                                                 "api_title":  "【洛天依原创曲】演算机"
+                                             }
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "盐酸（水友作词中文版）",
+                                          "P主":  "creator:zhihuixiebaledehuapianp",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yansuanshuiyouzuocizhongwenban.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "沿途的风景",
+                                          "P主":  "creator:kendegui",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yantudefengjing.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yue-zheng-ling",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "烟雨",
+                                          "P主":  "creator:jiwuren",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanyu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yue-zheng-ling",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "烟雨澄砚",
+                                          "P主":  "creator:shuangningyue",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanyuchengyan.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "烟雨行舟（洛天依）",
+                                          "P主":  "creator:regretful-love",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanyuxingzhouluotianyi.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "烟雨行舟（洛天依V5、言和V5）",
+                                          "P主":  "creator:regretful-love",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanyuxingzhouluotianyivyanhev.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "File has date (2023-04-28) but no bilibili video ID. Cannot verify. Sources reference 萌娘百科 and 微博, not bilibili video.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "胭脂酿",
+                                          "P主":  "creator:zhuxiaoshengzoki",
+                                          "发行日期":  "2023-04-28"
+                                      },
+                        "file":  "yanzhiniang.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "conflict",
+                        "notes":  "CONFLICT: File states 演唱=洛天依 but the bilibili source video av4222799 is Rana (ilem\u0027s original). The reference link BV1Nx4y197mP is a 镜音连 cover. No 洛天依 version of this song found in the provided references.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  "av4222799",
+                                          "播放量":  null,
+                                          "曲名":  "燕子",
+                                          "P主":  "creator:ilem",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanzi.md",
+                        "api_verification":  {
+                                                 "BV1Nx4y197mP":  {
+                                                                      "api_owner":  "雪银_Ciol",
+                                                                      "note":  "镜音连 cover, NOT 洛天依",
+                                                                      "api_title":  "【镜音连V4x】燕子 (ilem)【VOCALOID Cover】"
+                                                                  },
+                                                 "av4222799":  {
+                                                                   "api_owner":  "ilem",
+                                                                   "note":  "This video features Rana vocaloid, NOT 洛天依",
+                                                                   "api_pubdate":  "2016-03-29",
+                                                                   "api_title":  "Rana原创《燕子》"
+                                                               },
+                                                 "conflict_detail":  "File claims singer is 洛天依, but av4222799 (ilem\u0027s original) features Rana vocaloid. The BV1Nx4y197mP reference is a 镜音连 cover. Neither source video features 洛天依."
+                                             }
+                    },
+                    {
+                        "classification":  "confirmed",
+                        "notes":  "Confirmed. Title includes 洛天依原创, P主 无名社 matches. 119340 views. Published 2014-12-31.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  "av1845726",
+                                          "播放量":  null,
+                                          "曲名":  "燕子",
+                                          "P主":  "creator:wumingshe",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanzi-2.md",
+                        "api_verification":  {
+                                                 "title_match":  "yes - title contains \u0027洛天依原创\u0027 and \u0027燕子\u0027",
+                                                 "api_bvid":  "BV1Ux411w7eL",
+                                                 "owner_match":  "yes - 无名社 matches wumingshe",
+                                                 "api_title":  "【洛天依原创】燕子【无名社】",
+                                                 "api_pubdate":  "2014-12-31",
+                                                 "api_views":  119340,
+                                                 "api_owner":  "无名社"
+                                             }
+                    },
+                    {
+                        "classification":  "confirmed",
+                        "notes":  "Confirmed. Same song as yanzi-2.md (duplicate entry for same video av1845726). 无名社 燕子.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  "av1845726",
+                                          "播放量":  null,
+                                          "曲名":  "燕子",
+                                          "P主":  "creator:wumingshe",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanzi-3.md",
+                        "api_verification":  {
+                                                 "title_match":  "yes - same video as yanzi-2.md (duplicate entry)",
+                                                 "api_bvid":  "BV1Ux411w7eL",
+                                                 "api_title":  "【洛天依原创】燕子【无名社】",
+                                                 "note":  "This file is a duplicate of yanzi-2.md (same song, same video ID)",
+                                                 "api_pubdate":  "2014-12-31",
+                                                 "api_views":  119340,
+                                                 "api_owner":  "无名社"
+                                             }
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found. References 萌娘百科 series page.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yue-zheng-ling",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "燕子不归",
+                                          "P主":  "creator:huajianyoululai",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yanzibugui.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yao-3.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "遥",
+                                          "P主":  "creator:zhihuixiebaledehuapianp",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yao-4.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found. Has year-only date (2017). References 微博 source.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "妖风缭乱",
+                                          "P主":  "creator:xiejiaojiaozhu",
+                                          "发行日期":  "2017"
+                                      },
+                        "file":  "yaofengliaoluan.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found. References 网易云音乐.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "妖怪之歌",
+                                          "P主":  "creator:kelejun",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yaoguaizhige.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "尧鼠",
+                                          "P主":  "creator:yaoshucqc",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yaoshu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "瑶乡夏",
+                                          "P主":  "creator:maerfutazhanghaozhuxiao",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yaoxiangxia.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "要优雅",
+                                          "P主":  "creator:chunbai",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yaoyouya.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "Has date and play count claims, but no bilibili video ID to verify. References 萌娘百科 page.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  "殿堂曲（10万+）",
+                                          "曲名":  "遥远的相遇",
+                                          "P主":  "creator:yugulubaijiyu",
+                                          "发行日期":  "2020-01-17"
+                                      },
+                        "file":  "yaoyuandexiangyu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "雅俗共不赏",
+                                          "P主":  "creator:banzhijinlan",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yasugongbushang.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yayiyayi.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yayiyayiace-studio-version.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "YEARS (流年)",
+                                          "P主":  "creator:kevinz",
+                                          "发行日期":  null
+                                      },
+                        "file":  "years-liunian.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found. References 网易云音乐 and MidiShow.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yue-zheng-ling",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜的天际线Night Skyline",
+                                          "P主":  "creator:distantal",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yedetianjixiannight-skyline.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜风吹散",
+                                          "P主":  "creator:xiuzhengcaowww",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yefengchuisan.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. 演唱 field is empty in file. References 网易云音乐 and 微博.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  null,
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜更しロマンス（彻夜不眠罗曼史） feat. Saki with. Qingsu",
+                                          "P主":  "creator:zhihuixiebaledehuapianp",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yegengcheyebumianluomanshi-feat-saki-with-qingsu.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yegengcheyebumianluomanshi-feat-sinsy-with-synthv.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yegengcheyebumianluomanshifeatxianjuanlite-withxiaochunliuhua.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. Has date (2021-08-18) but no video to verify. References 萌娘百科 and 网易云.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi, member:yan-he",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜归人（THE-NIGHTER）",
+                                          "P主":  "creator:padi",
+                                          "发行日期":  "2021-08-18"
+                                      },
+                        "file":  "yeguiren.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "confirmed",
+                        "notes":  "All available facts verified. Title, date, and P主 all match API data. 1871 views (播放量 field was empty in file so no conflict).",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  "BV1UG411Y7tb",
+                                          "播放量":  null,
+                                          "曲名":  "夜海",
+                                          "P主":  "creator:yaoshucqc",
+                                          "发行日期":  "2023-12-09"
+                                      },
+                        "file":  "yehai.md",
+                        "api_verification":  {
+                                                 "api_bvid":  "BV1UG411Y7tb",
+                                                 "api_views":  1871,
+                                                 "api_pubdate":  "2023-12-09",
+                                                 "api_owner":  "尧鼠CQC",
+                                                 "date_match":  "yes - pubdate 2023-12-09 matches",
+                                                 "title_match":  "yes - title contains \u0027夜海\u0027",
+                                                 "owner_match":  "yes - 尧鼠CQC matches yaoshucqc",
+                                                 "api_title":  "【洛天依原创曲】夜海"
+                                             }
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. Has date (2016-01-28) but no video to verify. References 网易云音乐.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜海虚荒",
+                                          "P主":  "creator:tianerzhongvziyingshezhetianer",
+                                          "发行日期":  "2016-01-28"
+                                      },
+                        "file":  "yehaixuhuang.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. References 百度百科 and 网易云音乐.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜航星",
+                                          "P主":  "creator:255p",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yehangxing-2.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. Has partial date (2023-07) but no video to verify.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜茧",
+                                          "P主":  "creator:xingyuluofeng",
+                                          "发行日期":  "2023-07"
+                                      },
+                        "file":  "yejian.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yejianchuzucheaikeaiko.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. References 网易云音乐 only.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜间出租车（洛天依·凝）",
+                                          "P主":  "creator:regretful-love (语晓涵)",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yejianchuzucheluotianyining.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. References 网易云音乐 only.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜间出租车 Ver.2（洛天依·凝）",
+                                          "P主":  "creator:regretful-love (语晓涵)",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yejianchuzuche-verluotianyining.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜间醉",
+                                          "P主":  "creator:mousansheng",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yejianzui.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "file_not_found",
+                        "notes":  "File does not exist on disk.",
+                        "extracted":  null,
+                        "file":  "yekonghuabuyuqin.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜空之忆",
+                                          "P主":  "creator:aptfeiguo",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yekongzhiyi.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜里听蝉鸣",
+                                          "P主":  "creator:xiuzhengcaowww",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yelitingchanming.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. References 网易云音乐.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "叶落禅",
+                                          "P主":  "creator:tianerzhongvziyingshezhetianer (映射者天儿)",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yeluochan.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. References 酷狗音乐.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜猫秘话",
+                                          "P主":  "creator:huazhiji (花之祭P)",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yemaomihua.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID found.",
+                        "extracted":  {
+                                          "引擎":  "vocaloid",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜猫子",
+                                          "P主":  "creator:chunbai",
+                                          "发行日期":  null
+                                      },
+                        "file":  "yemaozi.md",
+                        "api_verification":  null
+                    },
+                    {
+                        "classification":  "unverifiable",
+                        "notes":  "No bilibili video ID. Has date (2024-04-14) but no video to verify. References 萌娘百科 entry and general bilibili link.",
+                        "extracted":  {
+                                          "引擎":  "ACE Studio",
+                                          "演唱":  "core:luo-tian-yi",
+                                          "视频ID":  null,
+                                          "播放量":  null,
+                                          "曲名":  "夜幕Negroni",
+                                          "P主":  "creator:mrshan (Mrs_Han)",
+                                          "发行日期":  "2024-04-14"
+                                      },
+                        "file":  "yemunegroni.md",
+                        "api_verification":  null
+                    }
+                ]
+}

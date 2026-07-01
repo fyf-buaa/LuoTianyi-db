@@ -19,7 +19,7 @@
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 
 《世末告白》（在末日来临前告白）是由yeyongyoodori（夜踊_Yoodori）创作由洛天依演唱的vocaloid风格音乐作品。
 

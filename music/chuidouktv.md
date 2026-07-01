@@ -15,8 +15,8 @@
 | 作词 | Nacloud |
 | 作曲 | Linchew |
 | 编曲 | Linchew |
-| 调教 | 暂无资料 |
-| 混音 | 暂无资料 |
+| 调教 |  |
+| 混音 |  |
 | 视频ID | BV1KVpgesEoV |
 | 播放量 | 513 |
 

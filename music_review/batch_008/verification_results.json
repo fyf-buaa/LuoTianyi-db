@@ -1,0 +1,397 @@
+{
+  "batch_id": "batch_008",
+  "verified_at": "2026-06-11",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 3,
+    "partially_verified": 8,
+    "unverified": 9
+  },
+  "results": [
+    {
+      "file": "bie.md",
+      "song_title": "别",
+      "claim_creator": "creator:boyuanp",
+      "claim_singer": "core:luo-tian-yi, member:yue-zheng-ling",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E5%88%AB",
+        "https://search.bilibili.com/all?keyword=%E5%88%AB%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E5%8D%81%E9%87%8D%E5%AD%A4%E7%8B%AC"
+      ],
+      "finding": "Song exists on Moegirl and Bilibili, but P主 claim (boyuanp/BoyuanP) is INCORRECT. Actual UP主 is 十重孤独 (JINX金克丝_什仲). boyuan is listed as 混音, not P主. Singers match (洛天依+乐正绫).",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E5%88%AB",
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%88%AB%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E5%8D%81%E9%87%8D%E5%AD%A4%E7%8B%AC",
+        "confirmed_creator": "十重孤独",
+        "confirmed_singer": "洛天依, 乐正绫",
+        "confirmed_date": "2018-03-06"
+      }
+    },
+    {
+      "file": "biehaipale.md",
+      "song_title": "别害怕了",
+      "claim_creator": "creator:luanxinvoxedheart",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E5%88%AB%E5%AE%B3%E6%80%95%E4%BA%86",
+        "https://search.bilibili.com/all?keyword=%E5%88%AB%E5%AE%B3%E6%80%95%E4%BA%86%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      ],
+      "finding": "All claims match verified sources. Moegirl page confirms UP主:乱心 (luanxinvoxedheart), 2022-04-29, 洛天依. Song is a VOCALOID Chinese 殿堂曲. Bilibili search shows the same.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E5%88%AB%E5%AE%B3%E6%80%95%E4%BA%86",
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E5%AE%B3%E6%80%95%E4%BA%86%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+        "confirmed_creator": "乱心 (luanxinvoxedheart)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2022-04-29"
+      }
+    },
+    {
+      "file": "biekanjianwo-2.md",
+      "song_title": "别看见我",
+      "claim_creator": "creator:tengyuanchengzi",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili video found for this specific song. Search results show '看见我' by JUSF周存 (different song) and '看不见我' by Yu H. (different song). Cannot confirm existence of 别看见我 by 藤原橙子.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "biekanjianwo.md",
+      "song_title": "别看见我",
+      "claim_creator": "creator:tengyuanchengzi",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili video found for this specific song. Search results show '看见我' by JUSF周存 (different song) and '看不见我' by Yu H. (different song). Cannot confirm existence.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "biekanwozhishiyizhiyang-luotianyi-ver.md",
+      "song_title": "别看我只是一只羊2022 (洛天依 ver.)",
+      "claim_creator": "creator:ludengshigelaodeng",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E5%88%AB%E7%9C%8B%E6%88%91%E5%8F%AA%E6%98%AF%E4%B8%80%E5%8F%AA%E7%BE%8A%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E8%B7%AF%E7%81%AF"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依】别看我只是一只羊2022(喜羊羊与灰太狼主题曲翻调)【路灯P】A_路灯 · 2022-01-14'. Creator (路灯P/ludengshigelaodeng), singer (洛天依), and style (翻唱) all match.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E7%9C%8B%E6%88%91%E5%8F%AA%E6%98%AF%E4%B8%80%E5%8F%AA%E7%BE%8A%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E8%B7%AF%E7%81%AF",
+        "confirmed_creator": "路灯P (ludengshigelaodeng)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2022-01-14"
+      }
+    },
+    {
+      "file": "bielaisuijiu.md",
+      "song_title": "别来岁久",
+      "claim_creator": "creator:zhanyueluli",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili video found for this song. Search queries returned no relevant results for '别来岁久' by 斩月露离.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "biewanglelaishidemuyang.md",
+      "song_title": "别忘了来时的模样",
+      "claim_creator": "creator:kunki114514",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E5%88%AB%E5%BF%98%E4%BA%86%E6%9D%A5%E6%97%B6%E7%9A%84%E6%A8%A1%E6%A0%B7%20KunKi"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依十二周年生贺】'未来也要与你一起携手同行'|《别忘了来时的模样》KunKi114514 · 2024-07-12' (1.2万 views). Creator, singer, and date match. However, no Moegirl page found for this song.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E5%BF%98%E4%BA%86%E6%9D%A5%E6%97%B6%E7%9A%84%E6%A8%A1%E6%A0%B7%20KunKi",
+        "confirmed_creator": "KunKi114514",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2024-07-12"
+      }
+    },
+    {
+      "file": "biewenwenjiushiguonianhaovsingerquanyuanrenhechang.md",
+      "song_title": "别问，问就是过年好（Vsinger全员8人合唱）",
+      "claim_creator": "creator:tinuotino",
+      "claim_singer": "member:xing-chen, core:luo-tian-yi, member:yue-zheng-ling, member:yue-zheng-long-ya, member:yan-he, member:mo-qing-xian, member:xin-hua",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E5%88%AB%E9%97%AE%20%E9%97%AE%E5%B0%B1%E6%98%AF%E8%BF%87%E5%B9%B4%E5%A5%BD%20%E6%8F%90%E7%B3%AF"
+      ],
+      "finding": "Bilibili search mentions the creator 提糯Tino (tinuotino) in context of Vsinger content, but the specific search did not return direct video results for this song. File claims 2020-01-24 date and Vsinger全员内容 which is consistent with 提糯Tino's style. No Moegirl page found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E9%97%AE%20%E9%97%AE%E5%B0%B1%E6%98%AF%E8%BF%87%E5%B9%B4%E5%A5%BD%20%E6%8F%90%E7%B3%AF",
+        "confirmed_creator": "提糯Tino",
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "biezhu.md",
+      "song_title": "《憋住》",
+      "claim_creator": "creator:puke",
+      "claim_singer": "core:luo-tian-yi, member:yan-he",
+      "claim_videoid": "暂无资料",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E6%86%8B%E4%BD%8F",
+        "https://search.bilibili.com/all?keyword=%E6%86%8B%E4%BD%8F%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20PoKeR"
+      ],
+      "finding": "Moegirl page confirms: UP主 PoKeR, 2020-02-15, 洛天依 (主唱) + 言和 (念白). Bilibili search also confirms. Creator slug 'puke' maps to PoKeR_扑克. All claims verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E6%86%8B%E4%BD%8F",
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E6%86%8B%E4%BD%8F%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20PoKeR",
+        "confirmed_creator": "PoKeR (puke/PoKeR_扑克)",
+        "confirmed_singer": "洛天依, 言和",
+        "confirmed_date": "2020-02-15"
+      }
+    },
+    {
+      "file": "bifangdehuanxiangxiang.md",
+      "song_title": "彼方的幻想乡",
+      "claim_creator": "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No matching Bilibili or Moegirl results. Search found a '彼方的幻想乡' song but it's a Touhou/Eastern Project song, not a Luo Tianyi VOCALOID original. The extremely long and complex creator slug is suspicious.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bilang.md",
+      "song_title": "碧浪",
+      "claim_creator": "creator:xinxian",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No matching Bilibili or Moegirl results for '碧浪' by 信弦 (xinxian). Bilibili search for '碧浪 洛天依' returned no relevant results.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bilibiliboom.md",
+      "song_title": "BiliBili☆Boom!",
+      "claim_creator": "creator:qianyimohua",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=BiliBiliBoom%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20GhostFinalX"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依】BiliBili☆Boom【GhostFinalX潜移默化】【咏吟轩】 · 2013-10-25' (11万 views). The creator slug 'qianyimohua' appears to correspond to '潜移默化' (Qián Yí Mò Huà), though the character matching is not exact. Song and singer confirmed.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=BiliBiliBoom%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20GhostFinalX",
+        "confirmed_creator": "GhostFinalX/潜移默化",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2013-10-25"
+      }
+    },
+    {
+      "file": "binary-starshuangzixing.md",
+      "song_title": "Binary Star～双子星～",
+      "claim_creator": "creator:zhihuixiebaledehuapianp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No clear Bilibili or Moegirl results for this specific song. Bilibili search found a generic 'Binary Star (TVsize)' cover but not the claimed version by 野良犬P. The creator zhihuixiebaledehuapianp (野良犬P) is known, but this particular song cannot be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "binfenweilai.md",
+      "song_title": "缤纷未来",
+      "claim_creator": "creator:kongqining",
+      "claim_singer": "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he, member:xin-hua",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E7%BC%A4%E7%BA%B7%E6%9C%AA%E6%9D%A5%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E7%A9%BA%E6%B0%94%E5%87%9D"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依x言和x心华x乐正绫原创】缤纷未来空气凝Klean · 2016-07-15' (1.4万 views). Creator (空气凝Klean), date, and all 4 singers match the claims. No Moegirl page found (404).",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E7%BC%A4%E7%BA%B7%E6%9C%AA%E6%9D%A5%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E7%A9%BA%E6%B0%94%E5%87%9D",
+        "confirmed_creator": "空气凝Klean (kongqining)",
+        "confirmed_singer": "洛天依, 言和, 心华, 乐正绫",
+        "confirmed_date": "2016-07-15"
+      }
+    },
+    {
+      "file": "binfenziwei.md",
+      "song_title": "缤纷滋味",
+      "claim_creator": "creator:tianerzhongvziyingshezhetianer",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No matching Bilibili or Moegirl results for '缤纷滋味' by 天儿中v子. While the creator is known for other songs (冰的歌者), this specific song cannot be confirmed.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bingchuanxiademifu.md",
+      "song_title": "冰川下的秘符",
+      "claim_creator": "creator:killalingrenlingrenblack",
+      "claim_singer": "core:luo-tian-yi, member:yan-he",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E5%86%B0%E5%B7%9D%E4%B8%8B%E7%9A%84%E7%A7%98%E7%AC%A6%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+      ],
+      "finding": "Bilibili search confirms: '【言和洛天依原创】冰川下的秘符【oc世界观·异类重生系列】凌忍爱丽丝 · 2023-07-31' (1.5万 views). Creator (凌忍爱丽丝/killalingrenlingrenblack), date (2023-07-31), and singers (洛天依+言和) all match. No Moegirl page found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%86%B0%E5%B7%9D%E4%B8%8B%E7%9A%84%E7%A7%98%E7%AC%A6%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+        "confirmed_creator": "凌忍爱丽丝 (killalingrenlingrenblack)",
+        "confirmed_singer": "洛天依, 言和",
+        "confirmed_date": "2023-07-31"
+      }
+    },
+    {
+      "file": "bingdegezhe.md",
+      "song_title": "冰的歌者",
+      "claim_creator": "creator:tianerzhongvziyingshezhetianer",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E5%86%B0%E7%9A%84%E6%AD%8C%E8%80%85%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E5%A4%A9%E5%84%BF"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依原创曲】冰的歌者（生贺2019）【天儿】天儿中v子 · 2019-07-12' (1.29万 views). Creator (天儿中v子), date (2019-07-12), and singer (洛天依) all match. No Moegirl page found (404).",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E5%86%B0%E7%9A%84%E6%AD%8C%E8%80%85%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20%E5%A4%A9%E5%84%BF",
+        "confirmed_creator": "天儿中v子 (tianerzhongvziyingshezhetianer)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2019-07-12"
+      }
+    },
+    {
+      "file": "bingfeiduyou.md",
+      "song_title": "并非独有",
+      "claim_creator": "creator:yongyuanhuanying",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No matching Bilibili or Moegirl results for '并非独有' by yongyuanhuanying. Could not find this song on any platform.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bingjiaojinxingshi.md",
+      "song_title": "病娇进行时",
+      "claim_creator": "creator:xmtx",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://search.bilibili.com/all?keyword=%E7%97%85%E5%AC%8C%E8%BF%9B%E8%A1%8C%E6%97%B6%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20Xmtx"
+      ],
+      "finding": "Bilibili search confirms: '【洛天依】💖才……才不想这样独占你💖——《病娇进行时》Runaway_xtmx · 2023-07-10' (11.3万 views). Creator (Runaway_xtmx/Xmtx), date (2023-07-10), and singer (洛天依) all match. No Moegirl page found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://search.bilibili.com/all?keyword=%E7%97%85%E5%AC%8C%E8%BF%9B%E8%A1%8C%E6%97%B6%20%E6%B4%9B%E5%A4%A9%E4%BE%9D%20Xmtx",
+        "confirmed_creator": "Runaway_xtmx (Xmtx)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2023-07-10"
+      }
+    },
+    {
+      "file": "binglan.md",
+      "song_title": "冰蓝",
+      "claim_creator": "creator:wumingshe",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "暂无资料",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No matching Bilibili results for '冰蓝' by wumingshe. Search results show different songs with '冰蓝' or '蓝' in title but none by this creator.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    }
+  ]
+}

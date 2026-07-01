@@ -1,0 +1,1957 @@
+{
+  "report_metadata": {
+    "title": "洛天依音乐知识库 - 50文件事实核查报告",
+    "generated": "2026-06-07",
+    "methodology": "对每个文件提取曲名、P主、发行日期、视频ID/BV ID、引擎、风格、首发平台、播放量等字段，通过MiniMax Web Search搜索bilibili、萌娘百科、百度百科、网易云音乐等来源进行交叉验证",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 9,
+      "partial": 12,
+      "conflict": 1,
+      "unverifiable": 28
+    }
+  },
+  "results": [
+    {
+      "file": "10from-bottom-to-the-top.md",
+      "slug": "music:10from-bottom-to-the-top",
+      "title": "10（From bottom to the top）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "10（From bottom to the top）",
+          "verified": "10(From bottom to the top)",
+          "sources": [
+            {"label": "萌娘百科-潜移默化作品列表", "url": "https://zh.moegirl.org.cn/%E6%BD%9C%E7%A7%BB%E9%BB%98%E5%8C%96", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:qianyimohua",
+          "verified": "潜移默化（千忆墨花）",
+          "sources": [
+            {"label": "萌娘百科-潜移默化", "url": "https://zh.moegirl.org.cn/%E6%BD%9C%E7%A7%BB%E9%BB%98%E5%8C%96", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2022-07-12",
+          "verified": "2022-07-12",
+          "sources": [
+            {"label": "萌娘百科-潜移默化作品列表", "url": "https://zh.moegirl.org.cn/%E6%BD%9C%E7%A7%BB%E9%BB%98%E5%8C%96", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1xB4y1p7Rw",
+          "verified": "BV1xB4y1p7Rw",
+          "sources": [
+            {"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/%E6%BD%9C%E7%A7%BB%E9%BB%98%E5%8C%96", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "11-59-pm.md",
+      "slug": "music:11-59-pm",
+      "title": "11-59 PM",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "11-59 PM",
+          "verified": "11:59 PM",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=437755632", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:qincaizhuroudahuntun",
+          "verified": "芹菜猪肉大馄饨",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=437755632", "match": true},
+            {"label": "萌娘百科-Hello Hello", "url": "https://zh.moegirl.org.cn/Hello_Hello", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2016-10-30",
+          "verified": "2016-10-30",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=437755632", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1Gs411U7KN",
+          "verified": "BV1Gs411U7KN (bilibili 412 error on direct fetch)",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "1282.md",
+      "slug": "music:1282",
+      "title": "1282",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "1282",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:zhuxiaoshengzoki",
+          "verified": "朱小生（zhuxiaoshengzoki）",
+          "sources": [
+            {"label": "萌娘百科-朱小生", "url": "https://zh.moegirl.org.cn/%E6%9C%B1%E5%B0%8F%E7%94%9F", "match": false}
+          ],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "发行日期",
+          "original": "（空）",
+          "verified": "无数据",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接，无具体视频页",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "来源仅链接到bilibili首页，非具体视频页。演唱者和发行日期均为空。"
+    },
+    {
+      "file": "2015.md",
+      "slug": "music:2015",
+      "title": "Ｄｏｌｏｒｅｓ（2015）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "Ｄｏｌｏｒｅｓ（2015）",
+          "verified": "Dolores",
+          "sources": [
+            {"label": "萌娘百科-Dolores", "url": "https://zh.moegirl.org.cn/Dolores", "match": true},
+            {"label": "网易云音乐", "url": "https://music.163.com/program?id=903964059", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:zhihuixiebaledehuapianp",
+          "verified": "野良犬P",
+          "sources": [
+            {"label": "网易云音乐-Dolores", "url": "https://music.163.com/program?id=903964059", "match": true},
+            {"label": "萌娘百科-春风吹", "url": "https://mzh.moegirl.org.cn/%E6%98%A5%E9%A3%8E%E5%90%B9", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2014-01-17",
+          "verified": "2014-01-17（言和原版首发）",
+          "sources": [
+            {"label": "萌娘百科-Dolores", "url": "https://zh.moegirl.org.cn/Dolores", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1Ns411U7KN",
+          "verified": "BV1Ns411U7KN",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV1Ns411U7KN/", "match": true}
+          ],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "注意：文件标题为Dolores（2015），但原版是2014年言和演唱。2015指UTAU重制版。"
+    },
+    {
+      "file": "2020.md",
+      "slug": "music:2020",
+      "title": "2020!",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "2020!",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:aierluo",
+          "verified": "艾尔落",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "发行日期",
+          "original": "（空）",
+          "verified": "无数据",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "来源仅链接到bilibili首页，非具体视频页。"
+    },
+    {
+      "file": "21.md",
+      "slug": "music:21",
+      "title": "21",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "21",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:conglaimeiyouzhongguojiangdesheep",
+          "verified": "从来没有中过奖的sheep（确认存在此P主）",
+          "sources": [
+            {"label": "微博-拥我2021ver.", "url": "https://weibo.com/6349024253/Kz5Zb87mV", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "（空）",
+          "verified": "无数据",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "来源仅链接到bilibili首页。P主"从来没有中过奖的sheep"确认存在但具体作品《21》无法验证。"
+    },
+    {
+      "file": "24-season.md",
+      "slug": "music:24-season",
+      "title": "#24 Season",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "#24 Season",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:xinxian",
+          "verified": "心娴（xinxian）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "演唱者字段为空，来源仅链接到bilibili首页。"
+    },
+    {
+      "file": "3-you-should-be-scared.md",
+      "slug": "music:3-you-should-be-scared",
+      "title": "3. You Should Be Scared",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "3. You Should Be Scared",
+          "verified": "You Should Be Scared",
+          "sources": [
+            {"label": "萌娘百科-李阿充", "url": "https://zh.moegirl.org.cn/%E6%9D%8E%E9%98%BF%E5%85%85", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:liachonggequbudangquebendandakadakaliangshou",
+          "verified": "李阿充",
+          "sources": [
+            {"label": "萌娘百科-李阿充", "url": "https://zh.moegirl.org.cn/%E6%9D%8E%E9%98%BF%E5%85%85", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1ra4y1c7fE",
+          "verified": "BV1ra4y1c7fE",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV1ra4y1c7fE/", "match": true}
+          ],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "4-one-punch-ling.md",
+      "slug": "music:4-one-punch-ling",
+      "title": "4. One Punch Ling",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "4. One Punch Ling",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:liachonggequbudangquebendandakadakaliangshou",
+          "verified": "李阿充（确认存在此P主）",
+          "sources": [
+            {"label": "萌娘百科-李阿充", "url": "https://zh.moegirl.org.cn/%E6%9D%8E%E9%98%BF%E5%85%85", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "演唱者为空，来源仅链接到bilibili首页。"
+    },
+    {
+      "file": "67p-c-g-2.md",
+      "slug": "music:67p-c-g-2",
+      "title": "67P-C-G",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "67P-C-G",
+          "verified": "67P/C-G",
+          "sources": [
+            {"label": "萌娘百科-67P/C-G", "url": "https://zh.moegirl.org.cn/67P/C-G", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:tayunshe",
+          "verified": "踏云社/稗子（萌娘百科显示UP主为稗子，属踏云社）",
+          "sources": [
+            {"label": "萌娘百科-67P/C-G", "url": "https://zh.moegirl.org.cn/67P/C-G", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2020-03-27",
+          "verified": "2020年3月27日",
+          "sources": [
+            {"label": "萌娘百科-67P/C-G", "url": "https://zh.moegirl.org.cn/67P/C-G", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "演唱者",
+          "original": "core:luo-tian-yi, member:yue-zheng-ling",
+          "verified": "洛天依、乐正绫",
+          "sources": [
+            {"label": "萌娘百科-67P/C-G", "url": "https://zh.moegirl.org.cn/67P/C-G", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1NZ4y1R7yS",
+          "verified": "BV1NZ4y1R7yS",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV1NZ4y1R7yS/", "match": true},
+            {"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/67P/C-G", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "8-d.md",
+      "slug": "music:8-d",
+      "title": "8(-D",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "8(-D",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:wovop",
+          "verified": "WOVOP（确认存在此P主）",
+          "sources": [
+            {"label": "萌娘百科-瞎几把写的歌", "url": "https://mzh.moegirl.org.cn/%E7%9E%8E%E5%87%A0%E6%8A%8A%E5%86%99%E7%9A%84%E6%AD%8C", "match": true},
+            {"label": "网易云音乐-听雨", "url": "https://music.163.com/mv?id=14557340", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "2024-11-30",
+          "verified": "未找到独立来源确认此日期",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "来源仅链接到bilibili首页。WOVOP作为P主存在但具体作品《8(-D》无法通过独立来源验证。"
+    },
+    {
+      "file": "ababadege.md",
+      "slug": "music:ababadege",
+      "title": "阿巴巴的歌",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "阿巴巴的歌",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:wovop",
+          "verified": "WOVOP（确认存在此P主）",
+          "sources": [
+            {"label": "萌娘百科-WOVOP作品", "url": "https://mzh.moegirl.org.cn/%E7%9E%8E%E5%87%A0%E6%8A%8A%E5%86%99%E7%9A%84%E6%AD%8C", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "acecovernibuzhidaodeshi.md",
+      "slug": "music:acecovernibuzhidaodeshi",
+      "title": "【ACECover】你不知道的事",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【ACECover】你不知道的事",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:kamiyadawangzhanghaozhuxiao",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "a-fairy-of-dreams.md",
+      "slug": "music:a-fairy-of-dreams",
+      "title": "a fairy of dreams",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "a fairy of dreams",
+          "verified": "a fairy of dreams",
+          "sources": [
+            {"label": "萌娘百科-a fairy of dreams", "url": "https://zh.moegirl.org.cn/A_fairy_of_dreams", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:rinu",
+          "verified": "rinu",
+          "sources": [
+            {"label": "萌娘百科-a fairy of dreams", "url": "https://zh.moegirl.org.cn/A_fairy_of_dreams", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2016-10-09",
+          "verified": "2016年10月9日",
+          "sources": [
+            {"label": "萌娘百科-a fairy of dreams", "url": "https://zh.moegirl.org.cn/A_fairy_of_dreams", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "萌娘百科确认存在，但文件未提供具体BV ID",
+          "sources": [
+            {"label": "萌娘百科-a fairy of dreams", "url": "https://zh.moegirl.org.cn/A_fairy_of_dreams", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "after-school.md",
+      "slug": "music:after-school",
+      "title": "After School",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "After School",
+          "verified": "After School",
+          "sources": [
+            {"label": "rapzh.com歌词站", "url": "https://rapzh.com/songs/1289986", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:utaep",
+          "verified": "UtaeP",
+          "sources": [
+            {"label": "歌词站", "url": "https://rapzh.com/songs/1289986", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "notes": "歌词网站确认了曲名和部分内容，但无具体BV ID。"
+    },
+    {
+      "file": "ahong-qihedejiezou.md",
+      "slug": "music:ahong-qihedejiezou",
+      "title": "阿吽のヒーツ-契合的节奏",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "阿吽のヒーツ-契合的节奏",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:luoyibugaoxing",
+          "verified": "luoyibugaoxing",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ai.md",
+      "slug": "music:ai",
+      "title": "愛",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "愛",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:liuxu",
+          "verified": "liuxu",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "演唱者",
+          "original": "星尘,洛天依,乐正绫,心华",
+          "verified": "未找到来源验证此合唱阵容",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ai-2.md",
+      "slug": "music:ai-2",
+      "title": "爱してる",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱してる",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:tmzhusangsang",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aiaiaishenaizheshenaizheshenaizhe.md",
+      "slug": "music:aiaiaishenaizheshenaizheshenaizhe",
+      "title": "愛して愛して愛して（深爱着深爱着深爱着）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "愛して愛して愛して（深爱着深爱着深爱着）",
+          "verified": "原曲确认存在（kikuo作品），但洛天依翻唱版未找到",
+          "sources": [
+            {"label": "kikuo原曲", "url": "https://zh.moegirl.org.cn/%E6%84%9B%E3%81%97%E3%81%A6%E6%84%9B%E3%81%97%E3%81%A6%E6%84%9B%E3%81%97%E3%81%A6", "match": false}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:atonyp",
+          "verified": "AtonyP",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aiaoniyahaidechenxi.md",
+      "slug": "music:aiaoniyahaidechenxi",
+      "title": "爱奥尼亚海的晨曦",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱奥尼亚海的晨曦",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:xiliangruoruo",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aibushibaozang.md",
+      "slug": "music:aibushibaozang",
+      "title": "爱不是宝藏",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱不是宝藏",
+          "verified": "存在同名作品（但有洛天依版本和言和版本）",
+          "sources": [
+            {"label": "网易云音乐-爱不是宝藏(洛天依版)", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:lvyegesongzhe",
+          "verified": "绿叶歌颂者",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "文件同时提供了网易云音乐链接(song?id=2634796009)",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aibushibaozangluotianyibanben.md",
+      "slug": "music:aibushibaozangluotianyibanben",
+      "title": "爱不是宝藏（洛天依版本）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱不是宝藏（洛天依版本）",
+          "verified": "爱不是宝藏",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:lvyegesongzhe",
+          "verified": "绿叶歌颂者",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "bilibili + 网易云音乐",
+          "verified": "网易云音乐链接有效",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2634796009", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aidehuaerzi.md",
+      "slug": "music:aidehuaerzi",
+      "title": "爱的华尔兹",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱的华尔兹",
+          "verified": "爱的华尔兹",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV11MgPzfEU2/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:kelejun",
+          "verified": "沙雕少年可乐君",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV11MgPzfEU2/", "match": true},
+            {"label": "萌娘百科", "url": "https://space.bilibili.com/526568", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV11MgPzfEU2",
+          "verified": "BV11MgPzfEU2",
+          "sources": [
+            {"label": "bilibili搜索结果", "url": "https://www.bilibili.com/video/BV11MgPzfEU2/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "aidemolizhuanquanquanchudian.md",
+      "slug": "music:aidemolizhuanquanquanchudian",
+      "title": "爱的魔力转圈圈《触电》",
+      "facts": [
+        {
+          "field": "发行日期",
+          "original": "1999-01-01",
+          "verified": "此日期可疑 - 原曲《触电》由萧全于1999年发行，但洛天依翻唱版不可能在1999年发布（洛天依2012年才出道）",
+          "sources": [
+            {"label": "百度百科-爱的魔力转圈圈", "url": "https://baike.baidu.com/item/爱的魔力转圈圈/23629102", "match": false}
+          ],
+          "verdict": "conflict",
+          "confidence": "HIGH",
+          "notes": "1999-01-01明显是原曲发行日期而非洛天依翻唱版的日期，文件错误地将原曲日期标为洛天依版本的发行日期"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1kr4y1R7KX",
+          "verified": "BV1kr4y1R7KX（文件自引）",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV1kr4y1R7KX/", "match": true}
+          ],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true,
+      "notes": "发行日期1999-01-01明显是原曲而非洛天依翻唱版的日期，文件将原曲日期误标为洛天依版本的发行日期"
+    },
+    {
+      "file": "aige.md",
+      "slug": "music:aige",
+      "title": "哀歌 Ⅱ",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "哀歌 Ⅱ",
+          "verified": "未找到独立来源确认洛天依版《哀歌Ⅱ》",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:kelejun",
+          "verified": "沙雕少年可乐君（确认存在此P主）",
+          "sources": [
+            {"label": "bilibili空间", "url": "https://space.bilibili.com/526568", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 空间链接",
+          "verified": "空间链接有效但无具体视频页",
+          "sources": [
+            {"label": "bilibili空间", "url": "https://space.bilibili.com/526568", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "aige-2.md",
+      "slug": "music:aige-2",
+      "title": "哀歌Ⅰ",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "哀歌Ⅰ",
+          "verified": "未找到独立来源确认洛天依版《哀歌Ⅰ》",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:kelejun",
+          "verified": "沙雕少年可乐君",
+          "sources": [
+            {"label": "bilibili空间", "url": "https://space.bilibili.com/526568", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 空间链接",
+          "verified": "空间链接有效但无具体视频页",
+          "sources": [
+            {"label": "bilibili空间", "url": "https://space.bilibili.com/526568", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "aigeluotianyiailezhenglongyaver.md",
+      "slug": "music:aigeluotianyiailezhenglongyaver",
+      "title": "哀歌（洛天依AI＆乐正龙牙ver.）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "哀歌（洛天依AI＆乐正龙牙ver.）",
+          "verified": "哀歌（洛天依AI/乐正龙牙AI）",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ha4y1c7fE/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:yugulubaijiyu",
+          "verified": "雨古白寂语",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ha4y1c7fE/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1ha4y1c7fE",
+          "verified": "BV1ha4y1c7fE",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV1ha4y1c7fE/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "aiguozhekusededong.md",
+      "slug": "music:aiguozhekusededong",
+      "title": "捱过这苦涩的冬",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "捱过这苦涩的冬",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:xinxian",
+          "verified": "心娴/欣娴（xinxian）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ai-hendanbo.md",
+      "slug": "music:ai-hendanbo",
+      "title": "爱 很单薄",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱 很单薄",
+          "verified": "爱 很单薄",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2132944090", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:lvyegesongzhe",
+          "verified": "绿叶歌颂者",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2132944090", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 网易云",
+          "verified": "网易云音乐链接有效但bilibili无具体视频ID",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2132944090", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aijiangshangengaimeiren.md",
+      "slug": "music:aijiangshangengaimeiren",
+      "title": "爱江山更爱美人",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱江山更爱美人",
+          "verified": "爱江山更爱美人（洛天依AI翻唱版）",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Zk4y177sM/", "match": true},
+            {"label": "网易云音乐MV", "url": "https://music.163.com/mv?id=14623908", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:yinghuachuixue",
+          "verified": "樱吹雪",
+          "sources": [
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV16AQiYMEPp/", "match": true},
+            {"label": "bilibili", "url": "https://www.bilibili.com/video/BV13u4y1Y7Qo/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV16AQiYMEPp, BV13u4y1Y7Qo",
+          "verified": "文件提供的BV ID有效",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV16AQiYMEPp/", "match": true},
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV13u4y1Y7Qo/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "aikebukenisuohun.md",
+      "slug": "music:aikebukenisuohun",
+      "title": "【艾可】不可逆_缩混",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】不可逆_缩混",
+          "verified": "不可逆（原曲确认存在，但艾可缩混版本未找到独立验证）",
+          "sources": [
+            {"label": "网易云音乐-不可逆(翻自言和)", "url": "https://music.163.com/song?id=1294239701", "match": false}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli（こいずみ桃黎）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 网易云",
+          "verified": "网易云链接有效（原曲）但bilibili无具体视频ID",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1294239701", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "aikebuwentiansuohun.md",
+      "slug": "music:aikebuwentiansuohun",
+      "title": "【艾可】不问天_缩混",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】不问天_缩混",
+          "verified": "不问天（原八歌姬合唱版确认存在BV1bf4y1z7Zp）",
+          "sources": [
+            {"label": "bilibili-原版", "url": "https://www.bilibili.com/video/BV1bf4y1z7Zp/", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli（こいずみ桃黎）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 原版BV ID",
+          "verified": "文件提供了原版BV ID（BV1bf4y1z7Zp）",
+          "sources": [
+            {"label": "bilibili-原版", "url": "https://www.bilibili.com/video/BV1bf4y1z7Zp/", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aikeercisiwang.md",
+      "slug": "music:aikeercisiwang",
+      "title": "【艾可】二次死亡",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】二次死亡",
+          "verified": "二次死亡（原曲确认存在，原作为镜音双子演唱）",
+          "sources": [
+            {"label": "网易云音乐-二次死亡(伴奏)", "url": "https://music.163.com/song?id=1335875431", "match": true},
+            {"label": "微博-洛天依V4萌·凝", "url": "https://weibo.com/5223626093/HaGens211", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "2017-08-28",
+          "verified": "2017年8月28日（原曲发行日）",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1335875431", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link + 网易云 + 微博",
+          "verified": "网易云和微博链接有效",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1335875431", "match": true},
+            {"label": "微博", "url": "https://weibo.com/5223626093/HaGens211", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aikejianxingliedengsheng.md",
+      "slug": "music:aikejianxingliedengsheng",
+      "title": "【艾可】碱性劣等生",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】碱性劣等生",
+          "verified": "アルカリレットウセイ（碱性劣等生，原曲确认存在）",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1807030665", "match": true},
+            {"label": "5sing", "url": "http://5sing.kugou.com/bz/2878870.html", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "2016-11-29",
+          "verified": "2016年（原曲发行日）",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1807030665", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli（こいずみ桃黎）",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1807030665", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aikekill-my-eyes.md",
+      "slug": "music:aikekill-my-eyes",
+      "title": "【艾可】kill my eyes",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】kill my eyes",
+          "verified": "KILL MY EYES（原曲确认存在）",
+          "sources": [
+            {"label": "5sing", "url": "http://5sing.kugou.com/bz/2835486.html", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "2016-07-10",
+          "verified": "2016-07-10",
+          "sources": [
+            {"label": "5sing", "url": "http://5sing.kugou.com/bz/2835486.html", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli（こいずみ桃黎）- 翻调者",
+          "sources": [
+            {"label": "5sing", "url": "http://5sing.kugou.com/bz/2835486.html", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aikeliuguangji.md",
+      "slug": "music:aikeliuguangji",
+      "title": "【艾可】流光记",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】流光记",
+          "verified": "流光记（原曲确认存在）",
+          "sources": [
+            {"label": "百度百科-流光记", "url": "https://baike.baidu.com/item/流光记/22905374", "match": true},
+            {"label": "bilibili-合唱版", "url": "https://www.bilibili.com/video/BV1vK4y1K7Rw/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:baitangzhengyilingmofaxizhengyiling",
+          "verified": "白糖の正义铃",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aikepaon.md",
+      "slug": "music:aikepaon",
+      "title": "【艾可】PAON",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】PAON",
+          "verified": "PAON",
+          "sources": [
+            {"label": "百度百科-PAON", "url": "https://baike.baidu.com/item/PAON/17929159", "match": true},
+            {"label": "萌娘百科-PAON", "url": "https://zh.moegirl.org.cn/PAON", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "发行日期",
+          "original": "2015-06-18",
+          "verified": "2015年6月18日",
+          "sources": [
+            {"label": "百度百科-PAON", "url": "https://baike.baidu.com/item/PAON/17929159", "match": true},
+            {"label": "萌娘百科-PAON", "url": "https://zh.moegirl.org.cn/PAON", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "视频ID",
+          "original": "BV1qs411U7y3",
+          "verified": "BV1qs411U7y3",
+          "sources": [
+            {"label": "文件来源", "url": "https://www.bilibili.com/video/BV1qs411U7y3/", "match": true},
+            {"label": "萌娘百科-PAON", "url": "https://zh.moegirl.org.cn/PAON", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "播放量",
+          "original": "59万",
+          "verified": "截至2016年7月有超过27万次观看，当前数据未知",
+          "sources": [
+            {"label": "百度百科-PAON", "url": "https://baike.baidu.com/item/PAON/17929159", "match": false}
+          ],
+          "verdict": "partial",
+          "confidence": "LOW"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "aikeqianqiumengsuohun.md",
+      "slug": "music:aikeqianqiumengsuohun",
+      "title": "【艾可】千秋梦_缩混",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】千秋梦_缩混",
+          "verified": "千秋梦（原曲确认存在，但艾可缩混版未找到独立验证）",
+          "sources": [],
+          "verdict": "partial",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aiketixianmuou.md",
+      "slug": "music:aiketixianmuou",
+      "title": "【艾可】提线木偶",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】提线木偶",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aikewanmeibaojunsuohun.md",
+      "slug": "music:aikewanmeibaojunsuohun",
+      "title": "【艾可】完美暴君_缩混",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【艾可】完美暴君_缩混",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:taoli",
+          "verified": "taoli",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aiknow.md",
+      "slug": "music:aiknow",
+      "title": "爱Know",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱Know",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:zhihuixiebaledehuapianp",
+          "verified": "未找到验证（推测为野良犬P小号？）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aikoaikeliunianrugefanzi-cangqiong.md",
+      "slug": "music:aikoaikeliunianrugefanzi-cangqiong",
+      "title": "【AiKO艾可】流年如歌（翻自 苍穹）",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "【AiKO艾可】流年如歌（翻自 苍穹）",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:ximenzhen",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ailikadeaichou-you-no-harm-verxingcheninfinity.md",
+      "slug": "music:ailikadeaichou-you-no-harm-verxingcheninfinity",
+      "title": "埃里卡的哀愁-エリカの憂い No Harm ver.【星尘infinity】",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "埃里卡的哀愁-エリカの憂い No Harm ver.【星尘infinity】",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:huaqilinnaihanasaki-rinna",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "演唱者字段为空，但标题包含【星尘infinity】，与文件中洛天依演唱的描述存在矛盾"
+    },
+    {
+      "file": "ailikadeaichou-you-vocal-onlyxingcheninfinity.md",
+      "slug": "music:ailikadeaichou-you-vocal-onlyxingcheninfinity",
+      "title": "埃里卡的哀愁-エリカの憂い Vocal only【星尘infinity】",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "埃里卡的哀愁-エリカの憂い Vocal only【星尘infinity】",
+          "verified": "未找到独立来源验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:huaqilinnaihanasaki-rinna",
+          "verified": "未找到验证",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "标题包含【星尘infinity】但文件中写洛天依演唱，存在矛盾"
+    },
+    {
+      "file": "aiqingdancha.md",
+      "slug": "music:aiqingdancha",
+      "title": "爱情·淡茶",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱情·淡茶",
+          "verified": "爱情·淡茶",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2020683175", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "P主",
+          "original": "creator:yaoshucqc",
+          "verified": "尧鼠CQC",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2020683175", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接，但有网易云音乐独立来源",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=2020683175", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "aiqingzuiming.md",
+      "slug": "music:aiqingzuiming",
+      "title": "爱情罪名",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱情罪名",
+          "verified": "爱情罪名",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1318720939", "match": true},
+            {"label": "bilibili-相关作品", "url": "https://www.bilibili.com/video/BV1Lv411M7T6/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "P主",
+          "original": "creator:yongyuanhuanying",
+          "verified": "永远幻影",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1318720939", "match": true},
+            {"label": "bilibili-清白罪名", "url": "https://www.bilibili.com/video/BV1Lv411M7T6/", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "演唱者",
+          "original": "洛天依, 言和",
+          "verified": "洛天依, 言和",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1318720939", "match": true}
+          ],
+          "verdict": "confirmed",
+          "confidence": "HIGH"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "无具体视频ID但有网易云独立来源验证",
+          "sources": [
+            {"label": "网易云音乐", "url": "https://music.163.com/song?id=1318720939", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "airuyangguang.md",
+      "slug": "music:airuyangguang",
+      "title": "爱如阳光",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱如阳光",
+          "verified": "文件自身声明未收录于VCPedia、萌娘百科等数据库，bilibili无法搜索到",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:kunki114514",
+          "verified": "KunKi114514（确认存在此P主，但未找到《爱如阳光》作品）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link / 文件说明无法在bilibili找到",
+          "verified": "文件本身承认无法搜索到该作品",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "文件自身声明无法在bilibili搜索到该作品，可能存在幻觉"
+    },
+    {
+      "file": "aishishenme.md",
+      "slug": "music:aishishenme",
+      "title": "爱是什么",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱是什么",
+          "verified": "文件自身声明未收录于萌娘百科、VCPedia等数据库",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:lvyegesongzhe",
+          "verified": "绿叶歌颂者（确认存在此P主，但未找到此特定作品）",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接，文件承认无法在数据库中找到",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "文件自身承认无法在公开数据库中找到该作品"
+    },
+    {
+      "file": "aiweishengkai.md",
+      "slug": "music:aiweishengkai",
+      "title": "爱未盛开",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱未盛开",
+          "verified": "爱未盛开",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "P主",
+          "original": "creator:yongyuanhuanying",
+          "verified": "永远幻影（确认存在此P主）",
+          "sources": [
+            {"label": "网易云音乐-永远幻影", "url": "https://music.163.com/song?id=1815639934", "match": true}
+          ],
+          "verdict": "partial",
+          "confidence": "MEDIUM"
+        },
+        {
+          "field": "发行日期",
+          "original": "2022-05-28",
+          "verified": "文件自述2022-05-28投稿至bilibili，但未找到独立来源确认",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "LOW"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "aiwuyujingdairichu.md",
+      "slug": "music:aiwuyujingdairichu",
+      "title": "爱物语：静待日出",
+      "facts": [
+        {
+          "field": "曲名",
+          "original": "爱物语：静待日出",
+          "verified": "文件自身声明未收录于萌娘百科、VCPedia等数据库",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "P主",
+          "original": "creator:nashishengxia",
+          "verified": "那事声夏",
+          "sources": [],
+          "verdict": "unverifiable",
+          "confidence": "NONE"
+        },
+        {
+          "field": "来源",
+          "original": "generic bilibili.com link",
+          "verified": "仅有通用bilibili首页链接，文件承认无法在公开搜索中定位",
+          "sources": [],
+          "verdict": "conflict",
+          "confidence": "NONE"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "文件自身承认无法在公开数据库中定位该作品，疑似长尾低播放量作品"
+    }
+  ]
+}

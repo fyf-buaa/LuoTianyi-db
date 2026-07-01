@@ -7,19 +7,22 @@
 | 曲名 | Tell Your World |
 | P主 | creator:kunki114514 |
 | 演唱 | core:luo-tian-yi |
-| 作词 | kz（livetune） |
-| 作曲 | kz（livetune） |
-| 编曲 |  |
-| 调教 | 鬼面P |
-| 视频ID (BV号) | BV1htGczTEaB |
-| 播放量 | 19206 |
 | 发行日期 | 2025-07-12 |
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
+| 作词 | kz（livetune） |
+| 作曲 | kz（livetune） |
+| 编曲 |  |
+| 调教 | 鬼面P |
+| 视频ID |  |
+| 播放量 | 19206 |
+| 字段 | 值 |
+|------|----|
+| 视频ID (BV号) | BV1htGczTEaB |
 
-### 描述
+### 歌曲背景
 
 《Tell Your World》是由KunKi114514策划、由洛天依演唱的ACE Cover作品。
 

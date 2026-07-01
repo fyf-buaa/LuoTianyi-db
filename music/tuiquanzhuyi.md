@@ -1,4 +1,4 @@
-﻿# music:tuiquanzhuyi
+# music:tuiquanzhuyi
 ## 退圈主义
 
 ### 基本信息
@@ -19,7 +19,7 @@
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 
 《退圈主义》是由banzhijinlan创作由洛天依演唱的vocaloid风格音乐作品。
 

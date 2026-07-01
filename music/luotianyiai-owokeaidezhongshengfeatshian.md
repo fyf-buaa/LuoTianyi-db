@@ -6,7 +6,7 @@
 |------|----|
 | 曲名 | 洛天依AI-噢，我可爱的众生（feat.诗岸） |
 | P主 | creator:fengraoluohuachou |
-| 演唱 | core:luo-tian-yi, shian |
+| 演唱 | core:luo-tian-yi, core:shian |
 | 发行日期 | 2022-11-08 |
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |

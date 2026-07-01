@@ -16,7 +16,7 @@
 | 作曲 | 运佳BlackberryP |
 | 编曲 | 运佳BlackberryP |
 | 调教 | 运佳BlackberryP |
-| 混音 | 暂无资料 |
+| 混音 |  |
 | 视频ID | BV1mx411n7PW |
 | 播放量 | 4.0万 |
 

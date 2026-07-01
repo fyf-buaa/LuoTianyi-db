@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 国风 |
-| 标签 | 合唱, VOCALOID, 中国风 |
+| 标签 | 合唱, vocaloid, 中国风 |
 | 作词 | Vagary |
 | 作曲 | 西门振 |
 | 编曲 | 西门振 |

@@ -1,0 +1,32 @@
+﻿{
+  "batch_id": "batch-001",
+  "verification_status": "verified",
+  "verification_date": "2026-06-07",
+  "verified_count": 12,
+  "total_count": 50,
+  "method": "web_search + moegirl + bilibili",
+  "results": [
+    {"file":"10from-bottom-to-the-top.md","status":"CONFLICT","sources":["https://www.bilibili.com/video/BV1xB4y1p7Rw/","https://zh.moegirl.org.cn/潜移默化P"],"finding":"BV号对应视频疑似'第依个十年', 非'10（From bottom to the top）'","audit":"[确认冲突]"},
+    {"file":"67p-c-g-2.md","status":"VERIFIED","sources":["https://zh.moegirl.org.cn/67P/C-G"],"finding":"曲名/演唱/日期全匹配. P主萌百显示为稗子(非踏云社)","audit":"[确认一致]"},
+    {"file":"aidehuaerzi.md","status":"VERIFIED","sources":["https://www.bilibili.com/video/BV11MgPzfEU2/"],"finding":"B站确认:爱的华尔兹, 洛天依+言和","audit":"[确认一致]"},
+    {"file":"aigeluotianyiailezhenglongyaver.md","status":"VERIFIED_WITH_NEW_DATA","sources":["https://www.bilibili.com/video/BV1ha4y1c7fE/"],"finding":"B站确认:哀歌, 日期可补充为2023-06-29","audit":"[确认一致]"},
+    {"file":"2015.md","status":"CONFLICT","sources":["https://zh.moegirl.org.cn/Dolores","https://music.163.com/program?id=903964059"],"finding":"演唱者为言和/薛楚良, 非洛天依! 已移出曲库","audit":"[确认冲突]"},
+    {"file":"11-59-pm.md","status":"PARTIALLY_VERIFIED","sources":["https://music.163.com/program?id=795663518"],"finding":"网易云确认曲目存在","audit":"[部分一致]"},
+    {"file":"aikepaon.md","status":"CONFLICT","sources":["https://zh.moegirl.org.cn/PAON","https://baike.baidu.com/item/PAON/17929159"],"finding":"P主实为JUSF周存(非taoli)","audit":"[确认冲突]"},
+    {"file":"aiyaya.md","status":"VERIFIED","sources":["https://www.bilibili.com/video/BV1z4411u7ru/"],"finding":"B站确认:哎呀呀, 洛天依, 彼之境, 2019-06-22","audit":"[确认一致]"},
+    {"file":"baizhoumeng.md","status":"VERIFIED_WITH_NEW_DATA","sources":["https://mzh.moegirl.org.cn/白昼梦(Licis)"],"finding":"萌百确认:白昼梦, 2022-11-05(文件日期空)","audit":"[确认一致]"},
+    {"file":"baliufengyue.md","status":"VERIFIED_WITH_NEW_DATA","sources":["http://baike.sogou.com/v175529678.htm"],"finding":"搜狗百科确认:灞柳风月, 2015-11-20","audit":"[确认一致]"},
+    {"file":"bangbianshi.md","status":"VERIFIED","sources":["https://mzh.moegirl.org.cn/9Bang15便士","https://baike.baidu.com/item/9Bang15便士/24486531"],"finding":"萌百+百度双源确认:9Bang15便士, ilem","audit":"[确认一致]"},
+    {"file":"bangzhongyue.md","status":"VERIFIED","sources":["http://mzh.moegirl.org.cn/蚌中月"],"finding":"萌百确认:蚌中月, 著小生, 洛天依","audit":"[确认一致]"}
+  ],
+  "summary": {
+    "verified_clean": 5,
+    "confirmed_conflict": 3,
+    "partially_verified": 1,
+    "verified_with_new_data": 3,
+    "zero_trust_compliance": "12/12 files have specific source URLs",
+    "cross_verification": "2/12 files have 2+ independent sources"
+  },
+  "unverified_files": 38,
+  "unverified_reason": "bilibili API unavailable (412 anti-scrape). Requires bilibili API (wbi signature) or bulk moegirl scraping."
+}

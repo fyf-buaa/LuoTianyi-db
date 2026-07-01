@@ -6,7 +6,7 @@
 |------|----|
 | 曲名 | 洛天依AI - susan说【feat.乐正绫AI】 |
 | P主 | creator:kamiyadawangzhanghaozhuxiao |
-| 演唱 | core:luo-tian-yi, yuezhengling |
+| 演唱 | core:luo-tian-yi, core:yuezhengling |
 | 发行日期 | 2023-08-28 |
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |

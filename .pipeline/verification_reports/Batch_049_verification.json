@@ -1,0 +1,2584 @@
+{
+    "report_metadata": {
+        "generated_at": "2026-06-07T22:30:00+08:00",
+        "total_files": 50,
+        "batch": "Batch_049",
+        "method": "bilibili API (x/web-interface/view) for BV ID verification; file system scan for existence; manual fact extraction from markdown frontmatter; web search for additional context",
+        "summary": {
+            "confirmed": 10,
+            "partial": 5,
+            "conflict": 1,
+            "unverifiable": 32,
+            "suspicious": 1,
+            "file_not_found": 2
+        },
+        "title": "Batch_049 Verification Report"
+    },
+    "results": [
+        {
+            "file": "pipaxingfeatluotianyi.md",
+            "slug": "music:pipaxingfeatluotianyi",
+            "title": "琵琶行（feat.洛天依）",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "琵琶行（feat.洛天依）",
+                    "source": [],
+                    "original": "琵琶行（feat.洛天依）",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:regretful-love",
+                    "source": [],
+                    "original": "creator:regretful-love",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "piyingxi.md",
+            "slug": "music:piyingxi",
+            "title": "皮影戏",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Wg4y167HH confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "皮影戏",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Wg4y167HH",
+                            "match": true
+                        }
+                    ],
+                    "original": "皮影戏",
+                    "verified": "【首發】《皮影戏》- 洛天依 Feat. 乐正龙牙",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2020-05-02",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Wg4y167HH",
+                            "match": true
+                        }
+                    ],
+                    "original": "2020-05-02",
+                    "verified": "2020-05-02",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Wg4y167HH",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Wg4y167HH",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1Wg4y167HH",
+                    "verified": "BV1Wg4y167HH",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "53.2万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Wg4y167HH",
+                            "match": true
+                        }
+                    ],
+                    "original": "53.2万",
+                    "verified": "531,926",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "planet-nova.md",
+            "slug": "music:planet-nova",
+            "title": "PLANET NOVA",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Kx411T7kC confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "PLANET NOVA",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Kx411T7kC",
+                            "match": true
+                        }
+                    ],
+                    "original": "PLANET NOVA",
+                    "verified": "【洛天依原创】PLANET NOVA【咏吟轩《第一步》收录曲】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2014-05-22",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Kx411T7kC",
+                            "match": true
+                        }
+                    ],
+                    "original": "2014-05-22",
+                    "verified": "2014-05-22",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Kx411T7kC",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Kx411T7kC",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1Kx411T7kC",
+                    "verified": "BV1Kx411T7kC",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "11.3万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Kx411T7kC",
+                            "match": true
+                        }
+                    ],
+                    "original": "11.3万",
+                    "verified": "112,891",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "platonic-love.md",
+            "slug": "music:platonic-love",
+            "title": "Platonic love",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "Platonic love",
+                    "source": [],
+                    "original": "Platonic love",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:wangxilin",
+                    "source": [],
+                    "original": "creator:wangxilin",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pleasedont-leave.md",
+            "slug": "music:pleasedont-leave",
+            "title": "please,don't leave",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "please,don't leave",
+                    "source": [],
+                    "original": "please,don't leave",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yidengluoeden-ro-swift",
+                    "source": [],
+                    "original": "creator:yidengluoeden-ro-swift",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pojianchengdie.md",
+            "slug": "music:pojianchengdie",
+            "title": "破茧成蝶",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破茧成蝶",
+                    "source": [],
+                    "original": "破茧成蝶",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yishuiuryan",
+                    "source": [],
+                    "original": "creator:yishuiuryan",
+                    "verified": "Known creator (伊水_Uryan), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pomolijiang-nanbeiaibancover.md",
+            "slug": "music:pomolijiang-nanbeiaibancover",
+            "title": "泼墨漓江 (南北AI版COVER)",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "泼墨漓江 (南北AI版COVER)",
+                    "source": [],
+                    "original": "泼墨漓江 (南北AI版COVER)",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:huajianyoululai",
+                    "source": [],
+                    "original": "creator:huajianyoululai",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "ponpon-shitcovered-by-luotianyilezhengling.md",
+            "slug": "music:ponpon-shitcovered-by-luotianyilezhengling",
+            "title": "PonPon Shit(Covered by 洛天依&乐正绫)",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "PonPon Shit(Covered by 洛天依&乐正绫)",
+                    "source": [],
+                    "original": "PonPon Shit(Covered by 洛天依&乐正绫)",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:xiaoou",
+                    "source": [],
+                    "original": "creator:xiaoou",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "poponadianchanghezhang-2.md",
+            "slug": "music:poponadianchanghezhang-2",
+            "title": "婆婆纳甸长河长",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1wb411m7LL confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "婆婆纳甸长河长",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1wb411m7LL",
+                            "match": true
+                        }
+                    ],
+                    "original": "婆婆纳甸长河长",
+                    "verified": "【洛天依乐正绫】婆婆纳甸长河长3.0【原创曲PV付】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2019-02-16",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1wb411m7LL",
+                            "match": true
+                        }
+                    ],
+                    "original": "2019-02-16",
+                    "verified": "2019-02-16",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1wb411m7LL",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1wb411m7LL",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1wb411m7LL",
+                    "verified": "BV1wb411m7LL",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "19.4万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1wb411m7LL",
+                            "match": true
+                        }
+                    ],
+                    "original": "19.4万",
+                    "verified": "194,004",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "posuiboliping.md",
+            "slug": "music:posuiboliping",
+            "title": "破碎玻璃瓶",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date (2023-01-18) and play count (3.5万) but no BV ID. Cannot verify via bilibili API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破碎玻璃瓶",
+                    "source": [],
+                    "original": "破碎玻璃瓶",
+                    "verified": "Not found in public databases via BV lookup",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:rainyroc",
+                    "source": [],
+                    "original": "creator:rainyroc",
+                    "verified": "Known creator (rainy_roC), active on bilibili",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-01-18",
+                    "source": [],
+                    "original": "2023-01-18",
+                    "verified": "Date present, but cannot cross-verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "播放量",
+                    "value": "3.5万",
+                    "source": [],
+                    "original": "3.5万",
+                    "verified": "Cannot verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                }
+            ]
+        },
+        {
+            "file": "poxiao-2.md",
+            "slug": "music:poxiao-2",
+            "title": "破晓",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破晓",
+                    "source": [],
+                    "original": "破晓",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:shentuxiaop",
+                    "source": [],
+                    "original": "creator:shentuxiaop",
+                    "verified": "Known creator (神兔小P), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "poxiaojiangzhi-2.md",
+            "slug": "music:poxiaojiangzhi-2",
+            "title": "破晓将至",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date (2016-08-09) and play count (3331) but no BV ID in file metadata. External search suggests BV19s411C7o9 matches (URUUT, 2016-08-09, view:3,333). File metadata lacks BV field.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破晓将至",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV19s411C7o9",
+                            "match": true
+                        }
+                    ],
+                    "original": "破晓将至",
+                    "verified": "破晓将至【洛天依翻调】【时之歌Project】【调：URUUT】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2016-08-09",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV19s411C7o9",
+                            "match": true
+                        }
+                    ],
+                    "original": "2016-08-09",
+                    "verified": "2016-08-09",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV19s411C7o9",
+                            "match": true
+                        }
+                    ],
+                    "original": "(empty in file)",
+                    "verified": "BV19s411C7o9 (discovered via external search)",
+                    "verdict": "partial",
+                    "confidence": "MEDIUM"
+                },
+                {
+                    "field": "播放量",
+                    "value": "3331",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV19s411C7o9",
+                            "match": true
+                        }
+                    ],
+                    "original": "3331",
+                    "verified": "3,333",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "po-yun-lai.md",
+            "slug": "music:po-yun-lai",
+            "title": "破 云 来",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破 云 来",
+                    "source": [],
+                    "original": "破 云 来",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:regretful-love",
+                    "source": [],
+                    "original": "creator:regretful-love",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pozhenzitianyapinglanwangjin.md",
+            "slug": "music:pozhenzitianyapinglanwangjin",
+            "title": "破阵子·天涯凭栏望尽",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "破阵子·天涯凭栏望尽",
+                    "source": [],
+                    "original": "破阵子·天涯凭栏望尽",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:kelejun",
+                    "source": [],
+                    "original": "creator:kelejun",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "ppap.md",
+            "slug": "music:ppap",
+            "title": "PPAP",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "PPAP",
+                    "source": [],
+                    "original": "PPAP",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:chahu",
+                    "source": [],
+                    "original": "creator:chahu",
+                    "verified": "Known creator (茶壶/iKz), but specific PPAP cover not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pugongying-2.md",
+            "slug": "music:pugongying-2",
+            "title": "蒲公英",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Xz421q76y confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "蒲公英",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Xz421q76y",
+                            "match": true
+                        }
+                    ],
+                    "original": "蒲公英",
+                    "verified": "【洛天依原创】蒲公英",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2024-07-14",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Xz421q76y",
+                            "match": true
+                        }
+                    ],
+                    "original": "2024-07-14",
+                    "verified": "2024-07-14",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Xz421q76y",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Xz421q76y",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1Xz421q76y",
+                    "verified": "BV1Xz421q76y",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "2.5万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Xz421q76y",
+                            "match": true
+                        }
+                    ],
+                    "original": "2.5万",
+                    "verified": "24,626",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "pugongyingdelvtu.md",
+            "slug": "music:pugongyingdelvtu",
+            "title": "蒲公英的旅途",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "蒲公英的旅途",
+                    "source": [],
+                    "original": "蒲公英的旅途",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:nashishengxia",
+                    "source": [],
+                    "original": "creator:nashishengxia",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pugongyingdeyueding.md",
+            "slug": "music:pugongyingdeyueding",
+            "title": "蒲公英的约定",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "蒲公英的约定",
+                    "source": [],
+                    "original": "蒲公英的约定",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:kamiyadawangzhanghaozhuxiao",
+                    "source": [],
+                    "original": "creator:kamiyadawangzhanghaozhuxiao",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "puhuo-tianyi.md",
+            "slug": "music:puhuo-tianyi",
+            "title": "扑火-天依",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "扑火-天依",
+                    "source": [],
+                    "original": "扑火-天依",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:gexila",
+                    "source": [],
+                    "original": "creator:gexila",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pumengshedaren.md",
+            "slug": "music:pumengshedaren",
+            "title": "僕が夢を捨てて大人になるまで",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕が夢を捨てて大人になるまで",
+                    "source": [],
+                    "original": "僕が夢を捨てて大人になるまで",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:moufffdevjiafenfffjun",
+                    "source": [],
+                    "original": "creator:moufffdevjiafenfffjun",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pushme.md",
+            "slug": "music:pushme",
+            "title": "PUSH！ME",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "PUSH！ME",
+                    "source": [],
+                    "original": "PUSH！ME",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:mikumiao",
+                    "source": [],
+                    "original": "creator:mikumiao",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pushouhe.md",
+            "slug": "music:pushouhe",
+            "title": "僕らの手には何もないけど",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕らの手には何もないけど",
+                    "source": [],
+                    "original": "僕らの手には何もないけど",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:shentuxiaop",
+                    "source": [],
+                    "original": "creator:shentuxiaop",
+                    "verified": "Known creator (神兔小P), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pushouhejinguanwomenshouzhongkongwuyiwu.md",
+            "slug": "music:pushouhejinguanwomenshouzhongkongwuyiwu",
+            "title": "僕らの手には何もないけど、（尽管我们手中空无一物）",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕らの手には何もないけど、（尽管我们手中空无一物）",
+                    "source": [],
+                    "original": "僕らの手には何もないけど、（尽管我们手中空无一物）",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yishuiuryan",
+                    "source": [],
+                    "original": "creator:yishuiuryan",
+                    "verified": "Known creator (伊水_Uryan), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "pusisi.md",
+            "slug": "",
+            "title": "",
+            "overall_verdict": "file_not_found",
+            "suspicious": false,
+            "notes": "File does not exist on disk",
+            "facts": []
+        },
+        {
+            "file": "pusisi-woyecengxiangguoyiliaobailiao.md",
+            "slug": "music:pusisi-woyecengxiangguoyiliaobailiao",
+            "title": "僕が死のうと思ったのは-我也曾想过一了百了",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕が死のうと思ったのは-我也曾想过一了百了",
+                    "source": [],
+                    "original": "僕が死のうと思ったのは-我也曾想过一了百了",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:luoyibugaoxing",
+                    "source": [],
+                    "original": "creator:luoyibugaoxing",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "putianshiwodetianshi.md",
+            "slug": "music:putianshiwodetianshi",
+            "title": "僕だけの天使（我的天使）",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕だけの天使（我的天使）",
+                    "source": [],
+                    "original": "僕だけの天使（我的天使）",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:pobakep",
+                    "source": [],
+                    "original": "creator:pobakep",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "putianshiwodetianshizhongwen.md",
+            "slug": "music:putianshiwodetianshizhongwen",
+            "title": "僕だけの天使（我的天使）（中文）",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "僕だけの天使（我的天使）（中文）",
+                    "source": [],
+                    "original": "僕だけの天使（我的天使）（中文）",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:pobakep",
+                    "source": [],
+                    "original": "creator:pobakep",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "putongdisco.md",
+            "slug": "music:putongdisco",
+            "title": "普通Disco",
+            "overall_verdict": "conflict",
+            "suspicious": true,
+            "notes": "CRITICAL: BV1GJ411z7iM does NOT correspond to 普通Disco. The bilibili API returns 'QQ飞车（三）' (a gaming video by 飞凌天地, uploaded 2019-12-01, 73 views). The file claims 2427.7万 plays and ilem as P主. The BV ID in the file is incorrect - it points to a completely unrelated video.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "普通Disco",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1GJ411z7iM",
+                            "match": false
+                        }
+                    ],
+                    "original": "普通Disco",
+                    "verified": "BV points to 'QQ飞车（三）' - NOT 普通Disco",
+                    "verdict": "conflict",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:ilem",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1GJ411z7iM",
+                            "match": false
+                        }
+                    ],
+                    "original": "creator:ilem",
+                    "verified": "BV owner is '飞凌天地', not ilem",
+                    "verdict": "conflict",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2015-03-21",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1GJ411z7iM",
+                            "match": false
+                        }
+                    ],
+                    "original": "2015-03-21",
+                    "verified": "API returns 2019-12-01 (differs by ~4.7 years)",
+                    "verdict": "conflict",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1GJ411z7iM",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1GJ411z7iM",
+                            "match": false
+                        }
+                    ],
+                    "original": "BV1GJ411z7iM",
+                    "verified": "BV ID is incorrect - leads to unrelated QQ飞车 video",
+                    "verdict": "conflict",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "2427.7万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1GJ411z7iM",
+                            "match": false
+                        }
+                    ],
+                    "original": "2427.7万",
+                    "verified": "API returns 73 views - completely mismatched",
+                    "verdict": "conflict",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "puyoupuyou-featluotianyi.md",
+            "slug": "music:puyoupuyou-featluotianyi",
+            "title": "噗呦噗呦 feat.洛天依",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1Vx411k7CK confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "噗呦噗呦 feat.洛天依",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Vx411k7CK",
+                            "match": true
+                        }
+                    ],
+                    "original": "噗呦噗呦 feat.洛天依",
+                    "verified": "【洛天依原创曲】噗呦噗呦【表情包/PV付】(Signal-E)【Vsinger创作赛】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2017-03-23",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Vx411k7CK",
+                            "match": true
+                        }
+                    ],
+                    "original": "2017-03-23",
+                    "verified": "2017-03-23",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1Vx411k7CK",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Vx411k7CK",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1Vx411k7CK",
+                    "verified": "BV1Vx411k7CK",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "48.2万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1Vx411k7CK",
+                            "match": true
+                        }
+                    ],
+                    "original": "48.2万",
+                    "verified": "482,352",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qi.md",
+            "slug": "music:qi",
+            "title": "器",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "器",
+                    "source": [],
+                    "original": "器",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:kendegui",
+                    "source": [],
+                    "original": "creator:kendegui",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qi-2.md",
+            "slug": "music:qi-2",
+            "title": "脐",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV16X4y1e77J confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "脐",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV16X4y1e77J",
+                            "match": true
+                        }
+                    ],
+                    "original": "脐",
+                    "verified": "天气这么热，来听一首萌萌的解暑神曲吧《脐》【洛天依原创曲】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2023-07-12",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV16X4y1e77J",
+                            "match": true
+                        }
+                    ],
+                    "original": "2023-07-12",
+                    "verified": "2023-07-12",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV16X4y1e77J",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV16X4y1e77J",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV16X4y1e77J",
+                    "verified": "BV16X4y1e77J",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "19.1万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV16X4y1e77J",
+                            "match": true
+                        }
+                    ],
+                    "original": "19.1万",
+                    "verified": "191,473",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qianbaiducoverxusong.md",
+            "slug": "music:qianbaiducoverxusong",
+            "title": "千百度【cover.许嵩】",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千百度【cover.许嵩】",
+                    "source": [],
+                    "original": "千百度【cover.许嵩】",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:kamiyadawangzhanghaozhuxiao",
+                    "source": [],
+                    "original": "creator:kamiyadawangzhanghaozhuxiao",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianbenying.md",
+            "slug": "music:qianbenying",
+            "title": "千本樱",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千本樱",
+                    "source": [],
+                    "original": "千本樱",
+                    "verified": "Too generic a title to verify without BV or date",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:tmzhusangsang",
+                    "source": [],
+                    "original": "creator:tmzhusangsang",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianbenying-2.md",
+            "slug": "music:qianbenying-2",
+            "title": "千本樱",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千本樱",
+                    "source": [],
+                    "original": "千本樱",
+                    "verified": "Too generic a title to verify without BV or date",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:jiwuren",
+                    "source": [],
+                    "original": "creator:jiwuren",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianbenying-3.md",
+            "slug": "music:qianbenying-3",
+            "title": "千本樱",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千本樱",
+                    "source": [],
+                    "original": "千本樱",
+                    "verified": "Too generic a title to verify without BV or date",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:zhuanyubanchep",
+                    "source": [],
+                    "original": "creator:zhuanyubanchep",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qiandengyouxia.md",
+            "slug": "music:qiandengyouxia",
+            "title": "千灯游夏",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千灯游夏",
+                    "source": [],
+                    "original": "千灯游夏",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yaoshucqc",
+                    "source": [],
+                    "original": "creator:yaoshucqc",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianduliulangjinyoulai.md",
+            "slug": "music:qianduliulangjinyoulai",
+            "title": "前度刘郎今又来",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1RzxbeFEyE confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "前度刘郎今又来",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1RzxbeFEyE",
+                            "match": true
+                        }
+                    ],
+                    "original": "前度刘郎今又来",
+                    "verified": "【星尘x洛天依原创】前度刘郎今又来 刘柳",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2024-10-01",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1RzxbeFEyE",
+                            "match": true
+                        }
+                    ],
+                    "original": "2024-10-01",
+                    "verified": "2024-10-01",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1RzxbeFEyE",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1RzxbeFEyE",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1RzxbeFEyE",
+                    "verified": "BV1RzxbeFEyE",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "8177",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1RzxbeFEyE",
+                            "match": true
+                        }
+                    ],
+                    "original": "8177",
+                    "verified": "8,178",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qiangjiankaigevjiaqirenhechangchungeban.md",
+            "slug": "music:qiangjiankaigevjiaqirenhechangchungeban",
+            "title": "锵剑慨歌【V家七人合唱】纯歌版",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "锵剑慨歌【V家七人合唱】纯歌版",
+                    "source": [],
+                    "original": "锵剑慨歌【V家七人合唱】纯歌版",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yishuiuryan",
+                    "source": [],
+                    "original": "creator:yishuiuryan",
+                    "verified": "Known creator (伊水_Uryan), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qiangjiankaigevjiaqirenhechangjuqingban.md",
+            "slug": "music:qiangjiankaigevjiaqirenhechangjuqingban",
+            "title": "锵剑慨歌【V家七人合唱】剧情版",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "锵剑慨歌【V家七人合唱】剧情版",
+                    "source": [],
+                    "original": "锵剑慨歌【V家七人合唱】剧情版",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:yishuiuryan",
+                    "source": [],
+                    "original": "creator:yishuiuryan",
+                    "verified": "Known creator (伊水_Uryan), but specific song not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qiangjiaodeyangganju.md",
+            "slug": "music:qiangjiaodeyangganju",
+            "title": "墙角的洋甘菊",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "墙角的洋甘菊",
+                    "source": [],
+                    "original": "墙角的洋甘菊",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:sangluotaohua",
+                    "source": [],
+                    "original": "creator:sangluotaohua",
+                    "verified": "Creator known as 桑落桃花, but specific BV not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qiangjiaodeyangganju-2.md",
+            "slug": "music:qiangjiaodeyangganju-2",
+            "title": "墙角的洋甘菊",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1CxXfYyEHR confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "墙角的洋甘菊",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1CxXfYyEHR",
+                            "match": true
+                        }
+                    ],
+                    "original": "墙角的洋甘菊",
+                    "verified": "【洛天依原创】墙角的洋甘菊",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2025-03-02",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1CxXfYyEHR",
+                            "match": true
+                        }
+                    ],
+                    "original": "2025-03-02",
+                    "verified": "2025-03-02",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1CxXfYyEHR",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1CxXfYyEHR",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1CxXfYyEHR",
+                    "verified": "BV1CxXfYyEHR",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "5178",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1CxXfYyEHR",
+                            "match": true
+                        }
+                    ],
+                    "original": "5178",
+                    "verified": "5,179",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qiangweigeming.md",
+            "slug": "music:qiangweigeming",
+            "title": "蔷薇革命",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV1os411Z7GA confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "蔷薇革命",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1os411Z7GA",
+                            "match": true
+                        }
+                    ],
+                    "original": "蔷薇革命",
+                    "verified": "【洛天依原创】《蔷薇革命》（光与影系列第二弹）【灵寰社】【6P主合作】",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2013-05-16",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1os411Z7GA",
+                            "match": true
+                        }
+                    ],
+                    "original": "2013-05-16",
+                    "verified": "2013-05-16",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV1os411Z7GA",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1os411Z7GA",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV1os411Z7GA",
+                    "verified": "BV1os411Z7GA",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "25.6万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV1os411Z7GA",
+                            "match": true
+                        }
+                    ],
+                    "original": "25.6万",
+                    "verified": "255,757",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qiangweiyu.md",
+            "slug": "music:qiangweiyu",
+            "title": "蔷薇雨",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date (2024-12-20) and play count (1.0万) but no BV ID. Cannot verify via bilibili API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "蔷薇雨",
+                    "source": [],
+                    "original": "蔷薇雨",
+                    "verified": "Not found in public databases via BV lookup",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:akor",
+                    "source": [],
+                    "original": "creator:akor",
+                    "verified": "Known creator (AkoR), but specific song not found",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2024-12-20",
+                    "source": [],
+                    "original": "2024-12-20",
+                    "verified": "Date present, but cannot cross-verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "播放量",
+                    "value": "1.0万",
+                    "source": [],
+                    "original": "1.0万",
+                    "verified": "Cannot verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                }
+            ]
+        },
+        {
+            "file": "qianhai.md",
+            "slug": "music:qianhai",
+            "title": "浅海",
+            "overall_verdict": "confirmed",
+            "suspicious": false,
+            "notes": "All fields verified via bilibili API. BV11ZaYzeE4n confirmed.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "浅海",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV11ZaYzeE4n",
+                            "match": true
+                        }
+                    ],
+                    "original": "浅海",
+                    "verified": "浅海 / 洛天依原创",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2025-09-06",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV11ZaYzeE4n",
+                            "match": true
+                        }
+                    ],
+                    "original": "2025-09-06",
+                    "verified": "2025-09-06",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "BV11ZaYzeE4n",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV11ZaYzeE4n",
+                            "match": true
+                        }
+                    ],
+                    "original": "BV11ZaYzeE4n",
+                    "verified": "BV11ZaYzeE4n",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                },
+                {
+                    "field": "播放量",
+                    "value": "1.9万",
+                    "source": [
+                        {
+                            "label": "bilibili",
+                            "url": "https://www.bilibili.com/video/BV11ZaYzeE4n",
+                            "match": true
+                        }
+                    ],
+                    "original": "1.9万",
+                    "verified": "18,584",
+                    "verdict": "confirmed",
+                    "confidence": "HIGH"
+                }
+            ]
+        },
+        {
+            "file": "qianliepiaoxing.md",
+            "slug": "music:qianliepiaoxing",
+            "title": "千里饿殍行",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千里饿殍行",
+                    "source": [],
+                    "original": "千里饿殍行",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:lizhenlizhen",
+                    "source": [],
+                    "original": "creator:lizhenlizhen",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianlipozhen.md",
+            "slug": "music:qianlipozhen",
+            "title": "千里破阵",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date (2022-02-25) and play count (13.7万) but no BV ID. Cannot verify via bilibili API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千里破阵",
+                    "source": [],
+                    "original": "千里破阵",
+                    "verified": "Not found in public databases via BV lookup",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:zhuxiaoshengzoki",
+                    "source": [],
+                    "original": "creator:zhuxiaoshengzoki",
+                    "verified": "Known creator (著小生zoki), but specific song not verified",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2022-02-25",
+                    "source": [],
+                    "original": "2022-02-25",
+                    "verified": "Date present, but cannot cross-verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "播放量",
+                    "value": "13.7万",
+                    "source": [],
+                    "original": "13.7万",
+                    "verified": "Cannot verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                }
+            ]
+        },
+        {
+            "file": "qianliyaoyue-2.md",
+            "slug": "",
+            "title": "",
+            "overall_verdict": "file_not_found",
+            "suspicious": false,
+            "notes": "File does not exist on disk",
+            "facts": []
+        },
+        {
+            "file": "qianlu.md",
+            "slug": "music:qianlu",
+            "title": "前路",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "前路",
+                    "source": [],
+                    "original": "前路",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:tanyaohongyeshe",
+                    "source": [],
+                    "original": "creator:tanyaohongyeshe",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        },
+        {
+            "file": "qianmeng.md",
+            "slug": "music:qianmeng",
+            "title": "千梦",
+            "overall_verdict": "partial",
+            "suspicious": false,
+            "notes": "Has date (2018-12-13) and play count (239) but no BV ID. Cannot verify via bilibili API.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千梦",
+                    "source": [],
+                    "original": "千梦",
+                    "verified": "Not found in public databases via BV lookup",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:tmzhusangsang",
+                    "source": [],
+                    "original": "creator:tmzhusangsang",
+                    "verified": "Known creator (TM丶桑桑), but specific song not verified",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "2018-12-13",
+                    "source": [],
+                    "original": "2018-12-13",
+                    "verified": "Date present, but cannot cross-verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "播放量",
+                    "value": "239",
+                    "source": [],
+                    "original": "239",
+                    "verified": "Cannot verify without BV ID",
+                    "verdict": "partial",
+                    "confidence": "LOW"
+                }
+            ]
+        },
+        {
+            "file": "qiannianxue.md",
+            "slug": "music:qiannianxue",
+            "title": "千年雪",
+            "overall_verdict": "unverifiable",
+            "suspicious": false,
+            "notes": "No date or BV. Cannot verify.",
+            "facts": [
+                {
+                    "field": "曲名",
+                    "value": "千年雪",
+                    "source": [],
+                    "original": "千年雪",
+                    "verified": "Not found in public databases",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "P主",
+                    "value": "creator:luanyinhexin",
+                    "source": [],
+                    "original": "creator:luanyinhexin",
+                    "verified": "Not found as bilibili UP主",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "发行日期",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                },
+                {
+                    "field": "视频ID",
+                    "value": "",
+                    "source": [],
+                    "original": "",
+                    "verified": "Not found",
+                    "verdict": "unverifiable",
+                    "confidence": "NONE"
+                }
+            ]
+        }
+    ]
+}

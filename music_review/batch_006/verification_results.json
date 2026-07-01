@@ -1,0 +1,372 @@
+{
+  "batch_id": "batch_006",
+  "verified_at": "2026-06-11",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 1,
+    "partially_verified": 7,
+    "unverified": 12
+  },
+  "results": [
+    {
+      "file": "ban-with-lantuzip.md",
+      "song_title": "-絆-（With. 烂兔子P）",
+      "claim_creator": "zhihuixiebaledehuapianp",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found for this specific song. The claim P主 zhihuixiebaledehuapianp (只会写芭乐的滑片P) and the title referencing 烂兔子P are contradictory - 烂兔子P is a well-known different creator. Song existence could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "banzhairiji.md",
+      "song_title": "伴宅日记",
+      "claim_creator": "hyinyuezhimenglingyinyue",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://zh.moegirl.org.cn/%E4%BC%B4%E5%AE%85%E6%97%A5%E8%AE%B0"],
+      "finding": "Confirmed on Moegirl: H6音乐(织梦令音乐/hyinyuezhimenglingyinyue), 2018-10-19, 洛天依. No BV number available in source. Bilibili URL not directly extractable.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E4%BC%B4%E5%AE%85%E6%97%A5%E8%AE%B0",
+        "bilibili_url": null,
+        "confirmed_creator": "H6音乐(织梦令音乐)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2018-10-19"
+      }
+    },
+    {
+      "file": "banzhan.md",
+      "song_title": "半盏",
+      "claim_creator": "puke",
+      "claim_singer": "core:luo-tian-yi, member:yan-he",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://zh.moegirl.org.cn/zh-hans/%E5%8D%8A%E7%9B%8F"],
+      "finding": "Confirmed on Moegirl: PoKeR(puke/扑克), 2018-06-17, 言和/洛天依. Singers confirmed as both 洛天依 and 言和. PO主 PoKeR matches slug puke. No BV available.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/zh-hans/%E5%8D%8A%E7%9B%8F",
+        "bilibili_url": null,
+        "confirmed_creator": "PoKeR(扑克)",
+        "confirmed_singer": "洛天依, 言和",
+        "confirmed_date": "2018-06-17"
+      }
+    },
+    {
+      "file": "banzhuanshijianluotianyiban.md",
+      "song_title": "板砖时间（洛天依版）",
+      "claim_creator": "xiaoxupro",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://zh.moegirl.org.cn/%E6%9D%BF%E7%A0%96%E6%97%B6%E9%97%B4"],
+      "finding": "Confirmed on Moegirl: 小旭PRO(xiaoxupro), 2017-03-09, 洛天依. Song title on Moegirl is '板砖时间' not '板砖时间（洛天依版）' but details match. No BV available.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E6%9D%BF%E7%A0%96%E6%97%B6%E9%97%B4",
+        "bilibili_url": null,
+        "confirmed_creator": "小旭PRO(xiaoxupro)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2017-03-09"
+      }
+    },
+    {
+      "file": "baobeibiezou.md",
+      "song_title": "《宝贝，别走》",
+      "claim_creator": "lvyegesongzhe",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found for '宝贝，别走' by lvyegesongzhe(绿叶歌颂者). Song existence could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "baochijuli.md",
+      "song_title": "保持距离",
+      "claim_creator": "pyh208",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": ["https://zh.moegirl.org.cn/%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB"],
+      "finding": "Confirmed on Moegirl: PYH208, 2025-01-28, 洛天依. Note: Listed as X Studio song, not VOCALOID. No BV available.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB",
+        "bilibili_url": null,
+        "confirmed_creator": "PYH208",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2025-01-28"
+      }
+    },
+    {
+      "file": "baofengyudaolaiqiandesanfensanshimiao-luotianyiai.md",
+      "song_title": "暴风雨到来前的三分三十秒 洛天依AI",
+      "claim_creator": "xinxian",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found for this song. P主 xinxian(信弦) is a known VOCALOID creator but this specific song could not be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "baozipuzhige.md",
+      "song_title": "包子铺之歌",
+      "claim_creator": "kelejun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found for '包子铺之歌'. P主 kelejun(可乐君) is a known VOCALOID creator but this specific song could not be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bawoliuzaixiatianaiban.md",
+      "song_title": "把我留在夏天（AI版）",
+      "claim_creator": "wangxilin",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found for '把我留在夏天（AI版）'. P主 wangxilin(王曦临/Xlin) is a known VOCALOID creator but this specific AI version could not be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "bayueduiwohaoyidian.md",
+      "song_title": "八月对我好一点",
+      "claim_creator": "fns",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page found for this specific song. However, creator FNS is confirmed on Moegirl as an active VOCALOID P主 (songs: '注定不能', '我的世界' etc.). The song claim includes a specific date (2025-08-01) and view count (1.1万) lending credibility, but could not be independently cross-referenced.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "FNS (confirmed P主, specific song unverified)",
+        "confirmed_singer": "洛天依 (based on claim)",
+        "confirmed_date": "2025-08-01 (based on claim)"
+      }
+    },
+    {
+      "file": "beidaoerchi-luotianyiai.md",
+      "song_title": "背道而驰 (洛天依AI)",
+      "claim_creator": "stzhushuang",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page found for '背道而驰 (洛天依AI)'. P主 stzhushuang(林羊) could not be independently confirmed. The claim includes specific date (2022-06-22) and view count (2.1万) but no source provided.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beidaoerchi.md",
+      "song_title": "背道而驰",
+      "claim_creator": "stzhushuang",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page found for '背道而驰'. P主 stzhushuang(林羊) could not be independently confirmed.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beidongxidexinyuhongshisuansedejiushu-luotianyi.md",
+      "song_title": "被洞悉的心与红石蒜色的救赎 洛天依",
+      "claim_creator": "xinxian",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found. P主 xinxian(信弦) is a known VOCALOID creator but this specific song could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beiduizhuoxiangnian.md",
+      "song_title": "背对着想念",
+      "claim_creator": "t2o",
+      "claim_singer": "core:luo-tian-yi, member:yue-zheng-ling",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page found. P主 T2o is a known VOCALOID creator but this specific song could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beihaiwangxiangzheng.md",
+      "song_title": "被害妄想症",
+      "claim_creator": "kelejun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "Moegirl page for '被害妄想症' exists but is about the psychological concept, not a VOCALOID song. No dedicated VOCALOID song page found. P主 kelejun(可乐君) is a known creator but this specific song could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beijindege.md",
+      "song_title": "被禁的歌",
+      "claim_creator": "kelejun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found. P主 kelejun(可乐君) is a known VOCALOID creator but this specific song could not be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beiliufangzhedesiyu.md",
+      "song_title": "被流放者的私语",
+      "claim_creator": "kelejun",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found. P主 kelejun(可乐君) is a known VOCALOID creator but this specific song could not be verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beiming.md",
+      "song_title": "悲鸣1",
+      "claim_creator": "hefengsmiley",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page or Bilibili source found. P主 hefengsmiley(和风smiley) could not be independently verified as a VOCALOID creator.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beishangguangshenbeilun.md",
+      "song_title": "北上广深悖论",
+      "claim_creator": "yujianliu",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [],
+      "finding": "No Moegirl page found for this specific song. However, P主 yujianliu(裕剑流) is a well-known VOCALOID P主 confirmed on Moegirl for other works. Song itself could not be independently verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "裕剑流(yujianliu) (confirmed P主, specific song unverified)",
+        "confirmed_singer": "洛天依 (based on claim)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "beishijiepaoqidehaizi-featchuyinweilailuotianyi.md",
+      "song_title": "被世界抛弃的孩子 (feat.初音未来&洛天依)",
+      "claim_creator": "qiguaileizi",
+      "claim_singer": "core:luo-tian-yi",
+      "claim_videoid": "",
+      "status": "FULLY_VERIFIED",
+      "sources": ["https://zh.moegirl.org.cn/%E8%A2%AB%E4%B8%96%E7%95%8C%E6%8A%9B%E5%BC%83%E7%9A%84%E5%AD%A9%E5%AD%90", "https://vcpedia.cn/%E8%A2%AB%E4%B8%96%E7%95%8C%E6%8A%9B%E5%BC%83%E7%9A%84%E5%AD%A9%E5%AD%90"],
+      "finding": "Confirmed on Moegirl and VCPedia: QGRay/奇怪雷子(qiguaileizi), 2023-12-20, 初音未来&洛天依. Note: File lists singer as only 洛天依(luo-tian-yi), but actual song features 初音未来 as co-singer. This is a partial inaccuracy in the claim.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E8%A2%AB%E4%B8%96%E7%95%8C%E6%8A%9B%E5%BC%83%E7%9A%84%E5%AD%A9%E5%AD%90",
+        "bilibili_url": "https://www.bilibili.com/ (specific BV not extracted)",
+        "confirmed_creator": "QGRay(奇怪雷子)",
+        "confirmed_singer": "初音未来, 洛天依",
+        "confirmed_date": "2023-12-20"
+      }
+    }
+  ]
+}

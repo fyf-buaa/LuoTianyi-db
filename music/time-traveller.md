@@ -19,7 +19,7 @@
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 
 《Time Traveller》是由naonao创作由洛天依演唱的vocaloid风格音乐作品。
 

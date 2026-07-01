@@ -1,0 +1,1436 @@
+{
+  "batch_id": "batch-110",
+  "batch_number": 110,
+  "job_count": 30,
+  "priority_classes": [
+    2
+  ],
+  "jobs": [
+    {
+      "job_id": "verify-wojianguonakexing",
+      "file": "music\\wojianguonakexing.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我见过那颗星",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qianmengli",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我见过那颗星 洛天依",
+        "bilibili 我见过那颗星 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-wojiangyuedingxiechengshi",
+      "file": "music\\wojiangyuedingxiechengshi.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我将约定写成诗",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:lindongwinterp",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我将约定写成诗 洛天依",
+        "bilibili 我将约定写成诗 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-wokenengfanglejiahanjia",
+      "file": "music\\wokenengfanglejiahanjia.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我可能放了假寒假",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:poke",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-01-16",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我可能放了假寒假 poke",
+        "bilibili 我可能放了假寒假 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-womaixialeyewandesuoyouguang",
+      "file": "music\\womaixialeyewandesuoyouguang.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "\"我买下了夜晚的所有光\"",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yiwanretang",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:hai-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2021年1月2日",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "殿堂曲(10万+播放)",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID \"我买下了夜晚的所有光\" yiwanretang",
+        "bilibili \"我买下了夜晚的所有光\" VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-womeiyougenenggeiniting",
+      "file": "music\\womeiyougenenggeiniting.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我没有歌能给你听",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ilem",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2021年11月27日",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "200万+（传说曲）",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我没有歌能给你听 ilem",
+        "bilibili 我没有歌能给你听 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-women",
+      "file": "music\\women.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yongyuanhuanying",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们 洛天依",
+        "bilibili 我们 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-women-2",
+      "file": "music\\women-2.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yanye",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们 洛天依",
+        "bilibili 我们 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womendege",
+      "file": "music\\womendege.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们的歌",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:luowei",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2018-05-29",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们的歌 luowei",
+        "bilibili 我们的歌 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-womendegushibeifengchuisan",
+      "file": "music\\womendegushibeifengchuisan.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们的故事被风吹散",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:lvyegesongzhe",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们的故事被风吹散 洛天依",
+        "bilibili 我们的故事被风吹散 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womendeshijie-luotianyi-ver",
+      "file": "music\\womendeshijie-luotianyi-ver.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们的世界 (洛天依 ver.)",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ludengshigelaodeng",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们的世界 (洛天依 ver.) 洛天依",
+        "bilibili 我们的世界 (洛天依 ver.) VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womenlaiwanchengyujielongba",
+      "file": "music\\womenlaiwanchengyujielongba.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们来玩成语接龙吧",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhoucun (JUSF)",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们来玩成语接龙吧 洛天依",
+        "bilibili 我们来玩成语接龙吧 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womenlaiwanchengyujielongba-heiheiban",
+      "file": "music\\womenlaiwanchengyujielongba-heiheiban.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们来玩成语接龙吧-黑黑版",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhoucun (JUSF)",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们来玩成语接龙吧-黑黑版 洛天依",
+        "bilibili 我们来玩成语接龙吧-黑黑版 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womenmeiguisedesuiyuepudeng-seri",
+      "file": "music\\womenmeiguisedesuiyuepudeng-seri.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们玫瑰色的岁月（僕等 バラ色の日々）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:licis",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们玫瑰色的岁月（僕等 バラ色の日々） 洛天依",
+        "bilibili 我们玫瑰色的岁月（僕等 バラ色の日々） VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womentanlunaiba",
+      "file": "music\\womentanlunaiba.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们谈论爱吧",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:licis",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023年8月4日",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们谈论爱吧 licis",
+        "bilibili 我们谈论爱吧 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-womenzaiyebuhuijianmian",
+      "file": "music\\womenzaiyebuhuijianmian.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们再也不会见面",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:FNS",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们再也不会见面 洛天依",
+        "bilibili 我们再也不会见面 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womenzhongjiangshoudaoyishujiaolibiedehua",
+      "file": "music\\womenzhongjiangshoudaoyishujiaolibiedehua.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们终将收到一束叫离别的花",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:lvyegesongzhe",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们终将收到一束叫离别的花 洛天依",
+        "bilibili 我们终将收到一束叫离别的花 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womenzhongjiangshoudaoyishujiaolibiedehua-2",
+      "file": "music\\womenzhongjiangshoudaoyishujiaolibiedehua-2.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我们终将收到一束叫离别的花",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:lvyegesongzhe",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我们终将收到一束叫离别的花 洛天依",
+        "bilibili 我们终将收到一束叫离别的花 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womexiaoou-remix",
+      "file": "music\\womexiaoou-remix.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我(Me)(小欧Ω Remix)",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiaoou",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我(Me)(小欧Ω Remix) 洛天依",
+        "bilibili 我(Me)(小欧Ω Remix) VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-womingbai",
+      "file": "music\\womingbai.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我明白",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:FNS",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我明白 洛天依",
+        "bilibili 我明白 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshengyusiquzhiri",
+      "file": "music\\woshengyusiquzhiri.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我生于死去之日。",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:奥莉安多",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-07-05",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我生于死去之日。 洛天依",
+        "bilibili 我生于死去之日。 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshichuyinweilai",
+      "file": "music\\woshichuyinweilai.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是初音未来",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:WOVOP",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-04-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是初音未来 洛天依",
+        "bilibili 我是初音未来 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshidanshengou",
+      "file": "music\\woshidanshengou.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是单身狗",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qincaizhuroudahuntun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是单身狗 洛天依",
+        "bilibili 我是单身狗 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshiduomexiang",
+      "file": "music\\woshiduomexiang.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是多么想",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:stzhushuang",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是多么想 stzhushuang",
+        "bilibili 我是多么想 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-woshinidebian",
+      "file": "music\\woshinidebian.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是你的彼岸",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:lvyegesongzhe",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是你的彼岸 洛天依",
+        "bilibili 我是你的彼岸 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshinvhai",
+      "file": "music\\woshinvhai.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是，女孩。",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:停电前夜",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-04-04",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是，女孩。 洛天依",
+        "bilibili 我是，女孩。 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshixiaoxiaohuanlemofashi-luotianyi-ver",
+      "file": "music\\woshixiaoxiaohuanlemofashi-luotianyi-ver.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是小小欢乐魔法师 (洛天依 ver.)",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ludengshigelaodeng",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是小小欢乐魔法师 (洛天依 ver.) 洛天依",
+        "bilibili 我是小小欢乐魔法师 (洛天依 ver.) VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshiyangmie",
+      "file": "music\\woshiyangmie.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是羊咩",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:DeRos刘师宇",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-04-13",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是羊咩 洛天依",
+        "bilibili 我是羊咩 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshiyizhanludeng",
+      "file": "music\\woshiyizhanludeng.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是一盏路灯",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:Dizzy.TC3",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-07-15",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是一盏路灯 洛天依",
+        "bilibili 我是一盏路灯 VOCALOID"
+      ]
+    },
+    {
+      "job_id": "verify-woshiyizhenfeng",
+      "file": "music\\woshiyizhenfeng.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我是一阵风",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:a01in",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我是一阵风 a01in",
+        "bilibili 我是一阵风 VOCALOID 洛天依"
+      ]
+    },
+    {
+      "job_id": "verify-wosuoqidaidemingtian",
+      "file": "music\\wosuoqidaidemingtian.md",
+      "method": "web_search",
+      "bv_number": null,
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "我所期待的明天",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:zvt",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1844",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "VOCALOID 我所期待的明天 zvt",
+        "bilibili 我所期待的明天 VOCALOID 洛天依"
+      ]
+    }
+  ],
+  "primary_priority": 2
+}

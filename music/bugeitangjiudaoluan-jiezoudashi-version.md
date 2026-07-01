@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 流行 |
-| 标签 | 独唱, VOCALOID, 万圣节 |
+| 标签 | 独唱, vocaloid, 万圣节 |
 | 作词 | 蔫小坏 |
 | 作曲 | iKz |
 | 编曲 | iKz |

@@ -1,0 +1,31 @@
+﻿{
+    "blocker":  {
+                    "resolution":  "deploy bulk moegirl scraper or bilibili API (wbi signature)",
+                    "type":  "bilibili_412_anti_scrape",
+                    "impact":  "prevents verification of 4614 files"
+                },
+    "pipeline_status":  "functional_externally_blocked",
+    "resume_command":  "python bin/verify-online.py --batch music/ --output qa/verify-batches",
+    "quarantined":  443,
+    "known_issues":  [
+                         {
+                             "reason":  "singer_is_yanhe_not_luotianyi",
+                             "file":  "2015.md",
+                             "quarantined":  true
+                         },
+                         {
+                             "reason":  "P主_is_JUSF周存_not_taoli",
+                             "file":  "aikepaon.md",
+                             "quarantined":  false
+                         },
+                         {
+                             "reason":  "BV可能不匹配",
+                             "file":  "10from-bottom-to-the-top.md",
+                             "quarantined":  false
+                         }
+                     ],
+    "total_files":  4764,
+    "generated_at":  "2026-06-07",
+    "verified":  150,
+    "formatted":  4764
+}

@@ -1,0 +1,3381 @@
+﻿{
+    "report_metadata":  {
+                            "methodology":  "对每个文件提取曲名、P主、发行日期、视频ID/BV ID、播放量等字段，通过bilibili API (https://api.bilibili.com/x/web-interface/view?bvid={BV}) 进行交叉验证",
+                            "total_files":  50,
+                            "batch":  "Batch_094",
+                            "generated":  "2026-06-08",
+                            "summary":  {
+                                            "confirmed":  10,
+                                            "suspicious":  3,
+                                            "conflict":  2,
+                                            "partial":  1,
+                                            "file_not_found":  1,
+                                            "unverifiable":  36
+                                        },
+                            "title":  "Batch_094 事实核查报告"
+                        },
+    "results":  [
+                    {
+                        "file":  "zhizi.md",
+                        "slug":  "music:zhizi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "质子",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "质子",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:remido",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2016-07-23",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约548.6万",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongbaidexiaobuwuqu.md",
+                        "slug":  "music:zhongbaidexiaobuwuqu",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "钟摆的小步舞曲",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "钟摆的小步舞曲",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhihuixiebaledehuapianp",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2022-05-20",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongbaidexiaobuwuquwith-lantuzip.md",
+                        "slug":  "music:zhongbaidexiaobuwuquwith-lantuzip",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "钟摆的小步舞曲（With. 烂兔子P）",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "钟摆的小步舞曲（With. 烂兔子P）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhihuixiebaledehuapianp",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2022-05-20",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongguonvhai.md",
+                        "slug":  "music:zhongguonvhai",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "中国女孩",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "中国女孩",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:kelejun",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhonghuamoshuinianggai.md",
+                        "slug":  "music:zhonghuamoshuinianggai",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "中华墨水娘·改",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "中华墨水娘·改",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhihuixiebaledehuapianp",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2016-09-01",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约19.6万",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhonghuaniantuniang.md",
+                        "slug":  "music:zhonghuaniantuniang",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "中华粘土娘",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "中华粘土娘",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:tmzhusangsang",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2015-05-08",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "100万+（传说曲）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhonghuazhuhuoniang-zhenyuanban.md",
+                        "slug":  "music:zhonghuazhuhuoniang-zhenyuanban",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "中华烛火娘 (真·原版)",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "中华烛火娘 (真·原版)",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:chunbai",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2014-03-13",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "10万+（殿堂曲）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongmu.md",
+                        "slug":  "music:zhongmu",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "终幕",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "终幕",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:licis",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongqiu.md",
+                        "slug":  "music:zhongqiu",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "仲秋",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "仲秋",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:ztwuji",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongsheng.md",
+                        "slug":  "music:zhongsheng",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "众生",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "众生",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:255p",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongshengde.md",
+                        "slug":  "music:zhongshengde",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "众生的",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "众生的",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhoucun",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongvrenniuzhuanchenxingdeduolun.md",
+                        "slug":  "music:zhongvrenniuzhuanchenxingdeduolun",
+                        "overall_verdict":  "confirmed",
+                        "title":  "【中V12人】扭转晨星的舵轮",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "【中V12人】扭转晨星的舵轮",
+                                          "verified":  "【中V12人大合唱】扭转晨星的舵轮【时之歌PROJECT翻唱】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZW411o715",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:yishuiuryan",
+                                          "verified":  "伊水_Uryan",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZW411o715",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1ZW411o715",
+                                          "verified":  "BV1ZW411o715",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZW411o715",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2018-09-07",
+                                          "verified":  "2018-09-07",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZW411o715",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "13.4万",
+                                          "verified":  "134063",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZW411o715",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongwentianci.md",
+                        "slug":  "music:zhongwentianci",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "アイドル 【中文填词】",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "アイドル 【中文填词】",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:beiaisama",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongwentianci-2.md",
+                        "slug":  "music:zhongwentianci-2",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "オーバーライド【中文填词】",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "オーバーライド【中文填词】",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:beiaisama",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongwentianci-featluotianyi.md",
+                        "slug":  "music:zhongwentianci-featluotianyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "【中文填词】バッドエンドエトセトラ feat.洛天依",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "【中文填词】バッドエンドエトセトラ feat.洛天依",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:beiaisama",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongwentiancizifeat-luotianyi.md",
+                        "slug":  "music:zhongwentiancizifeat-luotianyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "【中文填词】ギーコギーコ、いい子(feat. 洛天依)",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "【中文填词】ギーコギーコ、いい子(feat. 洛天依)",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:beiaisama",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongxiaye-luotianyi.md",
+                        "slug":  "music:zhongxiaye-luotianyi",
+                        "overall_verdict":  "file_not_found",
+                        "title":  "",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "File not found on disk"
+                                   ],
+                        "facts":  [
+
+                                  ]
+                    },
+                    {
+                        "file":  "zhongyanshimo.md",
+                        "slug":  "music:zhongyanshimo",
+                        "overall_verdict":  "confirmed",
+                        "title":  "终言世末",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "终言世末",
+                                          "verified":  "【洛V5/绫V5/言V5/墨V4原创曲】终言世末【槃清/LoA】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+                                          "verified":  "P不月水蒼Q",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1wC411z78X",
+                                          "verified":  "BV1wC411z78X",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2024-01-30",
+                                          "verified":  "2024-01-30",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约3.2万",
+                                          "verified":  "31729",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongyanshimo-2.md",
+                        "slug":  "music:zhongyanshimo-2",
+                        "overall_verdict":  "confirmed",
+                        "title":  "终言世末",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "终言世末",
+                                          "verified":  "【洛V5/绫V5/言V5/墨V4原创曲】终言世末【槃清/LoA】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+                                          "verified":  "P不月水蒼Q",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1wC411z78X",
+                                          "verified":  "BV1wC411z78X",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2024-01-30",
+                                          "verified":  "2024-01-30",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约3.2万",
+                                          "verified":  "31729",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1wC411z78X",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongyaodehuashuosanbian.md",
+                        "slug":  "music:zhongyaodehuashuosanbian",
+                        "overall_verdict":  "confirmed",
+                        "title":  "重要的话说三遍",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "重要的话说三遍",
+                                          "verified":  "【原创曲】洛天依「重要的话说三遍」",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ms411q7h9",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:t2o",
+                                          "verified":  "T2o",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ms411q7h9",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1ms411q7h9",
+                                          "verified":  "BV1ms411q7h9",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ms411q7h9",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "2016-04-29",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ms411q7h9",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约18.9万",
+                                          "verified":  "189375",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1ms411q7h9",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongyinteto-wujierzhong-covervzairanshao.md",
+                        "slug":  "music:zhongyinteto-wujierzhong-covervzairanshao",
+                        "overall_verdict":  "partial",
+                        "title":  "重音teto 无疾而终 (Cover.V在燃烧)",
+                        "suspicious":  true,
+                        "issues":  [
+                                       "Uploader mismatch: local=\u0027creator:zhihuixiebaledehuapianp\u0027, api=\u0027账号已注销\u0027"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "重音teto 无疾而终 (Cover.V在燃烧)",
+                                          "verified":  "【重音teto】无疾而终  翻调【cover. V在燃烧】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1EZyhY6EDV",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhihuixiebaledehuapianp",
+                                          "verified":  "账号已注销",
+                                          "verdict":  "conflict",
+                                          "confidence":  "LOW",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1EZyhY6EDV",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1EZyhY6EDV",
+                                          "verified":  "BV1EZyhY6EDV",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1EZyhY6EDV",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2024-10-20",
+                                          "verified":  "2024-10-20",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1EZyhY6EDV",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约1.1万",
+                                          "verified":  "10638",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1EZyhY6EDV",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhongyouyitiannihuilikai.md",
+                        "slug":  "music:zhongyouyitiannihuilikai",
+                        "overall_verdict":  "confirmed",
+                        "title":  "终有一天你会离开",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "终有一天你会离开",
+                                          "verified":  "【乐正绫feat.洛天依原创】终有一天你会离开【ppt付】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1xs411E7Mn",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lyrikp",
+                                          "verified":  "Like_p",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1xs411E7Mn",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1xs411E7Mn",
+                                          "verified":  "BV1xs411E7Mn",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1xs411E7Mn",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2018-07-18",
+                                          "verified":  "2018-07-18",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1xs411E7Mn",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约4.7万",
+                                          "verified":  "47395",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1xs411E7Mn",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhouxingji.md",
+                        "slug":  "music:zhouxingji",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "昼行记",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "昼行记",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:huajianyoululai",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhouyuwodegaobai.md",
+                        "slug":  "music:zhouyuwodegaobai",
+                        "overall_verdict":  "confirmed",
+                        "title":  "骤雨，我的告白",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "骤雨，我的告白",
+                                          "verified":  "骤雨，我的告白/洛天依乐正绫原创",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1dc411372z",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:huajianyoululai",
+                                          "verified":  "花间有鹿来",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1dc411372z",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1dc411372z",
+                                          "verified":  "BV1dc411372z",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1dc411372z",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2023-06-09",
+                                          "verified":  "2023-06-09",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1dc411372z",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约7.0万",
+                                          "verified":  "69926",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1dc411372z",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuanshenlikaidemo.md",
+                        "slug":  "music:zhuanshenlikaidemo",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "转身离开Demo",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "转身离开Demo",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:qiyeyueqiye",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuanshuailisi.md",
+                        "slug":  "music:zhuanshuailisi",
+                        "overall_verdict":  "confirmed",
+                        "title":  "专属爱丽丝",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "专属爱丽丝",
+                                          "verified":  "专属爱丽丝——小人国的最终歌唱by洛天依【闹闹丶】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1S8411Q7SJ",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:naonao",
+                                          "verified":  "丨闹闹丶丨",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1S8411Q7SJ",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1S8411Q7SJ",
+                                          "verified":  "BV1S8411Q7SJ",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1S8411Q7SJ",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2023-08-25",
+                                          "verified":  "2023-08-25",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1S8411Q7SJ",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "68562",
+                                          "verified":  "68573",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1S8411Q7SJ",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhufudejiushizhuyuaizhitazhufutafanzi-vocaloid.md",
+                        "slug":  "music:zhufudejiushizhuyuaizhitazhufutafanzi-vocaloid",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "祝福的救世主与爱之塔（祝福のメシアとアイの塔）（翻自 VOCALOID）",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "祝福的救世主与爱之塔（祝福のメシアとアイの塔）（翻自 VOCALOID）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:licis",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuguang.md",
+                        "slug":  "music:zhuguang",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "烛光",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "烛光",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuguang-2.md",
+                        "slug":  "music:zhuguang-2",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "逐光",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐光",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhuanyubanchep",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuguangxinyuan.md",
+                        "slug":  "music:zhuguangxinyuan",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "烛光心愿",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "烛光心愿",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:uruut",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhui.md",
+                        "slug":  "music:zhui",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "坠",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "坠",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zhihuixiebaledehuapianp",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuididaojishi.md",
+                        "slug":  "music:zhuididaojishi",
+                        "overall_verdict":  "confirmed",
+                        "title":  "坠地倒计时",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "坠地倒计时",
+                                          "verified":  "坠地倒计时 - 洛天依",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYKrzYEEw",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:xinzangniudan",
+                                          "verified":  "心脏扭蛋_rabbitrite",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYKrzYEEw",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1bYKrzYEEw",
+                                          "verified":  "BV1bYKrzYEEw",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYKrzYEEw",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2025-06-28",
+                                          "verified":  "2025-06-28",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYKrzYEEw",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "56792",
+                                          "verified":  "56798",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYKrzYEEw",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuiguang-luotianyi.md",
+                        "slug":  "music:zhuiguang-luotianyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追光 ——洛天依",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追光 ——洛天依",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lvyegesongzhe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuiguangzhecover-cenninger.md",
+                        "slug":  "music:zhuiguangzhecover-cenninger",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追光者（Cover 岑宁儿）",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追光者（Cover 岑宁儿）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:tayunshe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuiguangzheluotianyilezhengling.md",
+                        "slug":  "music:zhuiguangzheluotianyilezhengling",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追光者（洛天依、乐正绫）",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追光者（洛天依、乐正绫）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:regretful-love",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuiguangzheyanhevluotianyiv.md",
+                        "slug":  "music:zhuiguangzheyanhevluotianyiv",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追光者（言和V5、洛天依V5）",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追光者（言和V5、洛天依V5）",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:regretful-love",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuirumuxing.md",
+                        "slug":  "music:zhuirumuxing",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "坠入木星",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "坠入木星",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:stzhushuang",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuixinjiyi.md",
+                        "slug":  "music:zhuixinjiyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "锥心记忆",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "锥心记忆",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lvyegesongzhe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuixuankongxingzideren.md",
+                        "slug":  "music:zhuixuankongxingzideren",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追悬空星子的人",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追悬空星子的人",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:yingshihinanozhanghaozhuxiao",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuiyi.md",
+                        "slug":  "music:zhuiyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "追忆",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追忆",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lvyegesongzhe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuizhufengdeshaonian.md",
+                        "slug":  "music:zhuizhufengdeshaonian",
+                        "overall_verdict":  "confirmed",
+                        "title":  "追逐风的少年",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "追逐风的少年",
+                                          "verified":  "【洛天依原创】追逐风的少年",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sCPjepEcG",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:zuorideqingkongjiang",
+                                          "verified":  "昨日的青空酱",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sCPjepEcG",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1sCPjepEcG",
+                                          "verified":  "BV1sCPjepEcG",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sCPjepEcG",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2025-02-27",
+                                          "verified":  "2025-02-27",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sCPjepEcG",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "35,000+",
+                                          "verified":  "35150",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sCPjepEcG",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhujizhezhige-qiyi.md",
+                        "slug":  "music:zhujizhezhige-qiyi",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "逐击者之歌 其一",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐击者之歌 其一",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:karasuwuyap",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhulinjianluotianyiyanhe.md",
+                        "slug":  "music:zhulinjianluotianyiyanhe",
+                        "overall_verdict":  "conflict",
+                        "title":  "竹林间（洛天依、言和）",
+                        "suspicious":  true,
+                        "issues":  [
+                                       "Uploader mismatch: local=\u0027creator:regretful-love\u0027, api=\u0027SEmeibing\u0027",
+                                       "View count mismatch: local=12,140, api=1214"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "竹林间（洛天依、言和）",
+                                          "verified":  "歪小姗《竹林间》【洛天依 言和】补档",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sZ4y1i7Vv",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:regretful-love",
+                                          "verified":  "SEmeibing",
+                                          "verdict":  "conflict",
+                                          "confidence":  "LOW",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sZ4y1i7Vv",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1sZ4y1i7Vv",
+                                          "verified":  "BV1sZ4y1i7Vv",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sZ4y1i7Vv",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2022-06-24",
+                                          "verified":  "2022-06-24",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sZ4y1i7Vv",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "12,140",
+                                          "verified":  "1214",
+                                          "verdict":  "conflict",
+                                          "confidence":  "LOW",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1sZ4y1i7Vv",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuluojigongyuan.md",
+                        "slug":  "music:zhuluojigongyuan",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "侏罗纪公园",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "侏罗纪公园",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:kelejun",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhumeng.md",
+                        "slug":  "music:zhumeng",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "逐梦",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐梦",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lvyegesongzhe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhumengtongxingxiangyuanfang.md",
+                        "slug":  "music:zhumengtongxingxiangyuanfang",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "逐梦童行向远方",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐梦童行向远方",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lvyegesongzhe",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhumengzhilv.md",
+                        "slug":  "music:zhumengzhilv",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "逐梦之旅",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐梦之旅",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:lingyuvicycle",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhunian.md",
+                        "slug":  "music:zhunian",
+                        "overall_verdict":  "confirmed",
+                        "title":  "逐年",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "All fields verified"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "逐年",
+                                          "verified":  "【洛天依乐正绫原创】逐年【PV付】【世界的错】",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1SW411a7ix",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:kendegui",
+                                          "verified":  "肯德龟",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "MEDIUM",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1SW411a7ix",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1SW411a7ix",
+                                          "verified":  "BV1SW411a7ix",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1SW411a7ix",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2017-12-02",
+                                          "verified":  "2017-12-02",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1SW411a7ix",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约1.4万",
+                                          "verified":  "13828",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1SW411a7ix",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuobi.md",
+                        "slug":  "music:zhuobi",
+                        "overall_verdict":  "conflict",
+                        "title":  "灼笔",
+                        "suspicious":  true,
+                        "issues":  [
+                                       "Uploader mismatch: local=\u0027creator:fengyinatsuko\u0027, api=\u0027珞一总是不高兴\u0027"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "灼笔",
+                                          "verified":  "于你而言\"创作\"是？/洛天依原创曲「灼笔」/2025虚拟歌手夏浪派对",
+                                          "verdict":  "conflict",
+                                          "confidence":  "LOW",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N3hwzkE1M",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:fengyinatsuko",
+                                          "verified":  "珞一总是不高兴",
+                                          "verdict":  "conflict",
+                                          "confidence":  "LOW",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N3hwzkE1M",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "BV1N3hwzkE1M",
+                                          "verified":  "BV1N3hwzkE1M",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N3hwzkE1M",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  "2025-08-02",
+                                          "verified":  "2025-08-02",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N3hwzkE1M",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  "约2.2万",
+                                          "verified":  "21911",
+                                          "verdict":  "confirmed",
+                                          "confidence":  "HIGH",
+                                          "sources":  {
+                                                          "url":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N3hwzkE1M",
+                                                          "label":  "bilibili API"
+                                                      },
+                                          "match":  true
+                                      }
+                                  ]
+                    },
+                    {
+                        "file":  "zhuomicang.md",
+                        "slug":  "music:zhuomicang",
+                        "overall_verdict":  "unverifiable",
+                        "title":  "捉迷藏",
+                        "suspicious":  false,
+                        "issues":  [
+                                       "No BVID found; unverifiable via API"
+                                   ],
+                        "facts":  [
+                                      {
+                                          "field":  "曲名",
+                                          "original":  "捉迷藏",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "UP主/P主",
+                                          "original":  "creator:liuqing",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "视频ID",
+                                          "original":  "",
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "发行日期",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      },
+                                      {
+                                          "field":  "播放量",
+                                          "original":  null,
+                                          "verified":  "N/A",
+                                          "verdict":  "unverifiable",
+                                          "confidence":  "NONE",
+                                          "sources":  {
+
+                                                      },
+                                          "match":  false
+                                      }
+                                  ]
+                    }
+                ]
+}

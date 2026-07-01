@@ -15,8 +15,8 @@
 | 作词 | yuki, litterzy |
 | 作曲 | litterzy |
 | 编曲 | litterzy |
-| 调教 | 暂无资料 |
-| 混音 | 暂无资料 |
+| 调教 |  |
+| 混音 |  |
 | 视频ID | BV1moZyYRE32 |
 | 播放量 | 6.4万 |
 

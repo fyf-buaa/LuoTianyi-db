@@ -16,7 +16,7 @@
 | 作曲 | UNDEFiNED千羽凌云 |
 | 编曲 | UNDEFiNED千羽凌云 |
 | 调教 | UNDEFiNED千羽凌云 |
-| 混音 | 暂无资料 |
+| 混音 |  |
 | 视频ID | BV1xA1UYNEk1 |
 | 播放量 | 6329 |
 

@@ -1,0 +1,1077 @@
+﻿{
+    "summary":  {
+                    "partial":  "Files with BV but some discrepancies (shared BV, no 视频ID but BV in source, P name mismatch, etc.)",
+                    "file_not_found":  "Files listed in batch but not found on disk",
+                    "unverifiable":  "Files with no BV/视频ID, cannot be API verified",
+                    "conflict":  "Files with clear data conflicts",
+                    "confirmed":  "Files where BV exists, title contains song name, pubdate matches, view counts consistent"
+                },
+    "entries":  [
+                    {
+                        "filename":  "xiangbaocui.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangbei.md",
+                        "slug":  "music:xiangbei",
+                        "song_name":  "向北",
+                        "pzhu":  "creator:lizhouchang",
+                        "yanchang":  "",
+                        "release_date":  "2019-05-09",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1T4411Y7B8",
+                        "play_count":  "2.5万",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1T4411Y7B8",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1T4411Y7B8/"
+                                       ],
+                        "classification":  "confirmed",
+                        "api_result":  {
+                                           "pubdate":  "2019-05-09",
+                                           "title":  "【洛天依原创曲】向北【PV付】",
+                                           "views":  24860,
+                                           "bvid":  "BV1T4411Y7B8",
+                                           "owner":  "栗洲中专"
+                                       },
+                        "notes":  "Title/BV match confirmed. API: \u0027【洛天依原创曲】向北【PV付】\u0027 by 栗洲中专"
+                    },
+                    {
+                        "filename":  "xiangbianchengqiqiufeiyuanqu.md",
+                        "slug":  "music:xiangbianchengqiqiufeiyuanqu",
+                        "song_name":  "想变成气球飞远去",
+                        "pzhu":  "creator:rujianlaiirumarai",
+                        "yanchang":  "",
+                        "release_date":  "2022-08-19",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1gS4y1W7to",
+                        "play_count":  "5.5万",
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1gS4y1W7to",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1gS4y1W7to/",
+                                           "https://music.163.com/song?id=1973983832"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1gS4y1W7to",
+                                           "title":  "【洛天依原创】想变成气球飞远去",
+                                           "owner":  "入间来Irumarai",
+                                           "pubdate":  "2022-08-18",
+                                           "views":  54732
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:rujianlaiirumarai\u0027, API owner=\u0027入间来Irumarai\u0027 | Date mismatch: file=\u00272022-08-19\u0027, API=\u00272022-08-18\u0027"
+                    },
+                    {
+                        "filename":  "xiangbinvhaizishiyoushatangxiangxinliaohemouxiemeihaodedongxizuc.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangbuxiangxiuzhen.md",
+                        "slug":  "music:xiangbuxiangxiuzhen",
+                        "song_name":  "想不想修真",
+                        "pzhu":  "creator:yugulubaijiyu",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangcundiscoaliangliangmujianremix-ver.md",
+                        "slug":  "music:xiangcundiscoaliangliangmujianremix-ver",
+                        "song_name":  "乡村DISCO(阿良良木健Remix Ver.)",
+                        "pzhu":  "creator:aliangliangmujian",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.kugou.com/song/1sbbn30.html",
+                                           "https://zh.moegirl.org.cn/%E4%B9%A1%E6%9D%91DISCO"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xiangeifenghechanming.md",
+                        "slug":  "music:xiangeifenghechanming",
+                        "song_name":  "献给风和蝉鸣",
+                        "pzhu":  "creator:wovop",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://zh.moegirl.org.cn/WOVOP",
+                                           "https://www.douyin.com/video/7538706649108794650"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xiangeipingmunabiandeni.md",
+                        "slug":  "music:xiangeipingmunabiandeni",
+                        "song_name":  "献给屏幕那边的你",
+                        "pzhu":  "creator:zhihuixiebaledehuapianp",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangeiwojinyoudefensi.md",
+                        "slug":  "music:xiangeiwojinyoudefensi",
+                        "song_name":  "献给我仅有的粉丝",
+                        "pzhu":  "creator:wovop",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/opus/816941378574483504",
+                                           "https://zh.moegirl.org.cn/WOVOP"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangeiwomendege.md",
+                        "slug":  "music:xiangeiwomendege",
+                        "song_name":  "献给我们的歌",
+                        "pzhu":  "creator:tongyetongye",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://mzh.moegirl.org.cn/%E8%8D%92%E5%8E%9F%E4%B9%8B%E6%AD%8C",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianggaosuxianggaosuniaceban.md",
+                        "slug":  "music:xianggaosuxianggaosuniaceban",
+                        "song_name":  "想告诉想告诉你【ace版】",
+                        "pzhu":  "creator:dizzytc3",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1956867222",
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianggaosuxianggaosunivban.md",
+                        "slug":  "music:xianggaosuxianggaosunivban",
+                        "song_name":  "想告诉想告诉你【v4版】",
+                        "pzhu":  "creator:dizzytc3",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/",
+                                           "https://music.163.com/song?id=1956867058"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianggexiaochou.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangguang.md",
+                        "slug":  "music:xiangguang",
+                        "song_name":  "向光",
+                        "pzhu":  "creator:fengyinatsuko",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1zL411J7YE",
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1zL411J7YE",
+                        "source_url":  [
+                                           "https://music.163.com/program?id=2507607464",
+                                           "https://www.bilibili.com/video/BV1zL411J7YE"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1zL411J7YE",
+                                           "title":  "【洛天依原创】向光——生为飞蛾天性向光，扯碎阵痛复苏生长。",
+                                           "owner":  "枫音Atsuko",
+                                           "pubdate":  "2021-08-20",
+                                           "views":  192223
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:fengyinatsuko\u0027, API owner=\u0027枫音Atsuko\u0027"
+                    },
+                    {
+                        "filename":  "xianghua.md",
+                        "slug":  "music:xianghua",
+                        "song_name":  "巷花",
+                        "pzhu":  "creator:mollihuacha",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangjianhuan.md",
+                        "slug":  "music:xiangjianhuan",
+                        "song_name":  "相见欢",
+                        "pzhu":  "creator:naonao",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  "2019-02-14",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV1Lb411r7FU",
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1Lb411r7FU",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1Lb411r7FU/",
+                                           "https://www.bilibili.com/read/cv6265200/",
+                                           "https://music.163.com/song?id=1344718528"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1Lb411r7FU",
+                                           "title":  "【洛天依\u0026乐正绫原创曲】相见欢【无名社*幻茶会*踏云社】【民间爱情故事—梁祝系列】",
+                                           "owner":  "无名社",
+                                           "pubdate":  "2019-02-14",
+                                           "views":  26131
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:naonao\u0027, API owner=\u0027无名社\u0027"
+                    },
+                    {
+                        "filename":  "xiangnidetian.md",
+                        "slug":  "music:xiangnidetian",
+                        "song_name":  "想你的365天",
+                        "pzhu":  "creator:yizhihuobengluantiaodekafeivckafei",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E6%83%B3%E4%BD%A0%E7%9A%84365%E5%A4%A9%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://music.163.com/#/search/m/?s=%E6%83%B3%E4%BD%A0%E7%9A%84365%E5%A4%A9%20%E6%B4%9B%E5%A4%A9%E4%BE%9D\u0026type=1"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangnixianshangxunzhangju.md",
+                        "slug":  "music:xiangnixianshangxunzhangju",
+                        "song_name":  "向你献上勋章菊",
+                        "pzhu":  "creator:weilianghaohao",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "约2015年",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/program?id=1369623443",
+                                           "https://search.bilibili.com/all?keyword=%E5%90%91%E4%BD%A0%E7%8C%AE%E4%B8%8A%E5%8B%8B%E7%AB%A0%E8%8F%8A",
+                                           "https://www.iqiyi.com/w_19rrq7cxvt.html"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangqiaoyuecover-yinlin.md",
+                        "slug":  "music:xiangqiaoyuecover-yinlin",
+                        "song_name":  "湘桥月（Cover 银临",
+                        "pzhu":  "creator:yinghuachuixue",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E6%B9%98%E6%A1%A5%E6%9C%88%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://baike.baidu.com/item/%E6%B9%98%E6%A1%A5%E6%9C%88/19518511"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangqinaiqinggushi.md",
+                        "slug":  "music:xiangqinaiqinggushi",
+                        "song_name":  "相亲爱情故事",
+                        "pzhu":  "creator:lvyegesongzhe",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/#/search/m/?s=%E7%9B%B8%E4%BA%B2%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B\u0026type=1",
+                                           "https://search.bilibili.com/all?keyword=%E7%9B%B8%E4%BA%B2%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangqinxiangai.md",
+                        "slug":  "music:xiangqinxiangai",
+                        "song_name":  "相亲相爱",
+                        "pzhu":  "creator:yizhihuobengluantiaodekafeivckafei",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV11s41127UP",
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV11s41127UP",
+                        "source_url":  [
+                                           "https://www.ibilibili.com/video/BV11s41127UP",
+                                           "https://music.163.com/#/search/m/?s=%E7%9B%B8%E4%BA%B2%E7%9B%B8%E7%88%B1%20%E6%B4%9B%E5%A4%A9%E4%BE%9D\u0026type=1"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV11s41127UP",
+                                           "title":  "【洛天依】相亲相爱【翻唱】",
+                                           "owner":  "豆腐君",
+                                           "pubdate":  "2015-10-29",
+                                           "views":  58518
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:yizhihuobengluantiaodekafeivckafei\u0027, API owner=\u0027豆腐君\u0027"
+                    },
+                    {
+                        "filename":  "xiangshanzhui.md",
+                        "slug":  "music:xiangshanzhui",
+                        "song_name":  "香扇坠",
+                        "pzhu":  "creator:fenghongyemaple",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1344718528",
+                                           "https://search.bilibili.com/all?keyword=%E9%A6%99%E6%89%87%E5%9D%A0%20%E6%B4%9B%E5%A4%A9%E4%BE%9D"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangshenyiyangnazhongwentiancinoaiy.md",
+                        "slug":  "music:xiangshenyiyangnazhongwentiancinoaiy",
+                        "song_name":  "像神一样呐【中文填词】【noaiy】",
+                        "pzhu":  "creator:huaqilinnaihanasaki-rinna",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV193411x792",
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV193411x792",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1iP4y1Y7NE/",
+                                           "https://www.ibilibili.com/video/BV193411x792"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV193411x792",
+                                           "title":  "【洛天依】像神一样呐（神っぽいな）【中文填词/PV付】【noaiy】",
+                                           "owner":  "花绮凛奈Rinna",
+                                           "pubdate":  "2021-12-24",
+                                           "views":  440122
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:huaqilinnaihanasaki-rinna\u0027, API owner=\u0027花绮凛奈Rinna\u0027"
+                    },
+                    {
+                        "filename":  "xiangshijiedahanyishengwoaini.md",
+                        "slug":  "music:xiangshijiedahanyishengwoaini",
+                        "song_name":  "向世界大喊一声我爱你",
+                        "pzhu":  "creator:qiguaileizi",
+                        "yanchang":  "member:miku, core:luo-tian-yi",
+                        "release_date":  "2024-04-19",
+                        "engine":  "vocaloid",
+                        "video_id":  "BV14F4m1P7Su",
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV14F4m1P7Su",
+                        "source_url":  [
+                                           "https://music.163.com/song?id=2146685189",
+                                           "https://www.bilibili.com/video/BV14F4m1P7Su/"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV14F4m1P7Su",
+                                           "title":  "【初音未来\u0026洛天依】向世界大喊一声我爱你 - QGRay",
+                                           "owner":  "奇怪雷子QGRay",
+                                           "pubdate":  "2024-04-19",
+                                           "views":  226396
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:qiguaileizi\u0027, API owner=\u0027奇怪雷子QGRay\u0027"
+                    },
+                    {
+                        "filename":  "xiangsijie.md",
+                        "slug":  "music:xiangsijie",
+                        "song_name":  "相思劫",
+                        "pzhu":  "creator:zhihuixiebaledehuapianp",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "暂未找到",
+                        "engine":  "vocaloid",
+                        "video_id":  "暂未找到",
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://search.bilibili.com/all?keyword=%E7%9B%B8%E6%80%9D%E5%8A%AB%20%E6%B4%9B%E5%A4%A9%E4%BE%9D",
+                                           "https://music.163.com/#/search/m/?s=%E7%9B%B8%E6%80%9D%E5%8A%AB\u0026type=1"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangwanglengqiuyuelinlang.md",
+                        "slug":  "music:xiangwanglengqiuyuelinlang",
+                        "song_name":  "想望冷秋月琳琅",
+                        "pzhu":  "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he, member:mo-qing-xian",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1488350137"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xiangwomencongqian-kuanianban-vsingers-ver.md",
+                        "slug":  "music:xiangwomencongqian-kuanianban-vsingers-ver",
+                        "song_name":  "像我们从前 (2025跨年版-Vsingers ver.)",
+                        "pzhu":  "creator:ludengshigelaodeng",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangxiangjiuxingle.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangxinni-xiangxinwo-vcban.md",
+                        "slug":  "music:xiangxinni-xiangxinwo-vcban",
+                        "song_name":  "相信你 相信我 (VC版)",
+                        "pzhu":  "creator:ludengshigelaodeng",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyangchu.md",
+                        "slug":  "music:xiangyangchu",
+                        "song_name":  "ひだまり（向阳处）",
+                        "pzhu":  "creator:pobakep",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyanghuaxia.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangyangliulang-luotianyi.md",
+                        "slug":  "music:xiangyangliulang-luotianyi",
+                        "song_name":  "向阳流浪-洛天依",
+                        "pzhu":  "creator:tongying",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=1350705298"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xiangyangniaoluotianyi-yanhe.md",
+                        "slug":  "music:xiangyangniaoluotianyi-yanhe",
+                        "song_name":  "向阳鸟【洛天依-言和】",
+                        "pzhu":  "creator:huaqilinnaihanasaki-rinna",
+                        "yanchang":  "core:luo-tian-yi, member:yan-he",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyangshengzhang.md",
+                        "slug":  "music:xiangyangshengzhang",
+                        "song_name":  "向阳生长",
+                        "pzhu":  "creator:beiyiwangzhedeaishang",
+                        "yanchang":  "member:shi-an, core:luo-tian-yi, member:xin-hua",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyaochengweiwenrouderenyouren.md",
+                        "slug":  "",
+                        "song_name":  "",
+                        "pzhu":  "",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+
+                                       ],
+                        "classification":  "file_not_found",
+                        "api_result":  null,
+                        "notes":  "File listed in batch but not found on disk."
+                    },
+                    {
+                        "filename":  "xiangyaonizaishenbianlezhenglingluotianyifanzi-yinqueshiting.md",
+                        "slug":  "music:xiangyaonizaishenbianlezhenglingluotianyifanzi-yinqueshiting",
+                        "song_name":  "想要你在身边（乐正绫、洛天依）（翻自 音阙诗听）",
+                        "pzhu":  "creator:regretful-love",
+                        "yanchang":  "core:luo-tian-yi, member:yue-zheng-ling",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyaoshixian.md",
+                        "slug":  "music:xiangyaoshixian",
+                        "song_name":  "できたい（想要实现）",
+                        "pzhu":  "creator:guazhelingfeng",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyue.md",
+                        "slug":  "music:xiangyue",
+                        "song_name":  "相约",
+                        "pzhu":  "creator:xinxian",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyu-fenbie.md",
+                        "slug":  "music:xiangyu-fenbie",
+                        "song_name":  "相遇 分别",
+                        "pzhu":  "creator:lizi",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangyulun.md",
+                        "slug":  "music:xiangyulun",
+                        "song_name":  "相遇论",
+                        "pzhu":  "creator:yingshihinanozhanghaozhuxiao",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1Fb411N79o",
+                        "source_url":  [
+                                           "https://baike.baidu.com/item/相遇论/22914863",
+                                           "https://www.bilibili.com/video/BV1Fb411N79o",
+                                           "https://weibo.com/2698535063/MiHm8rUuf"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1Fb411N79o",
+                                           "title":  "《小绿和小蓝》OP-相遇论 完整版MV",
+                                           "owner":  "腾讯动漫",
+                                           "pubdate":  "2018-10-28",
+                                           "views":  740153
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:yingshihinanozhanghaozhuxiao\u0027, API owner=\u0027腾讯动漫\u0027"
+                    },
+                    {
+                        "filename":  "xiangyulunfanzi-youkemao-lijiajiekatsu.md",
+                        "slug":  "music:xiangyulunfanzi-youkemao-lijiajiekatsu",
+                        "song_name":  "相遇论（翻自 佑可猫 - 李佳劼katsu）",
+                        "pzhu":  "creator:yishuiuryan",
+                        "yanchang":  "core:luo-tian-yi, member:yan-he",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1M4411q7g6",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1M4411q7g6/",
+                                           "https://baike.baidu.com/item/相遇论/22914863"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1M4411q7g6",
+                                           "title":  "【雨恩×Arata】相遇论／♪请让我朝着你所在之地光速飞行【小绿和小蓝OP】",
+                                           "owner":  "雨恩-あめ-",
+                                           "pubdate":  "2019-09-01",
+                                           "views":  1082
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:yishuiuryan\u0027, API owner=\u0027雨恩-あめ-\u0027"
+                    },
+                    {
+                        "filename":  "xiangyutianshivsingerquanyuan.md",
+                        "slug":  "music:xiangyutianshivsingerquanyuan",
+                        "song_name":  "相遇天使（Vsinger全员）",
+                        "pzhu":  "creator:yishuiuryan",
+                        "yanchang":  "core:Vsinger全员（洛天依等）",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1P7411j7hW",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1P7411j7hW/"
+                                       ],
+                        "classification":  "partial",
+                        "api_result":  {
+                                           "bvid":  "BV1P7411j7hW",
+                                           "title":  "【洛天依】【轻音少女】【萝莉音福利】《相遇天使》震惊！某up调教时竟然泪流满面！！",
+                                           "owner":  "锕氟锕氪锡",
+                                           "pubdate":  "2020-02-19",
+                                           "views":  1333
+                                       },
+                        "notes":  "Title matches but P name mismatch. File P=\u0027creator:yishuiuryan\u0027, API owner=\u0027锕氟锕氪锡\u0027"
+                    },
+                    {
+                        "filename":  "xiangzhenayaobukejideqingkong.md",
+                        "slug":  "music:xiangzhenayaobukejideqingkong",
+                        "song_name":  "向着那遥不可及的青空",
+                        "pzhu":  "creator:rinu",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "约2017年7月",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://music.163.com/song?id=494127167",
+                                           "https://rapzh.com/songs/1290422"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xiangzhexingguangheni.md",
+                        "slug":  "music:xiangzhexingguangheni",
+                        "song_name":  "向着星光和你",
+                        "pzhu":  "creator:lizi",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://www.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xiangzheyuzhoumingliangnabian.md",
+                        "slug":  "music:xiangzheyuzhoumingliangnabian",
+                        "song_name":  "向着宇宙明亮那边",
+                        "pzhu":  "creator:banzhijinlan",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  "2022-07-10（洛天依十周年同人生日会）",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV1bV4y1n78F",
+                        "source_url":  [
+                                           "https://www.douyin.com/video/7473854549485210899",
+                                           "https://www.bilibili.com/video/BV1bV4y1n78F/"
+                                       ],
+                        "classification":  "conflict",
+                        "api_result":  {
+                                           "bvid":  "BV1bV4y1n78F",
+                                           "title":  "【洛天依原创曲】夜伴星辰【洛天依十周年同人生日会】",
+                                           "owner":  "流绚_P",
+                                           "pubdate":  "2022-07-10",
+                                           "views":  77319
+                                       },
+                        "notes":  "BV points to a completely different song. API title=\u0027【洛天依原创曲】夜伴星辰【洛天依十周年同人生日会】\u0027, song=\u0027向着宇宙明亮那边\u0027. BV may be incorrect. | Date mismatch: file=\u00272022-07-10（洛天依十周年同人生日会）\u0027, API=\u00272022-07-10\u0027"
+                    },
+                    {
+                        "filename":  "xianite.md",
+                        "slug":  "music:xianite",
+                        "song_name":  "夏nite",
+                        "pzhu":  "creator:a01in",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://weibo.com/p/10151501_66981245"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xianjianxiaqingpianluotianyi.md",
+                        "slug":  "music:xianjianxiaqingpianluotianyi",
+                        "song_name":  "仙剑侠情篇洛天依",
+                        "pzhu":  "creator:rainseyuguan",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://weibo.com/3263015861/ObQK91Nen",
+                                           "https://www.acfun.cn/v/ac20736997"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    },
+                    {
+                        "filename":  "xianjiemagic.md",
+                        "slug":  "music:xianjiemagic",
+                        "song_name":  "限界Magic",
+                        "pzhu":  "creator:magens",
+                        "yanchang":  "core:luo-tian-yi",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "https://weibo.com/5146173015/Pr9Lpz0lg",
+                                           "https://space.bilibili.com/"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file. Source: h"
+                    },
+                    {
+                        "filename":  "xianjuanzhenjiqinyeshianzuzhoushenjingzhengsuohun.md",
+                        "slug":  "music:xianjuanzhenjiqinyeshianzuzhoushenjingzhengsuohun",
+                        "song_name":  "【弦卷真纪·琴叶·诗岸】诅咒神经症_缩混",
+                        "pzhu":  "creator:taoli",
+                        "yanchang":  "",
+                        "release_date":  null,
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  true,
+                        "primary_BV":  "BV14D421A7py",
+                        "source_url":  [
+                                           "https://www.bilibili.com/video/BV1xWKhzfEgy/",
+                                           "https://www.bilibili.com/video/BV14D421A7py/"
+                                       ],
+                        "classification":  "conflict",
+                        "api_result":  {
+                                           "bvid":  "BV14D421A7py",
+                                           "title":  "诅咒神经症完成版",
+                                           "owner":  "可爱的刘子煜",
+                                           "pubdate":  "2024-05-18",
+                                           "views":  222
+                                       },
+                        "notes":  "BV points to a completely different song. API title=\u0027诅咒神经症完成版\u0027, song=\u0027【弦卷真纪·琴叶·诗岸】诅咒神经症_缩混\u0027. BV may be incorrect."
+                    },
+                    {
+                        "filename":  "xianluozhixu.md",
+                        "slug":  "music:xianluozhixu",
+                        "song_name":  "陷落之序",
+                        "pzhu":  "creator:zhuxiaoshengzoki",
+                        "yanchang":  "member:xing-chen, core:luo-tian-yi, member:yue-zheng-ling, member:yue-zheng-long-ya, member:yan-he, member:miku, member:mo-qing-xian, member:xin-hua, member:zheng-yu-mo-ke",
+                        "release_date":  "2020-03-14",
+                        "engine":  "vocaloid",
+                        "video_id":  null,
+                        "play_count":  null,
+                        "BV_found_in_source":  false,
+                        "primary_BV":  null,
+                        "source_url":  [
+                                           "http://bd.kuwo.cn/yinyue/91768209",
+                                           "https://music.163.com/song?id=1430488762"
+                                       ],
+                        "classification":  "unverifiable",
+                        "api_result":  null,
+                        "notes":  "No BVID found in file."
+                    }
+                ],
+    "report_metadata":  {
+                            "generated_at":  "2026-06-08T00:06:59Z",
+                            "batch_id":  "Batch_075",
+                            "total_files":  50,
+                            "api_endpoint":  "https://api.bilibili.com/x/web-interface/view?bvid={BV}",
+                            "files_checked":  44,
+                            "range":  "xiangbaocui.md ~ xianluozhixu.md"
+                        },
+    "classification_counts":  {
+                                  "partial":  9,
+                                  "file_not_found":  6,
+                                  "unverifiable":  32,
+                                  "conflict":  2,
+                                  "confirmed":  1
+                              }
+}

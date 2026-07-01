@@ -1,0 +1,1892 @@
+{
+  "report_metadata": {
+    "batch": "Batch_010",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 14,
+      "partial": 9,
+      "conflict": 0,
+      "unverifiable": 27
+    }
+  },
+  "results": [
+    {
+      "file": "chunjianpianover.md",
+      "slug": "music:chunjianpianover",
+      "title": "",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "file_not_found"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunjiyishi.md",
+      "slug": "music:chunjiyishi",
+      "title": "春既已逝",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春既已逝",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zx411v7Vz",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:yugulubaijiyu (魚咕噜)",
+          "source": "https://www.bilibili.com/video/BV1zx411v7Vz",
+          "verified": true,
+          "note": "API uploader: 逸然_太白 (PV uploader different from P主)"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-05-21",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zx411v7Vz",
+          "verified": false,
+          "note": "API CST: 2017-05-20, file claims 2017-05-21 (1-day discrepancy)"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1zx411v7Vz",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zx411v7Vz",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "「天依 原创曲」春既已逝 【VC本家 | PV付】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zx411v7Vz",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2017-05-20",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zx411v7Vz",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "chunlan.md",
+      "slug": "music:chunlan",
+      "title": "春嵐",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春嵐",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:meiyouhuaxiangdehana (没有花香的HANA)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-05-16",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1de79z6ETi",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "春嵐 中文填词【洛天依V4】【john】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2025-05-16",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1de79z6ETi",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunlan-2.md",
+      "slug": "music:chunlan-2",
+      "title": "纯蓝",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "纯蓝",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:cop (COP)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2021-07-12",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1z64y1b7H4",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创】纯蓝",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2021-07-12",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z64y1b7H4",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunluobayue.md",
+      "slug": "music:chunluobayue",
+      "title": "春萝罢月",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春萝罢月",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:beishanwei (北山薇)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-09-02",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1ZP411V7GY",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依乐正绫原创】春萝罢月【南北组/古风pv付】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2022-09-02",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP411V7GY",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunmanzhonghua.md",
+      "slug": "music:chunmanzhonghua",
+      "title": "春满中华",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春满中华",
+          "source": "https://music.163.com/song?id=2616022871",
+          "verified": true,
+          "note": "confirmed on Netease Music"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kelejun (可乐君)",
+          "source": "https://music.163.com/song?id=2616022871",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no date in file, no BV to verify"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV in file, only generic bilibili.com"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunnibang.md",
+      "slug": "music:chunnibang",
+      "title": "春泥棒",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春泥棒",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:lfrslingshuang (LFrs_凌霜)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-07-27",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV17Z421K7kH",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依】「春泥棒」-ヨルシカ｜中文填词",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2024-07-27",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Z421K7kH",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunrichichi.md",
+      "slug": "music:chunrichichi",
+      "title": "春日迟迟",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春日迟迟",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:wumingshe (无名社)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-06-08",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1Fs411q7VB",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创】春日迟迟【无名社】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2016-06-08",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411q7VB",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunsheng-2.md",
+      "slug": "music:chunsheng-2",
+      "title": "春生",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春生",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhanyueluli (盏月陆离)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no date in file"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV, only generic bilibili.com"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunvzuofanzi-luotianyi.md",
+      "slug": "music:chunvzuofanzi-luotianyi",
+      "title": "处女座（翻自 洛天依）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "处女座（翻自 洛天依）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:shentuxiaop (神兔小P)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV, only generic bilibili.com"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunxia.md",
+      "slug": "music:chunxia",
+      "title": "春夏",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春夏",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:qianyulingyun (千羽凌云)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-01-31",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1fH4y1a7f3",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依V5原创】春夏【PV付】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2024-01-31",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4y1a7f3",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunyeyanluotianyiai-ver.md",
+      "slug": "music:chunyeyanluotianyiai-ver",
+      "title": "春夜宴（洛天依AI ver.）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春夜宴（洛天依AI ver.）",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:haixianmian (海鲜面)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-06-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1LS4y1v7Pv",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "洛天依AI会梦到李白写的《春夜宴》吗？",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2022-06-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LS4y1v7Pv",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunyingzhiting-chungeban.md",
+      "slug": "music:chunyingzhiting-chungeban",
+      "title": "春樱之庭 纯歌版",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春樱之庭 纯歌版",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengraoluohuachou (风绕落花愁)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunyingzhiting-nianbaiban.md",
+      "slug": "music:chunyingzhiting-nianbaiban",
+      "title": "春樱之庭 念白版",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春樱之庭 念白版",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengraoluohuachou (风绕落花愁)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunyiyuan.md",
+      "slug": "music:chunyiyuan",
+      "title": "春意远",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春意远",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:qianmengli (迁梦狸)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunyusuoyun-ver.md",
+      "slug": "music:chunyusuoyun-ver",
+      "title": "春聿（索韵リラ ver.）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春聿（索韵リラ ver.）",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XsHjeLEL6",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhetengdelouloupu (折腾的髅髅噗)",
+          "source": "https://www.bilibili.com/video/BV1XsHjeLEL6",
+          "verified": true,
+          "note": "API uploader: 莲珞和猫铃"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-08-30",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XsHjeLEL6",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1XsHjeLEL6",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XsHjeLEL6",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【索韵Rila原创曲】春聿【UTAUCVVChinese音源配布补档】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XsHjeLEL6",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2024-08-30",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XsHjeLEL6",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chunzhidaoyuxingchenminus.md",
+      "slug": "music:chunzhidaoyuxingchenminus",
+      "title": "",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "file_not_found"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunzhidaoyuxingchenminus-2.md",
+      "slug": "music:chunzhidaoyuxingchenminus-2",
+      "title": "",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "file_not_found"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chunzhige.md",
+      "slug": "music:chunzhige",
+      "title": "春之歌",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "春之歌",
+          "source": "https://music.163.com/song?id=534296691",
+          "verified": true,
+          "note": "confirmed on Netease Music"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kelejun (可乐君)",
+          "source": "https://music.163.com/song?id=534296691",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no date in file, no BV to verify publish date"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV, only generic bilibili.com"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "churujinzhi.md",
+      "slug": "music:churujinzhi",
+      "title": "出入禁止",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出入禁止",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:dongtang (董糖)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2021-01-28",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1PV411B7Lu",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创曲】出入禁止",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2021-01-28",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PV411B7Lu",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chusaiqu.md",
+      "slug": "music:chusaiqu",
+      "title": "出塞曲",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出塞曲",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:yizhihuobengluantiaodekafeivckafei",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chushan.md",
+      "slug": "music:chushan",
+      "title": "出山",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出山",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:bizhijingzhanghaozhuxiao (彼之境)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true,
+          "note": "API uploader: 账号已注销 (account deleted as noted in file)"
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-02-21",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1Bb411Y7xg",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依】花粥《出山》你要的洗脑网络神曲来了！",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2019-02-21",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bb411Y7xg",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chushanluotianyi.md",
+      "slug": "music:chushanluotianyi",
+      "title": "出山（洛天依）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出山（洛天依）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:regretful-love",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chushanluotianyixiqiangxiugaiban.md",
+      "slug": "music:chushanluotianyixiqiangxiugaiban",
+      "title": "出山（洛天依）（戏腔修改版）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出山（洛天依）（戏腔修改版）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:regretful-love",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chushu.md",
+      "slug": "music:chushu",
+      "title": "处暑",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "处暑",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:yugulubaijiyu (魚咕噜)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuxiadetonghua.md",
+      "slug": "music:chuxiadetonghua",
+      "title": "初夏的童话",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初夏的童话",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:ygy",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuxialianyi.md",
+      "slug": "music:chuxialianyi",
+      "title": "初夏涟漪",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初夏涟漪",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:tianerzhongvziyingshezhetianer (天儿中v子)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-05-20",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": false,
+          "note": "API CST: 2017-05-19, file claims 2017-05-20 (1-day discrepancy)"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1bx411v7DV",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创曲】初夏涟漪【天儿】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2017-05-19",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx411v7DV",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "chuxialianyimemory-ver.md",
+      "slug": "music:chuxialianyimemory-ver",
+      "title": "初夏涟漪memory ver",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初夏涟漪memory ver",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:tianerzhongvziyingshezhetianer (天儿中v子)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-09-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": false,
+          "note": "API CST: 2019-09-17, file claims 2019-09-18 (1-day discrepancy)"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1sJ411w7vH",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创曲】初夏涟漪Memory ver.【天儿】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2019-09-17",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sJ411w7vH",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "chuxianqingnian.md",
+      "slug": "music:chuxianqingnian",
+      "title": "滁县青年1996",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "滁县青年1996",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:yongyuanhuanying (永远幻影)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-10-19",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": false,
+          "note": "API CST: 2024-10-18, file claims 2024-10-19 (1-day discrepancy)"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1oKCUYLEWz",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依徵羽摩柯原创曲】滁县青年1996",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2024-10-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKCUYLEWz",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "chuxinbubian.md",
+      "slug": "music:chuxinbubian",
+      "title": "初心·不变",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初心·不变",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:fenghongyemaple (枫红叶Maple)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuxinyiranchuyinweilailuotianyi-bmltongtaiyingyuanqu.md",
+      "slug": "music:chuxinyiranchuyinweilailuotianyi-bmltongtaiyingyuanqu",
+      "title": "初心依然（初音未来、洛天依 BML同台应援曲）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初心依然（初音未来、洛天依 BML同台应援曲）",
+          "source": "https://music.163.com/static/song/1382047560",
+          "verified": true,
+          "note": "confirmed on Netease Music"
+        },
+        {
+          "field": "P主",
+          "value": "creator:mikumiao (米库喵)",
+          "source": "https://music.163.com/static/song/1382047560",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-07-14",
+          "source": "",
+          "verified": false,
+          "note": "date in file but no BV to cross-verify via bilibili API"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV in file"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "chuxue-featluotianyi.md",
+      "slug": "music:chuxue-featluotianyi",
+      "title": "初雪 Feat.洛天依",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初雪 Feat.洛天依",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:kyuruyougewujiaoxing (Kyuru有个五角星)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-08-26",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1ks411k7gs",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创曲】初雪 (Signal-E)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2016-08-26",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ks411k7gs",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "chuxueyuchuzhige-3.md",
+      "slug": "music:chuxueyuchuzhige-3",
+      "title": "初雪与初之歌",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "初雪与初之歌",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:akor",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuyanduziyiren.md",
+      "slug": "music:chuyanduziyiren",
+      "title": "出演独自一人",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "出演独自一人",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:xiejiaojiaozhu (邪叫教主)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuyinweilaiwobuxianggandaoguduc.md",
+      "slug": "music:chuyinweilaiwobuxianggandaoguduc",
+      "title": "【初音未来】我不想感到孤独C109",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "【初音未来】我不想感到孤独C109",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:dizzytc3",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "chuyinweilaixiaomaominizhunali.md",
+      "slug": "music:chuyinweilaixiaomaominizhunali",
+      "title": "【初音未来】小猫咪，你住哪里？",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "【初音未来】小猫咪，你住哪里？",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:dizzytc3",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ciallo.md",
+      "slug": "music:ciallo",
+      "title": "ciallo～(∠・ω_ )⌒☆",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "ciallo～(∠・ω_ )⌒☆",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingsenzhuoliup (青森灼柳P)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": true,
+          "note": "API owner: 账号已注销 (uploader account deleted)"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-11-27",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": false,
+          "note": "API CST: 2025-11-26, file claims 2025-11-27 (1-day discrepancy)"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1yrUDBTEz9",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "洛天依 原创《 Ciallo～(∠・ω )⌒★ 》",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2025-11-26",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yrUDBTEz9",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "cibihuijuanhuyaoxiaohongniangdonghuadierjichaqu.md",
+      "slug": "music:cibihuijuanhuyaoxiaohongniangdonghuadierjichaqu",
+      "title": "此彼绘卷(狐妖小红娘动画第二季插曲）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此彼绘卷(狐妖小红娘动画第二季插曲）",
+          "source": "https://baike.baidu.com/item/此彼绘卷/19583360",
+          "verified": true,
+          "note": "Original song by 林和夜 for 狐妖小红娘"
+        },
+        {
+          "field": "P主",
+          "value": "creator:tmzhusangsang (TM丶桑桑)",
+          "source": "",
+          "verified": false,
+          "note": "洛天依 cover version, no BV to verify"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-12-28",
+          "source": "",
+          "verified": false,
+          "note": "date in file but no BV to cross-verify"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV in file"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "cifangmingxiang.md",
+      "slug": "music:cifangmingxiang",
+      "title": "此方茗香",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此方茗香",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:kelejun (可乐君)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-11-02",
+          "source": "",
+          "verified": false,
+          "note": "date in file but no BV to cross-verify"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV in file"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "cifeiduiqi.md",
+      "slug": "music:cifeiduiqi",
+      "title": "磁废堆砌",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "磁废堆砌",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:myobyang (MyOb羊)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "cikeshuozaijian.md",
+      "slug": "music:cikeshuozaijian",
+      "title": "此刻说再见",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此刻说再见",
+          "source": "https://mzh.moegirl.org.cn/此刻说再见",
+          "verified": true,
+          "note": "confirmed on 萌娘百科: Serge_S/洛天依, 2022-03-25投稿"
+        },
+        {
+          "field": "P主",
+          "value": "creator:sizheserge (斯哲Serge)",
+          "source": "https://mzh.moegirl.org.cn/此刻说再见",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "萌娘百科 date: 2022-03-25, file has no date"
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV in file"
+        }
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "cikeshuozaijianluotianyiaiban.md",
+      "slug": "music:cikeshuozaijianluotianyiaiban",
+      "title": "此刻说再见（洛天依AI版）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此刻说再见（洛天依AI版）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:sizheserge (斯哲Serge)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ciqiyingqiluotianyiv.md",
+      "slug": "music:ciqiyingqiluotianyiv",
+      "title": "此期盈期（洛天依V5）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此期盈期（洛天依V5）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:regretful-love",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ciqiyingqiyanhemoqingxianyuezhenglingluotianyi.md",
+      "slug": "music:ciqiyingqiyanhemoqingxianyuezhenglingluotianyi",
+      "title": "此期盈期（言和、墨清弦、乐正绫、洛天依）",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此期盈期（言和、墨清弦、乐正绫、洛天依）",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:regretful-love",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ciriyiqing.md",
+      "slug": "music:ciriyiqing",
+      "title": "此日宜晴",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "此日宜晴",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengraoluohuachou (风绕落花愁)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "city-in-the-dusk.md",
+      "slug": "music:city-in-the-dusk",
+      "title": "City in the dusk",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "City in the dusk",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:utaep (UtaeP)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-03-27",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1mx411D7D7",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创】City In The Dusk-feat.洛天依【Utae】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2017-03-27",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx411D7D7",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "ciyuanfangchengshi.md",
+      "slug": "music:ciyuanfangchengshi",
+      "title": "次元方程式",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "次元方程式",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:kendegui (肯德龟)",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-03-12",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV1yx411C7ur",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依原创】次元方程式【Vsinger创作赛】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2017-03-12",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx411C7ur",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "ciyuanriji.md",
+      "slug": "music:ciyuanriji",
+      "title": "次元日记",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "次元日记",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:wovop (WOVOP)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "ciyuanxingzhechuan.md",
+      "slug": "music:ciyuanxingzhechuan",
+      "title": "次元行者传",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "次元行者传",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true
+        },
+        {
+          "field": "P主",
+          "value": "creator:padi",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true,
+          "note": "API uploader: 倔强的苦力怕 (different from Padi)"
+        },
+        {
+          "field": "发行日期",
+          "value": "2018-08-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "BV12W411X78p",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true
+        },
+        {
+          "field": "API标题",
+          "value": "【洛天依言和原创】次元行者传 【手书PV付】",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true
+        },
+        {
+          "field": "API发布日期(CST)",
+          "value": "2018-08-18",
+          "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV12W411X78p",
+          "verified": true
+        }
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "cizhongxieyi.md",
+      "slug": "music:cizhongxieyi",
+      "title": "#25 词中写意",
+      "facts": [
+        {
+          "field": "曲名",
+          "value": "#25 词中写意",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "P主",
+          "value": "creator:xinxian (信弦)",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "source": "",
+          "verified": false
+        },
+        {
+          "field": "视频ID/BV",
+          "value": "",
+          "source": "",
+          "verified": false,
+          "note": "no BV"
+        }
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    }
+  ]
+}

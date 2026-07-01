@@ -1,0 +1,532 @@
+{
+  "batch": "Batch_080",
+  "generated_at": "2026-06-08T00:13:00+08:00",
+  "total_files": 50,
+  "summary": {
+    "confirmed": 7,
+    "partial": 2,
+    "unverifiable": 31,
+    "conflict": 2,
+    "file_not_found": 5,
+    "api_error": 0,
+    "not_checked": 0
+  },
+  "results": [
+    {
+      "file": "xinqingbobaotai.md",
+      "slug": "xinqingbobaotai",
+      "title": "心情播报台",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinrenyuchuanshuo.md",
+      "slug": "xinrenyuchuanshuo",
+      "title": "新人鱼传说",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinruzhishui.md",
+      "slug": "xinruzhishui",
+      "title": "心如止水",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinshangqiu.md",
+      "slug": "xinshangqiu",
+      "title": "心上秋",
+      "status": "conflict",
+      "bvid": "BV1Rg411o7oY",
+      "api_title": "【洛天依AI】心上秋【优美动听温柔演绎】【2022虚拟歌手创作赛】【Ace Studio Cover】",
+      "api_owner": "账号已注销",
+      "api_pubdate": "2022-07-21",
+      "api_views": 21697,
+      "file_details": {
+        "claimed_singers": "core:luo-tian-yi, member:yue-zheng-ling",
+        "claimed_engine": "vocaloid",
+        "claimed_pzhu": "creator:xingkui",
+        "claimed_style": "古风",
+        "claimed_tags": "合唱, VOCALOID, 翻唱"
+      },
+      "issues": [
+        "API title shows solo 洛天依AI cover, file claims duet with 乐正绫",
+        "API shows Ace Studio engine, file claims VOCALOID",
+        "Uploader account deleted, cannot verify original creator"
+      ]
+    },
+    {
+      "file": "xinshangshiluotianyiyanhe.md",
+      "slug": "xinshangshiluotianyiyanhe",
+      "title": "心上诗（洛天依、言和）",
+      "status": "partial",
+      "bvid": "BV1434y157ET",
+      "api_title": "歪小姗《心上诗》【洛天依 V5 言和V5】补档",
+      "api_owner": "SEmeibing",
+      "api_pubdate": "2022-06-16",
+      "api_views": 586,
+      "file_details": {
+        "claimed_pzhu": "creator:regretful-love",
+        "claimed_singers": "core:luo-tian-yi, member:yan-he",
+        "claimed_engine": "vocaloid"
+      },
+      "issues": [
+        "Video is a re-upload/补档 by SEmeibing, not original upload by Regretful Love",
+        "Cannot verify original creator from uploaded video"
+      ]
+    },
+    {
+      "file": "xinshangshiyanhevluotianyiv.md",
+      "slug": "xinshangshiyanhevluotianyiv",
+      "title": "心上诗（言和V5、洛天依V5）",
+      "status": "partial",
+      "bvid": "BV1434y157ET",
+      "api_title": "歪小姗《心上诗》【洛天依 V5 言和V5】补档",
+      "api_owner": "SEmeibing",
+      "api_pubdate": "2022-06-16",
+      "api_views": 586,
+      "file_details": {
+        "claimed_pzhu": "creator:regretful-love",
+        "claimed_singers": "core:luo-tian-yi, member:yan-he",
+        "claimed_engine": "vocaloid"
+      },
+      "issues": [
+        "Same video as xinshangshiluotianyiyanhe.md - duplicate BV reference",
+        "Video is a re-upload/补档 by SEmeibing, not original upload by Regretful Love",
+        "Cannot verify original creator from uploaded video"
+      ]
+    },
+    {
+      "file": "xinsheng.md",
+      "slug": "xinsheng",
+      "title": "新生",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinshenmingduihuariji.md",
+      "slug": "xinshenmingduihuariji",
+      "title": "新·神明对话日记",
+      "status": "conflict",
+      "bvid": "BV1ns4y1X7dp",
+      "api_title": "【洛天依AI】神明对话日记【Cover 丨闹闹丶丨】",
+      "api_owner": "影子_P",
+      "api_pubdate": "2023-05-03",
+      "api_views": 613,
+      "file_details": {
+        "claimed_pzhu": "creator:naonao",
+        "claimed_title": "新·神明对话日记",
+        "claimed_engine": "vocaloid",
+        "claimed_tags": "独唱, VOCALOID"
+      },
+      "issues": [
+        "File credits naonao (闹闹) as P主, but video is a cover by 影子_P, not original upload",
+        "File describes '新·神明对话日记' as rearranged version, but video is a cover of the original song",
+        "API shows AI洛天依 engine, file claims vocaloid"
+      ]
+    },
+    {
+      "file": "xinshigeqian.md",
+      "slug": "xinshigeqian",
+      "title": "心事搁浅",
+      "status": "confirmed",
+      "bvid": "BV1iw4m1k791",
+      "api_title": "【洛天依原创】心事搁浅",
+      "api_owner": "夜桜ねん",
+      "api_pubdate": "2024-07-22",
+      "api_views": 5562,
+      "match_details": {
+        "date_matches": true,
+        "views_match": true,
+        "title_matches": true,
+        "engine_matches": true
+      },
+      "notes": "File date 2024-07-22 matches API pubdate. Views 5560 close to API 5562. P主 yeying matches uploader 夜桜ねん. Confirmed ✓"
+    },
+    {
+      "file": "xinsuishaojiu.md",
+      "slug": "xinsuishaojiu",
+      "title": "心碎烧酒",
+      "status": "confirmed",
+      "bvid": "BV1eE411K7iw",
+      "api_title": "【洛天依原创】心碎烧酒",
+      "api_owner": "YuH_ChiliChill",
+      "api_pubdate": "2020-03-11",
+      "api_views": 594226,
+      "match_details": {
+        "date_matches": true,
+        "views_match": true,
+        "title_matches": true,
+        "pzhu_matches": true
+      },
+      "notes": "File date 2020-03-11 matches API. Views 59.4万 matches 594226. P主 ChiliChill matches. Confirmed ✓"
+    },
+    {
+      "file": "xintaiyangchengshangkongkaochajilu.md",
+      "slug": "xintaiyangchengshangkongkaochajilu",
+      "title": "太阳城上空考察记录",
+      "status": "file_not_found",
+      "reason": "File not found in music/ directory. Located in suspicious_music/"
+    },
+    {
+      "file": "xintaiyangchengshangkongkaochajiluningver.md",
+      "slug": "xintaiyangchengshangkongkaochajiluningver",
+      "title": "太阳城上空考察记录宁Ver",
+      "status": "file_not_found",
+      "reason": "File not found in music/ directory. Located in suspicious_music/"
+    },
+    {
+      "file": "xintiaoriji.md",
+      "slug": "xintiaoriji",
+      "title": "心跳日记",
+      "status": "file_not_found",
+      "reason": "File not found in music/ directory. Located in suspicious_music/"
+    },
+    {
+      "file": "xintiaotongbudeshiguang-memory-ver.md",
+      "slug": "xintiaotongbudeshiguang-memory-ver",
+      "title": "心跳同步的时光-Memory Ver.",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Bilibili link is incomplete (missing BV ID)."
+    },
+    {
+      "file": "xintong.md",
+      "slug": "xintong",
+      "title": "心痛",
+      "status": "file_not_found",
+      "reason": "File not found in music/ directory. Located in suspicious_music/"
+    },
+    {
+      "file": "xinyin.md",
+      "slug": "xinyin",
+      "title": "心音",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Bilibili link is incomplete (missing BV ID)."
+    },
+    {
+      "file": "xinyoukaishitongwith-yuli.md",
+      "slug": "xinyoukaishitongwith-yuli",
+      "title": "心又开始痛with-雨狸",
+      "status": "file_not_found",
+      "reason": "File not found in music/ directory. Located in suspicious_music/"
+    },
+    {
+      "file": "xinyunchuyinluotianyi.md",
+      "slug": "xinyunchuyinluotianyi",
+      "title": "心云（初音ミク、洛天依）",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzang.md",
+      "slug": "xinzang",
+      "title": "シリウスの心臓",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzangyaoshi.md",
+      "slug": "xinzangyaoshi",
+      "title": "心脏钥匙",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzangzhongwentianci.md",
+      "slug": "xinzangzhongwentianci",
+      "title": "だれかの心臓になれたなら【中文填词】",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzhihai.md",
+      "slug": "xinzhihai",
+      "title": "心之海",
+      "status": "confirmed",
+      "bvid": "BV15a4y1t7sw",
+      "api_title": "【洛天依原创/漂流瓶少女与海精灵】心之海",
+      "api_owner": "著小生zoki",
+      "api_pubdate": "2020-04-03",
+      "api_views": 54899,
+      "match_details": {
+        "date_matches": true,
+        "views_match": true,
+        "title_matches": true,
+        "pzhu_matches": true
+      },
+      "notes": "File date 2020-04-03 matches API. Views ~5.47万 matches 54899. P主 著小生zoki matches uploader. Confirmed ✓"
+    },
+    {
+      "file": "xinzhili.md",
+      "slug": "xinzhili",
+      "title": "心之力",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzhongdege.md",
+      "slug": "xinzhongdege",
+      "title": "心中的歌",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzhongxunqing-banzou.md",
+      "slug": "xinzhongxunqing-banzou",
+      "title": "心中（殉情） 伴奏",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xinzuo.md",
+      "slug": "xinzuo",
+      "title": "心做し",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiong-meikongjishizhengyi.md",
+      "slug": "xiong-meikongjishizhengyi",
+      "title": "兄 妹控即是正☆义！",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiu.md",
+      "slug": "xiu",
+      "title": "朽",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiudeqiannianshanshuizhang.md",
+      "slug": "xiudeqiannianshanshuizhang",
+      "title": "绣得千年山水长",
+      "status": "confirmed",
+      "bvid": "BV1Q8411i7Jv",
+      "api_title": "【洛天依原创】绣得千年山水长【安徽非遗·当涂民歌】",
+      "api_owner": "小熠不是小姨",
+      "api_pubdate": "2023-09-15",
+      "api_views": 106363,
+      "match_details": {
+        "title_matches": true,
+        "pzhu_matches": true,
+        "engine_matches": true
+      },
+      "notes": "API owner 小熠不是小姨 matches P主 xiaoyibushixiaoyixiaoyiivac. Title matches. Confirmed ✓"
+    },
+    {
+      "file": "xiuguoshijiezhongmoruoyouxing.md",
+      "slug": "xiuguoshijiezhongmoruoyouxing",
+      "title": "この朽ち果てた世界の終末に、弱くて優しいあなたに幸せを。",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiuji.md",
+      "slug": "xiuji",
+      "title": "锈迹",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiuxianshaonv.md",
+      "slug": "xiuxianshaonv",
+      "title": "休闲少女",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiwangmingtiandewobianchengniliuxiadeyanlei.md",
+      "slug": "xiwangmingtiandewobianchengniliuxiadeyanlei",
+      "title": "希望明天的我变成你流下的眼泪",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiwangninengtingdao.md",
+      "slug": "xiwangninengtingdao",
+      "title": "希望你能听到",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xixingyanheluotianyi.md",
+      "slug": "xixingyanheluotianyi",
+      "title": "西行（言和、洛天依）",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xixu.md",
+      "slug": "xixu",
+      "title": "唏嘘",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiyangchenmozhiqian.md",
+      "slug": "xiyangchenmozhiqian",
+      "title": "夕阳沉没之前",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiyiji.md",
+      "slug": "xiyiji",
+      "title": "洗衣机",
+      "status": "confirmed",
+      "bvid": "BV1va411z7GJ",
+      "api_title": "【洛天依恐怖】洗衣机【裕剑流】井中之脑第九弹，档案号：BWSC-0009，胆小勿入",
+      "api_owner": "裕剑流P",
+      "api_pubdate": "2022-01-03",
+      "api_views": 9738,
+      "match_details": {
+        "date_matches": true,
+        "title_matches": true,
+        "pzhu_matches": true
+      },
+      "notes": "File date 2022-01-03 matches API. P主 yujianliu (裕剑流) matches uploader 裕剑流P. Confirmed ✓"
+    },
+    {
+      "file": "xiyijiliderenyu.md",
+      "slug": "xiyijiliderenyu",
+      "title": "洗衣机里的人鱼",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiyijiliderenyu-2.md",
+      "slug": "xiyijiliderenyu-2",
+      "title": "洗衣机里的人鱼",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xiyiwuqu.md",
+      "slug": "xiyiwuqu",
+      "title": "蜥蜴舞曲",
+      "status": "confirmed",
+      "bvid": "BV1SR4y1w7MK",
+      "api_title": "王牌Rapper AI洛天依登场！蜥蜴舞曲（Feat.伊野奏）",
+      "api_owner": "伊野奏",
+      "api_pubdate": "2022-05-06",
+      "api_views": 401647,
+      "match_details": {
+        "date_matches": true,
+        "title_matches": true,
+        "pzhu_matches": true
+      },
+      "notes": "File date 2022-05-06 matches API. P主 yiyezou (伊野奏) matches uploader. Confirmed ✓"
+    },
+    {
+      "file": "xiyuezhangbei.md",
+      "slug": "xiyuezhangbei",
+      "title": "昔月长悲",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xizangyinxiangquyicuozaicuoluotianyiai.md",
+      "slug": "xizangyinxiangquyicuozaicuoluotianyiai",
+      "title": "【西藏印象曲】一错再错（洛天依AI）",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xizexi.md",
+      "slug": "xizexi",
+      "title": "戏则细",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xluobushiyinweijimocaixiangnicover-try.md",
+      "slug": "xluobushiyinweijimocaixiangnicover-try",
+      "title": "【X洛】不是因为寂寞才想你（cover T.R.Y.）",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xuankong.md",
+      "slug": "xuankong",
+      "title": "悬空",
+      "status": "confirmed",
+      "bvid": "BV1es411X7Mt",
+      "api_title": "【洛天依&乐正绫原创】悬空【时之歌Project】",
+      "api_owner": "时之歌Project",
+      "api_pubdate": "2016-01-30",
+      "api_views": 294398,
+      "match_details": {
+        "title_matches": true,
+        "pzhu_matches": true,
+        "singers_match": true
+      },
+      "notes": "File date 2015-11-28 is album release; API pubdate 2016-01-30 is bilibili upload. P主 时之歌Project matches. Confirmed ✓"
+    },
+    {
+      "file": "xuanlvhuabi.md",
+      "slug": "xuanlvhuabi",
+      "title": "旋律画笔",
+      "status": "confirmed",
+      "bvid": "BV1As411n72k",
+      "api_title": "【洛天依/乐正绫原创】旋律画笔~Image Line【红叶社x夜澄xAurora】",
+      "api_owner": "碳妖",
+      "api_pubdate": "2018-07-16",
+      "api_views": 2237,
+      "match_details": {
+        "date_matches": true,
+        "title_matches": true,
+        "pzhu_matches": true
+      },
+      "notes": "File date 2018-07-16 matches API. P主 tanyaohongyeshe (碳妖/红叶社) matches uploader. Confirmed ✓"
+    },
+    {
+      "file": "xuanmenliezhuan.md",
+      "slug": "xuanmenliezhuan",
+      "title": "玄门列传",
+      "status": "confirmed",
+      "bvid": "BV1GW411E7Yo",
+      "aid": "av19443132",
+      "api_title": "【洛天依/乐正绫原创】玄门列传【世界协奏之歌制作组】【PV付】",
+      "api_owner": "炽与月",
+      "api_pubdate": "2018-02-11",
+      "api_views": 99741,
+      "match_details": {
+        "title_matches": true,
+        "pzhu_matches": true,
+        "singers_match": true
+      },
+      "notes": "File date 2018-02-24 is close to API pubdate 2018-02-11 (13 day diff likely due to timezone or album post date). P主 chiyuyue (炽与月) matches uploader. Confirmed ✓"
+    },
+    {
+      "file": "xuanrang.md",
+      "slug": "xuanrang",
+      "title": "喧嚷",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    },
+    {
+      "file": "xuansi.md",
+      "slug": "xuansi",
+      "title": "玄思",
+      "status": "unverifiable",
+      "reason": "No BV ID found in file. Only generic bilibili link provided."
+    }
+  ],
+  "verified_bvs": {
+    "BV1Rg411o7oY": "xinshangqiu.md",
+    "BV1434y157ET": "xinshangshiluotianyiyanhe.md, xinshangshiyanhevluotianyiv.md",
+    "BV1ns4y1X7dp": "xinshenmingduihuariji.md",
+    "BV1iw4m1k791": "xinshigeqian.md",
+    "BV1eE411K7iw": "xinsuishaojiu.md",
+    "BV15a4y1t7sw": "xinzhihai.md",
+    "BV1Q8411i7Jv": "xiudeqiannianshanshuizhang.md",
+    "BV1va411z7GJ": "xiyiji.md",
+    "BV1SR4y1w7MK": "xiyiwuqu.md",
+    "BV1es411X7Mt": "xuankong.md",
+    "BV1As411n72k": "xuanlvhuabi.md",
+    "BV1GW411E7Yo": "xuanmenliezhuan.md"
+  }
+}

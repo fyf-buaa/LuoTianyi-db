@@ -23,7 +23,7 @@
 - **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
 
 ### 创作团队
-- **P主/作者**: kamiyadawangzhanghaozhuxiao - 中文VOCALOID创作者，活跃于B站洛天依社区。
+- **P主/作者**: 卡米亚大王（账号注销10065388） - 中文VOCALOID创作者，活跃于B站洛天依社区。
 
 ### 歌曲背景
 《轨迹【cover.周杰伦】》是由kamiyadawangzhanghaozhuxiao使用洛天依翻调的周杰伦经典歌曲《轨迹》的VOCALOID翻唱作品，于2024年11月8日投稿至bilibili。该作品以洛天依的声线重新演绎了这首经典情歌，在bilibili累计播放量超过7000次。

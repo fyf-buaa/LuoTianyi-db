@@ -1,0 +1,37 @@
+# music:caihongcoverzhoujielun
+## 彩虹【cover.周杰伦】
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 彩虹【cover.周杰伦】 |
+| P主 | creator:kamiyadawangzhanghaozhuxiao |
+| 演唱 | core:luo-tian-yi |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID, 翻唱 |
+| 作词 | 周杰伦（原曲） |
+| 作曲 | 周杰伦（原曲） |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
+
+### 演唱者
+- **luo-tian-yi** (中文名: 洛天依): 上海禾念出品的首个中文VOCALOID角色，使用VOCALOID3/4/5引擎，音色温柔可爱，是中国最具代表性的虚拟歌手之一。
+
+### 创作团队
+- **P主/作者**: kamiyadawangzhanghaozhuxiao - 暂无资料
+- **作词**: 周杰伦（原曲词作者）
+- **作曲**: 周杰伦（原曲曲作者）
+- **编曲**: 暂无资料
+
+### 歌曲背景
+《彩虹【cover.周杰伦】》是洛天依翻唱周杰伦原版《彩虹》的VOCALOID作品，保留原曲优美的旋律框架，用VOCALOID音色重新演绎。原曲《彩虹》由周杰伦作词作曲，收录于周杰伦2007年专辑《我很忙》，是华语乐坛经典情歌之一。
+
+### 来源
+- [bilibili](https://www.bilibili.com/)

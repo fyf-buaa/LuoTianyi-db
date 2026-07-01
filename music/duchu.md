@@ -14,7 +14,7 @@
 | 标签 | 独唱, VOCALOID |
 | 作词 | 运佳BlackberryP |
 | 作曲 | 运佳BlackberryP |
-| 编曲 | 暂无资料 |
+| 编曲 |  |
 | 调教 | 哈士奇P |
 | 混音 | 哈士奇P |
 | 视频ID | BV1Ap4y1Y7nM |

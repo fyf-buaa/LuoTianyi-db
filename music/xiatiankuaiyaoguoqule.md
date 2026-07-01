@@ -12,14 +12,18 @@
 | 引擎 | vocaloid |
 | 风格 | 流行 |
 | 标签 | 独唱, VOCALOID |
+| 作词 | 运佳BlackberryP (yunjiablackberryp) |
+| 作曲 | 运佳BlackberryP |
+| 编曲 | A.M.R |
+| 调教 |  |
+| 视频ID | BV1BE411g7b3 |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
 
 ### 基本信息补充（bilibili来源）
 | 字段 | 值 |
 |------|----|
-| 视频ID | BV1BE411g7b3 |
-| 作词 | 运佳BlackberryP (yunjiablackberryp) |
-| 作曲 | 运佳BlackberryP |
-| 编曲 | A.M.R |
 | 调教/混音 | 哈士奇P |
 | 曲绘 | 橙子君不甜（琉璃猫映像） |
 | PV | Mirai（琉璃猫映像） |

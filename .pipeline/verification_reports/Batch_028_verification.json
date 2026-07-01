@@ -1,0 +1,749 @@
+{
+  "results": [
+    {
+      "file": "jinian-3.md",
+      "slug": "jinian-3",
+      "title": "纪念",
+      "facts": [
+        {"field": "曲名", "value": "纪念", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:kongqining", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinian-4.md",
+      "slug": "jinian-4",
+      "title": "纪念",
+      "facts": [
+        {"field": "曲名", "value": "纪念", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:feibukuaidehuiniaofeibukuaidemig", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 飞不快的灰鸟, matches file description"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2023-01-24", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1674538952},
+        {"field": "视频ID", "value": "BV15v4y1k7vJ", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创】纪念"},
+        {"field": "播放量", "value": "4800", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 4801}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jinianchiji.md",
+      "slug": "jinianchiji",
+      "title": "鸡年吃鸡",
+      "facts": [
+        {"field": "曲名", "value": "鸡年吃鸡", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:moniimone", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 莫逆iMoNe"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2017-02-10", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1486728764},
+        {"field": "视频ID", "value": "BV1gx41127Fy", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "播放量", "value": "6.2万", "source": "file_metadata", "verified": false, "api_view": 6206, "note": "DISCREPANCY: file claims 6.2万(≈62,000) but API returns 6,206 - 10x mismatch"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": true
+    },
+    {
+      "file": "jinianyue.md",
+      "slug": "jinianyue",
+      "title": "幾年月",
+      "facts": [
+        {"field": "曲名", "value": "幾年月", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:xingyuluofeng", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 星语落枫"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "发行日期", "value": "2023-01-16", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1673848800},
+        {"field": "视频ID", "value": "BV1414y1M7od", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "播放量", "value": "5350", "source": "file_metadata", "verified": false, "api_view": 535, "note": "DISCREPANCY: file claims 5,350 but API returns 535 - 10x mismatch"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": true
+    },
+    {
+      "file": "jinianyue-2.md",
+      "slug": "jinianyue-2",
+      "title": "幾年月",
+      "facts": [
+        {"field": "曲名", "value": "幾年月", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:xingyuluofeng", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yue-zheng-ling", "source": "file_metadata", "verified": false, "note": "API title only mentions 洛天依, description indicates 乐正绫 duet not yet ready"},
+        {"field": "发行日期", "value": "2023-01-16", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1673848800},
+        {"field": "视频ID", "value": "BV1414y1M7od", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "播放量", "value": "5350", "source": "file_metadata", "verified": false, "api_view": 535, "note": "DISCREPANCY: file claims 5,350 but API returns 535 - 10x mismatch"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": true
+    },
+    {
+      "file": "jinjideyouxi.md",
+      "slug": "jinjideyouxi",
+      "title": "",
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jinjimaoxian.md",
+      "slug": "jinjimaoxian",
+      "title": "禁忌冒险",
+      "facts": [
+        {"field": "曲名", "value": "禁忌冒险", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:qingfengjixingmeiyouq", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinjimaoxiangaoqingzhongzhi.md",
+      "slug": "jinjimaoxiangaoqingzhongzhi",
+      "title": "禁忌冒险（高清重制）",
+      "facts": [
+        {"field": "曲名", "value": "禁忌冒险（高清重制）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:qingfengjixingmeiyouq", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinlingyaoluotianyifanzi-guofengtang.md",
+      "slug": "jinlingyaoluotianyifanzi-guofengtang",
+      "title": "金陵谣（洛天依）（翻自 国风堂）",
+      "facts": [
+        {"field": "曲名", "value": "金陵谣（洛天依）（翻自 国风堂）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:regretful-love", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinmengxinghe.md",
+      "slug": "jinmengxinghe",
+      "title": "",
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jinnikejian.md",
+      "slug": "jinnikejian",
+      "title": "仅你可见",
+      "facts": [
+        {"field": "曲名", "value": "仅你可见", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:qingfengsunny", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinse.md",
+      "slug": "jinse",
+      "title": "锦瑟",
+      "facts": [
+        {"field": "曲名", "value": "锦瑟", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:yaoshucqc", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 尧鼠CQC"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2024-04-19", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1713493268},
+        {"field": "视频ID", "value": "BV1Bm421x7tP", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创曲】锦瑟"},
+        {"field": "播放量", "value": "1765", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 1765}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jinsefu.md",
+      "slug": "jinsefu",
+      "title": "锦瑟赋",
+      "facts": [
+        {"field": "曲名", "value": "锦瑟赋", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:kelejun", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jintianmeichiyao.md",
+      "slug": "jintianmeichiyao",
+      "title": "今天没吃药",
+      "facts": [
+        {"field": "曲名", "value": "今天没吃药", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:ilem", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: ilem"},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yan-he", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2014-08-19", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1408381814},
+        {"field": "视频ID", "value": "BV1dx411N7W9", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "洛天依原创《今天没吃药》"},
+        {"field": "播放量", "value": "364.7万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 3647619}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jintianmeiyoutaiyangma.md",
+      "slug": "jintianmeiyoutaiyangma",
+      "title": "今天没有太阳吗？",
+      "facts": [
+        {"field": "曲名", "value": "今天没有太阳吗？", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:qianmengli", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 迁梦狸"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2017-03-09", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1489060794},
+        {"field": "视频ID", "value": "BV1tx411C7Lk", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "播放量", "value": "1.0万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 10330}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jinyekuanghuan.md",
+      "slug": "jinyekuanghuan",
+      "title": "今夜狂欢",
+      "facts": [
+        {"field": "曲名", "value": "今夜狂欢", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:zhihuixiebaledehuapianp", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "member:xing-chen, core:luo-tian-yi, member:yue-zheng-ling, member:yue-zheng-long-ya, member:yan-he, member:mo-qing-xian, member:xin-hua, member:zheng-yu-mo-ke", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinyeyongbudiaoling.md",
+      "slug": "jinyeyongbudiaoling",
+      "title": "今夜永不凋零",
+      "facts": [
+        {"field": "曲名", "value": "今夜永不凋零", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:sangluotaohua", "source": "file_metadata/name_map/bilibili_api", "verified": true, "note": "creator-name-map confirms sangluotaohua=桑落桃花=猫桃桃Momoka (API owner)"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2025-03-07", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1741344721},
+        {"field": "视频ID", "value": "BV1Ur9mYZEd8", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创曲】今夜永不凋零"},
+        {"field": "播放量", "value": "9.1万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 90973}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jinyu.md",
+      "slug": "jinyu",
+      "title": "金鱼",
+      "facts": [
+        {"field": "曲名", "value": "金鱼", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:zhetengdelouloupu", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinyuhuahuofanzi-dazhongai.md",
+      "slug": "jinyuhuahuofanzi-dazhongai",
+      "title": "",
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jinyujimengxiang.md",
+      "slug": "jinyujimengxiang",
+      "title": "金鱼姬の梦想",
+      "facts": [
+        {"field": "曲名", "value": "金鱼姬の梦想", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:shentuxiaop", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinyuprologuefeatluotianyi.md",
+      "slug": "jinyuprologuefeatluotianyi",
+      "title": "金鱼「Prologue」feat.洛天依",
+      "facts": [
+        {"field": "曲名", "value": "金鱼「Prologue」feat.洛天依", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:chahu", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinyu-remake-featluotianyi.md",
+      "slug": "jinyu-remake-featluotianyi",
+      "title": "金鱼 -2021 Remake- feat.洛天依",
+      "facts": [
+        {"field": "曲名", "value": "金鱼 -2021 Remake- feat.洛天依", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:chahu", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinzhongkeluotianyifanzi-guofengtang.md",
+      "slug": "jinzhongkeluotianyifanzi-guofengtang",
+      "title": "锦中客（洛天依）（翻自 国风堂）",
+      "facts": [
+        {"field": "曲名", "value": "锦中客（洛天依）（翻自 国风堂）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:regretful-love", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jinzhongkeluotianyivyanhev.md",
+      "slug": "jinzhongkeluotianyivyanhev",
+      "title": "锦中客（洛天依V5、言和V5）",
+      "facts": [
+        {"field": "曲名", "value": "锦中客（洛天依V5、言和V5）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:regretful-love", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yan-he", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jishifanyou.md",
+      "slug": "jishifanyou",
+      "title": "几世繁忧",
+      "facts": [
+        {"field": "曲名", "value": "几世繁忧", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:kongqining", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 空气凝Klean"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2017-03-11", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1489237349},
+        {"field": "视频ID", "value": "BV1ax411C7Ed", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依古风原创】几世繁忧"},
+        {"field": "播放量", "value": "3.6万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 35597}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jisidamingji.md",
+      "slug": "jisidamingji",
+      "title": "记·四大名妓",
+      "facts": [
+        {"field": "曲名", "value": "记·四大名妓", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:lantuzi", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 烂兔子P"},
+        {"field": "演唱", "value": "member:xing-chen, core:luo-tian-yi, member:yue-zheng-ling, member:yan-he", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2018-09-22", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1537612992},
+        {"field": "视频ID", "value": "BV1BW411r7Xp", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【中V古风原创】四大名妓【烂兔子P】"},
+        {"field": "播放量", "value": "26万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 259842}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jitaheta.md",
+      "slug": "jitaheta",
+      "title": "吉他和她",
+      "facts": [
+        {"field": "曲名", "value": "吉他和她", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:jinriqinghuai", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 今心情怀"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2016-03-01", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1456836714},
+        {"field": "视频ID", "value": "BV1us411Q73s", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创】吉他和她（民谣系列）"},
+        {"field": "播放量", "value": "3.1万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 31353}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiu.md",
+      "slug": "jiu",
+      "title": "\"啾。\"",
+      "facts": [
+        {"field": "曲名", "value": "\"啾。\"", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:yingshihinanozhanghaozhuxiao", "source": "file_metadata", "verified": false, "note": "File claims 萤失Hinano, but no BV to verify via API"},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yue-zheng-ling", "source": "file_metadata", "verified": false},
+        {"field": "发行日期", "value": "2021-03-14", "source": "file_metadata", "verified": false, "note": "Date present but no BV for API verification"},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "1.1万", "source": "file_metadata", "verified": false, "note": "Cannot verify without BV"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "jiuan.md",
+      "slug": "jiuan",
+      "title": "旧鞍",
+      "facts": [
+        {"field": "曲名", "value": "旧鞍", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:tinuotino", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 提糯Tino"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": false, "api_title": "【洛天依/言和原创】旧鞍", "note": "DISCREPANCY: API title mentions both 洛天依 AND 言和, but file only lists 洛天依 as singer"},
+        {"field": "发行日期", "value": "2020-08-09", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1596967617},
+        {"field": "视频ID", "value": "BV1HK411T77a", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依/言和原创】旧鞍"},
+        {"field": "播放量", "value": "2.1万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 21475}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": true
+    },
+    {
+      "file": "jiudaokanyueliangluotianyi.md",
+      "slug": "jiudaokanyueliangluotianyi",
+      "title": "旧岛看月亮（洛天依）",
+      "facts": [
+        {"field": "曲名", "value": "旧岛看月亮（洛天依）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:regretful-love", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiudiantai.md",
+      "slug": "jiudiantai",
+      "title": "旧电台",
+      "facts": [
+        {"field": "曲名", "value": "旧电台", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:yugulubaijiyu", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiuhuoyizhizhigengniao.md",
+      "slug": "jiuhuoyizhizhigengniao",
+      "title": "救活一只知更鸟",
+      "facts": [
+        {"field": "曲名", "value": "救活一只知更鸟", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:yeyongyoodori", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 夜踊_Yoodori"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2025-07-13", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1752374195},
+        {"field": "视频ID", "value": "BV1w6MfzzEMQ", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创】救活一只知更鸟"},
+        {"field": "播放量", "value": "16.6万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 166048}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiujiedeyuqi.md",
+      "slug": "jiujiedeyuqi",
+      "title": "纠结的语气",
+      "facts": [
+        {"field": "曲名", "value": "纠结的语气", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:a01in", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiujiefm.md",
+      "slug": "jiujiefm",
+      "title": "旧街(FM)",
+      "facts": [
+        {"field": "曲名", "value": "旧街(FM)", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:qiyeyueqiye", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yue-zheng-ling", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiujiuzhencangdenajuhua.md",
+      "slug": "jiujiuzhencangdenajuhua",
+      "title": "久久珍藏的那句话",
+      "facts": [
+        {"field": "曲名", "value": "久久珍藏的那句话", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:lvyegesongzhe", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiujiwudidafeiwu.md",
+      "slug": "jiujiwudidafeiwu",
+      "title": "究极无敌大废物",
+      "facts": [
+        {"field": "曲名", "value": "究极无敌大废物", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:jiwuren", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiumeng.md",
+      "slug": "jiumeng",
+      "title": "旧梦",
+      "facts": [
+        {"field": "曲名", "value": "旧梦", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:licis", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiurangxuedaiwohuida.md",
+      "slug": "jiurangxuedaiwohuida",
+      "title": "就让雪代我回答",
+      "facts": [
+        {"field": "曲名", "value": "就让雪代我回答", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:lvyegesongzhe", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiurenleyuan.md",
+      "slug": "jiurenleyuan",
+      "title": "旧人乐园",
+      "facts": [
+        {"field": "曲名", "value": "旧人乐园", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:xiuzhengcaowww", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiurenleyuan-2.md",
+      "slug": "jiurenleyuan-2",
+      "title": "旧人乐园",
+      "facts": [
+        {"field": "曲名", "value": "旧人乐园", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:xiuzhengcaowww", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiurifuguang.md",
+      "slug": "jiurifuguang",
+      "title": "旧日浮光",
+      "facts": [
+        {"field": "曲名", "value": "旧日浮光", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:licis", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: Licis"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2022-05-21", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1653105600},
+        {"field": "视频ID", "value": "BV1dU4y1m75v", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依V5 Nature原创】旧日浮光（Feat.洛天依AI）"},
+        {"field": "播放量", "value": "10.0万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 99609}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiuruniqinaideyiyang.md",
+      "slug": "jiuruniqinaideyiyang",
+      "title": "就如你亲爱的一样",
+      "facts": [
+        {"field": "曲名", "value": "就如你亲爱的一样", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:yongyuanhuanying", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "member:xing-chen, core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiushengxiang.md",
+      "slug": "jiushengxiang",
+      "title": "九生相",
+      "facts": [
+        {"field": "曲名", "value": "九生相", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:cijinse", "source": "file_metadata", "verified": false, "note": "File claims 辞Jinse, but no BV to verify via API"},
+        {"field": "演唱", "value": "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he, member:miku", "source": "file_metadata", "verified": false},
+        {"field": "发行日期", "value": "2021-02-09", "source": "file_metadata", "verified": false, "note": "Date present but no BV for API verification"},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "jiushuyuxinsheng.md",
+      "slug": "jiushuyuxinsheng",
+      "title": "救赎与新生",
+      "facts": [
+        {"field": "曲名", "value": "救赎与新生", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:mengjingjimjgechenqiaoyi", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiusuannihentaoyanwo.md",
+      "slug": "jiusuannihentaoyanwo",
+      "title": "就算你很讨厌我",
+      "facts": [
+        {"field": "曲名", "value": "就算你很讨厌我", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:jiongnipjohnyp", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiusuanzheyangrenmendoukeqiuzhutazhongwenban.md",
+      "slug": "jiusuanzheyangrenmendoukeqiuzhutazhongwenban",
+      "title": "就算這樣，人們都渇求著它【中文版】",
+      "facts": [
+        {"field": "曲名", "value": "就算這樣，人們都渇求著它【中文版】", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:isiya", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiuwanziluotianyi.md",
+      "slug": "jiuwanziluotianyi",
+      "title": "九万字（洛天依）",
+      "facts": [
+        {"field": "曲名", "value": "九万字（洛天依）", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:regretful-love", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiuweiyaohu.md",
+      "slug": "jiuweiyaohu",
+      "title": "九尾妖狐",
+      "facts": [
+        {"field": "曲名", "value": "九尾妖狐", "source": "file_metadata/moegirl_wiki", "verified": true},
+        {"field": "P主", "value": "creator:puke", "source": "file_metadata/moegirl_wiki", "verified": true, "note": "Moegirl wiki confirms UP主 PoKeR"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata/moegirl_wiki", "verified": true},
+        {"field": "发行日期", "value": "2018-04-04", "source": "file_metadata/moegirl_wiki", "verified": true, "note": "Confirmed by moegirl wiki (external source)"},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false, "note": "No BV in file; moegirl wiki lists av21630448 as reference"},
+        {"field": "播放量", "value": "53.1万", "source": "file_metadata", "verified": false, "note": "Cannot verify; moegirl confirms 殿堂曲 status (>100k plays)"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "jiuweiyaohu-2.md",
+      "slug": "jiuweiyaohu-2",
+      "title": "九尾妖狐",
+      "facts": [
+        {"field": "曲名", "value": "九尾妖狐", "source": "file_metadata", "verified": true},
+        {"field": "P主", "value": "creator:jiangwuluanwan", "source": "file_metadata", "verified": false},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "视频ID", "value": "", "source": "file_metadata", "verified": false},
+        {"field": "播放量", "value": "", "source": "file_metadata", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiuweiyaohu-3.md",
+      "slug": "jiuweiyaohu-3",
+      "title": "九尾妖狐",
+      "facts": [
+        {"field": "曲名", "value": "九尾妖狐", "source": "file_metadata/bilibili_api", "verified": true},
+        {"field": "P主", "value": "creator:kendegui", "source": "file_metadata/bilibili_api", "verified": true, "note": "API owner: 肯德龟"},
+        {"field": "演唱", "value": "core:luo-tian-yi", "source": "file_metadata", "verified": true},
+        {"field": "发行日期", "value": "2018-10-20", "source": "file_metadata/bilibili_api", "verified": true, "api_pubdate": 1540030937},
+        {"field": "视频ID", "value": "BV1Jt411o7rL", "source": "file_metadata/bilibili_api", "verified": true, "api_title": "【洛天依原创】九尾妖狐【英雄联盟S8·LPL冲鸭】"},
+        {"field": "播放量", "value": "4.9万", "source": "file_metadata/bilibili_api", "verified": true, "api_view": 49498}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    }
+  ],
+  "report_metadata": {
+    "batch": "Batch_028",
+    "total_files": 50,
+    "files_found": 47,
+    "summary": {
+      "confirmed": 15,
+      "partial": 3,
+      "conflict": 0,
+      "unverifiable": 29,
+      "suspicious": 4,
+      "file_not_found": 3
+    },
+    "api_endpoint": "https://api.bilibili.com/x/web-interface/view",
+    "api_verified_bvs": 15,
+    "note": "3 files not on disk: jinjideyouxi.md, jinmengxinghe.md, jinyuhuahuofanzi-dazhongai.md"
+  }
+}

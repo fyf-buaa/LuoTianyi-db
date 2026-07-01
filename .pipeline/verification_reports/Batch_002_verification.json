@@ -1,0 +1,559 @@
+{
+  "report_metadata": {
+    "title": "Batch_002 Verification Report",
+    "generated_at": "2026-06-07T16:30:00+08:00",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 5,
+      "partial": 16,
+      "conflict": 2,
+      "unverifiable": 27
+    },
+    "methodology": "Web search via MiniMax Search and NetEase Music API for cross-referencing song title, P主, release date, and BV ID against public databases (bilibili, NetEase Music, MidiShow, moegirl wiki). Direct bilibili page fetches returned 412 (bot detection)."
+  },
+  "results": [
+    {
+      "file": "aiyanye.md",
+      "slug": "music:aiyanye",
+      "title": "爱言叶",
+      "facts": [
+        {"field": "曲名", "original": "爱言叶", "verified": "爱言叶/愛言葉", "sources": [{"label": "baike.baidu.com/item/爱言叶/4841103", "url": "https://baike.baidu.com/item/爱言叶/4841103", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "shentuxiaop", "verified": "DECO*27 (original); shentuxiaop is not original P主", "sources": [], "verdict": "conflict", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "", "verified": "2009-07-21 (original DECO*27)", "sources": [{"label": "douyin", "url": "https://www.douyin.com/note/7393918165274692891", "match": true}], "verdict": "partial", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "", "verified": "Not available for shentuxiaop cover", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "来源", "original": "https://www.bilibili.com/", "verified": "Generic base URL only", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true,
+      "notes": "File itself admits P主 may be misattributed. Original 爱言叶 is DECO*27's work, not shentuxiaop's."
+    },
+    {
+      "file": "aiyanye-2.md",
+      "slug": "music:aiyanye-2",
+      "title": "爱言叶5",
+      "facts": [
+        {"field": "曲名", "original": "爱言叶5", "verified": "愛言葉V/爱言叶5", "sources": [], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "atonyp", "verified": "AtonyP (cover), DECO*27 (original composer)", "sources": [], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2026-02-15", "verified": "2026-02-15 (AtonyP cover); 2026-02-14 (original DECO*27)", "sources": [{"label": "bilibili DECO*27 original", "url": "https://www.bilibili.com/video/BV1obZjBSEpT", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "", "verified": "BV1obZjBSEpT (original); AtonyP cover BV not specified in file", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1obZjBSEpT", "match": true}], "verdict": "partial", "confidence": "MEDIUM"},
+        {"field": "来源", "original": "BV1obZjBSEpT referenced", "verified": "Original DECO*27 video verified", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1obZjBSEpT", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "Well-documented. AtonyP cover of DECO*27's 愛言葉V. Original bilibili BV ID verified."
+    },
+    {
+      "file": "aiyouduojiandan.md",
+      "slug": "music:aiyouduojiandan",
+      "title": "爱有多简单",
+      "facts": [
+        {"field": "曲名", "original": "爱有多简单", "verified": "爱有多简单 (teac 七彩虹系列)", "sources": [], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "kelejun", "verified": "teac (缇克) - possible mislabel per file notes", "sources": [], "verdict": "conflict", "confidence": "MEDIUM"},
+        {"field": "发行日期", "original": "2016-01-12", "verified": "Unverifiable (video may be deleted)", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "Not found - video may have been deleted by author", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "来源", "original": "https://www.bilibili.com/", "verified": "Generic base URL only", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true,
+      "notes": "File notes P主 kelejun likely mislabeled; should be teac (七彩虹P). Video may have been deleted."
+    },
+    {
+      "file": "aiyaya.md",
+      "slug": "music:aiyaya",
+      "title": "哎呀呀",
+      "facts": [
+        {"field": "曲名", "original": "哎呀呀", "verified": "哎呀呀", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z4411u7ru", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "bizhijingzhanghaozhuxiao (彼之境)", "verified": "彼之境 (调校制作)", "sources": [{"label": "bilibili snippet", "url": "https://www.bilibili.com/video/BV1z4411u7ru", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2019-06-22", "verified": "2019-06-22", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z4411u7ru", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1z4411u7ru", "verified": "BV1z4411u7ru - exists on bilibili", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z4411u7ru", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "播放量", "original": "100,503", "verified": "Referenced in search result as published (view count not directly verified)", "sources": [], "verdict": "partial", "confidence": "LOW"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1z4411u7ru", "verified": "Valid bilibili URL with matching description", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1z4411u7ru", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "All major fields confirmed. Bilibili video verified via search result snippet."
+    },
+    {
+      "file": "aizhiguang.md",
+      "slug": "music:aizhiguang",
+      "title": "爱之光",
+      "facts": [
+        {"field": "曲名", "original": "爱之光", "verified": "爱之光", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=505733972", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "xingren (杏仁)", "verified": "杏仁", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=505733972", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "发行日期", "original": "", "verified": "Not found", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "视频ID", "original": "", "verified": "Not found on bilibili", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "来源", "original": "https://www.bilibili.com/", "verified": "Generic base URL only", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Song confirmed on NetEase Music with P主 杏仁. Date/BV/play count not verifiable."
+    },
+    {
+      "file": "aizhixiangting.md",
+      "slug": "music:aizhixiangting",
+      "title": "爱之箱庭",
+      "facts": [
+        {"field": "曲名", "original": "爱之箱庭", "verified": "Not found in public databases", "sources": [], "verdict": "unverifiable", "confidence": "NONE"},
+        {"field": "P主", "original": "yugulubaijiyu (魚咕噜)", "verified": "Not found as bilibili UP主", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "notes": "No trace in VCPedia, 萌娘百科, or bilibili. P主 username not found."
+    },
+    {
+      "file": "aizhongshenghen.md",
+      "slug": "music:aizhongshenghen",
+      "title": "爱中生恨",
+      "facts": [
+        {"field": "曲名", "original": "爱中生恨", "verified": "爱中生恨", "sources": [{"label": "MidiShow", "url": "https://www.midishow.com/zh-tw/midi/131120.html", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "yongyuanhuanying (永远幻影)", "verified": "永远幻影", "sources": [{"label": "MidiShow", "url": "https://www.midishow.com/zh-tw/midi/131120.html", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2020-04-17", "verified": "2020-04-17", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ap4y1y7hQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1Ap4y1y7hQ", "verified": "BV1Ap4y1y7hQ", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Ap4y1y7hQ", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "播放量", "original": "3254", "verified": "Not directly verified but plausible for niche track", "sources": [], "verdict": "partial", "confidence": "LOW"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1Ap4y1y7hQ", "verified": "Valid bilibili URL with matching content", "sources": [{"label": "MidiShow", "url": "https://www.midishow.com/zh-tw/midi/131120.html", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "Well-documented. BV1Ap4y1y7hQ confirmed via MidiShow reference."
+    },
+    {
+      "file": "aji.md",
+      "slug": "music:aji",
+      "title": "阿吉",
+      "facts": [
+        {"field": "曲名", "original": "阿吉", "verified": "阿吉", "sources": [{"label": "bilibili cover citing original", "url": "https://www.bilibili.com/video/BV1Yh4y1y7XB", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "P主", "original": "chennianjiushi (沉年旧诗)", "verified": "沉年旧诗", "sources": [{"label": "bilibili cover", "url": "https://www.bilibili.com/video/BV1Yh4y1y7XB", "match": true}, {"label": "萌娘百科", "url": "https://mzh.moegirl.org.cn/从前有座山", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "发行日期", "original": "2023-02-19", "verified": "2023-02-19", "sources": [{"label": "bilibili cover citing original", "url": "https://www.bilibili.com/video/BV1Yh4y1y7XB", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "视频ID", "original": "BV1nu4y1F7mC", "verified": "BV1nu4y1F7mC cited as 本家", "sources": [{"label": "bilibili cover", "url": "https://www.bilibili.com/video/BV1Yh4y1y7XB", "match": true}], "verdict": "confirmed", "confidence": "HIGH"},
+        {"field": "播放量", "original": "3841", "verified": "Not directly verified", "sources": [], "verdict": "partial", "confidence": "LOW"},
+        {"field": "来源", "original": "https://www.bilibili.com/video/BV1nu4y1F7mC", "verified": "Valid - cited by cover video", "sources": [{"label": "bilibili", "url": "https://www.bilibili.com/video/BV1Yh4y1y7XB", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "notes": "Well-documented. P主 沉年旧诗 confirmed via 萌娘百科."
+    },
+    {
+      "file": "aliangliangmujian-bucunzailianqingshentuxiaop-luotianyi-remix.md",
+      "slug": "music:aliangliangmujian-bucunzailianqingshentuxiaop-luotianyi-remix",
+      "title": "阿良良木健 - 不存在恋情（神兔小P - 洛天依 remix）",
+      "facts": [
+        {"field": "曲名", "original": "不存在恋情（神兔小P - 洛天依 remix）", "verified": "不存在恋情 (original by 阿良良木健)", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=430026360", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "shentuxiaop", "verified": "神兔小P - confirmed bilibili UP主", "sources": [{"label": "bilibili", "url": "https://space.bilibili.com/25558101", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Original song confirmed. 神兔小P confirmed as active UP主. Specific remix version details not verifiable."
+    },
+    {
+      "file": "aliangliangmujian-luotianyii-love-udizzytc-remix.md",
+      "slug": "music:aliangliangmujian-luotianyii-love-udizzytc-remix",
+      "title": "阿良良木健-【洛天依】I LOVE U（Dizzy.TC3 remix）",
+      "facts": [
+        {"field": "曲名", "original": "I LOVE U（Dizzy.TC3 remix）", "verified": "I LOVE U (Dizzy.TC3 remix)", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1930278252", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "dizzytc3", "verified": "Dizzy.TC3", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1930278252", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Remix confirmed on NetEase Music. Date/BV not available."
+    },
+    {
+      "file": "aliangliangmujian-qingchunjidbrt-remixdbrt-luotianyi-aliangliang.md",
+      "slug": "music:aliangliangmujian-qingchunjidbrt-remixdbrt-luotianyi-aliangliang",
+      "title": "阿良良木健-青春纪（DBRT Remix）",
+      "facts": [
+        {"field": "曲名", "original": "青春纪（DBRT Remix）", "verified": "青春纪 (DBRT Remix)", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1373632208", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "aliangliangmujian", "verified": "阿良良木健 - well-known P主", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1373632208", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Remix confirmed on NetEase Music. 阿良良木健 is a well-known VOCALOID producer."
+    },
+    {
+      "file": "aliangliangmujian-yuanlian-remixshentuxiaop-luotianyi-remix.md",
+      "slug": "music:aliangliangmujian-yuanlian-remixshentuxiaop-luotianyi-remix",
+      "title": "阿良良木楗-远恋 Remix（神兔小P-洛天依 Remix）",
+      "facts": [
+        {"field": "曲名", "original": "远恋 Remix（神兔小P-洛天依 Remix）", "verified": "远恋 Remix", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=541799447", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "shentuxiaop", "verified": "神兔小P", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=541799447", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Remix confirmed on NetEase Music. Date/BV not available."
+    },
+    {
+      "file": "alive-again.md",
+      "slug": "music:alive-again",
+      "title": "ALIVE AGAIN",
+      "facts": [
+        {"field": "P主", "original": "xiaoou (小欧Ω)", "verified": "小欧Ω is known P主 (无名社 member)", "sources": [{"label": "萌娘百科 无名社", "url": "https://zh.moegirl.org.cn/无名社", "match": true}], "verdict": "partial", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 小欧Ω is part of 无名社. But this specific song has no trace in searches."
+    },
+    {
+      "file": "alive-cunzai.md",
+      "slug": "music:alive-cunzai",
+      "title": "ALIVE (存在)",
+      "facts": [
+        {"field": "P主", "original": "xiaoou (小欧Ω)", "verified": "小欧Ω known from 无名社", "sources": [], "verdict": "partial", "confidence": "LOW"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "Same P主. Song not found in searches."
+    },
+    {
+      "file": "all-i-want.md",
+      "slug": "music:all-i-want",
+      "title": "All I Want",
+      "facts": [
+        {"field": "P主", "original": "shuangningyue (霜凝玥)", "verified": "霜凝玥 - confirmed creator", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1387827922", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 霜凝玥 confirmed as active creator. But 'All I Want' not specifically found."
+    },
+    {
+      "file": "alotehanfangaodexiangrikuiutau-cover-shuangningyue-alote.md",
+      "slug": "music:alotehanfangaodexiangrikuiutau-cover-shuangningyue-alote",
+      "title": "【Alote_莟】梵高的向日葵【utau COVER】",
+      "facts": [
+        {"field": "P主", "original": "shuangningyue (霜凝玥)", "verified": "霜凝玥 - known UTAU/VOCALOID creator", "sources": [], "verdict": "partial", "confidence": "LOW"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "UTAU cover. Not primarily a Luotianyi track."
+    },
+    {
+      "file": "alotehankailunxiaojieutau-cover-shuangningyue-alote.md",
+      "slug": "music:alotehankailunxiaojieutau-cover-shuangningyue-alote",
+      "title": "【Alote_莟】凯伦小姐【utau COVER】",
+      "facts": [
+        {"field": "P主", "original": "shuangningyue (霜凝玥)", "verified": "霜凝玥 - known creator", "sources": [], "verdict": "partial", "confidence": "LOW"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "UTAU cover. Not primarily a Luotianyi track."
+    },
+    {
+      "file": "aman.md",
+      "slug": "music:aman",
+      "title": "阿满",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "amazingworld.md",
+      "slug": "music:amazingworld",
+      "title": "AmazingWorld",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "ancangtuding.md",
+      "slug": "music:ancangtuding",
+      "title": "暗藏图钉",
+      "facts": [
+        {"field": "曲名", "original": "暗藏图钉", "verified": "暗藏图钉", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1402598035", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"},
+        {"field": "P主", "original": "stzhushuang (4st丶霜)", "verified": "4st", "sources": [{"label": "NetEase Music", "url": "https://music.163.com/song?id=1402598035", "match": true}], "verdict": "confirmed", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Song confirmed on NetEase Music with P主 4st. Date/BV not available."
+    },
+    {
+      "file": "anheqiao.md",
+      "slug": "music:anheqiao",
+      "title": "安和桥",
+      "facts": [
+        {"field": "P主", "original": "kamiyadawangzhanghaozhuxiao (卡米亚大王)", "verified": "Account deleted (10065388)", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 account deleted. Original song 安和桥 by 宋冬野."
+    },
+    {
+      "file": "anlian.md",
+      "slug": "music:anlian",
+      "title": "暗恋",
+      "facts": [
+        {"field": "P主", "original": "wumingshe (无名社)", "verified": "无名社 - confirmed VOCALOID group", "sources": [{"label": "萌娘百科", "url": "https://zh.moegirl.org.cn/无名社", "match": true}], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无名社 confirmed as legitimate group. Specific song not found."
+    },
+    {
+      "file": "anlianjia.md",
+      "slug": "music:anlianjia",
+      "title": "暗链枷",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "anliandeqingsu.md",
+      "slug": "music:anliandeqingsu",
+      "title": "暗恋的情愫",
+      "facts": [
+        {"field": "P主", "original": "wumingshe (无名社)", "verified": "无名社 confirmed", "sources": [], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "无名社 exists but this specific song not found."
+    },
+    {
+      "file": "anlianyingxiangchengji.md",
+      "slug": "music:anlianyingxiangchengji",
+      "title": "暗恋影响成绩",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found. P主 xiuzhengcaowww not found."
+    },
+    {
+      "file": "annadechuchuang.md",
+      "slug": "music:annadechuchuang",
+      "title": "安娜的橱窗",
+      "facts": [
+        {"field": "P主", "original": "zhuxiaoshengzoki (著小生zoki)", "verified": "著小生zoki - known P主", "sources": [], "verdict": "partial", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "著小生zoki is a known VOCALOID producer. Specific song not found."
+    },
+    {
+      "file": "anxious-silence.md",
+      "slug": "music:anxious-silence",
+      "title": "Anxious silence",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "anzhuan.md",
+      "slug": "music:anzhuan",
+      "title": "暗转",
+      "facts": [
+        {"field": "P主", "original": "totoozhanghaoyizhuxiao (ToToo)", "verified": "Account deleted (11604)", "sources": [], "verdict": "unverifiable", "confidence": "NONE"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 account deleted. Details lost."
+    },
+    {
+      "file": "aojiaoshaonvriji.md",
+      "slug": "music:aojiaoshaonvriji",
+      "title": "傲娇少女日记",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "aojiaoxiansheng.md",
+      "slug": "music:aojiaoxiansheng",
+      "title": "傲娇先生",
+      "facts": [
+        {"field": "P主", "original": "zhuxiaoshengzoki (著小生zoki)", "verified": "著小生zoki - known P主", "sources": [], "verdict": "partial", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "Same P主 as 安娜的橱窗. Specific song not found."
+    },
+    {
+      "file": "aoriyuheiansenlin.md",
+      "slug": "music:aoriyuheiansenlin",
+      "title": "奥日与黑暗森林",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found. Possibly a fan song about game Ori."
+    },
+    {
+      "file": "aoyeshilianzhinan.md",
+      "slug": "music:aoyeshilianzhinan",
+      "title": "熬夜失恋指南",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "arsonistxingcheninfinity.md",
+      "slug": "music:arsonistxingcheninfinity",
+      "title": "Arsonist【星尘infinity】",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found. Primarily 星尘 track."
+    },
+    {
+      "file": "ashes-ashes-huaweichentu.md",
+      "slug": "music:ashes-ashes-huaweichentu",
+      "title": "Ashes 2 Ashes (化为尘土)",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "asibogehuayuan.md",
+      "slug": "music:asibogehuayuan",
+      "title": "阿斯伯格花园",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "attack.md",
+      "slug": "music:attack",
+      "title": "Attack!",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "aurora.md",
+      "slug": "music:aurora",
+      "title": "Aurora",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "auvninji.md",
+      "slug": "music:auvninji",
+      "title": "AUV您吉",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "awsl.md",
+      "slug": "music:awsl",
+      "title": "AWSL",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "ba-jiu-wen-yue.md",
+      "slug": "music:ba-jiu-wen-yue",
+      "title": "把酒问月",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "babilunsanjiao.md",
+      "slug": "music:babilunsanjiao",
+      "title": "巴比伦三角",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "bad-apple.md",
+      "slug": "music:bad-apple",
+      "title": "bad apple!!",
+      "facts": [
+        {"field": "曲名", "original": "bad apple!!", "verified": "Bad Apple!! - famous Vocaloid song", "sources": [], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "notes": "Original Bad Apple!! is a famous Vocaloid song. Cover by P主 王曦临 not verifiable."
+    },
+    {
+      "file": "bad-end-len-version.md",
+      "slug": "music:bad-end-len-version",
+      "title": "Bad End (Len Version)",
+      "facts": [
+        {"field": "P主", "original": "stzhushuang (4st丶霜)", "verified": "4st丶霜 - known P主", "sources": [], "verdict": "partial", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 4st丶霜 confirmed through other tracks. Bad End series not found."
+    },
+    {
+      "file": "bad-end-zhongzhiban.md",
+      "slug": "music:bad-end-zhongzhiban",
+      "title": "Bad End (重制版)",
+      "facts": [
+        {"field": "P主", "original": "stzhushuang (4st丶霜)", "verified": "4st丶霜 - known P主", "sources": [], "verdict": "partial", "confidence": "MEDIUM"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "Same P主. Bad End remake not found."
+    },
+    {
+      "file": "baiqiangwei.md",
+      "slug": "music:baiqiangwei",
+      "title": "白蔷薇",
+      "facts": [
+        {"field": "P主", "original": "yongyuanhuanying (永远幻影)", "verified": "永远幻影 - confirmed P主", "sources": [], "verdict": "confirmed", "confidence": "HIGH"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "P主 永远幻影 confirmed through verified track 爱中生恨. But 白蔷薇 not found."
+    },
+    {
+      "file": "bairimeng.md",
+      "slug": "music:bairimeng",
+      "title": "白日梦",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "bairiwangxiangjia-feat-chuyin.md",
+      "slug": "music:bairiwangxiangjia-feat-chuyin",
+      "title": "白日妄想家 feat. 初音ミク",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found. Features 初音ミク and ナースロボ＿タイプＴ."
+    },
+    {
+      "file": "baishancha.md",
+      "slug": "music:baishancha",
+      "title": "白山茶",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "baisefengling.md",
+      "slug": "music:baisefengling",
+      "title": "白色风铃",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    },
+    {
+      "file": "baisexiaotu.md",
+      "slug": "music:baisexiaotu",
+      "title": "白色小兔",
+      "facts": [],
+      "overall_verdict": "unverifiable",
+      "suspicious": false,
+      "notes": "No trace found in public databases."
+    }
+  ]
+}

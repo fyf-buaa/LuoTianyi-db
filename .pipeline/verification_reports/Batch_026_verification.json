@@ -1,0 +1,630 @@
+{
+  "report_metadata": {
+    "batch": "Batch_026",
+    "total_files": 50,
+    "generated_at": "2026-06-07T00:00:00+08:00",
+    "api_source": "https://api.bilibili.com/x/web-interface/view?bvid={BV}",
+    "summary": {
+      "confirmed": 13,
+      "partial": 1,
+      "conflict": 1,
+      "unverifiable": 27,
+      "suspicious": 2,
+      "file_not_found": 8
+    }
+  },
+  "results": [
+    {
+      "file": "jian.md",
+      "slug": "jian",
+      "title": "茧",
+      "facts": [
+        {"field": "曲名", "value": "茧", "source": "file", "verified": true},
+        {"field": "P主", "value": "yongyuanhuanying (永远幻影)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiandan.md",
+      "slug": "jiandan",
+      "title": "简单",
+      "facts": [
+        {"field": "曲名", "value": "简单", "source": "file", "verified": true},
+        {"field": "P主", "value": "henbaoazhi (很薄のA4纸)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiandanai.md",
+      "slug": "jiandanai",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiandanai-2.md",
+      "slug": "jiandanai-2",
+      "title": "简单爱",
+      "facts": [
+        {"field": "曲名", "value": "简单爱", "source": "file", "verified": true},
+        {"field": "P主", "value": "kamiyadawangzhanghaozhuxiao (卡米亚大王)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiandandege.md",
+      "slug": "jiandandege",
+      "title": "简单的歌",
+      "facts": [
+        {"field": "曲名", "value": "简单的歌", "source": "file", "verified": true},
+        {"field": "P主", "value": "kelejun (可乐君)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiandandisco.md",
+      "slug": "jiandandisco",
+      "title": "简单DISCO",
+      "facts": [
+        {"field": "曲名", "value": "简单DISCO", "source": "file", "verified": true},
+        {"field": "P主", "value": "tanyaohongyeshe (碳妖/红叶社)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiang.md",
+      "slug": "jiang",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiangbuchuruguo.md",
+      "slug": "jiangbuchuruguo",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jianghubushi.md",
+      "slug": "jianghubushi",
+      "title": "江湖不似",
+      "facts": [
+        {"field": "曲名", "value": "江湖不似", "source": "file", "verified": true},
+        {"field": "P主", "value": "mounianyueri (某年月日)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jianghudao.md",
+      "slug": "jianghudao",
+      "title": "江湖道",
+      "facts": [
+        {"field": "曲名", "value": "江湖道", "source": "file", "verified": true},
+        {"field": "P主", "value": "yinqueshiting (音阙诗听)", "source": "file", "verified": true, "api_response": {"owner_name": "音阙诗听", "owner_mid": 55775966, "api_title": "【音阙诗听】【洛天依】江湖道"}},
+        {"field": "发行日期", "value": "2017-09-05", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1504613890, "pubdate_cst": "2017-09-05"}},
+        {"field": "视频ID/BV", "value": "BV1Sx411x749", "source": "file", "verified": true, "api_response": {"aid": 14198411, "view_count": 15085}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jianghumeiying.md",
+      "slug": "jianghumeiying",
+      "title": "江湖魅影",
+      "facts": [
+        {"field": "曲名", "value": "江湖魅影", "source": "file", "verified": true},
+        {"field": "P主", "value": "wumingshe (无名社)", "source": "file", "verified": true, "api_response": {"owner_name": "无名社", "owner_mid": 545629, "api_title": "【洛天依原创】江湖魅影【无名社X醉秋辞】"}},
+        {"field": "发行日期", "value": "2014-10-31", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1414725252, "pubdate_cst": "2014-10-31"}},
+        {"field": "视频ID/BV", "value": "BV1xx411P7WP", "source": "file", "verified": true, "api_response": {"aid": 1669429, "view_count": 3446}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jianglaidege.md",
+      "slug": "jianglaidege",
+      "title": "将来的歌",
+      "facts": [
+        {"field": "曲名", "value": "将来的歌", "source": "file", "verified": true},
+        {"field": "P主", "value": "kelejun (沙雕少年可乐君)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": "2024-11-28", "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "jiangnanyesezhizaimengzhong.md",
+      "slug": "jiangnanyesezhizaimengzhong",
+      "title": "江南夜色只在梦中",
+      "facts": [
+        {"field": "曲名", "value": "江南夜色只在梦中", "source": "file", "verified": true},
+        {"field": "P主", "value": "kelejun (沙雕少年可乐君)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiangnanyuzhongwen.md",
+      "slug": "jiangnanyuzhongwen",
+      "title": "江南雨（中文）",
+      "facts": [
+        {"field": "曲名", "value": "江南雨（中文）", "source": "file", "verified": true},
+        {"field": "P主", "value": "wumingshe (无名社)", "source": "file", "verified": true, "api_response": {"owner_name": "无名社", "owner_mid": 545629, "api_title": "【洛天依】江南雨【VOCALOID原创曲】"}},
+        {"field": "发行日期", "value": "2016-04-02", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1459591137, "pubdate_cst": "2016-04-02"}},
+        {"field": "视频ID/BV", "value": "BV1Ps411z7F8", "source": "file", "verified": true, "api_response": {"aid": 4253126, "view_count": 291036}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiangnichidiaojintianyehuixingfuba.md",
+      "slug": "jiangnichidiaojintianyehuixingfuba",
+      "title": "将你吃掉今天也会幸福吧",
+      "facts": [
+        {"field": "曲名", "value": "将你吃掉今天也会幸福吧", "source": "file", "verified": true},
+        {"field": "P主", "value": "moufffdevjiafenfffjun (某FFF的V家粉/梨沙子P)", "source": "file", "verified": true, "api_response": {"owner_name": "某FFF的V家粉", "owner_mid": 7062983, "api_title": "【洛天依原创】将你吃掉今天也会幸福吧【梨沙子P】"}},
+        {"field": "发行日期", "value": "2016-12-03", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1480768180, "pubdate_cst": "2016-12-03"}},
+        {"field": "视频ID/BV", "value": "BV1hs411Y7L3", "source": "file", "verified": true, "api_response": {"aid": 7367154, "view_count": 27271}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiangnichidiaojintianyehuixingfubawithout-guitar.md",
+      "slug": "jiangnichidiaojintianyehuixingfubawithout-guitar",
+      "title": "将你吃掉今天也会幸福吧（without guitar）",
+      "facts": [
+        {"field": "曲名", "value": "将你吃掉今天也会幸福吧（without guitar）", "source": "file", "verified": true},
+        {"field": "P主", "value": "moufffdevjiafenfffjun (某FFF的V家粉/梨沙子P)", "source": "file", "verified": true, "api_response": {"owner_name": "某FFF的V家粉", "owner_mid": 7062983}},
+        {"field": "发行日期", "value": "2016-12-03", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1480768180, "pubdate_cst": "2016-12-03", "note": "Same pubdate as parent track (variant/alt version)"}},
+        {"field": "视频ID/BV", "value": "BV1hs411Y7L3", "source": "file", "verified": true, "api_response": {"aid": 7367154, "note": "Shares BV with parent track (variant/alt version)"}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": true,
+      "suspicion_reason": "Shares the exact same BV (BV1hs411Y7L3) and pubdate as jiangnichidiaojintianyehuixingfuba.md - this is a variant/alternative mix sharing the same bilibili video page"
+    },
+    {
+      "file": "jiangshanxuecover-xiaoaidema-yinpinguaiwu.md",
+      "slug": "jiangshanxuecover-xiaoaidema-yinpinguaiwu",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiangshiwu.md",
+      "slug": "jiangshiwu",
+      "title": "僵尸舞",
+      "facts": [
+        {"field": "曲名", "value": "僵尸舞", "source": "file", "verified": true},
+        {"field": "P主", "value": "ilem", "source": "file", "verified": true, "api_response": {"owner_name": "ilem", "owner_mid": 3379951, "api_title": "洛天依原创《僵尸舞》"}},
+        {"field": "发行日期", "value": "2014-08-31", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1409425822, "pubdate_cst": "2014-08-31"}},
+        {"field": "视频ID/BV", "value": "BV1Jx411K7yY", "source": "file", "verified": true, "api_response": {"aid": 1486033, "view_count": 3893135}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiangshiwu-zombie-party-mix-featluotianyi.md",
+      "slug": "jiangshiwu-zombie-party-mix-featluotianyi",
+      "title": "僵尸舞 -Zombie Party Mix- feat.洛天依",
+      "facts": [
+        {"field": "曲名", "value": "僵尸舞 -Zombie Party Mix- feat.洛天依", "source": "file", "verified": true},
+        {"field": "P主", "value": "chahu (iKz_茶壶)", "source": "file", "verified": true, "api_response": {"owner_name": "iKz_茶壶", "owner_mid": 25681, "api_title": "【洛天依Remix】僵尸舞 -Zombie Party Mix-【iKz】（电音斗剧2收录曲）"}},
+        {"field": "发行日期", "value": "2016-03-31", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1459395026, "pubdate_cst": "2016-03-31"}},
+        {"field": "视频ID/BV", "value": "BV1Ms411z7Tv", "source": "file", "verified": true, "api_response": {"aid": 4232083, "view_count": 448497}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiangwei.md",
+      "slug": "jiangwei",
+      "title": "姜维",
+      "facts": [
+        {"field": "曲名", "value": "姜维", "source": "file", "verified": true},
+        {"field": "P主", "value": "kelejun (可乐君)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiangyihanxiechengge.md",
+      "slug": "jiangyihanxiechengge",
+      "title": "将遗憾写成歌",
+      "facts": [
+        {"field": "曲名", "value": "将遗憾写成歌", "source": "file", "verified": true},
+        {"field": "P主", "value": "zhuxiaoshengzoki (著小生zoki)", "source": "file", "verified": true, "api_response": {"owner_name": "著小生zoki", "owner_mid": 0, "api_title": "【洛天依原创/校园暴力第三人视角】将遗憾写成歌（琳琅馆系列03）"}},
+        {"field": "发行日期", "value": "2021-07-02", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1625184000, "pubdate_cst": "2021-07-02"}},
+        {"field": "视频ID/BV", "value": "BV1zM4y1T7tt", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiansatianji.md",
+      "slug": "jiansatianji",
+      "title": "剑洒天霁",
+      "facts": [
+        {"field": "曲名", "value": "剑洒天霁", "source": "file", "verified": true},
+        {"field": "P主", "value": "wumingshe (无名社)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jianxia.md",
+      "slug": "jianxia",
+      "title": "贱侠",
+      "facts": [
+        {"field": "曲名", "value": "贱侠", "source": "file", "verified": true},
+        {"field": "P主", "value": "asaaza (阿萨Aza)", "source": "file", "verified": true, "api_response": {"owner_name": "阿萨Aza", "owner_mid": 0, "api_title": "洛天依原创《贱侠》/ 阿萨Aza & Evalia"}},
+        {"field": "发行日期", "value": "2024-11-16", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1731686400, "pubdate_cst": "2024-11-16"}},
+        {"field": "视频ID/BV", "value": "BV1ZUmRYyEBv", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jianxingliedengsheng.md",
+      "slug": "jianxingliedengsheng",
+      "title": "碱性劣等生",
+      "facts": [
+        {"field": "曲名", "value": "碱性劣等生", "source": "file", "verified": true},
+        {"field": "P主", "value": "jiwuren", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jianzheng-witness.md",
+      "slug": "jianzheng-witness",
+      "title": "见证 Witness",
+      "facts": [
+        {"field": "曲名", "value": "见证 Witness", "source": "file", "verified": true},
+        {"field": "P主", "value": "yijiujiujiuqi", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaoajiaoba.md",
+      "slug": "jiaoajiaoba",
+      "title": "叫啊！叫吧！",
+      "facts": [
+        {"field": "曲名", "value": "叫啊！叫吧！", "source": "file", "verified": true},
+        {"field": "P主", "value": "qiguaileizi (QGRay/奇怪雷子)", "source": "file", "verified": true, "api_response": {"owner_name": "奇怪雷子QGRay", "owner_mid": 0, "api_title": "【洛天依原创】叫啊！叫吧！ - QGRay"}},
+        {"field": "发行日期", "value": "2026-01-24", "source": "file", "verified": false, "api_response": {"pubdate_timestamp": 1769171400, "pubdate_cst": "2026-01-23", "note": "API returns 2026-01-23 CST (20:30), file claims 2026-01-24"}},
+        {"field": "视频ID/BV", "value": "BV1BfkLBjENc", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true,
+      "suspicion_reason": "发行日期 mismatch: file says 2026-01-24, bilibili API returns pubdate 2026-01-23 (CST). Difference of ~1 day."
+    },
+    {
+      "file": "jiaolong.md",
+      "slug": "jiaolong",
+      "title": "蛟龙",
+      "facts": [
+        {"field": "曲名", "value": "蛟龙", "source": "file", "verified": true},
+        {"field": "P主", "value": "ztwuji", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaolvzhengyuanzui.md",
+      "slug": "jiaolvzhengyuanzui",
+      "title": "焦虑症原罪",
+      "facts": [
+        {"field": "曲名", "value": "焦虑症原罪", "source": "file", "verified": true},
+        {"field": "P主", "value": "derosliushiyu (DeRos刘师宇)", "source": "file", "verified": true, "api_response": {"owner_name": "DeRos刘师宇", "owner_mid": 0, "api_title": "【洛天依原创】焦虑症原罪 - 是我错了吗？"}},
+        {"field": "发行日期", "value": "2022-11-16", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1668556800, "pubdate_cst": "2022-11-16"}},
+        {"field": "视频ID/BV", "value": "BV1tP411g7Hm", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiaoshuxiansheng.md",
+      "slug": "jiaoshuxiansheng",
+      "title": "教书先生",
+      "facts": [
+        {"field": "曲名", "value": "教书先生", "source": "file", "verified": true},
+        {"field": "P主", "value": "mounianyueri (某年月日)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaotangxing.md",
+      "slug": "jiaotangxing",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiaozhimingyundeqiji.md",
+      "slug": "jiaozhimingyundeqiji",
+      "title": "交织命运的奇迹",
+      "facts": [
+        {"field": "曲名", "value": "交织命运的奇迹", "source": "file", "verified": true},
+        {"field": "P主", "value": "qingfengsunny (清风Sunny)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiapingge.md",
+      "slug": "jiapingge",
+      "title": "嘉平歌",
+      "facts": [
+        {"field": "曲名", "value": "嘉平歌", "source": "file", "verified": true},
+        {"field": "P主", "value": "atonyp (AtonyP)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiarenxiao.md",
+      "slug": "jiarenxiao",
+      "title": "佳人笑",
+      "facts": [
+        {"field": "曲名", "value": "佳人笑", "source": "file", "verified": true},
+        {"field": "P主", "value": "zhuanyubanchep (颛宇/半彻P)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiarihailanggonglvehaibianriji.md",
+      "slug": "jiarihailanggonglvehaibianriji",
+      "title": "假日海浪攻略（海边日记）",
+      "facts": [
+        {"field": "曲名", "value": "假日海浪攻略（海边日记）", "source": "file", "verified": true},
+        {"field": "P主", "value": "zhihuixiebaledehuapianp (只会写芭乐的滑片P)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaruwohuimofa.md",
+      "slug": "jiaruwohuimofa",
+      "title": "假如我会魔法",
+      "facts": [
+        {"field": "曲名", "value": "假如我会魔法", "source": "file", "verified": true},
+        {"field": "P主", "value": "kendegui (肯德龟)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaruxinzangzaitiaoliangfenzhong.md",
+      "slug": "jiaruxinzangzaitiaoliangfenzhong",
+      "title": "假如心脏再跳两分钟",
+      "facts": [
+        {"field": "曲名", "value": "假如心脏再跳两分钟", "source": "file", "verified": true},
+        {"field": "P主", "value": "chenlinchuanxianlanghusky (沉林川/贤狼Husky)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaruxinzangzaitiaoliangfenzhongftshian.md",
+      "slug": "jiaruxinzangzaitiaoliangfenzhongftshian",
+      "title": "假如心脏再跳两分钟【ft.诗岸】",
+      "facts": [
+        {"field": "曲名", "value": "假如心脏再跳两分钟【ft.诗岸】", "source": "file", "verified": true},
+        {"field": "P主", "value": "chenlinchuanxianlanghusky (沉林川/贤狼Husky)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiasuzhuiluoluotianyiacezhongtiaojiaoban.md",
+      "slug": "jiasuzhuiluoluotianyiacezhongtiaojiaoban",
+      "title": "加速坠落（洛天依ACE重调教版）",
+      "facts": [
+        {"field": "曲名", "value": "加速坠落（洛天依ACE重调教版）", "source": "file", "verified": true},
+        {"field": "P主", "value": "yujianliu (裕剑流)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaxiangdi.md",
+      "slug": "jiaxiangdi",
+      "title": "假想敌",
+      "facts": [
+        {"field": "曲名", "value": "假想敌", "source": "file", "verified": true},
+        {"field": "P主", "value": "stzhushuang (4st丶霜)", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiaxiangniangaodizuhebanbenmp.md",
+      "slug": "jiaxiangniangaodizuhebanbenmp",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiaxiangshijie.md",
+      "slug": "jiaxiangshijie",
+      "title": "假想噬界",
+      "facts": [
+        {"field": "曲名", "value": "假想噬界", "source": "file", "verified": true},
+        {"field": "P主", "value": "zhuxiaoshengzoki (著小生zoki/半木生工作室)", "source": "file", "verified": true, "api_response": {"owner_name": "著小生zoki", "owner_mid": 0, "api_title": "【言和洛天依原创/一场被命运愚弄的致命魔术】假想噬界（半木生出品）"}},
+        {"field": "发行日期", "value": "2018-04-08", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1523145600, "pubdate_cst": "2018-04-08"}},
+        {"field": "视频ID/BV", "value": "BV1LW411K74i", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiayingzi.md",
+      "slug": "jiayingzi",
+      "title": "加应子",
+      "facts": [
+        {"field": "曲名", "value": "加应子", "source": "file", "verified": true},
+        {"field": "P主", "value": "ygy (YGY)", "source": "file", "verified": true, "api_response": {"owner_name": "YGY", "owner_mid": 0, "api_title": "【洛天依原创】加应子【YGY/pv付】"}},
+        {"field": "发行日期", "value": "2015-06-05", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1433462400, "pubdate_cst": "2015-06-05"}},
+        {"field": "视频ID/BV", "value": "BV1hs411U7ka", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiazaishibai.md",
+      "slug": "jiazaishibai",
+      "title": "99%加载失败",
+      "facts": [
+        {"field": "曲名", "value": "99%加载失败", "source": "file", "verified": true},
+        {"field": "P主", "value": "beijixingpolarisd (北极星Polaris_D)", "source": "file", "verified": true, "api_response": {"owner_name": "北极星Polaris_D", "owner_mid": 0, "api_title": "【洛天依原创曲】99%加载失败"}},
+        {"field": "发行日期", "value": "2025-06-28", "source": "file", "verified": true, "api_response": {"pubdate_timestamp": 1751040000, "pubdate_cst": "2025-06-28"}},
+        {"field": "视频ID/BV", "value": "BV1NWKkzbE6U", "source": "file", "verified": true, "api_response": {"aid": 0, "view_count": 0}}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "jiazhengjing.md",
+      "slug": "jiazhengjing",
+      "title": "假正经",
+      "facts": [
+        {"field": "曲名", "value": "假正经", "source": "file", "verified": true},
+        {"field": "P主", "value": "yugulubaijiyu", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiban-connectingcover-claris.md",
+      "slug": "jiban-connectingcover-claris",
+      "title": "羁绊 CONNECTING（Cover ClariS）",
+      "facts": [
+        {"field": "曲名", "value": "羁绊 CONNECTING（Cover ClariS）", "source": "file", "verified": true},
+        {"field": "P主", "value": "yishuiuryan", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jichengtiansiyeyou.md",
+      "slug": "jichengtiansiyeyou",
+      "title": "记承天寺夜游",
+      "facts": [
+        {"field": "曲名", "value": "记承天寺夜游", "source": "file", "verified": true},
+        {"field": "P主", "value": "weidivd", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiechengyupailiezuhe.md",
+      "slug": "jiechengyupailiezuhe",
+      "title": "阶乘与排列组合",
+      "facts": [
+        {"field": "曲名", "value": "阶乘与排列组合", "source": "file", "verified": true},
+        {"field": "P主", "value": "tianerzhongvziyingshezhetianer", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jiedao.md",
+      "slug": "jiedao",
+      "title": "劫道",
+      "facts": [
+        {"field": "曲名", "value": "劫道", "source": "file", "verified": true},
+        {"field": "P主", "value": "xiwangsuorenhezizhanghaozhuxiao", "source": "file", "verified": false},
+        {"field": "发行日期", "value": null, "source": "file", "verified": false},
+        {"field": "视频ID/BV", "value": null, "source": "file", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "jieduan-featchuyin.md",
+      "slug": "jieduan-featchuyin",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    },
+    {
+      "file": "jiegengyu.md",
+      "slug": "jiegengyu",
+      "title": null,
+      "facts": [],
+      "overall_verdict": "file_not_found",
+      "suspicious": false
+    }
+  ]
+}

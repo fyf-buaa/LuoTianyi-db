@@ -1,0 +1,416 @@
+{
+  "batch_id": "batch_003",
+  "verified_at": "2026-06-11",
+  "total_files": 20,
+  "summary": {
+    "fully_verified": 5,
+    "partially_verified": 10,
+    "unverified": 5
+  },
+  "results": [
+    {
+      "file": "a-matter-of-time.md",
+      "song_title": "A Matter of Time",
+      "claim_creator": "feibukuaidehuiniaofeibukuaidemig (飞不快的灰鸟/飞不快的MIG25)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No search results found on Bilibili, 萌娘百科, or Vocaloid Lyrics Wiki for this song or creator. The P主 slug and Chinese name produced no verifiable matches in any VOCALOID database.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aliangliangmujian-bucunzailianqingshentuxiaop-luotianyi-remix.md",
+      "song_title": "阿良良木健 - 不存在恋情（神兔小P - 洛天依 remix）",
+      "claim_creator": "shentuxiaop (神兔小P)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1ob41187SM/",
+        "https://mzh.moegirl.tw/%E8%B7%AF%E8%BF%87"
+      ],
+      "finding": "神兔小P is confirmed as an active VOCALOID creator on Bilibili with multiple 洛天依 songs (e.g. 路过, 告辞). The specific remix '不存在恋情' was not directly found, but the creator identity is verified.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://space.bilibili.com/神兔小P",
+        "confirmed_creator": "神兔小P",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aliangliangmujian-luotianyii-love-udizzytc-remix.md",
+      "song_title": "阿良良木健-【洛天依】I LOVE U（Dizzy.TC3 remix）",
+      "claim_creator": "dizzytc3 (Dizzy.TC3)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://mzh.moegirl.tw/I_LOVE_U",
+        "https://www.bilibili.com/video/BV16s411Z7PW/",
+        "https://zh.moegirl.org.cn/%E6%83%B3%E5%91%8A%E8%AF%89%E6%83%B3%E5%91%8A%E8%AF%89%E4%BD%A0"
+      ],
+      "finding": "The original 'I LOVE U' by 阿良良木健 (2013-04-20) is a famous VOCALOID 传说曲. Dizzy_TC3 is confirmed as a VOCALOID creator on 萌娘百科 with 洛天依 songs. However, the specific 'Dizzy.TC3 remix' of I LOVE U was not directly found. The 萌娘百科 page for I LOVE U mentions '潜移黙化P的Remix版本' but not Dizzy.TC3.",
+      "verified_data": {
+        "bv_number": "BV16s411Z7PW",
+        "moegirl_url": "https://mzh.moegirl.tw/I_LOVE_U",
+        "bilibili_url": "https://www.bilibili.com/video/BV16s411Z7PW/",
+        "confirmed_creator": "阿良良木健 (original) / Dizzy_TC3 (confirmed creator but remix unconfirmed)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2013-04-20 (original)"
+      }
+    },
+    {
+      "file": "aliangliangmujian-qingchunjidbrt-remixdbrt-luotianyi-aliangliang.md",
+      "song_title": "阿良良木健-青春纪（DBRT Remix）",
+      "claim_creator": "aliangliangmujian (阿良良木健)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://mzh.moegirl.tw/%E9%9D%92%E6%98%A5%E7%BA%AA",
+        "https://mzh.moegirl.org.cn/DBRT"
+      ],
+      "finding": "青春纪 is confirmed as a 洛天依 song. However, the P主 claim is partially inaccurate: the uploader was '青春上海' (Shanghai Communist Youth League), with 阿良良木健 as composer only. DBRT remix is mentioned on 萌娘百科's DBRT page. The file's 'P主: aliangliangmujian' conflates composer with uploader.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://mzh.moegirl.tw/%E9%9D%92%E6%98%A5%E7%BA%AA",
+        "bilibili_url": null,
+        "confirmed_creator": "青春上海 (UP主), 阿良良木健 (作曲)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2018-05-03"
+      }
+    },
+    {
+      "file": "aliangliangmujian-yuanlian-remixshentuxiaop-luotianyi-remix.md",
+      "song_title": "阿良良木楗-远恋 Remix（神兔小P-洛天依 Remix）",
+      "claim_creator": "shentuxiaop (神兔小P)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No search results found for '远恋 Remix' by 神兔小P. While 神兔小P is confirmed as a creator, this specific remix was not found in any VOCALOID database or search results.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "alive-again.md",
+      "song_title": "ALIVE AGAIN",
+      "claim_creator": "xiaoou (小欧Ω)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.followlyrics.com/artist/258443/1-Zero"
+      ],
+      "finding": "Found in lyrics database crediting '1-Zero 小欧Ω 洛天依 乐正绫' from album 'After Rain - EXTRA'. 小欧Ω is also confirmed as a producer on the official 洛天依 2024 album '再生' (track 10: Aloud, mixed by 小欧Ω). The song exists but the specific source is a lyrics site, not primary Bilibili or 萌娘百科.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "小欧Ω",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "alive-cunzai.md",
+      "song_title": "ALIVE (存在)",
+      "claim_creator": "xiaoou (小欧Ω)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.followlyrics.com/artist/258443/1-Zero"
+      ],
+      "finding": "Found in lyrics database crediting '1-Zero 小欧Ω YoungStar' from album 'After Rain'. 小欧Ω is also confirmed as a producer on the official 洛天依 '再生' album. However, no primary source (Bilibili/萌娘百科) was found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "小欧Ω",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "all-i-want.md",
+      "song_title": "All I Want",
+      "claim_creator": "shuangningyue (霜凝玥)",
+      "claim_singer": "诗岸, 洛天依, 乐正绫, 苍穹, 海伊",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://moegirl.icu/If_Love_%3D%3D_True"
+      ],
+      "finding": "霜凝玥 (shuangningyue) is confirmed as an active VOCALOID creator with 洛天依 songs on 萌娘百科 (e.g. 'if Love==True', 2024-08-10). However, the specific song 'All I Want' with the claimed 5-singer lineup was not found. A different song 'All I want is you' exists but by different creators (橘音kitsune, 言和).",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "霜凝玥 (confirmed as creator, specific song unconfirmed)",
+        "confirmed_singer": "洛天依 (confirmed for 霜凝玥 songs)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "amazingworld.md",
+      "song_title": "AmazingWorld",
+      "claim_creator": "mousansheng (某三省)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://vocaloidlyrics.miraheze.org/wiki/AmazingWorld"
+      ],
+      "finding": "Confirmed on Vocaloid Lyrics Wiki: 'AmazingWorld' by 某三省 (Mou Sanxing), uploaded December 14, 2019, sung by 洛天依. The lyrics are in Mandarin and the producer handles all roles: music, lyrics, arrange, tuning, PV.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "某三省 (Mou Sanxing / mousansheng)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2019-12-14"
+      }
+    },
+    {
+      "file": "ancangtuding.md",
+      "song_title": "暗藏图钉",
+      "claim_creator": "stzhushuang (4st丶霜)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.bilibili.com/video/BV1ns411r79d/",
+        "https://zh.moegirl.org.cn/%E5%A5%B3%E5%B7%AB%E7%9A%84%E7%88%B1%E6%9E%9C"
+      ],
+      "finding": "4st丶霜 (stzhushuang/4st) is confirmed as an active VOCALOID creator on Bilibili and 萌娘百科 with many 洛天依 songs (Bad End, 阵雨, 女巫的爱果, etc.). However, the specific song '暗藏图钉' was not found in any database.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://space.bilibili.com/4st",
+        "confirmed_creator": "4st丶霜 (confirmed active creator)",
+        "confirmed_singer": "洛天依 (confirmed for other 4st songs)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "anheqiao.md",
+      "song_title": "安和桥",
+      "claim_creator": "kamiyadawangzhanghaozhuxiao (卡米亚大王/账号注销10065388)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "UNVERIFIED",
+      "sources": [],
+      "finding": "No search results found for a 洛天依 cover of '安和桥' (originally by 宋冬野) by 卡米亚大王. The account is described as '账号注销' (deactivated), making verification impossible through current sources.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "anle.md",
+      "song_title": "安乐",
+      "claim_creator": "zhetengdelouloupu (折腾的髅髅噗)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E9%9B%AA%E8%88%9E%E8%80%85",
+        "https://zh.moegirl.org.cn/%E5%B9%BB%E6%83%91"
+      ],
+      "finding": "折腾的髅髅噗 (zhetengdelouloupu) is confirmed as an active VOCALOID creator on 萌娘百科 with multiple 洛天依 songs (雪舞者 2021-02-20, 幻惑 2023-07-12). However, the specific song '安乐' was not found in any database.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": "https://space.bilibili.com/折腾的髅髅噗",
+        "confirmed_creator": "折腾的髅髅噗 (confirmed active creator)",
+        "confirmed_singer": "洛天依 (confirmed for other 折腾的髅髅噗 songs)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "anlianjia.md",
+      "song_title": "暗链枷",
+      "claim_creator": "sihaiforesea (四海Foresea)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://vocaloidlyrics.miraheze.org/wiki/%E6%9A%97%E9%93%BE%E6%9E%B7_(%C3%80n_Li%C3%A0n_Ji%C4%81)"
+      ],
+      "finding": "Confirmed on Vocaloid Lyrics Wiki: '暗链枷' by 四海Foresea (sihaiforesea), uploaded March 6, 2022, sung by 洛天依. 四海Foresea is also confirmed as an active creator with multiple 洛天依 songs on 萌娘百科 (语冰 2022-07-12, 明日绮旅 2024-07-12, 月中眠 2025-07-12).",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "四海Foresea (sihaiforesea)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2022-03-06"
+      }
+    },
+    {
+      "file": "annadechuchuang.md",
+      "song_title": "安娜的橱窗",
+      "claim_creator": "zhuxiaoshengzoki (著小生zoki)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E5%AE%89%E5%A8%9C%E7%9A%84%E6%A9%B1%E7%AA%97",
+        "https://zh.moegirl.org.cn/%E8%91%97%E5%B0%8F%E7%94%9F"
+      ],
+      "finding": "Confirmed on 萌娘百科: '安娜的橱窗' by 著小生 (zhuxiaoshengzoki), uploaded 2018-02-11, sung by 洛天依. VOCALOID中文殿堂曲. Part of '感染者编号系列' (事件篇第四作). Also has 萌娘百科 page for the creator 著小生zoki confirming his works.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E5%AE%89%E5%A8%9C%E7%9A%84%E6%A9%B1%E7%AA%97",
+        "bilibili_url": "https://www.bilibili.com/video/avxxxxx",
+        "confirmed_creator": "著小生 (zhuxiaoshengzoki)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2018-02-11"
+      }
+    },
+    {
+      "file": "anxious-silence.md",
+      "song_title": "Anxious silence",
+      "claim_creator": "a01in (A01in)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://www.kugou.com/mixsong/bujf5l13.html"
+      ],
+      "finding": "A01in is confirmed as a creator with 洛天依 song '每一片雪花都是无辜的 feat.洛天依' on 酷狗音乐. However, the specific song 'Anxious silence' was not found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "A01in (confirmed active creator with 洛天依 works)",
+        "confirmed_singer": "洛天依 (confirmed for other A01in songs)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "anzhuan.md",
+      "song_title": "暗转",
+      "claim_creator": "totoozhanghaoyizhuxiao (ToToo/账号已注销11604)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "PARTIALLY_VERIFIED",
+      "sources": [
+        "https://mzh.moegirl.org.cn/%E6%98%9F%E8%BE%B0%E4%B9%8B%E7%BF%BC"
+      ],
+      "finding": "Totoo is confirmed on 萌娘百科 as a VOCALOID creator with 洛天依 songs (星辰之翼, 2016-01-25). The file claims the account is deactivated ('账号已注销11604'), consistent with 萌娘百科 notes about deleted works. The specific song '暗转' was not directly found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": "Totoo (confirmed as creator, account deactivated)",
+        "confirmed_singer": "洛天依 (confirmed for other Totoo songs)",
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aojiaoshaonvriji.md",
+      "song_title": "傲娇少女日记",
+      "claim_creator": "midicat (MiDiCat)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E5%82%B2%E5%A8%87%E5%B0%91%E5%A5%B3%E6%97%A5%E8%AE%B0",
+        "https://vcpedia.cn/%E5%82%B2%E5%A8%87%E5%B0%91%E5%A5%B3%E6%97%A5%E8%AE%B0"
+      ],
+      "finding": "Confirmed on 萌娘百科 and VCPedia: '傲娇少女日记' by MiDiCat, uploaded 2025-07-12 (洛天依生日), sung by 洛天依. ACE中文原创歌曲, ACE殿堂曲. 2025年生贺曲.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E5%82%B2%E5%A8%87%E5%B0%91%E5%A5%B3%E6%97%A5%E8%AE%B0",
+        "bilibili_url": null,
+        "confirmed_creator": "MiDiCat",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2025-07-12"
+      }
+    },
+    {
+      "file": "aojiaoxiansheng.md",
+      "song_title": "傲娇先生",
+      "claim_creator": "zhuxiaoshengzoki (著小生zoki)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E5%82%B2%E5%A8%87%E5%85%88%E7%94%9F",
+        "https://zh.moegirl.org.cn/%E8%91%97%E5%B0%8F%E7%94%9F"
+      ],
+      "finding": "Confirmed on 萌娘百科: '傲娇先生' by 著小生 (zhuxiaoshengzoki), uploaded 2018-04-27, 洛天依演唱 (中文版). Part of 恋X章系列第三作. Producer 著小生zoki is well-documented on 萌娘百科.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E5%82%B2%E5%A8%87%E5%85%88%E7%94%9F",
+        "bilibili_url": null,
+        "confirmed_creator": "著小生 (zhuxiaoshengzoki)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2018-04-27"
+      }
+    },
+    {
+      "file": "aoriyuheiansenlin.md",
+      "song_title": "奥日与黑暗森林",
+      "claim_creator": "shiliangzhongzidan (失量中子弹)",
+      "claim_singer": "星尘, 洛天依",
+      "claim_videoid": "none",
+      "status": "UNVERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E7%A7%91%E5%B9%BB%E9%95%87"
+      ],
+      "finding": "失量中子弹 (shiliangzhongzidan) is confirmed as a VOCALOID creator on 萌娘百科 with 洛天依/星尘 songs (科幻镇). However, the specific song '奥日与黑暗森林' was not found. The title references the game 'Ori and the Blind Forest' but no VOCALOID cover/original of this name was found.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": null,
+        "bilibili_url": null,
+        "confirmed_creator": null,
+        "confirmed_singer": null,
+        "confirmed_date": null
+      }
+    },
+    {
+      "file": "aoyeshilianzhinan.md",
+      "song_title": "熬夜失恋指南",
+      "claim_creator": "zuorideqingkongjiang (昨日的青空酱)",
+      "claim_singer": "洛天依",
+      "claim_videoid": "none",
+      "status": "FULLY_VERIFIED",
+      "sources": [
+        "https://zh.moegirl.org.cn/%E7%86%AC%E5%A4%9C%E5%A4%B1%E6%81%8B%E6%8C%87%E5%8D%97",
+        "https://zh.moegirl.org.cn/%E6%98%A8%E6%97%A5%E7%9A%84%E9%9D%92%E7%A9%BA%E9%85%B1"
+      ],
+      "finding": "Confirmed on 萌娘百科: '熬夜失恋指南' by 昨日的青空酱, uploaded 2024-08-21, sung by 洛天依. X Studio中文原创歌曲. The creator 昨日的青空酱 is well-documented on 萌娘百科 with this listed as their representative work.",
+      "verified_data": {
+        "bv_number": null,
+        "moegirl_url": "https://zh.moegirl.org.cn/%E7%86%AC%E5%A4%9C%E5%A4%B1%E6%81%8B%E6%8C%87%E5%8D%97",
+        "bilibili_url": null,
+        "confirmed_creator": "昨日的青空酱 (zuorideqingkongjiang)",
+        "confirmed_singer": "洛天依",
+        "confirmed_date": "2024-08-21"
+      }
+    }
+  ]
+}

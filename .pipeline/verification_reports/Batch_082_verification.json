@@ -1,0 +1,1018 @@
+{
+  "summary": {
+    "confirmed": "Files where BV exists, title contains song name, pubdate matches, P name matches",
+    "partial": "Files with BV but some discrepancies (P name mismatch)",
+    "unverifiable": "Files with no BV/videoID, cannot be API verified",
+    "conflict": "Files with clear data conflicts (BV points to wrong video)",
+    "file_not_found": "Files listed in batch but not found on disk"
+  },
+  "entries": [
+    {
+      "filename": "x-unknown-20.md",
+      "slug": "music:x-unknown-20",
+      "song_name": "メモラリズカカタタ",
+      "pzhu": "creator:stzhushuang",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "x-unknown-21.md",
+      "slug": "music:x-unknown-21",
+      "song_name": "ヨイヤアイ",
+      "pzhu": "creator:zhihuixiebaledehuapianp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "x-unknown-22.md",
+      "slug": "music:x-unknown-22",
+      "song_name": "Ｄｏｌｏｒｅｓ",
+      "pzhu": "creator:zhihuixiebaledehuapianp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "x-unknown-23.md",
+      "slug": "music:x-unknown-23",
+      "song_name": "ＳＥＮＲＩＭＡ－Ｔｈｅ Ｓｐｅｃｔａｔｏｒ－",
+      "pzhu": "creator:zhihuixiebaledehuapianp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "x-unknown-24.md",
+      "slug": "music:x-unknown-24",
+      "song_name": "カラフル",
+      "pzhu": "creator:weilianghaohao",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "x-unknown-25.md",
+      "slug": "music:x-unknown-25",
+      "song_name": "ビビデバ",
+      "pzhu": "creator:atonyp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found. Source: bilibili homepage only."
+    },
+    {
+      "filename": "xunnan.md",
+      "slug": "music:xunnan",
+      "song_name": "寻南",
+      "pzhu": "creator:zhuanyubanchep",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-long-ya",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": "BV1cF41197mf",
+      "play_count": null,
+      "BV_found_in_source": true,
+      "primary_BV": "BV1cF41197mf",
+      "source_url": [
+        "https://www.bilibili.com/video/BV1cF41197mf/",
+        "https://music.163.com/program?id=2526764221"
+      ],
+      "classification": "confirmed",
+      "api_result": {
+        "title": "洛天依国风原创曲寻南",
+        "owner": "半彻P在调歌",
+        "pubdate": "2023-07-12",
+        "view_count": 11838,
+        "song_in_title": true
+      },
+      "notes": "BV confirmed. Song name in API title. P主 matches. Singers match."
+    },
+    {
+      "filename": "xunni.md",
+      "slug": "music:xunni",
+      "song_name": "寻你",
+      "pzhu": "creator:naonao",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": "2017-09-17",
+      "engine": "vocaloid",
+      "video_id": "BV1kx411s7uV",
+      "play_count": null,
+      "BV_found_in_source": true,
+      "primary_BV": "BV1kx411s7uV",
+      "source_url": [
+        "https://www.bilibili.com/video/BV1kx411s7uV/",
+        "https://zh.moegirl.org.cn/寻你"
+      ],
+      "classification": "confirmed",
+      "api_result": {
+        "title": "洛天依原创寻你【闹闹丶】",
+        "owner": "丨闹闹丶丨",
+        "pubdate": "2017-09-17",
+        "view_count": 122250,
+        "song_in_title": true
+      },
+      "notes": "BV confirmed. P主 matches. Release date matches."
+    },
+    {
+      "filename": "xuntianshanjiluotianyiver.md",
+      "slug": "music:xuntianshanjiluotianyiver",
+      "song_name": "寻天山记（洛天依ver.）",
+      "pzhu": "creator:haixianmian",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://www.kugou.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xuntu.md",
+      "slug": "music:xuntu",
+      "song_name": "寻途",
+      "pzhu": "creator:wovop",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/song?id=1428313218",
+        "https://zh.moegirl.org.cn/WOVOP"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xunxing.md",
+      "slug": "music:xunxing",
+      "song_name": "寻星",
+      "pzhu": "creator:zhoumianhilune",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xuwu-2.md",
+      "slug": "music:xuwu-2",
+      "song_name": "虚无",
+      "pzhu": "creator:feibukuaidehuiniaofeibukuaidemig",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xuxieliunian.md",
+      "slug": "music:xuxieliunian",
+      "song_name": "续写流年",
+      "pzhu": "creator:kendegui",
+      "yanchang": "core:luo-tian-yi, member:xin-hua",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/song?id=539417150"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xuxingzhimeng-luotianyi.md",
+      "slug": "music:xuxingzhimeng-luotianyi",
+      "song_name": "续星之梦 洛天依",
+      "pzhu": "creator:xinxian",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/song?id=2029127763"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xuzhoudongzhan.md",
+      "slug": "music:xuzhoudongzhan",
+      "song_name": "徐州东站",
+      "pzhu": "creator:lvyegesongzhe",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=徐州东站 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "xxxyuanchuang.md",
+      "slug": "music:xxxyuanchuang",
+      "song_name": "XXX原创",
+      "pzhu": "creator:cop",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=XXX原创 COP"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yadeliyahaideliming.md",
+      "slug": "music:yadeliyahaideliming",
+      "song_name": "亚得里亚海的黎明",
+      "pzhu": "creator:lizzz",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=亚得里亚海的黎明 lizzz"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yadeliyahaideliming-2.md",
+      "slug": "music:yadeliyahaideliming-2",
+      "song_name": "亚得里亚海的黎明",
+      "pzhu": "creator:xiliangruoruo",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": "2015-08-19",
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": "殿堂曲（10万+）",
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://zh.moegirl.org.cn/亚得里亚海的黎明",
+        "https://baike.baidu.com/item/亚得里亚海的黎明/18471049",
+        "https://www.bilibili.com/video/av---"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No valid BVID. Source URL av--- is malformed."
+    },
+    {
+      "filename": "yagui.md",
+      "slug": "music:yagui",
+      "song_name": "哑鬼",
+      "pzhu": "creator:stzhushuang",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=哑鬼 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yalujiang.md",
+      "slug": "music:yalujiang",
+      "song_name": "鸭绿江",
+      "pzhu": "creator:lvyegesongzhe",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://music.163.com/song?id=2660416065",
+        "https://search.bilibili.com/all?keyword=鸭绿江 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yan-2.md",
+      "slug": "music:yan-2",
+      "song_name": "厌",
+      "pzhu": "creator:banzhijinlan",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=厌 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yan-3.md",
+      "slug": "music:yan-3",
+      "song_name": "魇",
+      "pzhu": "creator:qianmengli",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=魇 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanboyizhoumian.md",
+      "slug": "music:yanboyizhoumian",
+      "song_name": "烟波一舟眠",
+      "pzhu": "creator:luanyinhexin",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=烟波一舟眠 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yancaofeicover-luotianyi.md",
+      "slug": "music:yancaofeicover-luotianyi",
+      "song_name": "燕草飞（Cover 洛天依）",
+      "pzhu": "creator:yishuiuryan",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=燕草飞 洛天依 cover"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yancaofeiluotianyi-ver.md",
+      "slug": "music:yancaofeiluotianyi-ver",
+      "song_name": "燕草飞（洛天依 ver.）",
+      "pzhu": "creator:anlingyingqin",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=燕草飞 洛天依 ver"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangguangqianjindefangxiang.md",
+      "slug": "music:yangguangqianjindefangxiang",
+      "song_name": "阳光前进的方向",
+      "pzhu": "creator:lvyegesongzhe",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://search.bilibili.com/all?keyword=阳光前进的方向 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanghualuojinziguiti.md",
+      "slug": "music:yanghualuojinziguiti",
+      "song_name": "杨花落尽子规啼",
+      "pzhu": "creator:yugulubaijiyu",
+      "yanchang": "member:xing-chen, core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://music.163.com/song?id=1375935067",
+        "https://search.bilibili.com/all?keyword=杨花落尽子规啼 星尘 洛天依"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanghualuojinziguitiluotianyichuyin.md",
+      "slug": "music:yanghualuojinziguitiluotianyichuyin",
+      "song_name": "杨花落尽子规啼（洛天依、初音ミク）",
+      "pzhu": "creator:regretful-love",
+      "yanchang": "core:luo-tian-yi, member:miku",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://music.163.com/song?id=1375935067",
+        "https://search.bilibili.com/all?keyword=杨花落尽子规啼 洛天依 初音"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangqiminggu.md",
+      "slug": "music:yangqiminggu",
+      "song_name": "扬旗鸣鼓",
+      "pzhu": "creator:naonao",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling",
+      "release_date": "2022-02-02",
+      "engine": "vocaloid",
+      "video_id": "BV1mb4y1E7RF",
+      "play_count": "132.6万+",
+      "BV_found_in_source": true,
+      "primary_BV": "BV1mb4y1E7RF",
+      "source_url": [
+        "https://www.bilibili.com/video/BV1mb4y1E7RF",
+        "https://music.163.com/program?id=2498851519"
+      ],
+      "classification": "confirmed",
+      "api_result": {
+        "title": "唢呐一响好戏开场洛天依乐正绫原创扬旗鸣鼓",
+        "owner": "丨闹闹丶丨",
+        "pubdate": "2022-02-01",
+        "view_count": 1707120,
+        "song_in_title": true
+      },
+      "notes": "BV confirmed. P主 matches. Singers match."
+    },
+    {
+      "filename": "yangshanjue.md",
+      "slug": "music:yangshanjue",
+      "song_name": "阳山绝",
+      "pzhu": "creator:chunbai",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling",
+      "release_date": "2017-02-05",
+      "engine": "vocaloid",
+      "video_id": "BV1Hx41117kJ",
+      "play_count": "殿堂曲（10万+）",
+      "BV_found_in_source": true,
+      "primary_BV": "BV1Hx41117kJ",
+      "source_url": [
+        "https://www.bilibili.com/video/BV1Hx41117kJ/",
+        "https://www.sohu.com/a/388310133_502860"
+      ],
+      "classification": "confirmed",
+      "api_result": {
+        "title": "洛天依乐正绫阳山绝2.0原创曲PV付",
+        "owner": "純白",
+        "pubdate": "2017-02-05",
+        "view_count": 617616,
+        "song_in_title": true
+      },
+      "notes": "BV confirmed. P主 纯白 matches. Release date matches."
+    },
+    {
+      "filename": "yangwang.md",
+      "slug": "music:yangwang",
+      "song_name": "仰望",
+      "pzhu": "creator:jiwuren",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangwang-2.md",
+      "slug": "music:yangwang-2",
+      "song_name": "仰望",
+      "pzhu": "creator:lvyegesongzhe",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangwang-luotianyi-ver.md",
+      "slug": "music:yangwang-luotianyi-ver",
+      "song_name": "仰望 (洛天依 ver.)",
+      "pzhu": "creator:ludengshigelaodeng",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangyangdingguagua-xiaobing-luotianyi-ver.md",
+      "slug": "music:yangyangdingguagua-xiaobing-luotianyi-ver",
+      "song_name": "羊羊顶呱呱 (小冰-洛天依 ver.)",
+      "pzhu": "creator:ludengshigelaodeng",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid, X Studio",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://www.thepaper.cn/newsDetail_forward_19012623"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangyongxinzhige.md",
+      "slug": "music:yangyongxinzhige",
+      "song_name": "杨永信之歌",
+      "pzhu": "creator:kelejun",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangytian.md",
+      "slug": "music:yangytian",
+      "song_name": "yangy天",
+      "pzhu": "creator:regretful-love",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangyudie.md",
+      "slug": "music:yangyudie",
+      "song_name": "揚羽蝶",
+      "pzhu": "creator:zhihuixiebaledehuapianp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yangzhoushang.md",
+      "slug": "music:yangzhoushang",
+      "song_name": "扬州殇",
+      "pzhu": "creator:qianbijiang",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": "2013-09-12",
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": "殿堂曲（10万+）",
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://zh.moegirl.org.cn/扬州殇",
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No valid BVID."
+    },
+    {
+      "filename": "yanhe-feat-lezhenglingluotianyiday-by-daycover-t-ara.md",
+      "slug": "music:yanhe-feat-lezhenglingluotianyiday-by-daycover-t-ara",
+      "song_name": "DAY BY DAY（cover T-ara）",
+      "pzhu": "creator:nalanxunfeng",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhe-feat-luotianyilezhenglingxianshengcover-pomeloanni.md",
+      "slug": "music:yanhe-feat-luotianyilezhenglingxianshengcover-pomeloanni",
+      "song_name": "先生（cover Pomelo安妮）",
+      "pzhu": "creator:nalanxunfeng",
+      "yanchang": "member:yan-he, core:luo-tian-yi, member:yue-zheng-ling",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhe-feat-yilingyaguicover-yugongtiangaoqiaoliyimaoyeaiyi.md",
+      "slug": "music:yanhe-feat-yilingyaguicover-yugongtiangaoqiaoliyimaoyeaiyi",
+      "song_name": "おうちに帰りたい（cover）",
+      "pzhu": "creator:nalanxunfeng",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling, member:yue-zheng-long-ya, member:yan-he",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhe-feat-yilingyasantas-coming-for-uscover-sia.md",
+      "slug": "music:yanhe-feat-yilingyasantas-coming-for-uscover-sia",
+      "song_name": "Santa's coming for us（cover Sia）",
+      "pzhu": "creator:nalanxunfeng",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling, member:yue-zheng-long-ya, member:yan-he",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhelezhenglingfengyiluotianyi-feat-anxiaotianzhihe-lianhuanwan.md",
+      "slug": "music:yanhelezhenglingfengyiluotianyi-feat-anxiaotianzhihe-lianhuanwan",
+      "song_name": "天知河 联欢晚会大合唱（cover 说说）",
+      "pzhu": "creator:nalanxunfeng",
+      "yanchang": "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he",
+      "release_date": "2023-01-29",
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": "16.7万+",
+      "BV_found_in_source": true,
+      "primary_BV": "BV17G4y1X7t8",
+      "source_url": [
+        "https://www.bilibili.com/video/BV17G4y1X7t8/"
+      ],
+      "classification": "conflict",
+      "api_result": {
+        "title": "天知河2023拜年纪单品",
+        "owner": "说说Crystal",
+        "pubdate": "2023-01-21",
+        "view_count": 2014018,
+        "song_in_title": false
+      },
+      "notes": "CONFLICT: BV17G4y1X7t8 is the original 天知河 by 说说Crystal, not the cover. BV in source points to wrong video."
+    },
+    {
+      "filename": "yanheluotianyinanxiancihua-yanhe.md",
+      "slug": "music:yanheluotianyinanxiancihua-yanhe",
+      "song_name": "南弦词话 - 言和",
+      "pzhu": "creator:ximenzhen",
+      "yanchang": "core:luo-tian-yi, member:yan-he",
+      "release_date": "2017-07-11",
+      "engine": "vocaloid",
+      "video_id": "BV1nx411q77p",
+      "play_count": null,
+      "BV_found_in_source": true,
+      "primary_BV": "BV1nx411q77p",
+      "source_url": [
+        "https://www.bilibili.com/video/BV1nx411q77p/"
+      ],
+      "classification": "partial",
+      "api_result": {
+        "title": "言和洛天依原创南弦词话",
+        "owner": "纳兰寻风",
+        "pubdate": "2017-07-11",
+        "view_count": 74891,
+        "song_in_title": true
+      },
+      "notes": "PARTIAL: BV confirmed. Release date matches. But P主 is ximenzhen (composer), API uploader is 纳兰寻风. Wrong P主 in file."
+    },
+    {
+      "filename": "yanheluotianyisiyuejian.md",
+      "slug": "music:yanheluotianyisiyuejian",
+      "song_name": "四月剪",
+      "pzhu": "creator:ximenzhen",
+      "yanchang": "core:luo-tian-yi, member:yan-he",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/song?id=1369181452"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhongshijian.md",
+      "slug": "music:yanhongshijian",
+      "song_name": "殷红时间",
+      "pzhu": "creator:guazhelingfeng",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://music.163.com/song?id=442009251",
+        "https://space.bilibili.com/2679304/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhua.md",
+      "slug": "music:yanhua",
+      "song_name": "烟花",
+      "pzhu": "creator:aolianduohuanxiangqupbuyueshuicangqpanqingp",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhuasanyuedjluotianyi.md",
+      "slug": "music:yanhuasanyuedjluotianyi",
+      "song_name": "烟花三月DJ（洛天依）",
+      "pzhu": "creator:qingtianxianyun",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanhuayu.md",
+      "slug": "music:yanhuayu",
+      "song_name": "烟花雨",
+      "pzhu": "creator:tongyetongye",
+      "yanchang": "core:luo-tian-yi",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/",
+        "https://music.163.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    },
+    {
+      "filename": "yanluobingmingweiaicover-jingyin-jingyin.md",
+      "slug": "music:yanluobingmingweiaicover-jingyin-jingyin",
+      "song_name": "病名为爱（Cover 鏡音リン - 鏡音レン）",
+      "pzhu": "creator:yishuiuryan",
+      "yanchang": "core:luo-tian-yi, member:yan-he",
+      "release_date": null,
+      "engine": "vocaloid",
+      "video_id": null,
+      "play_count": null,
+      "BV_found_in_source": false,
+      "primary_BV": null,
+      "source_url": [
+        "https://www.bilibili.com/"
+      ],
+      "classification": "unverifiable",
+      "api_result": null,
+      "notes": "No BVID found."
+    }
+  ]
+}

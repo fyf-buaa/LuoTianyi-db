@@ -1,0 +1,32 @@
+# music:moli
+## 茉莉
+
+### 基本信息
+| 字段 | 值 |
+|------|----|
+| 曲名 | 茉莉 |
+| P主 | creator:bushanyancidelin |
+| 演唱 |  |
+| 发行日期 |  |
+| 首发平台 | bilibili |
+| 引擎 | vocaloid |
+| 风格 | 流行 |
+| 标签 | 独唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|----|
+
+### 创作团队
+- **P主/作者**: 不善言辞的磷 - 中文VOCALOID创作者，活跃于B站VOCALOID社区。
+
+### 歌曲背景
+《茉莉》是由bushanyancidelin创作、洛天依演唱的VOCALOID中文原创曲，投稿至bilibili。
+
+### 来源
+
+- [bilibili](https://www.bilibili.com/)

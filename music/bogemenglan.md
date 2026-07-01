@@ -11,14 +11,14 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 治愈 |
-| 标签 | 合唱, VOCALOID, 依梦系列 |
+| 标签 | 合唱, vocaloid, 依梦系列 |
 | 作词 | 青天纤云·纳兰清婧 |
 | 作曲 | WOVOP |
 | 编曲 | WOVOP |
 | 调教 | 凛奈不会跳绳、紫杉醇Azure |
 | 混音 | WOVOP |
 | 视频ID | BV1S24deAEvt |
-| 播放量 | 暂无资料 |
+| 播放量 |  |
 
 ### 演唱者
 - **luo-tian-yi** (中文名: 洛天依): 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
@@ -46,4 +46,4 @@
 
 ### 来源
 - [bilibili](https://www.bilibili.com/video/BV1S24deAEvt/)
-- [moegirl](https://zh.moegirl.icu/博歌梦澜)
+- [萌娘百科](https://zh.moegirl.icu/博歌梦澜)

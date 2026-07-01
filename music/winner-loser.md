@@ -3,7 +3,7 @@
 
 ### 基本信息
 | 字段 | 值 |
-|------|-----|
+|------|----|
 | 曲名 | Winner Loser |
 | P主 | creator:heibaijun |
 | 演唱 | core:luo-tian-yi, member:yan-he |
@@ -12,8 +12,16 @@
 | 引擎 | vocaloid |
 | 风格 | 流行 |
 | 标签 | 合唱, VOCALOID |
+| 作词 |  |
+| 作曲 |  |
+| 编曲 |  |
+| 调教 |  |
+| 视频ID |  |
+| 播放量 |  |
+| 字段 | 值 |
+|------|-----|
 
-### 描述
+### 歌曲背景
 
 《Winner Loser》是由heibaijun创作由洛天依、言和演唱的vocaloid风格音乐作品。
 

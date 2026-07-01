@@ -1,0 +1,716 @@
+{
+  "report_metadata": {
+    "batch": "Batch_013",
+    "total_files": 50,
+    "summary": {
+      "confirmed": 13,
+      "partial": 8,
+      "conflict": 3,
+      "unverifiable": 26,
+      "suspicious": 11,
+      "file_not_found": 4
+    }
+  },
+  "results": [
+    {
+      "file": "deliver.md",
+      "slug": "music:deliver",
+      "title": "Deliver",
+      "facts": [
+        {"field": "曲名", "value": "Deliver", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "梅津泰臣 (creator:meijintaichen)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2022-09-04", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "dengbudaodeshuo.md",
+      "slug": "music:dengbudaodeshuo",
+      "title": "等不到的说",
+      "facts": [
+        {"field": "曲名", "value": "等不到的说", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "洛劫 (creator:luojie)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2022-06-10", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "dengdai.md",
+      "slug": "music:dengdai",
+      "title": "等待",
+      "facts": [
+        {"field": "曲名", "value": "等待", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "FNS (creator:fns)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dengdaihuakai.md",
+      "slug": "music:dengdaihuakai",
+      "title": "等待花开",
+      "facts": [
+        {"field": "曲名", "value": "等待花开", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "飞不快的灰鸟 (creator:feibukuaidehuiniaofeibukuaidemig)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dengfenglai.md",
+      "slug": "music:dengfenglai",
+      "title": "等风来",
+      "facts": [
+        {"field": "曲名", "value": "等风来", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "清风疾行没有q (creator:qingfengjixingmeiyouq)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2023-03-14", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "dengfenglai-2.md",
+      "slug": "music:dengfenglai-2",
+      "title": "等风来",
+      "facts": [
+        {"field": "曲名", "value": "等风来", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "颛宇/半彻P (creator:zhuanyubanchep)", "source": "本地文件", "verified": false, "note": "有AV链接但内容不匹配"},
+        {"field": "发行日期", "value": "2024-08-26（文件）/ 2024-08-28（API）", "source": "本地文件+bilibili API", "verified": false, "note": "AV链接视频实为《卷珠帘》，日期和标题均不匹配"},
+        {"field": "视频ID/BV", "value": "av1756725665 (BV1C4421o7nQ)", "source": "本地文件", "verified": false, "note": "AV指向《卷珠帘》而非等风来"},
+        {"field": "来源", "value": "bilibili AV链接", "source": "本地文件+bilibili API", "verified": false}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true
+    },
+    {
+      "file": "denghaitangyoulaxia-luotianyi-ver.md",
+      "slug": "music:denghaitangyoulaxia-luotianyi-ver",
+      "title": "等海棠，又落下 (洛天依 ver.)",
+      "facts": [
+        {"field": "曲名", "value": "等海棠，又落下 (洛天依 ver.)", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "路灯是个老灯 (creator:ludengshigelaodeng)", "source": "bilibili API", "verified": true, "note": "API确认UP主为A_路灯"},
+        {"field": "发行日期", "value": "2024-04-05", "source": "bilibili API", "verified": true, "note": "API pubdate 1712282400 匹配"},
+        {"field": "视频ID/BV", "value": "BV1QC411V7T4", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "denghuawanyue.md",
+      "slug": "music:denghuawanyue",
+      "title": "灯花挽月",
+      "facts": [
+        {"field": "曲名", "value": "灯花挽月", "source": "本地文件", "verified": true, "note": "API标题含灯花挽月"},
+        {"field": "P主", "value": "半只金蓝 (creator:banzhijinlan)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "2024-08-10（文件）/ 2025-08-10（API）", "source": "bilibili API", "verified": false, "note": "日期不匹配！相差1年"},
+        {"field": "视频ID/BV", "value": "BV1D288ztENa", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效，但日期不匹配"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": false}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true
+    },
+    {
+      "file": "denghuohuaxia.md",
+      "slug": "music:denghuohuaxia",
+      "title": "灯火华夏",
+      "facts": [
+        {"field": "曲名", "value": "灯火华夏", "source": "本地文件", "verified": false, "note": "API标题为专辑试听PV，非歌曲灯火华夏"},
+        {"field": "P主", "value": "磷元素 (creator:linyuansu)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "2024-02-10（文件）/ 2021-02-11（API）", "source": "bilibili API", "verified": false, "note": "BV对应专辑试听PV，非灯火华夏原曲"},
+        {"field": "视频ID/BV", "value": "BV1ay4y1E74f", "source": "bilibili API", "verified": false, "note": "API返回专辑试听PV内容，不匹配"},
+        {"field": "来源", "value": "bilibili视频链接+萌娘百科", "source": "本地文件+bilibili API", "verified": false}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": true
+    },
+    {
+      "file": "denghuolanshanchu.md",
+      "slug": "music:denghuolanshanchu",
+      "title": "灯火阑珊处",
+      "facts": [
+        {"field": "曲名", "value": "灯火阑珊处", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "Xmtx (creator:xmtx)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2024-07-20", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "av1756725665（与dengfenglai-2共用）", "source": "本地文件", "verified": false, "note": "AV链接与其他文件共享，可疑"},
+        {"field": "来源", "value": "bilibili AV链接（搜索结果）", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true
+    },
+    {
+      "file": "denghuorenjian.md",
+      "slug": "music:denghuorenjian",
+      "title": "灯火人间",
+      "facts": [
+        {"field": "曲名", "value": "灯火人间", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "H6音乐/织梦令音乐 (creator:hyinyuezhimenglingyinyue)", "source": "bilibili API", "verified": true, "note": "API标题含H6原创"},
+        {"field": "发行日期", "value": "2019-01-13", "source": "bilibili API", "verified": true, "note": "API pubdate 1547344836 匹配"},
+        {"field": "视频ID/BV", "value": "BV11t411p7Bs", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "denghuoyanluxing.md",
+      "slug": "N/A",
+      "title": "N/A",
+      "facts": [
+        {"field": "曲名", "value": "N/A（文件不存在）", "source": "N/A", "verified": false},
+        {"field": "P主", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "发行日期", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "视频ID/BV", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "N/A", "source": "N/A", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "denghuoyanluxing-2.md",
+      "slug": "N/A",
+      "title": "N/A",
+      "facts": [
+        {"field": "曲名", "value": "N/A（文件不存在）", "source": "N/A", "verified": false},
+        {"field": "P主", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "发行日期", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "视频ID/BV", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "N/A", "source": "N/A", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "denghuoyanluxing-3.md",
+      "slug": "music:denghuoyanluxing-3",
+      "title": "灯火沿路行",
+      "facts": [
+        {"field": "曲名", "value": "灯火沿路行", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "只会写芭乐的滑片P (creator:zhihuixiebaledehuapianp)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "denghuoyuanxi.md",
+      "slug": "music:denghuoyuanxi",
+      "title": "灯火元夕",
+      "facts": [
+        {"field": "曲名", "value": "灯火元夕", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "闹闹 (creator:naonao)", "source": "bilibili API", "verified": true, "note": "API标题含闹闹"},
+        {"field": "发行日期", "value": "2023-02-05", "source": "bilibili API", "verified": true, "note": "API pubdate 1675546200 匹配"},
+        {"field": "视频ID/BV", "value": "BV13j411M7px", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dengriluo.md",
+      "slug": "N/A",
+      "title": "N/A",
+      "facts": [
+        {"field": "曲名", "value": "N/A（文件不存在）", "source": "N/A", "verified": false},
+        {"field": "P主", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "发行日期", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "视频ID/BV", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "N/A", "source": "N/A", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "dengtayanhemoqingxianxinhualuotianyifanzi-zhandoubageji.md",
+      "slug": "music:dengtayanhemoqingxianxinhualuotianyifanzi-zhandoubageji",
+      "title": "等她（言和、墨清弦、心华、洛天依）（翻自 战斗吧歌姬）",
+      "facts": [
+        {"field": "曲名", "value": "等她（翻自 战斗吧歌姬）", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "Regretful Love (creator:regretful-love)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "deqiao-luotianyi.md",
+      "slug": "music:deqiao-luotianyi",
+      "title": "得巧—— 洛天依",
+      "facts": [
+        {"field": "曲名", "value": "得巧—— 洛天依", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "绿叶歌颂者 (creator:lvyegesongzhe)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "desire.md",
+      "slug": "N/A",
+      "title": "N/A",
+      "facts": [
+        {"field": "曲名", "value": "N/A（文件不存在）", "source": "N/A", "verified": false},
+        {"field": "P主", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "发行日期", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "视频ID/BV", "value": "N/A", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "N/A", "source": "N/A", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "despacito.md",
+      "slug": "music:despacito",
+      "title": "Despacito",
+      "facts": [
+        {"field": "曲名", "value": "Despacito", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "KunKi114514 (creator:kunki114514)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "destination-mash-up-with-shijianchanghe.md",
+      "slug": "music:destination-mash-up-with-shijianchanghe",
+      "title": "Destination-Mash Up With 时间长河",
+      "facts": [
+        {"field": "曲名", "value": "Destination-Mash Up With 时间长河", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "Kevinz (creator:kevinz)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "diamond-zuanshi.md",
+      "slug": "music:diamond-zuanshi",
+      "title": "Diamond (钻石)",
+      "facts": [
+        {"field": "曲名", "value": "Diamond (钻石)", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "花水r (creator:huashuir)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，仅有P主空间链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "P主B站空间", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dianbao.md",
+      "slug": "music:dianbao",
+      "title": "电报",
+      "facts": [
+        {"field": "曲名", "value": "电报", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "休正草www (creator:xiuzhengcaowww)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，无确切链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "暂无确切bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "dianbao-2.md",
+      "slug": "music:dianbao-2",
+      "title": "电报",
+      "facts": [
+        {"field": "曲名", "value": "电报", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "休正草www (creator:xiuzhengcaowww)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，无确切链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "暂无确切bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "dianboximianhuatang.md",
+      "slug": "music:dianboximianhuatang",
+      "title": "电波系棉花糖",
+      "facts": [
+        {"field": "曲名", "value": "电波系棉花糖", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "蔗蓝 (creator:zhelan)", "source": "bilibili API", "verified": true, "note": "API标题含蔗蓝，UP主信息匹配"},
+        {"field": "发行日期", "value": "2025-03-30", "source": "bilibili API", "verified": true, "note": "API pubdate 1743327000 匹配"},
+        {"field": "视频ID/BV", "value": "BV1rDZiYoESB", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "diandao.md",
+      "slug": "music:diandao",
+      "title": "颠倒",
+      "facts": [
+        {"field": "曲名", "value": "颠倒", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "芹菜猪肉大馄饨 (creator:qincaizhuroudahuntun)", "source": "bilibili API", "verified": true, "note": "API标题含原创洛天依，UP主匹配"},
+        {"field": "发行日期", "value": "2016-01-31", "source": "bilibili API", "verified": true, "note": "API pubdate 1454204550 匹配"},
+        {"field": "视频ID/BV", "value": "BV1vs411X7bR", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dianhua.md",
+      "slug": "music:dianhua",
+      "title": "电话",
+      "facts": [
+        {"field": "曲名", "value": "电话", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "裕剑流 (creator:yujianliu)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，仅有P主空间链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "P主B站空间", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dianyingshaonv.md",
+      "slug": "music:dianyingshaonv",
+      "title": "电影少女",
+      "facts": [
+        {"field": "曲名", "value": "电影少女", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "运佳BlackberryP (creator:yunjiablackberryp)", "source": "bilibili API", "verified": true, "note": "API标题含运佳BlackberryP"},
+        {"field": "发行日期", "value": "2017-08-12", "source": "bilibili API", "verified": true, "note": "API pubdate 1502505008 匹配"},
+        {"field": "视频ID/BV", "value": "BV1mx411n7PW", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dianyinyaoguai.md",
+      "slug": "music:dianyinyaoguai",
+      "title": "电音妖怪",
+      "facts": [
+        {"field": "曲名", "value": "电音妖怪", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "西门振 (creator:ximenzhen)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，无确切链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "暂无确切bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true
+    },
+    {
+      "file": "dianzibaoheqi.md",
+      "slug": "music:dianzibaoheqi",
+      "title": "电子饱和器",
+      "facts": [
+        {"field": "曲名", "value": "电子饱和器", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "微凉浩浩 (creator:weilianghaohao)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV，仅有P主空间链接"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "P主B站空间", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dibiaoshengwu.md",
+      "slug": "music:dibiaoshengwu",
+      "title": "地表生物",
+      "facts": [
+        {"field": "曲名", "value": "地表生物", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "清风疾行没有q (creator:qingfengjixingmeiyouq)", "source": "bilibili API", "verified": true, "note": "API标题含F.M.H-1，匹配文件背景"},
+        {"field": "发行日期", "value": "2017-11-02", "source": "bilibili API", "verified": true, "note": "API pubdate 1509595244 匹配"},
+        {"field": "视频ID/BV", "value": "BV1vx411E7nR", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dibiaoshengwuv.md",
+      "slug": "music:dibiaoshengwuv",
+      "title": "地表生物v2.0",
+      "facts": [
+        {"field": "曲名", "value": "地表生物v2.0", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "清风疾行没有q (creator:qingfengjixingmeiyouq)", "source": "bilibili API", "verified": true, "note": "API标题含未命名的故事书，匹配文件背景"},
+        {"field": "发行日期", "value": "2020-10-06", "source": "bilibili API", "verified": true, "note": "API pubdate 1601976082 匹配"},
+        {"field": "视频ID/BV", "value": "BV1C54y1y7FU", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dicembre.md",
+      "slug": "music:dicembre",
+      "title": "Dicembre",
+      "facts": [
+        {"field": "曲名", "value": "Dicembre", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "只会写芭乐的滑片P (creator:zhihuixiebaledehuapianp)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "didadida.md",
+      "slug": "music:didadida",
+      "title": "滴答滴答",
+      "facts": [
+        {"field": "曲名", "value": "滴答滴答", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "星葵 (creator:xingkui)", "source": "bilibili API", "verified": true, "note": "API标题含洛天依V5原创"},
+        {"field": "发行日期", "value": "2021-11-19", "source": "bilibili API", "verified": true, "note": "API pubdate 1637316124 匹配"},
+        {"field": "视频ID/BV", "value": "BV13L4y1p7y3", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "didadidavmeng.md",
+      "slug": "music:didadidavmeng",
+      "title": "滴答滴答（v4萌）",
+      "facts": [
+        {"field": "曲名", "value": "滴答滴答（v4萌）", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "星葵 (creator:xingkui)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dididi.md",
+      "slug": "music:dididi",
+      "title": "嘀嘀嘀",
+      "facts": [
+        {"field": "曲名", "value": "嘀嘀嘀", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "盆子君 (creator:penzijun)", "source": "bilibili API", "verified": true, "note": "API标题含盆子君"},
+        {"field": "发行日期", "value": "2021-08-25", "source": "bilibili API", "verified": true, "note": "API pubdate 1629874913 匹配"},
+        {"field": "视频ID/BV", "value": "BV1of4y1P7sw", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "diergeziwo.md",
+      "slug": "music:diergeziwo",
+      "title": "第二个自我",
+      "facts": [
+        {"field": "曲名", "value": "第二个自我", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "辞Jinse (creator:cijinse)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dieyun.md",
+      "slug": "music:dieyun",
+      "title": "蝶云",
+      "facts": [
+        {"field": "曲名", "value": "蝶云", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "提糯Tino (creator:tinuotino)", "source": "bilibili API", "verified": true, "note": "API标题为【洛天依原创】蝶云"},
+        {"field": "发行日期", "value": "2021-02-04", "source": "bilibili API", "verified": true, "note": "API pubdate 1612436415 匹配"},
+        {"field": "视频ID/BV", "value": "BV1ay4y1n7Ho", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dieyunxinghai.md",
+      "slug": "music:dieyunxinghai",
+      "title": "蝶云星海",
+      "facts": [
+        {"field": "曲名", "value": "蝶云星海", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "蔗蓝 (creator:zhelan)", "source": "bilibili API", "verified": true, "note": "API标题含献给INFP的歌"},
+        {"field": "发行日期", "value": "2023-08-13", "source": "bilibili API", "verified": true, "note": "API pubdate 1691910000 匹配"},
+        {"field": "视频ID/BV", "value": "BV1Fp4y1g7Xy", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "diguishijielun.md",
+      "slug": "music:diguishijielun",
+      "title": "递归世界论",
+      "facts": [
+        {"field": "曲名", "value": "递归世界论", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "天儿中v子/映射者天儿 (creator:tianerzhongvziyingshezhetianer)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dihou.md",
+      "slug": "music:dihou",
+      "title": "帝后",
+      "facts": [
+        {"field": "曲名", "value": "帝后", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "莫逆iMoNe (creator:moniimone)", "source": "bilibili API", "verified": true, "note": "API标题含V家原创第一发，匹配文件背景"},
+        {"field": "发行日期", "value": "2016-08-12", "source": "bilibili API", "verified": true, "note": "API pubdate 1471009823 匹配"},
+        {"field": "视频ID/BV", "value": "BV1as411r7cf", "source": "bilibili API", "verified": true, "note": "API返回code=0，视频有效"},
+        {"field": "来源", "value": "bilibili视频链接", "source": "本地文件+bilibili API", "verified": true}
+      ],
+      "overall_verdict": "confirmed",
+      "suspicious": false
+    },
+    {
+      "file": "dilangmingxiang.md",
+      "slug": "music:dilangmingxiang",
+      "title": "#23 低浪冥想",
+      "facts": [
+        {"field": "曲名", "value": "#23 低浪冥想", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "信弦 (creator:xinxian)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "diliumu.md",
+      "slug": "music:diliumu",
+      "title": "第六幕",
+      "facts": [
+        {"field": "曲名", "value": "第六幕", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "湫刀鱼Saury (creator:jiaodaoyusaury)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dingge.md",
+      "slug": "music:dingge",
+      "title": "定格",
+      "facts": [
+        {"field": "曲名", "value": "定格", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "尧鼠CQC (creator:yaoshucqc)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "通用bilibili链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "dinglinglingling.md",
+      "slug": "music:dinglinglingling",
+      "title": "叮铃铃铃",
+      "facts": [
+        {"field": "曲名", "value": "叮铃铃铃", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "清风疾行没有q (creator:qingfengjixingmeiyouq)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2018-06-21", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "dipinglun.md",
+      "slug": "music:dipinglun",
+      "title": "地平论",
+      "facts": [
+        {"field": "曲名", "value": "地平论", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "Z新豪 (creator:zxinhao)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2020-12-06", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "dipingxian.md",
+      "slug": "music:dipingxian",
+      "title": "地平线",
+      "facts": [
+        {"field": "曲名", "value": "地平线", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "ZT无极 (creator:ztwuji)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "diqiangdushuimian.md",
+      "slug": "music:diqiangdushuimian",
+      "title": "低强度睡眠",
+      "facts": [
+        {"field": "曲名", "value": "低强度睡眠", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "花间有鹿来 (creator:huajianyoululai)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2023-11-24", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    },
+    {
+      "file": "diqiu.md",
+      "slug": "music:diqiu",
+      "title": "748地球",
+      "facts": [
+        {"field": "曲名", "value": "748地球", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "只会写芭乐的滑片P (creator:zhihuixiebaledehuapianp)", "source": "本地文件", "verified": false},
+        {"field": "发行日期", "value": "无", "source": "本地文件", "verified": false, "note": "无日期无BV"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": false
+    },
+    {
+      "file": "diqiushengcunriji.md",
+      "slug": "music:diqiushengcunriji",
+      "title": "地球生存日记",
+      "facts": [
+        {"field": "曲名", "value": "地球生存日记", "source": "本地文件", "verified": true},
+        {"field": "P主", "value": "从来没有中过奖的Sheep (creator:conglaimeiyouzhongguojiangdesheep)", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "发行日期", "value": "2017-04-04", "source": "本地文件", "verified": false, "note": "有日期无BV，无法交叉验证"},
+        {"field": "视频ID/BV", "value": "无", "source": "N/A", "verified": false},
+        {"field": "来源", "value": "bilibili搜索链接", "source": "本地文件", "verified": false}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false
+    }
+  ]
+}

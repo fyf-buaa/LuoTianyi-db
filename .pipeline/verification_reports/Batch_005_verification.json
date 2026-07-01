@@ -1,0 +1,892 @@
+{
+  "report_metadata": {
+    "batch": "Batch_005",
+    "index_range": "200-249",
+    "total_files": 50,
+    "generated_at": "2026-06-07",
+    "summary": {
+      "confirmed": 7,
+      "partial": 16,
+      "conflict": 1,
+      "unverifiable": 26,
+      "suspicious": 30
+    },
+    "notes": "conflict=1: bomuhuanbu-2.md is exact duplicate of bomuhuanbu.md. unverifiable+conflict entries have only generic bilibili.com/ URL, no BV ID, missing dates → suspicious=true"
+  },
+  "results": [
+    {
+      "file": "bobobozhige.md",
+      "slug": "music:bobobozhige",
+      "title": "啵啵啵之歌",
+      "facts": [
+        {"key": "曲名", "value": "啵啵啵之歌", "source": "file"},
+        {"key": "P主", "value": "ludengshigelaodeng (路灯是老灯)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "暂无资料", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接，无法定位具体视频"]
+    },
+    {
+      "file": "bogemenglan.md",
+      "slug": "music:bogemenglan",
+      "title": "博歌梦澜",
+      "facts": [
+        {"key": "曲名", "value": "博歌梦澜", "source": "file"},
+        {"key": "P主", "value": "qingtianxianyun (青天纤云·纳兰清婧)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "2024-09-16", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1S24deAEvt", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1S24deAEvt/, https://zh.moegirl.icu/博歌梦澜", "source": "file"}
+      ],
+      "external_verification": {
+        "萌娘百科": "CONFIRMED: 青天纤云·纳兰清婧于2024年9月16日投稿，洛天依、言和、乐正绫演唱，BV ID匹配"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "bohe.md",
+      "slug": "music:bohe",
+      "title": "薄荷",
+      "facts": [
+        {"key": "曲名", "value": "薄荷", "source": "file"},
+        {"key": "P主", "value": "dimen (敌门)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "boheyuni.md",
+      "slug": "music:boheyuni",
+      "title": "薄荷与你",
+      "facts": [
+        {"key": "曲名", "value": "薄荷与你", "source": "file"},
+        {"key": "P主", "value": "yugulubaijiyu (魚咕噜/摆寄魚)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期", "缺少视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bolierxiangdehaizicaibuxiangyao-happy-ending.md",
+      "slug": "music:bolierxiangdehaizicaibuxiangyao-happy-ending",
+      "title": "波粒二象的孩子才不想要 Happy Ending!!",
+      "facts": [
+        {"key": "曲名", "value": "波粒二象的孩子才不想要 Happy Ending!!", "source": "file"},
+        {"key": "P主", "value": "zhelan (蔗蓝)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-07-06 (正文提及, 表格中为空)", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1rb421E7xf", "source": "file"},
+        {"key": "播放量", "value": "4.1万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1rb421E7xf/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["发行日期在正文中提及(2024-07-06)但表格中为空，数据不一致", "缺少外部权威来源(萌娘百科等)验证"]
+    },
+    {
+      "file": "bolimengjinghuxiangtunshideyu.md",
+      "slug": "music:bolimengjinghuxiangtunshideyu",
+      "title": "玻璃梦境互相吞噬的鱼",
+      "facts": [
+        {"key": "曲名", "value": "玻璃梦境互相吞噬的鱼", "source": "file"},
+        {"key": "P主", "value": "huajianyoululai (花间有鹿来)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2022-02-06 (正文提及, 表格中为空)", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1F44y1H7Cs", "source": "file"},
+        {"key": "播放量", "value": "5.8万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1F44y1H7Cs/", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_page_fetch": "CONFIRMED: 标题【洛天依原创】玻璃梦境互相吞噬的鱼——写给被迫长大的自己【PV付】, 5.8万播放, 2022-02-06 18:15:03发布, 作词鹿来, 作曲/编曲/混音霧谷久城, 调校磷元素P"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": ["发行日期表格中为空但正文有(2022-02-06), 建议补填"]
+    },
+    {
+      "file": "bomuhuanbu-2.md",
+      "slug": "music:bomuhuanbu-2",
+      "title": "薄暮幻步",
+      "facts": [
+        {"key": "曲名", "value": "薄暮幻步", "source": "file"},
+        {"key": "P主", "value": "zhelan (蔗蓝)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2023-06-29", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV18a4y1c7Dk", "source": "file"},
+        {"key": "播放量", "value": "4137", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV18a4y1c7Dk/", "source": "file"}
+      ],
+      "overall_verdict": "conflict",
+      "suspicious": false,
+      "issues": ["完全重复条目: 内容与 bomuhuanbu.md 完全一致(同一曲名、P主、日期、BV ID)", "应为误创建，建议删除此重复文件"]
+    },
+    {
+      "file": "bomuhuanbu.md",
+      "slug": "music:bomuhuanbu",
+      "title": "薄暮幻步",
+      "facts": [
+        {"key": "曲名", "value": "薄暮幻步", "source": "file"},
+        {"key": "P主", "value": "zhelan (蔗蓝)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2023-06-29", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV18a4y1c7Dk", "source": "file"},
+        {"key": "播放量", "value": "4137", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV18a4y1c7Dk/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期但缺少外部权威来源验证"]
+    },
+    {
+      "file": "bopinchuyinweilaiban.md",
+      "slug": "music:bopinchuyinweilaiban",
+      "title": "波频（初音未来版）",
+      "facts": [
+        {"key": "曲名", "value": "波频（初音未来版）", "source": "file"},
+        {"key": "P主", "value": "mollihuacha (茉莉花茶)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接", "曲名含'初音未来版'但演唱者为洛天依，存在命名与事实的不一致"]
+    },
+    {
+      "file": "borexinjing.md",
+      "slug": "music:borexinjing",
+      "title": "般若心经",
+      "facts": [
+        {"key": "曲名", "value": "般若心经", "source": "file"},
+        {"key": "P主", "value": "wangxilin (王锡林)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接", "曲名广泛存在同名作品，难以区分"]
+    },
+    {
+      "file": "bozang.md",
+      "slug": "music:bozang",
+      "title": "薄葬",
+      "facts": [
+        {"key": "曲名", "value": "薄葬", "source": "file"},
+        {"key": "P主", "value": "wovop (WOVOP)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2022-02-20", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1Nm4y1o7AE", "source": "file"},
+        {"key": "播放量", "value": "5.4万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1Nm4y1o7AE/", "source": "file"}
+      ],
+      "external_verification": {
+        "bilibili_WOVOP动态": "CONFIRMED: WOVOP在B站动态确认'薄葬'为洛天依十周年原创曲, BV1Nm4y1o7AE",
+        "AcFun转载": "CONFIRMED: 标题【洛天依原创曲】薄葬, 文艺复兴非主流曲风原创曲【洛天依十周年】【PV付】, 作曲/编曲/混音WOVOP, 调教Wack, 词bomilla, 策划Lancelot"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "bu-shuo-zai-jian.md",
+      "slug": "music:bu-shuo-zai-jian",
+      "title": "不 说 再 见",
+      "facts": [
+        {"key": "曲名", "value": "不 说 再 见", "source": "file"},
+        {"key": "P主", "value": "regretful-love (Regretful Love)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bu-wen-tian.md",
+      "slug": "music:bu-wen-tian",
+      "title": "不 问 天",
+      "facts": [
+        {"key": "曲名", "value": "不 问 天", "source": "file"},
+        {"key": "P主", "value": "regretful-love (Regretful Love)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bubuyiran.md",
+      "slug": "music:bubuyiran",
+      "title": "步步依然",
+      "facts": [
+        {"key": "曲名", "value": "步步依然", "source": "file"},
+        {"key": "P主", "value": "shuitongyep (水水母母P/水桶耶P)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-07-09", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1aT421Y7CE", "source": "file"},
+        {"key": "播放量", "value": "3.7万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1aT421Y7CE/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源(萌娘百科等)验证"]
+    },
+    {
+      "file": "bucengtingzhi.md",
+      "slug": "music:bucengtingzhi",
+      "title": "不曾停止",
+      "facts": [
+        {"key": "曲名", "value": "不曾停止", "source": "file"},
+        {"key": "P主", "value": "xinxian (信弦)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2019-11-17", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1DJ41127UH", "source": "file"},
+        {"key": "播放量", "value": "1.1万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1DJ41127UH/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "budufanhua.md",
+      "slug": "music:budufanhua",
+      "title": "不渡繁华",
+      "facts": [
+        {"key": "曲名", "value": "不渡繁华", "source": "file"},
+        {"key": "P主", "value": "xinxian (新鲜/信弦)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bufu-2.md",
+      "slug": "music:bufu-2",
+      "title": "不赴",
+      "facts": [
+        {"key": "曲名", "value": "不赴", "source": "file"},
+        {"key": "P主", "value": "linyuansu (林渊素)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bufu.md",
+      "slug": "music:bufu",
+      "title": "不负",
+      "facts": [
+        {"key": "曲名", "value": "不负", "source": "file"},
+        {"key": "P主", "value": "zhihuixiebaledehuapianp (智慧写了吧的话篇P)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bufushaoguang.md",
+      "slug": "music:bufushaoguang",
+      "title": "不负韶光",
+      "facts": [
+        {"key": "曲名", "value": "不负韶光", "source": "file"},
+        {"key": "P主", "value": "naonao (闹闹)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "2021-05-22", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1g54y1V7Ag", "source": "file"},
+        {"key": "播放量", "value": "27.3万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1g54y1V7Ag/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "buganlaxiadehua.md",
+      "slug": "music:buganlaxiadehua",
+      "title": "不敢落下的花",
+      "facts": [
+        {"key": "曲名", "value": "不敢落下的花", "source": "file"},
+        {"key": "P主", "value": "yeying (夜桜ねん)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-01-19", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV14b4y1P7Ha", "source": "file"},
+        {"key": "播放量", "value": "0.5万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV14b4y1P7Ha/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "bugeitangjiudaoluan-featluotianyi.md",
+      "slug": "music:bugeitangjiudaoluan-featluotianyi",
+      "title": "不给糖就捣乱 feat.洛天依",
+      "facts": [
+        {"key": "曲名", "value": "不给糖就捣乱 feat.洛天依", "source": "file"},
+        {"key": "P主", "value": "chahu (iKz/茶壶)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2016-10-29", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1vs411s7rN", "source": "file"},
+        {"key": "播放量", "value": "24.1万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1vs411s7rN/", "source": "file"}
+      ],
+      "external_verification": {
+        "百度百科": "CONFIRMED: 《不给糖就捣乱》是2016年10月29日由iKz制作投稿至bilibili的Vocaloid中文原创曲,由洛天依演唱,殿堂曲。词蔫小坏,曲iKz"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "bugeitangjiudaoluan-jiezoudashi-version.md",
+      "slug": "music:bugeitangjiudaoluan-jiezoudashi-version",
+      "title": "不给糖就捣乱 (节奏大师 Version)",
+      "facts": [
+        {"key": "曲名", "value": "不给糖就捣乱 (节奏大师 Version)", "source": "file"},
+        {"key": "P主", "value": "chahu (iKz/茶壶)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2016-10-29", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1vs411s7rN", "source": "file"},
+        {"key": "播放量", "value": "24.1万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1vs411s7rN/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["与feat.洛天依版本共享同一BV ID", "作为游戏特版应独立验证游戏内存在", "缺少游戏内源验证"]
+    },
+    {
+      "file": "buguanzenmexiangdoushinidecuo.md",
+      "slug": "music:buguanzenmexiangdoushinidecuo",
+      "title": "不管怎么想...都是你的错！",
+      "facts": [
+        {"key": "曲名", "value": "不管怎么想...都是你的错！", "source": "file"},
+        {"key": "P主", "value": "shemilu (涉米麓)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-12-07", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "19.1万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期和播放量但无视频ID/BV", "来源仅为通用bilibili首页链接", "有播放量数据暗示视频存在但缺乏定位信息"]
+    },
+    {
+      "file": "bugufu.md",
+      "slug": "music:bugufu",
+      "title": "不辜负",
+      "facts": [
+        {"key": "曲名", "value": "不辜负", "source": "file"},
+        {"key": "P主", "value": "lvyegesongzhe (绿叶歌颂者)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "buhaoyisichuneping.md",
+      "slug": "music:buhaoyisichuneping",
+      "title": "不好意思，纯恶评",
+      "facts": [
+        {"key": "曲名", "value": "不好意思，纯恶评", "source": "file"},
+        {"key": "P主", "value": "huaxiyanxue (花惜颜雪)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2024-10-25", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1p4yDYYEZ7", "source": "file"},
+        {"key": "播放量", "value": "2.8万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1p4yDYYEZ7/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "buhuji-2.md",
+      "slug": "music:buhuji-2",
+      "title": "布虎记",
+      "facts": [
+        {"key": "曲名", "value": "布虎记", "source": "file"},
+        {"key": "P主", "value": "ximenzhen (西门振)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和, 乐正绫, 乐正龙牙, 徵羽摩柯, 墨清弦", "source": "file"},
+        {"key": "发行日期", "value": "2022-02-01", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1Yq4y1h77V", "source": "file"},
+        {"key": "播放量", "value": "39.0万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1Yq4y1h77V/", "source": "file"}
+      ],
+      "external_verification": {
+        "网易云音乐": "CONFIRMED: '布虎记 - 西门振/洛天依' 存在, 词Vagary, 曲/编曲西门振, 调教纳兰寻风"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "buhuo.md",
+      "slug": "music:buhuo",
+      "title": "捕获",
+      "facts": [
+        {"key": "曲名", "value": "捕获", "source": "file"},
+        {"key": "P主", "value": "zhetengdelouloupu (折腾的髅髅噗)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和", "source": "file"},
+        {"key": "发行日期", "value": "2019-08-14", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "58.9万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期和播放量但无视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bujingzhiyedisibang.md",
+      "slug": "music:bujingzhiyedisibang",
+      "title": "不静之夜第四棒",
+      "facts": [
+        {"key": "曲名", "value": "不静之夜第四棒", "source": "file"},
+        {"key": "P主", "value": "jingyeshe (静夜社)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫, 言和, 墨清弦", "source": "file"},
+        {"key": "发行日期", "value": "2019-11-30", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "3.4万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期和播放量但无视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bukejiedekongxu.md",
+      "slug": "music:bukejiedekongxu",
+      "title": "不可解的空虚",
+      "facts": [
+        {"key": "曲名", "value": "不可解的空虚", "source": "file"},
+        {"key": "P主", "value": "zhihuixiebaledehuapianp (只会写芭乐的滑片P)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bukesiyideshisiyifenzhiyi.md",
+      "slug": "music:bukesiyideshisiyifenzhiyi",
+      "title": "不可思议的十四亿分之一",
+      "facts": [
+        {"key": "曲名", "value": "不可思议的十四亿分之一", "source": "file"},
+        {"key": "P主", "value": "baiguangraphaelwalty (白光Raphaelwalty)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bulaobusi.md",
+      "slug": "music:bulaobusi",
+      "title": "不老不死",
+      "facts": [
+        {"key": "曲名", "value": "不老不死", "source": "file"},
+        {"key": "P主", "value": "aliangliangmujian (阿良良木健)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2019-06-18", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1w4411G7nv", "source": "file"},
+        {"key": "播放量", "value": "455.0万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1w4411G7nv/", "source": "file"}
+      ],
+      "external_verification": {
+        "微博_洛天依相关收集站": "CONFIRMED: 《不老不死》传说曲, 阿良良木健作词/作曲/编曲/调教, 2019-06-18投稿",
+        "百度百科_白夜梦": "CONFIRMED: 阿良良木健是认证音乐人, 其作品《不老不死》为传说曲"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    },
+    {
+      "file": "bulenga.md",
+      "slug": "music:bulenga",
+      "title": "不冷啊",
+      "facts": [
+        {"key": "曲名", "value": "不冷啊", "source": "file"},
+        {"key": "P主", "value": "qingfengjixingmeiyouq (清风疾行没有q)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2019-02-18", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1vb41117Hp", "source": "file"},
+        {"key": "播放量", "value": "0.8万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1vb41117Hp/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "buli.md",
+      "slug": "music:buli",
+      "title": "不离",
+      "facts": [
+        {"key": "曲名", "value": "不离", "source": "file"},
+        {"key": "P主", "value": "yuexingzhitu (月星之兔)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 乐正绫", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "buliehecai-huangmiudehecai.md",
+      "slug": "music:buliehecai-huangmiudehecai",
+      "title": "不埒な喝采-荒谬的喝彩",
+      "facts": [
+        {"key": "曲名", "value": "不埒な喝采-荒谬的喝彩", "source": "file"},
+        {"key": "P主", "value": "luoyibugaoxing (珞一总是不高兴)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接", "为翻调作品，原曲信息已注明"]
+    },
+    {
+      "file": "bumiandeng.md",
+      "slug": "music:bumiandeng",
+      "title": "不眠灯",
+      "facts": [
+        {"key": "曲名", "value": "不眠灯", "source": "file"},
+        {"key": "P主", "value": "zhuxiaoshengzoki (著小生zoki)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2021-07-30", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "播放量", "value": "5.5万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": true,
+      "issues": ["有发行日期但无视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bumianzheng.md",
+      "slug": "music:bumianzheng",
+      "title": "不眠症",
+      "facts": [
+        {"key": "曲名", "value": "不眠症", "source": "file"},
+        {"key": "P主", "value": "zuorideqingkongjiang (昨日的青空酱)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2025-01-16", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1Kaw3eBENa", "source": "file"},
+        {"key": "播放量", "value": "10.5万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1Kaw3eBENa/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "bumianzhidi.md",
+      "slug": "music:bumianzhidi",
+      "title": "不眠之地",
+      "facts": [
+        {"key": "曲名", "value": "不眠之地", "source": "file"},
+        {"key": "P主", "value": "zhuxiaoshengzoki (著小生zoki)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2022-09-16", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1ZT411M7qk", "source": "file"},
+        {"key": "播放量", "value": "6.5万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1ZT411M7qk/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "bumie.md",
+      "slug": "music:bumie",
+      "title": "不灭",
+      "facts": [
+        {"key": "曲名", "value": "不灭", "source": "file"},
+        {"key": "P主", "value": "xinxian (信弦)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bumingtizuowen.md",
+      "slug": "music:bumingtizuowen",
+      "title": "不命题作文",
+      "facts": [
+        {"key": "曲名", "value": "不命题作文", "source": "file"},
+        {"key": "P主", "value": "yeyongyoodori (夜踊_Yoodori)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2025-06-04", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1Zs7BzhECe", "source": "file"},
+        {"key": "播放量", "value": "10.3万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1Zs7BzhECe/", "source": "file"}
+      ],
+      "overall_verdict": "partial",
+      "suspicious": false,
+      "issues": ["有BV ID和日期", "缺少外部权威来源验证"]
+    },
+    {
+      "file": "bunny-lullaby.md",
+      "slug": "music:bunny-lullaby",
+      "title": "bunny lullaby",
+      "facts": [
+        {"key": "曲名", "value": "bunny lullaby", "source": "file"},
+        {"key": "P主", "value": "cop (COP)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接", "COP知名度高但该特定作品无法定位"]
+    },
+    {
+      "file": "buounvhai.md",
+      "slug": "music:buounvhai",
+      "title": "布偶女孩",
+      "facts": [
+        {"key": "曲名", "value": "布偶女孩", "source": "file"},
+        {"key": "P主", "value": "derosliushiyu (DeRos刘师宇)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "buqiyuzhengjiuzhiai.md",
+      "slug": "music:buqiyuzhengjiuzhiai",
+      "title": "不弃与拯救之爱",
+      "facts": [
+        {"key": "曲名", "value": "不弃与拯救之爱", "source": "file"},
+        {"key": "P主", "value": "zhoucun (JUSF周存)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "buqufanjizhishi.md",
+      "slug": "music:buqufanjizhishi",
+      "title": "不屈.反击之时",
+      "facts": [
+        {"key": "曲名", "value": "不屈.反击之时", "source": "file"},
+        {"key": "P主", "value": "zhihuixiebaledehuapianp (只会写芭乐的滑片P)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "burenxingle.md",
+      "slug": "music:burenxingle",
+      "title": "不任性了",
+      "facts": [
+        {"key": "曲名", "value": "不任性了", "source": "file"},
+        {"key": "P主", "value": "zhuxiaoshengzoki (著小生zoki)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "burenzhenzhuyixuanyan.md",
+      "slug": "music:burenzhenzhuyixuanyan",
+      "title": "不认真主义宣言",
+      "facts": [
+        {"key": "曲名", "value": "不认真主义宣言", "source": "file"},
+        {"key": "P主", "value": "dongtang (董糖)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "burulvxingquyuanfang.md",
+      "slug": "music:burulvxingquyuanfang",
+      "title": "不如旅行去远方",
+      "facts": [
+        {"key": "曲名", "value": "不如旅行去远方", "source": "file"},
+        {"key": "P主", "value": "heibaijun (黒白君)", "source": "file"},
+        {"key": "演唱", "value": "星尘, 洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bushiqingge.md",
+      "slug": "music:bushiqingge",
+      "title": "不是情歌",
+      "facts": [
+        {"key": "曲名", "value": "不是情歌", "source": "file"},
+        {"key": "P主", "value": "aliangliangmujian (阿良良木健)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 徵羽摩柯", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "bushiyinweijimocaixiangni.md",
+      "slug": "music:bushiyinweijimocaixiangni",
+      "title": "不是因为寂寞才想你",
+      "facts": [
+        {"key": "曲名", "value": "不是因为寂寞才想你", "source": "file"},
+        {"key": "P主", "value": "kamiyadawangzhanghaozhuxiao (卡米亚大王)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "butianlieluotianyivyanhev.md",
+      "slug": "music:butianlieluotianyivyanhev",
+      "title": "补天裂（洛天依V5、言和V5）",
+      "facts": [
+        {"key": "曲名", "value": "补天裂（洛天依V5、言和V5）", "source": "file"},
+        {"key": "P主", "value": "regretful-love (Regretful Love)", "source": "file"},
+        {"key": "演唱", "value": "洛天依, 言和", "source": "file"},
+        {"key": "发行日期", "value": "未提供", "source": "file"},
+        {"key": "视频ID/BV", "value": "未提供", "source": "file"},
+        {"key": "首发平台", "value": "bilibili", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/ (通用链接)", "source": "file"}
+      ],
+      "overall_verdict": "unverifiable",
+      "suspicious": true,
+      "issues": ["缺少发行日期和视频ID/BV", "来源仅为通用bilibili首页链接"]
+    },
+    {
+      "file": "butingxiedelvtu.md",
+      "slug": "music:butingxiedelvtu",
+      "title": "不停歇的旅途",
+      "facts": [
+        {"key": "曲名", "value": "不停歇的旅途", "source": "file"},
+        {"key": "P主", "value": "cop (COP)", "source": "file"},
+        {"key": "演唱", "value": "洛天依", "source": "file"},
+        {"key": "发行日期", "value": "2017-07-12", "source": "file"},
+        {"key": "视频ID/BV", "value": "BV1bx411q7Mr", "source": "file"},
+        {"key": "播放量", "value": "25.8万", "source": "file"},
+        {"key": "来源", "value": "https://www.bilibili.com/video/BV1bx411q7Mr/", "source": "file"}
+      ],
+      "external_verification": {
+        "网易云音乐电台": "CONFIRMED: 【洛天依2017生贺】不停歇的旅途 av12112835, 策划夜洺, 词果汁凉菜, 曲COP",
+        "酷狗音乐": "CONFIRMED: '不停歇的旅途 - 洛天依、果汁凉菜、COP' 歌曲页面存在"
+      },
+      "overall_verdict": "confirmed",
+      "suspicious": false,
+      "issues": []
+    }
+  ]
+}

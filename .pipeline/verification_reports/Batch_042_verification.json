@@ -1,0 +1,2376 @@
+﻿{
+    "report_metadata":  {
+                            "generated_at":  "2026-06-07T21:26:55+08:00",
+                            "total_files":  50,
+                            "batch":  "Batch_042",
+                            "method":  "bilibili API (x/web-interface/view) for BV ID verification; bilibili search (x/web-interface/search/all/v2) for song discovery; file system scan for existence",
+                            "summary":  {
+                                            "confirmed":  12,
+                                            "suspicious":  1,
+                                            "conflict":  1,
+                                            "partial":  4,
+                                            "file_not_found":  7,
+                                            "unverifiable":  26
+                                        },
+                            "title":  "Batch_042 Verification Report"
+                        },
+    "results":  [
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "maoxie-dongdong-featyinjiemanutae-utae-remix.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:maozuqu-heimaozhisi",
+                        "notes":  "All fields verified via bilibili API. BV16s411Z7qv.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16s411Z7qv",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "猫组曲-黑猫之死",
+                                          "field":  "曲名",
+                                          "verified":  "猫组曲II-黑猫之死【JUSF】"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16s411Z7qv",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:zhoucun",
+                                          "field":  "P主",
+                                          "verified":  "JUSF周存"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16s411Z7qv",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2013-04-26",
+                                          "field":  "发行日期",
+                                          "verified":  "2013-04-26"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16s411Z7qv",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "BV16s411Z7qv (found via search)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16s411Z7qv",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "20.2万",
+                                          "field":  "播放量",
+                                          "verified":  "201,763"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "猫组曲-黑猫之死",
+                        "file":  "maozuqu-heimaozhisi.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meave",
+                        "notes":  "No date or BV. P主 zhoucun known but song can\u0027t be verified.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "Meave",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "creator:zhoucun",
+                                          "field":  "P主",
+                                          "verified":  "JUSF周存 (known creator, plausible)"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "Meave",
+                        "file":  "meave.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meihaodeshikebukeyijianglinzaiwoshenshang",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "美好的事可不可以降临在我身上",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:qingfengsunny",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "美好的事可不可以降临在我身上",
+                        "file":  "meihaodeshikebukeyijianglinzaiwoshenshang.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist (meijianbudiansha-2.md exists)",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "meijianbudiansha.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meijianbudiansha-2",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "眉间不点砂",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:kyuruyougewujiaoxing",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "眉间不点砂",
+                        "file":  "meijianbudiansha-2.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meijianxinshang",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梅笺心上",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:zhanyueluli",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梅笺心上",
+                        "file":  "meijianxinshang.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "meijieye.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meishinongchang",
+                        "notes":  "No date or BV. Duplicate table headers in file.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "美食农场",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yujianliu",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "美食农场",
+                        "file":  "meishinongchang.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:meiyijudouhentian",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "每一句都很甜",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yugulubaijiyu",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "每一句都很甜",
+                        "file":  "meiyijudouhentian.md"
+                    },
+                    {
+                        "overall_verdict":  "conflict",
+                        "slug":  "music:meiyipianxuehuadoushiwugude",
+                        "notes":  "CRITICAL: BV1EC92YBELE points to 蒋雪儿 - 半生雪 by COYMusicChannel, not the intended song.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1EC92YBELE",
+                                                             "match":  false
+                                                         }
+                                                     ],
+                                          "verdict":  "conflict",
+                                          "original":  "每一片雪花都是无辜的",
+                                          "field":  "曲名",
+                                          "verified":  "蒋雪儿 - 半生雪 (completely different song)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1EC92YBELE",
+                                                             "match":  false
+                                                         }
+                                                     ],
+                                          "verdict":  "conflict",
+                                          "original":  "creator:a01in",
+                                          "field":  "P主",
+                                          "verified":  "COYMusicChannel (not A01in)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1EC92YBELE",
+                                                             "match":  false
+                                                         }
+                                                     ],
+                                          "verdict":  "conflict",
+                                          "original":  "2025-01-25",
+                                          "field":  "发行日期",
+                                          "verified":  "2025-03-21"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1EC92YBELE",
+                                                             "match":  false
+                                                         }
+                                                     ],
+                                          "verdict":  "conflict",
+                                          "original":  "BV1EC92YBELE",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1EC92YBELE points to wrong song"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1EC92YBELE",
+                                                             "match":  false
+                                                         }
+                                                     ],
+                                          "verdict":  "conflict",
+                                          "original":  "6543",
+                                          "field":  "播放量",
+                                          "verified":  "26,678 (wrong song)"
+                                      }
+                                  ],
+                        "suspicious":  true,
+                        "title":  "每一片雪花都是无辜的",
+                        "file":  "meiyipianxuehuadoushiwugude.md"
+                    },
+                    {
+                        "overall_verdict":  "partial",
+                        "slug":  "music:meiyongdehuiyizengjialevocaloidbenjia",
+                        "notes":  "Has date (2021-12-04) and known P主. No BV to independently verify.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "MEDIUM",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "没用的回忆增加了（VOCALOID本家）",
+                                          "field":  "曲名",
+                                          "verified":  "Has content context"
+                                      },
+                                      {
+                                          "confidence":  "MEDIUM",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "creator:yingshihinanozhanghaozhuxiao",
+                                          "field":  "P主",
+                                          "verified":  "萤失Hinano"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "2021-12-04",
+                                          "field":  "发行日期",
+                                          "verified":  "Has date but no BV"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "没用的回忆增加了（VOCALOID本家）",
+                        "file":  "meiyongdehuiyizengjialevocaloidbenjia.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:meiyoubuhao",
+                        "notes":  "All fields verified. Bilibili cover by KunKi114514.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1wu4m1G78w",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "没有不好",
+                                          "field":  "曲名",
+                                          "verified":  "没有不好 (ACE Cover)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1wu4m1G78w",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:kunki114514",
+                                          "field":  "P主",
+                                          "verified":  "KunKi114514"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1wu4m1G78w",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2024-03-02",
+                                          "field":  "发行日期",
+                                          "verified":  "2024-03-02"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1wu4m1G78w",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1wu4m1G78w"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1wu4m1G78w",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "9875",
+                                          "field":  "播放量",
+                                          "verified":  "9,878"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "没有不好",
+                        "file":  "meiyoubuhao.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "meiyoudeshiqing.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:meiyoumingzidegeyao",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV15s411z79V",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "没有名字的歌谣",
+                                          "field":  "曲名",
+                                          "verified":  "没有名字的歌谣（PV付）"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV15s411z79V",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:heibaijun",
+                                          "field":  "P主",
+                                          "verified":  "黒白君 (黑白P)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV15s411z79V",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2016-04-06",
+                                          "field":  "发行日期",
+                                          "verified":  "2016-04-06"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV15s411z79V",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "BV15s411z79V (found via search)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV15s411z79V",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "13.1万",
+                                          "field":  "播放量",
+                                          "verified":  "131,045"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "没有名字的歌谣",
+                        "file":  "meiyoumingzidegeyao.md"
+                    },
+                    {
+                        "overall_verdict":  "partial",
+                        "slug":  "music:meiyoumingzideshengdanzhige",
+                        "notes":  "Has date (2017-12-24) but no BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "没有名字的圣诞之歌",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:qingfengjixingmeiyouq",
+                                          "field":  "P主",
+                                          "verified":  "Not found as bilibili UP主"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "2017-12-24",
+                                          "field":  "发行日期",
+                                          "verified":  "Has date but no BV"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "没有名字的圣诞之歌",
+                        "file":  "meiyoumingzideshengdanzhige.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "meiyourentingwoxiedege.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "melody.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:memory",
+                        "notes":  "No date or BV. Title too generic.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "Memory",
+                                          "field":  "曲名",
+                                          "verified":  "Generic title - cannot verify"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:qingfengjixingmeiyouq",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "Memory",
+                        "file":  "memory.md"
+                    },
+                    {
+                        "overall_verdict":  "partial",
+                        "slug":  "music:memory-story",
+                        "notes":  "Has date (2016-11-26) but no BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "memory story",
+                                          "field":  "曲名",
+                                          "verified":  "Not found in public databases"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:akor",
+                                          "field":  "P主",
+                                          "verified":  "AkoR - not found as UP主"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "2016-11-26",
+                                          "field":  "发行日期",
+                                          "verified":  "Has date but no BV"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "memory story",
+                        "file":  "memory-story.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:men",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "门",
+                                          "field":  "曲名",
+                                          "verified":  "Generic title - cannot verify"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yujianliu",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "门",
+                        "file":  "men.md"
+                    },
+                    {
+                        "overall_verdict":  "partial",
+                        "slug":  "music:mengchun",
+                        "notes":  "Has date (2023-03-25) and known P主 ZT无极.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "MEDIUM",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "孟春",
+                                          "field":  "曲名",
+                                          "verified":  "孟春 (by ZT无极) - plausible"
+                                      },
+                                      {
+                                          "confidence":  "MEDIUM",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "creator:ztwuji",
+                                          "field":  "P主",
+                                          "verified":  "ZT无极 (known UP主)"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "2023-03-25",
+                                          "field":  "发行日期",
+                                          "verified":  "Has date but no BV"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "视频ID",
+                                          "verified":  "Not found via search"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "孟春",
+                        "file":  "mengchun.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengdegeyao",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦的歌谣",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yongyuanhuanying",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦的歌谣",
+                        "file":  "mengdegeyao.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengdexuzhang",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦的序章",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yugulubaijiyu",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦的序章",
+                        "file":  "mengdexuzhang.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengdong",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1e97zzhExb",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "懵懂",
+                                          "field":  "曲名",
+                                          "verified":  "懵懂 (原创电音/Folk\u0026Future bass)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1e97zzhExb",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:ztwuji",
+                                          "field":  "P主",
+                                          "verified":  "ZT无极"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1e97zzhExb",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2025-06-01",
+                                          "field":  "发行日期",
+                                          "verified":  "2025-06-01"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1e97zzhExb",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1e97zzhExb",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1e97zzhExb - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1e97zzhExb",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "5013",
+                                          "field":  "播放量",
+                                          "verified":  "5,014"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "懵懂",
+                        "file":  "mengdong.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengduxi-mengduqinxi",
+                        "notes":  "BV verified. P主 attribution needs clarification (uploader account deleted).",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1vZ4y1p7Lg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "猛独が襲う-猛独侵袭",
+                                          "field":  "曲名",
+                                          "verified":  "猛独が襲う（猛独侵袭）(洛天依V4J cover)"
+                                      },
+                                      {
+                                          "confidence":  "MEDIUM",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1vZ4y1p7Lg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "creator:luoyibugaoxing",
+                                          "field":  "P主",
+                                          "verified":  "珞一不高兴 (lyricist); uploader account deleted"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1vZ4y1p7Lg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "2020-05-25 (from bilibili API)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1vZ4y1p7Lg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1vZ4y1p7Lg",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1vZ4y1p7Lg - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1vZ4y1p7Lg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "880",
+                                          "field":  "播放量",
+                                          "verified":  "880"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "猛独が襲う-猛独侵袭",
+                        "file":  "mengduxi-mengduqinxi.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:menghuali",
+                        "notes":  "All fields verified. Multi-singer Vsinger全员 song.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16A411M7xP",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦化鲤",
+                                          "field":  "曲名",
+                                          "verified":  "一个咸鱼变锦鲤的故事《梦化鲤》中文V家全员原创曲"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16A411M7xP",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:xiejiaojiaozhu",
+                                          "field":  "P主",
+                                          "verified":  "邪叫教主 (lyricist)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16A411M7xP",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2021-02-26",
+                                          "field":  "发行日期",
+                                          "verified":  "2021-02-26"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16A411M7xP",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV16A411M7xP",
+                                          "field":  "视频ID",
+                                          "verified":  "BV16A411M7xP - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV16A411M7xP",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "3.8万",
+                                          "field":  "播放量",
+                                          "verified":  "~38,000+"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦化鲤",
+                        "file":  "menghuali.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:menghuianchao",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦回暗潮",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:tianerzhongvziyingshezhetianer",
+                                          "field":  "P主",
+                                          "verified":  "Not found (malformed name?)"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦回暗潮",
+                        "file":  "menghuianchao.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengjingyongjuxuanyan",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦境永居宣言",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:maxxsoft",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦境永居宣言",
+                        "file":  "mengjingyongjuxuanyan.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengjingyumonv",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦境与魔女",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:uruut",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦境与魔女",
+                        "file":  "mengjingyumonv.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:menglihua",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦里花",
+                                          "field":  "曲名",
+                                          "verified":  "Generic title - not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:qiyeyueqiye",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦里花",
+                        "file":  "menglihua.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:menglihua-yingyu",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦里花 影语",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:qiyeyueqiye",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦里花 影语",
+                        "file":  "menglihua-yingyu.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:menglimengwai",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦里梦外",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:wumingshe",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦里梦外",
+                        "file":  "menglimengwai.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:menglishadouyou",
+                        "notes":  "All fields verified. Popular song with ~1.9M plays.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1iF411n7wg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦里啥都有",
+                                          "field":  "曲名",
+                                          "verified":  "梦里啥都有"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1iF411n7wg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:renxingtu",
+                                          "field":  "P主",
+                                          "verified":  "人形兎 (composer); uploader: 苏逸_Suyi"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1iF411n7wg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2022-01-28",
+                                          "field":  "发行日期",
+                                          "verified":  "2022-01-28"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1iF411n7wg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1iF411n7wg",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1iF411n7wg - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1iF411n7wg",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "189.9万",
+                                          "field":  "播放量",
+                                          "verified":  "~1,899,274"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦里啥都有",
+                        "file":  "menglishadouyou.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengxiangdetiankong",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦想的天空",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:feibukuaidehuiniaofeibukuaidemig",
+                                          "field":  "P主",
+                                          "verified":  "Not found (malformed name?)"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦想的天空",
+                        "file":  "mengxiangdetiankong.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengxiangshiwangxiehui",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV14PrZYDEf3",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦想失望协会",
+                                          "field":  "曲名",
+                                          "verified":  "梦想失望协会"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV14PrZYDEf3",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:derosliushiyu",
+                                          "field":  "P主",
+                                          "verified":  "DeRos刘师宇"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV14PrZYDEf3",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2024-12-18",
+                                          "field":  "发行日期",
+                                          "verified":  "2024-12-18"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV14PrZYDEf3",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV14PrZYDEf3",
+                                          "field":  "视频ID",
+                                          "verified":  "BV14PrZYDEf3 - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV14PrZYDEf3",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "1.6万",
+                                          "field":  "播放量",
+                                          "verified":  "16,780"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦想失望协会",
+                        "file":  "mengxiangshiwangxiehui.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengxiangworldgechang",
+                        "notes":  "All fields verified. Classic 2013拜年祭 song.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Nx411c7iH",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "夢想→World→歌唱",
+                                          "field":  "曲名",
+                                          "verified":  "夢想→World→歌唱 (拜年祭)"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Nx411c7iH",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:puke",
+                                          "field":  "P主",
+                                          "verified":  "PoKeR_扑克"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Nx411c7iH",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2013-02-05",
+                                          "field":  "发行日期",
+                                          "verified":  "2013-02-05"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Nx411c7iH",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1Nx411c7iH",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1Nx411c7iH - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Nx411c7iH",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "40.3万",
+                                          "field":  "播放量",
+                                          "verified":  "403,046"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "夢想→World→歌唱",
+                        "file":  "mengxiangworldgechang.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengxiangxuanlv",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦想旋律",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "LOW",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "partial",
+                                          "original":  "creator:shentuxiaop",
+                                          "field":  "P主",
+                                          "verified":  "神兔小P (known creator but song not found)"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦想旋律",
+                        "file":  "mengxiangxuanlv.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengxingqiu",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1cb4y1h7cx",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦星球",
+                                          "field":  "曲名",
+                                          "verified":  "梦星球"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1cb4y1h7cx",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:gridgezi",
+                                          "field":  "P主",
+                                          "verified":  "Grid格子"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1cb4y1h7cx",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2021-10-22",
+                                          "field":  "发行日期",
+                                          "verified":  "2021-10-22"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1cb4y1h7cx",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1cb4y1h7cx",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1cb4y1h7cx - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1cb4y1h7cx",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "1.9万",
+                                          "field":  "播放量",
+                                          "verified":  "19,765"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦星球",
+                        "file":  "mengxingqiu.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengxingshifen",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦醒时分",
+                                          "field":  "曲名",
+                                          "verified":  "Generic title - cannot verify"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:feibukuaidehuiniaofeibukuaidemig",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦醒时分",
+                        "file":  "mengxingshifen.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengyouji",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1T3411G76a",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦游记",
+                                          "field":  "曲名",
+                                          "verified":  "梦游记（半木生出品）"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1T3411G76a",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:zhuxiaoshengzoki",
+                                          "field":  "P主",
+                                          "verified":  "著小生zoki"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1T3411G76a",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2022-06-04",
+                                          "field":  "发行日期",
+                                          "verified":  "2022-06-04"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1T3411G76a",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1T3411G76a",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1T3411G76a - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1T3411G76a",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "11.2万",
+                                          "field":  "播放量",
+                                          "verified":  "112,141"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦游记",
+                        "file":  "mengyouji.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengyu",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦余",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:jiaodaoyusaury",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦余",
+                        "file":  "mengyu.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengyu-2",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦遇",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:naonao",
+                                          "field":  "P主",
+                                          "verified":  "Not found (generic name)"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦遇",
+                        "file":  "mengyu-2.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengyuni",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦与你",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:weilianghaohao",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦与你",
+                        "file":  "mengyuni.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengyuyiqing",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦与疫情",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:jiwuren",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦与疫情",
+                        "file":  "mengyuyiqing.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengyuyueding",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦与约定",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yongyuanhuanying",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦与约定",
+                        "file":  "mengyuyueding.md"
+                    },
+                    {
+                        "overall_verdict":  "confirmed",
+                        "slug":  "music:mengzhezhi",
+                        "notes":  "All fields verified via bilibili API.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Aq4y147Hj",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "梦折纸",
+                                          "field":  "曲名",
+                                          "verified":  "梦折纸"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Aq4y147Hj",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "creator:fengyinatsuko",
+                                          "field":  "P主",
+                                          "verified":  "枫音Atsuko"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Aq4y147Hj",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "2022-03-04",
+                                          "field":  "发行日期",
+                                          "verified":  "2022-03-04"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Aq4y147Hj",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "BV1Aq4y147Hj",
+                                          "field":  "视频ID",
+                                          "verified":  "BV1Aq4y147Hj - confirmed"
+                                      },
+                                      {
+                                          "confidence":  "HIGH",
+                                          "source":  [
+                                                         {
+                                                             "label":  "bilibili",
+                                                             "url":  "https://www.bilibili.com/video/BV1Aq4y147Hj",
+                                                             "match":  true
+                                                         }
+                                                     ],
+                                          "verdict":  "confirmed",
+                                          "original":  "5.4万",
+                                          "field":  "播放量",
+                                          "verified":  "54,299"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦折纸",
+                        "file":  "mengzhezhi.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengzhihuacong",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦之花丛",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:kendegui",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦之花丛",
+                        "file":  "mengzhihuacong.md"
+                    },
+                    {
+                        "overall_verdict":  "file_not_found",
+                        "slug":  "",
+                        "notes":  "File does not exist on disk",
+                        "facts":  [
+
+                                  ],
+                        "suspicious":  false,
+                        "title":  "",
+                        "file":  "mengzhisen.md"
+                    },
+                    {
+                        "overall_verdict":  "unverifiable",
+                        "slug":  "music:mengzhongheimao",
+                        "notes":  "No date or BV.",
+                        "facts":  [
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "梦中黑猫",
+                                          "field":  "曲名",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "creator:yongyuanhuanying",
+                                          "field":  "P主",
+                                          "verified":  "Not found"
+                                      },
+                                      {
+                                          "confidence":  "NONE",
+                                          "source":  [
+
+                                                     ],
+                                          "verdict":  "unverifiable",
+                                          "original":  "",
+                                          "field":  "发行日期",
+                                          "verified":  "Not found"
+                                      }
+                                  ],
+                        "suspicious":  false,
+                        "title":  "梦中黑猫",
+                        "file":  "mengzhongheimao.md"
+                    }
+                ]
+}

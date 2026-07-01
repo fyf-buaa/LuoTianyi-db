@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 流行 |
-| 标签 | 独唱, VOCALOID |
+| 标签 | 独唱, vocaloid |
 | 作词 | 南棠 |
 | 作曲 | 著小生zoki |
 | 编曲 | 洛劫 |

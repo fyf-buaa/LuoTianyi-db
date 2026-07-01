@@ -11,7 +11,7 @@
 | 首发平台 | bilibili |
 | 引擎 | vocaloid |
 | 风格 | 古风, 流行 |
-| 标签 | 独唱, VOCALOID, 翻唱, 中国风 |
+| 标签 | 独唱, vocaloid, 翻唱, 中国风 |
 | 视频ID | BV1dW411V75u |
 | 播放量 | 1.8万 |
 

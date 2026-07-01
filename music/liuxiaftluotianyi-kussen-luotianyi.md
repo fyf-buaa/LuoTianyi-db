@@ -23,7 +23,7 @@
 - **luo-tian-yi (洛天依)**: 中国首个中文VOCALOID虚拟歌手，由上海禾念于2012年推出，使用VOCALOID4引擎，以天然呆、温柔可爱的声线著称，是Vsinger旗下最具代表性的虚拟歌姬。
 
 ### 创作团队
-- **P主/作者**: Kussen - 中文VOCALOID新人创作者，活跃于B站VOCALOID社区，以洛天依原创曲为主要创作方向。
+- **P主/作者**: _Kussen_ - 中文VOCALOID新人创作者，活跃于B站VOCALOID社区，以洛天依原创曲为主要创作方向。
 - **作词**: Kussen
 - **作曲**: Kussen
 - **编曲**: Kussen

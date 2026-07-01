@@ -1,0 +1,2561 @@
+{
+  "batch_id": "batch-010",
+  "batch_number": 10,
+  "job_count": 50,
+  "priority_classes": [
+    1
+  ],
+  "jobs": [
+    {
+      "job_id": "verify-liesanguo",
+      "file": "music\\liesanguo.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1ds411X7pK",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "烈三国",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:tanchaoyue",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-02-08",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1ds411X7pK",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "27.3万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1ds411X7pK"
+      ]
+    },
+    {
+      "job_id": "verify-lieyu",
+      "file": "music\\lieyu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Fa4y1f7TG",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "冽雨",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ztwuji",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yan-he",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-11-27",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Fa4y1f7TG",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1482",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Fa4y1f7TG"
+      ]
+    },
+    {
+      "job_id": "verify-ligeyao",
+      "file": "music\\ligeyao.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1XiZ6YXETc",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "漓歌遥",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yizhihuobengluantiaodekafeivckafei",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-03-31",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1XiZ6YXETc",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "2.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1XiZ6YXETc"
+      ]
+    },
+    {
+      "job_id": "verify-lihuayu",
+      "file": "music\\lihuayu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Et4y1h7Fx",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "梨花雨",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wangchao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2014-05-22",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Et4y1h7Fx",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "8184",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Et4y1h7Fx"
+      ]
+    },
+    {
+      "job_id": "verify-limingqiandegongming",
+      "file": "music\\limingqiandegongming.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1js411W7qY",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "黎明前的共鸣",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:weilianghaohao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-11-17",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1js411W7qY",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1689",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1js411W7qY"
+      ]
+    },
+    {
+      "job_id": "verify-linbiedejiaobusheng-feat-luotianyi-ai",
+      "file": "music\\linbiedejiaobusheng-feat-luotianyi-ai.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV15fKqzFEwj",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "临别的脚步声 feat. 洛天依 AI",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhihuixiebaledehuapianp",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-06-27",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV15fKqzFEwj",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1820",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV15fKqzFEwj"
+      ]
+    },
+    {
+      "job_id": "verify-lindong",
+      "file": "music\\lindong.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1G24y1i7x9",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "凛冬",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ztwuji",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-01-05",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1G24y1i7x9",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "4321",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1G24y1i7x9"
+      ]
+    },
+    {
+      "job_id": "verify-lingfenzhishiliuderensheng",
+      "file": "music\\lingfenzhishiliuderensheng.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1p3411B7kW",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "零分之十六的人生",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:liuxu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2021-08-23",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1p3411B7kW",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "5032",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1p3411B7kW"
+      ]
+    },
+    {
+      "job_id": "verify-lingliulingwu",
+      "file": "music\\lingliulingwu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Vp411d7iy",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "零六零五",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:zhetengdelouloupu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2018-06-05",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Vp411d7iy",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "28.7万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Vp411d7iy"
+      ]
+    },
+    {
+      "job_id": "verify-lingyigewovsingerfanchang",
+      "file": "music\\lingyigewovsingerfanchang.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV15S4y1C7yo",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "另一个我（Vsinger翻唱）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yishuiuryan",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling, member:yan-he, member:yue-zheng-long-ya, member:mo-zhi, member:zheng-yu-mo-ke",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-02-11",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV15S4y1C7yo",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "2.1万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV15S4y1C7yo"
+      ]
+    },
+    {
+      "job_id": "verify-linlin",
+      "file": "music\\linlin.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1NH4y1c7iq",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "粼粼",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:naonao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-07-13",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1NH4y1c7iq",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "14.2万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1NH4y1c7iq"
+      ]
+    },
+    {
+      "job_id": "verify-linwanzhechangyujiuwangjiniba",
+      "file": "music\\linwanzhechangyujiuwangjiniba.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1FC411a7em",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "淋完这场雨就忘记你吧",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wovop",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-03-16",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1FC411a7em",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "68.1万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1FC411a7em"
+      ]
+    },
+    {
+      "job_id": "verify-linzhanxuanyan",
+      "file": "music\\linzhanxuanyan.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1rs411D7TC",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "临战宣言",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:heibaijun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yan-he",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2015-05-07",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1rs411D7TC",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "40.7万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1rs411D7TC"
+      ]
+    },
+    {
+      "job_id": "verify-liushuifu",
+      "file": "music\\liushuifu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1fs411C7R8",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "流水赋",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:luojie",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-02-22",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1fs411C7R8",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "12.3万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1fs411C7R8"
+      ]
+    },
+    {
+      "job_id": "verify-liuxiaftluotianyi-kussen-luotianyi",
+      "file": "music\\liuxiaftluotianyi-kussen-luotianyi.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Ji4y1m7rW",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "留下（ft.洛天依） - _Kussen_ 洛天依",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kussen",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-04-29",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Ji4y1m7rW",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "9327",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Ji4y1m7rW"
+      ]
+    },
+    {
+      "job_id": "verify-liuxiangjiang",
+      "file": "music\\liuxiangjiang.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1VFLTzhEo9",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "流湘江",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kelejun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2025-04-21",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1VFLTzhEo9",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "2764",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1VFLTzhEo9"
+      ]
+    },
+    {
+      "job_id": "verify-liuxingcheshou-featluotianyi",
+      "file": "music\\liuxingcheshou-featluotianyi.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1kX4y1c712",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "流星车手 feat.洛天依",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:chahu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2020-07-10",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1kX4y1c712",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "9.5万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1kX4y1c712"
+      ]
+    },
+    {
+      "job_id": "verify-liuxingzhuiluodeyewan",
+      "file": "music\\liuxingzhuiluodeyewan.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1ve4y1N74E",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "流星坠落的夜晚",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:chenlinchuanxianlanghusky",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-02-04",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1ve4y1N74E",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "15.9万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1ve4y1N74E"
+      ]
+    },
+    {
+      "job_id": "verify-lixiang",
+      "file": "music\\lixiang.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1px411K7Zp",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "离乡",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ilem",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2014-09-13",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1px411K7Zp",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "41.6万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1px411K7Zp"
+      ]
+    },
+    {
+      "job_id": "verify-lixiangchengyanchuzhinan",
+      "file": "music\\lixiangchengyanchuzhinan.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1iS411A7WX",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "理想城演出指南",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yigemyu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-06-28",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1iS411A7WX",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3.0万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1iS411A7WX"
+      ]
+    },
+    {
+      "job_id": "verify-lizezhipan-2",
+      "file": "music\\lizezhipan-2.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1mx411n7Kb",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "笠泽之畔",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:chunbai",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-08-11",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1mx411n7Kb",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "18.8万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1mx411n7Kb"
+      ]
+    },
+    {
+      "job_id": "verify-longxingdada",
+      "file": "music\\longxingdada.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1u6421M7jB",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "龙行龘龘",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kelejun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2024-02-14",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1u6421M7jB",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "584",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1u6421M7jB"
+      ]
+    },
+    {
+      "job_id": "verify-ludeng",
+      "file": "music\\ludeng.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1gP411e7KM",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "路灯",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yujianliu",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-07-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1gP411e7KM",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3371",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1gP411e7KM"
+      ]
+    },
+    {
+      "job_id": "verify-ludengxuehuaheyanhuo",
+      "file": "music\\ludengxuehuaheyanhuo.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1jD4y1P7yg",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "路灯雪花和烟火",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:linchew",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-02-11",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1jD4y1P7yg",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "916",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1jD4y1P7yg"
+      ]
+    },
+    {
+      "job_id": "verify-luguo",
+      "file": "music\\luguo.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1aJ411r7SY",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "路过",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:shentuxiaop",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-12-14",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1aJ411r7SY",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "9776",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1aJ411r7SY"
+      ]
+    },
+    {
+      "job_id": "verify-luguotianqiao",
+      "file": "music\\luguotianqiao.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1XWFozAEJc",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "17：01路过天桥",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:huashuir",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1XWFozAEJc",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "196",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1XWFozAEJc"
+      ]
+    },
+    {
+      "job_id": "verify-lujiao-luotianyiai",
+      "file": "music\\lujiao-luotianyiai.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV17m4y167Gk",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "鹿角 洛天依AI",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:xinxian",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-04-05",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV17m4y167Gk",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3398",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV17m4y167Gk"
+      ]
+    },
+    {
+      "job_id": "verify-luohuajie",
+      "file": "music\\luohuajie.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1rW41157J8",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "落花劫",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:luojie",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2018-04-22",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1rW41157J8",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3.7万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1rW41157J8"
+      ]
+    },
+    {
+      "job_id": "verify-luohuayu",
+      "file": "music\\luohuayu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1cx41187D4",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "落花雨",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:yinqueshiting",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "member:xing-chen, core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2017-08-25",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1cx41187D4",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.8万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1cx41187D4"
+      ]
+    },
+    {
+      "job_id": "verify-luoshenfu",
+      "file": "music\\luoshenfu.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Ns411k7Yb",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛神赋",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengshouminado",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-08-18",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Ns411k7Yb",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "28.5万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Ns411k7Yb"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyi-luotianyi-xiandinghuaqi",
+      "file": "music\\luotianyi-luotianyi-xiandinghuaqi.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1i64y1X7id",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依 - 洛天依 限定花期",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:songchaoyinyueqihua",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2021-07-17",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1i64y1X7id",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "74.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1i64y1X7id"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyi-rushinishuo",
+      "file": "music\\luotianyi-rushinishuo.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Rs411i7fQ",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依-如是，你说",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:wumingshe",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2016-06-03",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Rs411i7fQ",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "6.2万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Rs411i7fQ"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyi-shangshangang",
+      "file": "music\\luotianyi-shangshangang.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1zJ411479H",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依 - 上山岗",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:ilem",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2019-12-22",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1zJ411479H",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "451.5万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1zJ411479H"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-aipincaihuiying",
+      "file": "music\\luotianyiai-aipincaihuiying.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1m34y1N7KL",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-爱拼才会赢",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, member:yue-zheng-ling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-09-11",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1m34y1N7KL",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "0.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1m34y1N7KL"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-chumengzuihoudewomenzuichudemeng",
+      "file": "music\\luotianyiai-chumengzuihoudewomenzuichudemeng.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Ca411Z7Cb",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-初梦·最后的我们最初的梦",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-08-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Ca411Z7Cb",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.5万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Ca411Z7Cb"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-lizezhipannalanqingjingtiaojiao",
+      "file": "music\\luotianyiai-lizezhipannalanqingjingtiaojiao.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Tu4y1A7VA",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-笠泽之畔（纳兰清婧调教）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-09-30",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Tu4y1A7VA",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.2万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Tu4y1A7VA"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-lizezhipannalansilingtiaojiao",
+      "file": "music\\luotianyiai-lizezhipannalansilingtiaojiao.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Tu4y1A7VA",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-笠泽之畔（纳兰思绫调教）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-09-30",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Tu4y1A7VA",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.2万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Tu4y1A7VA"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-mengyeyingshortver",
+      "file": "music\\luotianyiai-mengyeyingshortver.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Ns4y1Q7tT",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-梦と叶樱（Short.ver）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-05-09",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Ns4y1Q7tT",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "2.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Ns4y1Q7tT"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-owokeaidezhongshengfeatshian",
+      "file": "music\\luotianyiai-owokeaidezhongshengfeatshian.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1yg411i7f1",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-噢，我可爱的众生（feat.诗岸）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengraoluohuachou",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, core:shian",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-11-08",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1yg411i7f1",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3.7万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1yg411i7f1"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-qilixiang",
+      "file": "music\\luotianyiai-qilixiang.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1ys4y157cw",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 七里香",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-03-01",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1ys4y157cw",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "4.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1ys4y157cw"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-qinaidenabushiaiqing",
+      "file": "music\\luotianyiai-qinaidenabushiaiqing.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV12W4y1u7ej",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 亲爱的那不是爱情",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-12-02",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV12W4y1u7ej",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "5.5万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV12W4y1u7ej"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-qingtian",
+      "file": "music\\luotianyiai-qingtian.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1H84y1z7gs",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 晴天",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-10-16",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1H84y1z7gs",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "7.2万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1H84y1z7gs"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-sanguolian",
+      "file": "music\\luotianyiai-sanguolian.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1NV4y1P7Qj",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 三国恋",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-12-06",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1NV4y1P7Qj",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "4.8万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1NV4y1P7Qj"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-shouxiedecongqian",
+      "file": "music\\luotianyiai-shouxiedecongqian.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1T3411X7rT",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 手写的从前",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-12-26",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1T3411X7rT",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "4.6万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1T3411X7rT"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-susanshuofeatlezhenglingai",
+      "file": "music\\luotianyiai-susanshuofeatlezhenglingai.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Bu4y1D7mS",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - susan说【feat.乐正绫AI】",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, core:yuezhengling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2023-08-28",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Bu4y1D7mS",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.8万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Bu4y1D7mS"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-tazenmehaimeixiangwogaobai",
+      "file": "music\\luotianyiai-tazenmehaimeixiangwogaobai.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1bW4y1j7FK",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-他怎么还没向我告白",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:fengraoluohuachou",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-10-28",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1bW4y1j7FK",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "5775",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1bW4y1j7FK"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-tongguishijiexianfeatlezhenglingv-ace-studio-cover-y",
+      "file": "music\\luotianyiai-tongguishijiexianfeatlezhenglingv-ace-studio-cover-y.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1pU4y1R7jJ",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-同归世界线（feat.乐正绫V3 - ACE Studio Cover 有参无参试验）",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi, core:yuezhengling",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-06-11",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1pU4y1R7jJ",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "8227",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1pU4y1R7jJ"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-turanhaoxiangni",
+      "file": "music\\luotianyiai-turanhaoxiangni.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Q84y1C7oi",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 突然好想你",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-11-27",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Q84y1C7oi",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "4.0万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Q84y1C7oi"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-wodehaianxianmy-coastline",
+      "file": "music\\luotianyiai-wodehaianxianmy-coastline.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Td4y1M7D1",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI-我的海岸线MY COASTLINE",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:qingtianxianyun",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-09-23",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Td4y1M7D1",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "1.4万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Td4y1M7D1"
+      ]
+    },
+    {
+      "job_id": "verify-luotianyiai-xiaoqingge",
+      "file": "music\\luotianyiai-xiaoqingge.md",
+      "method": "bilibili_direct",
+      "bv_number": "BV1Je4y1T7vh",
+      "claims_to_verify": [
+        {
+          "field": "曲名",
+          "value": "洛天依AI - 小情歌",
+          "type": "string"
+        },
+        {
+          "field": "P主",
+          "value": "creator:kamiyadawangzhanghaozhuxiao",
+          "type": "slug"
+        },
+        {
+          "field": "演唱",
+          "value": "core:luo-tian-yi",
+          "type": "slug"
+        },
+        {
+          "field": "发行日期",
+          "value": "2022-12-09",
+          "type": "date"
+        },
+        {
+          "field": "首发平台",
+          "value": "bilibili",
+          "type": "string"
+        },
+        {
+          "field": "引擎",
+          "value": "vocaloid",
+          "type": "string"
+        },
+        {
+          "field": "视频ID",
+          "value": "BV1Je4y1T7vh",
+          "type": "id"
+        },
+        {
+          "field": "播放量",
+          "value": "3.8万",
+          "type": "play_count"
+        }
+      ],
+      "search_queries": [
+        "bilibili video BV1Je4y1T7vh"
+      ]
+    }
+  ],
+  "primary_priority": 1
+}

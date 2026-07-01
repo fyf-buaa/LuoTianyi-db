@@ -13,7 +13,7 @@
 | 风格 | 流行 |
 | 标签 | 合唱, VOCALOID |
 
-### 描述
+### 歌曲背景
 
 《枉清净》是由muhuayuchungufengyinyueshe创作由洛天依、乐正绫演唱的vocaloid风格音乐作品。
 
